@@ -829,14 +829,18 @@ Erfahrungsstufen von Klerikern und Zauberkundigen wieder. In
 Wirklichkeit gibt es hunderte von Zaubersprüchen - alleine in AD&D -
 und im Internet kann man viele weitere Sprüche finden.
 
+: Klerikersprüche des 1. Grades
+
 |   | Klerikersprüche des 1. Grades | Seite                                 |
 |---|-------------------------------|---------------------------------------|
 | 1 | Heilen leichter Wunden*        | \pageref{heilen-leichter-wunden}      |
 | 2 | Wasser und Nahrung reinigen*   | \pageref{wasser-und-nahrung-reinigen} |
 | 3 | Zauberei erkennen             | \pageref{zauberei-erkennen}           |
-| 4 | Böses erkennen*                | \pageref{böses-erkennen}              |
-| 5 | Schutz vor Bösem*              | \pageref{schutz-vor-bösem}            |
+| 4 | Böses erkennen*                | \pageref{buxf6ses-erkennen}              |
+| 5 | Schutz vor Bösem*              | \pageref{schutz-vor-buxf6sem}            |
 | 6 | Licht*                         | \pageref{licht}                       |
+
+: Zauberkundigensprüche des 1. Grades
 
 |   | Zauberkundigensprüche des 1. Grades | Seite                       |
 |---|-------------------------------------|-----------------------------|
@@ -844,10 +848,12 @@ und im Internet kann man viele weitere Sprüche finden.
 | 2 | Magischer Riegel                    | \pageref{magischer-riegel}  |
 | 3 | Zauber lesen                        | \pageref{zauber-lesen}      |
 | 4 | Sprachen lesen                      | \pageref{sprachen-lesen}    |
-| 5 | Schutz vor Bösem*                    | \pageref{schutz-vor-bösem}  |
+| 5 | Schutz vor Bösem*                    | \pageref{schutz-vor-buxf6sem}  |
 | 6 | Licht*                              | \pageref{licht}             |
 | 7 | Person bezaubern                    | \pageref{person-bezaubern}  |
 | 8 | Schlaf                              | \pageref{schlaf}            |
+
+: Zauberkundigensprüche des 2. Grades
 
 |    | Zauberkundigensprüche des 2. Grades | Seite                           |
 |----|-------------------------------------|---------------------------------|
@@ -857,7 +863,7 @@ und im Internet kann man viele weitere Sprüche finden.
 | 4  | Objekt lokalisieren                 | \pageref{objekt-lokalisieren}   |
 | 5  | Unsichtbarkeit                      | \pageref{unsichtbarkeit}        |
 | 6  | Zauberschloss                       | \pageref{zauberschloss}         |
-| 7  | Böses erkennen*                      | \pageref{böses-erkennen}        |
+| 7  | Böses erkennen*                      | \pageref{buxf6ses-erkennen}        |
 | 8  | ESP                                 | \pageref{esp}                   |
 | 9  | Dauerndes Licht*                    | \pageref{dauerndes-licht}       |
 | 10 | Klopfen                         | \pageref{klopfen}           |
@@ -1093,25 +1099,30 @@ Wirkung
 #### Licht*
 
 Stufe
-:    <++>
+:    Kleriker 1, Zauberkundige 1
 
 Sprechzeit
-:    <++>
+:    1 Runde
 
 Reichweite
-:    <++>
+:    120'
 
 Dauer
-:    <++>
+:    12 Runden
 
 Rettungswurf
-:    <++>
+:    Sprüche	
 
 Materialkompenenten
-:    <++>
+:    keine
 
 Wirkung
-:    <++>
+:    Mit diesem Spruch kann magisches Licht von der Helligkeit einer Fackel erzeugt werden.
+Die Lichtquelle ist selbst unbeweglich, kann aber auf einen beweglichen Gegenstand, oder auch
+auf die Augen eines Wesens gewirkt werden. In letzterem Fall wird das Wesen durch den Zauber
+geblendet, sofern ihm ein Rettungswurf misslingt.
+
+     Der Zauber kann umgekehrt gewirkt werden, und erzeugt dann magische Dunkelheit.     
 
 #### Magischer Riegel
 
@@ -1554,7 +1565,7 @@ einen Zuschlag entsprechend der folgenden Liste, wenn das
 Primärattribut deines Charakters den entsprechenden Wert hat.
 
 \index{Modifikator!Prozent}
-
+: Prozent-Modifikatoren
 | Attribut |  %-Modifikator |
 |:--------:|:-------------:|
 | 3        | -15 %         |
@@ -1629,6 +1640,7 @@ Belastungspunkte vergeben. Auf der Bewegungstabelle kann dann die
 unter der gegebenen Belastung noch mögliche Geschwindigkeit 
 nachgesehen werden.
 
+: Belastungspunkte
 | Gegenstände                | Belastungspunkte |
 |----------------------------|:----------------:|
 | Kettenhemd, Schuppenpanzer | +1               |
@@ -1659,6 +1671,7 @@ gerechnet. In der letzten Spalte findet sich die Angabe für die Anzahl
 an Kästchen, die auf einem typischen Spielfeld pro Runde zurück gelegt
 werden kann.
 
+: Belastungsstufen
 -------------------------------------------------------------------------
  Belastungs-    BW (")    BW (m)    Bewegung    Bewegung     5' Kästchen
  Punkte                             pro Phase   pro Runde
@@ -1677,10 +1690,11 @@ werden kann.
 Um es noch einfacher zu machen können auch folgende Belastungsstufen
 benutzt werden:
 
+: Belastungsstufen, vereinfacht
 ------------------------------------------------------------------
  Ausrüstung/Gepäck   BW (m)    Bewegung   Bewegung    5' Kästchen
                               pro Phase   pro Runde
--------------------	-------- ----------- ----------- -------------
+-------------------  -------- ----------- ----------- -------------
 Unbelastet,           36 m     120'        40'            8
 kein Gepäck
  
@@ -1707,7 +1721,7 @@ Kampf
 |-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
 |    NM | -1 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 | 20 |
 |   1-2 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
-|     3 | +1 |  9 | 10 | 11 | 12 | 14 | 15 | 15 | 16 | 17 | 18 | 19 | 20 |
+|     3 | +1 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |   4-5 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 |    6  | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 |    7  | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
@@ -1826,6 +1840,7 @@ Fertigkeiten
 Dieses Fertigkeitssystem ist aus *Lamentations of the Flame Princess*
 übernommen:
 
+: Fertigkeiten
 | Fertigkeit             | Grundwert      |
 |------------------------|----------------|
 | Architektur            | 1 in 6         |
@@ -2088,9 +2103,9 @@ Preislisten
 | Axt, Hand-                         |  1 GM | 1W6     |   3 Pfund |
 | Keule                              |  3 GM | 1W4     |   3 Pfund |
 | Armbrust, schwer                   | 25 GM | -       |   8 Pfund |
-| Schwere Bolzen (10) in einer Kiste |  3 GM | 1W8     |   1 Pfund |
+| Schwere Bolzen (10) |  3 GM | 1W8     |   1 Pfund |
 | Armbrust, leicht                   | 16 GM | -       |   4 Pfund |
-| Leichte Bolzen (10) in einer Kiste |  3 GM | 1W6     |   1 Pfund |
+| Leichte Bolzen (10) |  3 GM | 1W6     |   1 Pfund |
 | Dolch                              |  3 GM | 1W4     |   1 Pfund |
 | Dolch, silbern                     | 30 GM | 1W4     |   1 Pfund |
 | Wurfpfeil                          |  5 SM | 1W4     | 1/2 Pfund |
@@ -2138,6 +2153,8 @@ Preislisten
 | Ungerüstet              |      - | 9  |        - |
 
 ### Sonstige Ausrüstung
+
+: Sonstige Ausrüstung
 
 | Gegenstand                                     |    Preis |    Gewicht |
 |:-----------------------------------------------|---------:|-----------:|
