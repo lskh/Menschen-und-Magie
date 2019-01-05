@@ -988,6 +988,8 @@ erforderlich.
 
 : Klerikersprüche des 1. Grades
 
+: Klerikersprüche des 1. Grades
+
 |   | Klerikersprüche des 1. Grades | Seite                                 |
 |---|-------------------------------|---------------------------------------|
 | 1 | Heilen leichter Wunden*        | \pageref{heilen-leichter-wunden}      |
@@ -1010,6 +1012,24 @@ erforderlich.
 | 7 | Person bezaubern                    | \pageref{person-bezaubern}  |
 | 8 | Schlaf                              | \pageref{schlaf}            |
 
+<<<<<<< HEAD
+=======
+: Zauberkundigensprüche des 2. Grades
+
+|    | Zauberkundigensprüche des 2. Grades | Seite                           |
+|----|-------------------------------------|---------------------------------|
+| 1  | Unsichtbares Entdecken              | \pageref{unsichtbares-erkennen} |
+| 2  | Levitation                          | \pageref{levitation}            |
+| 3  | Halluzination                       | \pageref{halluzination}         |
+| 4  | Objekt lokalisieren                 | \pageref{objekt-lokalisieren}   |
+| 5  | Unsichtbarkeit                      | \pageref{unsichtbarkeit}        |
+| 6  | Zauberschloss                       | \pageref{zauberschloss}         |
+| 7  | Böses erkennen*                      | \pageref{buxf6ses-erkennen}        |
+| 8  | ESP                                 | \pageref{esp}                   |
+| 9  | Dauerndes Licht*                    | \pageref{dauerndes-licht}       |
+| 10 | Klopfen                         | \pageref{klopfen}           |
+
+>>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 
 #### Böses erkennen*
 \index{Böses erkennen}
@@ -1081,6 +1101,7 @@ Dauer
 Rettungswurf
 :    Sprüche
 
+<<<<<<< HEAD
 Wirkung
 :    Mit diesem Spruch kann magisches Licht von der Helligkeit
      einer Fackel erzeugt werden.  Die Lichtquelle ist selbst
@@ -1090,6 +1111,50 @@ Wirkung
      Rettungswurf misslingt.
      Der Zauber kann umgekehrt gewirkt werden, und erzeugt dann 
      magische Dunkelheit.     
+=======
+Materialkompenenten
+:    Ein dünner Lederriemen oder ein Stück Golddraht müssen in Form
+     einer Schüssel mit Henkeln auf beiden Seiten gehalten werden.
+
+Wirkung
+:    Dieser Spruch lässt den Zauberkundigen selbst oder eine andere
+     Person bis zu einem Gewicht von 100 Pfund pro Stufe mit
+     einer Geschwindigkeit von bis zu 20' pro Runde senkrecht in die
+     Höhe steigen. Seitliche Bewegungen sind nur möglich, wenn es dem
+     Schwebenden gelingt, sich zum Beispiel an der Decke oder einem
+     Mauervorsprung abzustoßen. Die Spruchwirkung kann innerhalb der
+     Wirkdauer durch den Zauberkundigen beendet werden. Einer Person
+     die nicht mit dem Spruch einverstanden ist, steht ein
+     Rettungswurf gegen Sprüche zu.
+
+#### Licht*
+
+Stufe
+:    Kleriker 1, Zauberkundige 1
+
+Sprechzeit
+:    1 Runde
+
+Reichweite
+:    120'
+
+Dauer
+:    12 Runden
+
+Rettungswurf
+:    Sprüche	
+
+Materialkompenenten
+:    keine
+
+Wirkung
+:    Mit diesem Spruch kann magisches Licht von der Helligkeit einer Fackel erzeugt werden.
+Die Lichtquelle ist selbst unbeweglich, kann aber auf einen beweglichen Gegenstand, oder auch
+auf die Augen eines Wesens gewirkt werden. In letzterem Fall wird das Wesen durch den Zauber
+geblendet, sofern ihm ein Rettungswurf misslingt.
+
+     Der Zauber kann umgekehrt gewirkt werden, und erzeugt dann magische Dunkelheit.     
+>>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 
 #### Magischer Riegel
 \index{Magischer Riegel}
@@ -1444,8 +1509,13 @@ Bonus bei der Berechung von Erfahrungspunkten einbringt. Du erhälst
 einen Zuschlag entsprechend der folgenden Liste, wenn das
 Primärattribut deines Charakters den entsprechenden Wert hat.
 
+<<<<<<< HEAD
 : Prozent-Modifikatoren
 
+=======
+\index{Modifikator!Prozent}
+: Prozent-Modifikatoren
+>>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 | Attribut |  %-Modifikator |
 |:--------:|:-------------:|
 | 3        | -15 %         |
@@ -1524,7 +1594,10 @@ unter der gegebenen Belastung noch mögliche Geschwindigkeit
 nachgesehen werden.
 
 : Belastungspunkte
+<<<<<<< HEAD
 
+=======
+>>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 | Gegenstände                | Belastungspunkte |
 |----------------------------|:----------------:|
 | Kettenhemd, Schuppenpanzer | +1               |
@@ -1556,7 +1629,10 @@ an Kästchen, die auf einem typischen Spielfeld pro Runde zurück gelegt
 werden kann.
 
 : Belastungsstufen
+<<<<<<< HEAD
 
+=======
+>>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 -------------------------------------------------------------------------
  Belastungs-    BW (")    BW (m)    Bewegung    Bewegung     5' Kästchen
  Punkte                             pro Phase   pro Runde
@@ -1576,7 +1652,10 @@ Um es noch einfacher zu machen können auch folgende Belastungsstufen
 benutzt werden:
 
 : Belastungsstufen, vereinfacht
+<<<<<<< HEAD
 
+=======
+>>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 ------------------------------------------------------------------
  Ausrüstung/Gepäck   BW (m)    Bewegung   Bewegung    5' Kästchen
                               pro Phase   pro Runde
@@ -1732,15 +1811,47 @@ Rüstungsklasse mindestens erreichen musst:
 
 : Angriffstabelle für Stufe 1 Charaktere
 
+<<<<<<< HEAD
 RK       |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 |
 ---------|----|----|----|----|----|----|----|----|----|----|----|  
 1W20     | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |  
+=======
+| Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
+|-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
+|    NM | -1 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 | 20 |
+|   1-2 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
+|     3 | +1 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|   4-5 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+|    6  | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+|    7  | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+|    8  | +5 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|    9  | +6 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 10-11 | +5 |  3 | 4  | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 
+|    12 | +6 | 2  | 3  |  4 |  5 |  6 |  7 |  8 | 9  | 10 | 11 | 12 | 13 | 
+| 13-14 | +7 |  1 |  2 |  3 |  4 | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 |
+|    15 | +8 | 1  |  1 |  2 |  3 | 4  |  5 |  6 |  7 |  8 |  9 | 10 | 11 |
+|    16 | +9 | 1  |  1 |  1 |  2 | 3  |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 
+| 17-18 | +10 | 1 |  1 | 1  | 1  | 2  | 3  |  4 |  5 |  6 |  7 |  8 |  9 |
+| 19-20 | +11 | 1 |  1 | 1  | 1  | 1  | 2  | 3  |  4 |  5 |  6 |  7 |  8 |
+
+>>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 
 \index{Angriffstabelle}
 
+<<<<<<< HEAD
 Das ist die Treffertabelle für normale Stufe 1 Charaktere. Solltest Du
 aber zum Beispiel ein Kämpfer mit einem Stärkemodifikator von +1 sein,
 dann solltest Du die Tabelle anpassen:
+=======
+| Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
+|-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
+|   1-3 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
+|   4-6 | +1 |  9 | 10 | 11 | 12 | 14 | 15 | 15 | 16 | 17 | 18 | 19 | 20 |
+|   7-9 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 10-12 | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 13-15 | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 16-18 | +5 |  5 | 6  | 7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+>>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 
 : Angriffstabelle, Stufe 1 mit Angriffsbonus +1
 
@@ -1853,6 +1964,47 @@ Tag vollständige Ruhe einhalten. Nach 3 Wochen Krankenlager sind sie
 so oder so wieder vollständig geheilt.
 
 
+<<<<<<< HEAD
+=======
+
+### Stunt Dice
+
+https://www.reddit.com/r/FATErpg/comments/69grx8/does_fate_mandate_mechanics/dh6jt3v
+
+http://www.necropraxis.com/2011/11/11/the-big-purple-d30-rule/
+
+
+Fertigkeiten
+------------
+
+Dieses Fertigkeitssystem ist aus *Lamentations of the Flame Princess*
+übernommen:
+
+: Fertigkeiten
+| Fertigkeit             | Grundwert      |
+|------------------------|----------------|
+| Architektur            | 1 in 6         |
+| Wildnisleben           | 1 in 6         |
+| Klettern               | 1 in 6         |
+| Sprachen               | 1 in 6         |
+| Suchen                 | 1 in 6         |
+| Taschendiebstahl       | 1 in 6         |
+| Hinterhältiger Angriff | kein Grundwert |
+| Heimlichkeit           | 1 in 6         |
+| Frickeln               | 1 in 6         |
+
+Die Grundwerte gelten für alle Charakterklassen. Spezialisten
+(traditionell Diebe genannt) können ihre Fertigkeitspunkte in eine
+Steigerung der Grundwerte investieren.
+
+Eine Probe gilt als gelungen, wenn auf einem W6 der jeweilige 
+Fertigkeitswert oder weniger gewürfelt wird. Sollte ein Charakter
+eine Fertigkeit von 6 in 6 haben, muss die Probe mit zwei Würfeln
+gewürfelt werden. Sie scheitert, wenn auf beiden Würfeln eine 6
+erscheint.
+
+
+>>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 Erfahrungspunkte und Stufen
 ---------------------------
 
@@ -2215,6 +2367,8 @@ Preislisten
 
 : Sonstige Ausrüstung
 \index{Ausrüstung!sonstige}
+
+: Sonstige Ausrüstung
 
 | Gegenstand                                     |    Preis |    Gewicht |
 |:-----------------------------------------------|---------:|-----------:|
