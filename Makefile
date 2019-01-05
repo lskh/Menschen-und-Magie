@@ -30,7 +30,7 @@ clean:
 	rm -f tmp*.* 
 
 realclean: clean
-	rm -f *~ *.pdf
+	rm -f *.log *~ 
 
-archive: clean
-	zip -rv ../MnM.zip .
+archive: realclean
+	zip -rv  ../MnM.zip . -x \.git/

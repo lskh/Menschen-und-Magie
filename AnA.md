@@ -272,6 +272,28 @@ grenzwertig, mäßiges Risiko     sagt "ja, aber" und führt ohne
 hohes Risiko                    fordert einen Rettungswurf
 ------------------------------------------------------------------------------
 
+### Angriffsbonus und ThacO
+
+ThacO \index{ThacO} ist ein Akronym für ``to hit armor class zero''. 
+ThacO bezieht sich
+auf die absteigende Rüstungsklasse und kann benutzt werden, um den
+erforderlichen Wurf für einen Treffer zu berechnen:
+
+Trefferwurf = ThacO - RK
+
+Entsprechend trifft ein Kämpfer mit ThacO 19 einen Kontrahenten in
+Kettenhemd, also mit Rüstungsklasse 5 auf einen Wurf von 14.
+
+Der Angriffsbonus (AB) oder Grundangriffsbonus (GAB) ist das
+Gegenstück der ThacO für aufsteigende Rüstungsklassen.
+
+Trefferwurf = RK - AB
+
+Um mit den klassischen TSR Editionen, aber auch Swords &
+Wizardry, der 5. Edition, so weit wie möglich kompatibel zu sein,
+entspricht ein AB von 0 einer Thac0 von 19, und wie o.g.
+entspricht die absteigende Rüstungsklasse 9 der aufsteigenden
+Rüstungsklasse 10.
 
 [Eine Spielphase (10 min.)]{.c5} {#h.rma1574s54n5 .c4}
 -------------------------------------------------

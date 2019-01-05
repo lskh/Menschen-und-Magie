@@ -349,11 +349,11 @@ Stärke \index{Stärke}
 	  
 Intelligenz \index{Intelligenz}
 :    stellt quasi das Buchwissen eines Charakters
-     dar. Der Intelligenzmodifikator wird angewandt auf:
+     dar. Der Intelligenzmodifikator wird angewendet als:
 	 
-	  - Anzahl der Sprachen \index{Sprachen}, die ein Charakter 
-	    sprechen kann.
-	  
+	  - Modifikator für die Fertigkeit
+	    *Sprachen*\index{Sprachen}
+
 Weisheit \index{Weisheit}
 :    stellt die Intuition, den Instinkt eines Charakters
      dar. Der Weisheitsmodifikator hilft bei:
@@ -495,13 +495,16 @@ Trefferpunkte
 :    1W10[^6], mindesten 6 
 
 Klassenfähigkeiten
-:    keine
+:    Parrieren: Kämpfer können sich im Kampf defensiv verhalten, so 
+     dass sich ihr Geschicklichkeitsmodifikator als Malus auf den 
+     Angriffswurf des Gegners auswirkt.
 
 Klassenbeschränkungen
 :    keine
 
 Rettungswürfe
-:    Gift: 12, Stäbe: 13, Lähmung: 14, Odem: 15, Sprüche: 16
+:    Gift: 12, Stäbe: 13, Lähmung: 14, Odem: 15,\newline
+     Sprüche: 16
 
 [^6]: in der Ursprünglichen Version des Spiels hatte der Kämpfer 1W6+1
     Trefferpunkte. In *Basic* wurde ein W8 für den Kämpfer
@@ -552,7 +555,8 @@ Klassenbeschränkungen
 :    Kleriker dürfen nur stumpfe Waffen benutzen.
 
 Rettungswürfe
-:    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16, Sprüche 15
+:    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16,\newline
+     Sprüche 15
 
 
 [^7]: In Original von 1974 und auch im späteren *Basic*
@@ -609,7 +613,8 @@ Klassenbeschränkungen
      keine Schilde tragen.
 
 Rettungswürfe
-:    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16, Sprüche 15
+:    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16,\newline
+     Sprüche 15
 
 ### Diebe
 
@@ -654,34 +659,6 @@ Rettungswürfe
     mir logischer und wesentlich einfacher.
 
 
-### Andere Klassen
-
-Spieler dürfen *jedes* OSR-kompatible Spielerhandbuch benutzen, um
-sich daraus Charakterklassen \index{Klassen} und Sprüche
-auszusuchen. 
-
-Für andere häufiger anzutreffende Klassen
-gelten allerdings folgende Einschränkungen:
-
-: Andere Klassen 
-
-------------------------------------------------------------
-Klasse       Mindestwerte             Trefferwürfel                 
------------- ------------------------ ----------------------
-Assassine    ST 12, GE 12,            W6                            
-             IN 12
-
-Druide       WE 12, CH 14             W6                            
-
-Mönch        ST 12, GE 15,            W4 (beginnend mit 2W4)     
-             WE 15
-
-Paladin      CH 17                    W10                           
-
-Waldläufer   KO 15, IN 12,            W8 (beginnend mit 2W8)  
-             WE 12 
-------------------------------------------------------------
-
 Völker
 ------
 
@@ -718,9 +695,10 @@ Klassen
 
 Vorteile
 :    Trefferwurf +1 mit Schwertern und Bögen, Infravision,
-     Geheimtüren entdecken 2/6 (im Vorbeigehen immer noch
+     Geheimtüren entdecken/Fertigkeit *Suchen* 2/6 (im Vorbeigehen 
+     immer noch
      1/6), Immunität gegen magische Lähmung, Elfen sprechen neben der
-     Gemeinsprache auch Elfisch, Gnollisch, Hobgoblinsch und Orkisch.
+     Gemeinsprache auch Elfisch und Orkisch.
      Rettungswürfe gegen Versteinerung und Lähmung +2.
  
 Nachteile
@@ -741,9 +719,9 @@ Vorteile
      gegen
      Kreaturen die größer als Menschen sind, Initiative +1 (falls die
      Initiative individuell ausgewürfelt wird), Verstecken in der Natur
-     9/10, Verstecken im Dungeon 3/10. Halblinge sprechen die
-     Gemeinsprache und natürlich die Halblingsprache.
-     Rettungswürfe gegen Gift und Todesstrahlen +2.
+     9/10, Verstecken im Dungeon 3/10. Fertigkeit *Wildnisleben*
+     3/6\index{Wildnisleben}. Rettungswürfe gegen Gift und
+     Todesstrahlen +2.
 
 Nachteile
 :    Halblinge benutzen maximal einen W6 als Trefferwürfel, sie können
@@ -760,10 +738,10 @@ Klassen
 :    Kämpfer bis Stufe 9, Kleriker bis Stufe 8, Dieb unbegrenzt.
 
 Vorteile
-:    Infravision, Architektur 2 in 6 (damit ist das entdecken von
-     Veränderungen im Mauerwerk, dass wahrnehmen von Gefällen und
+:    Infravision, *Architektur* 3 in 6 (damit ist das entdecken von
+     Veränderungen im Mauerwerk, das Wahrnehmen von Gefällen und
      ähnliches gemeint). Zwerge sprechen neben der Gemeinsprache auch
-     Zwergisch, Gnomisch, Goblinsch und Koboldisch.
+     Zwergisch, Goblinsch und Gnomisch.
      Rettungswürfe gegen Zaubersprüche +2.
 	 
 Nachteile
@@ -827,24 +805,13 @@ Sprachen
 Es wird angenommen, dass die meisten Menschen und Halbmenschen (also
 Zwerge, Halblinge und Elfen) die sogenannte
 "Gemeinsprache"\index{Sprache!Gemein-}
-sprechen. Sich also ohne Schwierigkeiten unterhalten können. Viele
+sprechen - sich also ohne Schwierigkeiten unterhalten können.
+Elfen und Zwerg sprechen darünber hinaus die Sprache ihrer
+Völker. Viele
 Monster haben aber ihre eigenen Sprachen, und sprechen unter Umständen
 die Gemeinsprache nicht, was die Verhandlungen erschweren kann.
 
-Folgende Sprachen gelten in der Spielwelt als bekannt, und Charaktere
-mit einem Bonus für besonders hohe Intelligenz können sich aus der
-folgenden Liste zusätzliche Sprachen aussuchen.
-
- 1. Elfisch, 
- 2. Zwergisch, 
- 3. Halblingsprache, 
- 4. Goblinsch, 
- 5. Orkisch, 
- 6. Drachensprache
- 7. Ogerisch (die Sprache der Oger und Riesen)
- 8. Koboldisch
-
-Neben den genannten Sprachen, gibt es auch für jede Gesinnung
+Daneben gibt es auch für jede Gesinnung
 eine sogenannte Gesinnungssprache\index{Sprache!Gesinnungs-}.
 Diese sollte man sich aber wohl eher wie eine Art Geheimsprache
 vorstellen, die aus besonderen Handzeichen oder Gesten besteht,
@@ -1044,7 +1011,8 @@ erforderlich.
 | 8 | Schlaf                              | \pageref{schlaf}            |
 
 
-### Böses erkennen*
+#### Böses erkennen*
+\index{Böses erkennen}
 
 Zaubergrad
 :    Kleriker 1, Zauberkundiger 2
@@ -1067,7 +1035,9 @@ Wirkung
      gefährlich, haben aber keine böse Ausstrahlung, es sei denn sie
      wären mit einem entsprechenden Zauber belegt. 
 
-### Heilen leichter Wunden*
+#### Heilen leichter Wunden*
+\index{Heilen leichter Wunden*}
+
 
 Stufe
 :    Kleriker 1
@@ -1092,7 +1062,9 @@ Wirkung
      seine Gottheit unter Umständen nicht damit einverstanden sein,
      dass er seine Macht nutzt um Schaden zu verursachen.
 
-### Licht*
+#### Licht*
+\index{Licht*}
+
 
 Stufe
 :    Kleriker 1, Zauberkundige 1
@@ -1119,7 +1091,9 @@ Wirkung
      Der Zauber kann umgekehrt gewirkt werden, und erzeugt dann 
      magische Dunkelheit.     
 
-### Magischer Riegel
+#### Magischer Riegel
+\index{Magischer Riegel}
+
 
 Auch bekannt als *Hält Türen* \index{Hält Türen}\index{Magischer Riegel}.
 
@@ -1141,7 +1115,9 @@ Wirkdauer magisch verschlossen. Sie können immer noch mit roher
 Gewalt eingerannt werden. Ein *Klopfen* Spruch oder *Magie
 zerstören* beendet die Spruchwirkung.
 
-### Person bezaubern
+#### Person bezaubern
+\index{Person bezaubern}
+
 
 Stufe
 :    Zauberkundige 1
@@ -1167,7 +1143,9 @@ Spruchwirkers nachzukommen, sie wird sich aber nicht kopflos in
 den Untergang stürzen. 
 
 
-### Schlaf
+#### Schlaf
+\index{Schlaf}
+
 
 Stufe
 :    Zauberkundige 1
@@ -1191,7 +1169,9 @@ Tritte können sie geweckt werden. So lange sie schlafen, kann
 ihnen aber automatisch, d.h. ohne Trefferwurf Schaden zugefügt
 werden. 
 
-### Schutz vor Bösem
+#### Schutz vor Bösem
+\index{Schutz vor Bösem}
+
 
 Umkehrbar zu *Schuzt vor Gutem*
 
@@ -1216,7 +1196,9 @@ magische Hülle, die den Empfänger umgibt werden verzauberte,
 beschworene oder herbeigerufene Wesen daran gehindert den
 Empfänger auch nur zu berühren.
 
-### Sprachen lesen
+#### Sprachen lesen
+\index{Sprachen lesen}
+
 
 Stufe
 :    Zauberkundige 1
@@ -1235,7 +1217,9 @@ Wirkung
 und Sprachen zu entziffern. Der Spruch erlaubt nicht das
 automatische Lösen von Rätseln!
 
-### Wasser und Nahrung reinigen
+#### Wasser und Nahrung reinigen
+\index{Wasser und Nahrung reinigen}
+
 
 Stufe
 :    Kleriker 1
@@ -1251,7 +1235,9 @@ Wirkung
 zuvor verschmutzt, vergiftet oder auf andere Art kontaminiert
 wurden.
 
-### Zauberei erkennen
+#### Zauberei erkennen
+\index{Zauberei erkennen}
+
 
 Stufe
 :    Zauberkundige 1, Kleriker 1
@@ -1273,7 +1259,9 @@ Ausstrahlungen erkannt. Der Spruch wird durch dicke Steinwände,
 Metall von mehr als 2 cm, und Holz von mehr als 90 cm Dicke
 blockiert.
 
-### Zauber lesen
+#### Zauber lesen
+\index{Zauber lesen}
+
 
 Stufe
 :    Zauberkundige 1
@@ -1347,7 +1335,7 @@ ein entsprechendes Geschäft aufgesucht wurde!
 | zusammen         |  8 GM |
 
 Das Basispaket schlägt gewichtsmäßig mit **einem Belastungspunkt** zu
-Buche. Mehr dazu später unter [Belastung], Seite \pageref[belastung].
+Buche. Mehr dazu später unter [Belastung], Seite \pageref{belastung}.
 
 : Kämpfer Basispaket
 
@@ -1491,6 +1479,7 @@ werden, zum Beispiel in dem der Spielleiter sagt: "Eure zweitägige
 Reise verläuft ohne besondere Zwischenfälle". 
 
 ### Spielphasen
+
 \index{Phase}
 
 In bestimmten
@@ -1607,8 +1596,443 @@ Plattenrüstung         9 m     30'         10'            2
 und Gepäck
 ------------------------------------------------------------------ 
 
+
+Fertigkeiten
+------------
+
+Dieses Fertigkeitssystem ist aus *Lamentations of the Flame Princess*
+entlehnt:
+
+: Fertigkeiten
+
+| Fertigkeit             | Grundwert      |
+|------------------------|----------------|
+| Architektur            | 1 in 6         |
+| Wildnisleben           | 1 in 6         |
+| Klettern               | 1 in 6         |
+| Sprachen               | 1 in 6         |
+| Suchen                 | 1 in 6         |
+| Taschendiebstahl       | 1 in 6         |
+| Heimlichkeit           | 1 in 6         |
+| Tüfteln                | 1 in 6         |
+
+Die Grundwerte gelten für alle Charakterklassen. Diebe
+können ihre zusätzlichen Fertigkeitspunkte in eine
+Steigerung der Grundwerte investieren.
+
+Eine Probe gilt als gelungen, wenn auf einem W6 der jeweilige 
+Fertigkeitswert oder weniger gewürfelt wird. Sollte ein Charakter
+eine Fertigkeit von 6 in 6 haben, muss die Probe mit zwei Würfeln
+gewürfelt werden. Sie scheitert nur dann, wenn auf beiden Würfeln 
+eine 6 erscheint.
+
+### Architektur
+\index{Architektur}
+
+Mit dieser Fertigkeit können besondere Eigenschaften von Gebäuden erkannt werden, z.B. minimale Gefälle von Gängen, neue Einbauten, Hinweise auf Schiebetüren oder Fallen. Eine Eigenschaft die Traditionell in besonderem Maße den Zwergen zugeschrieben wird.
+
+### Wildnisleben
+\index{Wildnisleben}
+
+Wenn in der Wildnis nach Wasser und Nahrung gesucht werden muss,
+kann eine Probe auf diese Fertigkeit gewürfelt werden.  Günstige Bedingungen können Boni ergeben wie z.B. Jagen im Wald
+oder im Dschungel +2, auf offenen Ebenen +1. Andererseits könnte es zum
+Beispiel in der Wüste schwierig werden, also -1. Um in einer Wüste
+Wasser zu finden ist ein Wildnisleben-Wurf auf einem W12, anstelle eines
+W6 erforderlich.
+
+### Klettern
+\index{Klettern}
+
+Alle Abenteurer können klettern. Hiermit ist eher so etwas die
+*Freeclimbing* gemeine. Diese Fertigkeit dient dazu, 
+mit entsprechender Ausrüstung
+völlig glatte Wände hoch zu klettern. Charaktere dürfen höchstens 2
+Belastungspunkte haben um diese Fertigkeit erfolgreich anwenden
+zu können. Um mit zwei freien Händen eine Leiter hoch zu klettern
+ist natürlich kein Wurf erforderlich.
+
+### Sprachen
+\index{Sprachen}
+
+Charaktere sprechen zu Beginn die sogenannte Gemeinsprache, 
+ggf. die Sprache ihres Volkes, und manchmal auch zusätzliche
+Sprachen wie es bei Zwergen und Elfen der Fall ist.
+
+Kommt ein Charakter später im Spiel mit einer bestimmten Sprache
+in Berührung, wird mit dieser Fertigkeit einmalig festgestellt, ob
+er die fragliche Sprache versteht und spricht.
+
+Auf diesen Wurf werden der Intelligenzmodifikator und ein
+Modifikator für die Schwierigkeit der Sprache angewendet:
+ähnliche Sprachen (z.B. Gnomisch für einen Zwerg, Französisch 
+für einen Spanier) -1, exotische Sprachen -2, mystische Sprachen 
+wie zum Beispiel die Drachensprache, oder die Sprache eines lange
+ausgestorbenen Volkes -3. 
+
+Magische Sprachen können nur mit entsprechenden magischen
+Fähigkeiten verstanden werden.
+
+### Suchen
+\index{Suchen}
+
+Selbsterklärend, diese Fertigkeit dient dazu verborgene Dinge zu
+entdecken. Allerdings, dass sei an dieser Stelle noch einmal
+gesagt, ist der Würfelwurf nur der Backup-Mechanismus für gutes
+Rollenspiel. Ein
+Spieler sollte immer genau beschreiben wonach, wo und wie er
+etwas sucht, dann ist wahrscheinlich kein Würfelwurf
+erforderlich, und das Spiel erfolgreicher.
+
+### Taschendiebstahl
+\index{Taschendiebstahl}
+
+Auch diese Fertigkeit ist Selbsterklärend. Es gilt prinzipiell
+das gleiche wie fürs *Suchen*.
+
+### Heimlichkeit
+\index{Heimlichkeit}
+
+Mit dieser Fertigkeit kann ein Charakter sich verstecken und
+umher schleichen. Ein Erfolgreicher Wurf in Heimlichkeit ist
+meistens die Voraussetzung für den *Hinterhältigen Angriff* des
+Diebes.
+
+### Tüfteln
+\index{Tüfteln}
+
+Diese Fertigkeit kann für alles Mögliche zum Einsatz kommen,
+dient aber vor allem dazu Schlösser zu knacken, diffizile Fallen
+zu entschärfen, oder selbst mechanische Fallen herzustellen.
+
+Achtung: Fallen können nur entschärft werden, wenn sie durch
+gutes Rollenspiel oder einen glücklichen *Suchen* Wurf vorher
+gefunden wurden.
+
+### Fertigkeiten verbessern
+\index{Fertigkeiten!verbessern}
+
+Alle vier Stufen, also bei Aufstieg zur 4., 8., 12. Stufe usw.
+erhalten alle Charaktere einen zusätzlichen Fertigkeitspunkt. 
+
+Und wenn das Rollenspiel episch war und die Gestirne günstig stehen,
+wird es vielleicht auch mal außer der Reihe einen Fertigkeitspunkt 
+extra geben. 
+
+
 Kampf
 -----
+
+Um einen Angriff auszuführen wird mit einem zwanzigseitigen Würfel
+gegen eine bestimmte Rüstungsklasse gewürfelt. Mit dem
+Trefferwurf muss ein bestimmter Wert erreicht oder überschritten
+werden. Trage Dir folgende Tabelle auf deinem Charakterbogen ein,
+um zu sehen, welche Zahl Du zum Treffen einer bestimmten
+Rüstungsklasse mindestens erreichen musst:
+
+: Angriffstabelle für Stufe 1 Charaktere
+
+RK       |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 |
+---------|----|----|----|----|----|----|----|----|----|----|----|  
+1W20     | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |  
+
+\index{Angriffstabelle}
+
+Das ist die Treffertabelle für normale Stufe 1 Charaktere. Solltest Du
+aber zum Beispiel ein Kämpfer mit einem Stärkemodifikator von +1 sein,
+dann solltest Du die Tabelle anpassen:
+
+: Angriffstabelle, Stufe 1 mit Angriffsbonus +1
+
+RK       |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 |
+---------|----|----|----|----|----|----|----|----|----|----|----|  
+1W20     |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |  
+
+denn Dein Angriffswurf ist ja immer um 1 besser.
+
+Wenn Du sowohl Nahkampf- als auch Fernkampfwaffen benutzt, und gute
+Modifikatoren hast, kannst Du dir z.B. eine zusätzliche Tabelle für 
+Fernkampf einrichten. 
+
+Hier zum Beispiel die Fernkampftabelle von *Bo dem Halbling* mit 
+Geschicklichkeit 14, Bo hat also einen Fernkampfbonus von +2 
+(+1 weil er ein Halbling ist, und nochmal +1 wegen der guten 
+Geschicklichkeit):
+
+: Angriffstabelle, Stufe 1 mit Angriffsbonus +2
+
+RK       |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 |
+---------|----|----|----|----|----|----|----|----|----|----|----|  
+1W20     |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |  
+
+Mit Bo ist also nicht zu spaßen - ganz wie *Gary Gygax* geschrieben 
+hat: *"Halflings [...] have deadly accuracy with missiles ..."*
+
+
+### Kampfmanöver
+
+Angriff von hinten
+:    Ein Angriff von hinten hat einen Trefferbonus von +2, und negiert
+     einen eventuellen Rüstungsbonus durch ein Schild. Greift ein Dieb
+     von hinten an, erhält er einen Angriffsbonus von +4.
+
+Stürmen
+:    Charaktere können sich entscheiden in einen Kampf zu stürmen. 
+     Durch diese Entscheidung gewinnen sie automatisch die Initiative
+     und sie verursachen bei erfolgreichen Trefferwürfen **doppelten 
+     Schaden**. 
+
+     Die Sache hat aber auch einen Haken: 
+     Sollten die Gegner *längere* Waffen benutzen als die der heranstürmenden
+     Helden - z.B. Lanzen gegen Schwerter - dann dürfen die Gegner 
+     zuerst ihre Trefferwürfel ausführen, obwohl sie eigentlich nicht 
+     die Initiative haben. 
+
+     Das gilt natürlich auch anders herum: mit "aufgesetzten" Speeren und 
+     Lanzen, kann man sich gegen einen Sturmangriff verteidigen.
+     
+     Außerdem muss die stürmende Partei für die Kampfrunde in der 
+     gestürmt wird  
+     einen Abzug von +2 auf ihre Rüstungsklasse in Kauf nehmen.
+
+Rückzugsgefecht
+:    Ein Charakter kann sich mit halber Geschwindigkeit rückwärts
+     bewegen und dabei weiter kämpfen. Falls sein Gegner ihn dabei
+     nicht verfolgt, oder der Gegner zum Beispiel durch einen
+     Verbündeten an einer Verfolgung gehindert wird, kann sich der
+     Charakter so relativ risikoarm aus einem Gefecht zurück ziehen.
+
+     Das Rückzugsgefecht bietet also die Möglichkeit zu einer kooperativen 
+     Strategie.
+
+Rückzug
+:    Entscheidet sich ein Charakter aus dem Kampf zu fliehen, kann er
+     dies mit voller Geschwindigkeit tun, muss aber einen
+     Gelegenheitsangriff mit +2 durch seinen Gegner riskieren.
+	 
+Flucht 
+:    Ein Charakter kann im Kampf mit bis zu dreifacher
+     Kampfgeschwindigkeit (also 90' pro Runde bei BW 9") flüchten, und
+     bekommt grundsätzlich eine Runde Vorsprung, bevor seine
+     Kontrahenten gegebenenfalls die Verfolgung aufnehmen.
+
+Deckung
+:    Entsprechende Bedingungen vorausgesetzt, kann ein Charakter der 
+     nicht gerade in einem Schwertkampf oder Handgemenge involviert ist, 
+     in Deckung gehen. Er kann dabei immer noch Fernkampfangriffe ausführen,
+     und kann durch seine Gegner nur mit einem Abzug von -2 getroffen werden.
+
+
+### Reichweite im Fernkampf
+\index{Reichweite!Fernkampf}
+
+TODO
+
+### Trefferpunkte 
+
+Charaktere beginnen auf Stufe 1 mit der maximal möglichen Zahl an
+Trefferpunkten, zuzüglich eventueller Konstitutions-Boni. Also Kämpfer
+und Zwerge mit 8, Elfen und Kleriker mit 6, Zauberkundige und Diebe
+mit 4 Trefferpunkten. Danach werden die Trefferpunkte ausgewürfelt wie
+üblich.
+
+### Verletzung, Bewußtlosigkeit, Tod
+
+Sinken die Trefferpunkte eines Charakters auf unter Null ist
+er bewußtlos. Danach verliert er weiter einen Trefferpunkt pro Runde
+so lange ihm nicht geholfen wird. Sinken die Trefferpunkte auf den
+negativen Betrag, welcher der Stufe des Charakters entspricht, stirbt
+der Charakter. Also ein Stufe 3 Charakter zum Beispiel bei -3
+Trefferpunkten.
+
+
+### Heilungsrate
+
+Charaktere heilen \index{Heilung} 1-3 Trefferpunkte wenn sie für einen
+Tag vollständige Ruhe einhalten. Nach 3 Wochen Krankenlager sind sie
+so oder so wieder vollständig geheilt.
+
+
+Erfahrungspunkte und Stufen
+---------------------------
+
+Alleine für das Überleben einer Session erhält ein *Spielercharakter* 
+500 Erfahrungspunkte. Zusätzlich erhält jeder *Spieler* 200
+Erfahrungspunkte, die an andere
+Spielercharaktere verteilen werden sollen. Zum Beispiel für gutes 
+Rollenspiel.
+
+Für jede Goldmünze, die im Spiel *ausgegeben* wird, erhält ein
+Spielercharkater 
+einen einen XP.
+
+Für *feindseelige Monster* die überwunden werden, erhält ein
+Spielercharakter 100
+Erfahrungspunkte pro Trefferwürfel. 
+*Überwinden* bedeutet in diesem Zusammenhang
+ausgetrickst, im Kampf besiegt, in die Flucht geschlagen, oder
+ähnliches. Ob ein Schnack mit einem Drachen über das Wetter
+Erfahrungspunkte bringt, liegt im Ermessen der Spielleitung.
+
+
+Andere Spielerhandbücher
+========================
+
+Spieler dürfen *jedes* OSR-kompatible Spielerhandbuch benutzen, um
+sich daraus Charakterklassen \index{Klassen} und Sprüche
+auszusuchen. 
+
+ - OD&D "Men & Magic"
+ - Basic D&D Holmes Edition
+ - Basic und Expert D&D Moldvay/Cook
+ - Basic und Expert D&D Mentzer 
+ - AD&D 1. Edition
+ - Swords & Wizardry
+ - Labyrinth Lord
+ - Lamentations of the Flame Princess
+ - Basic Fantasy RPG
+ - OSRIC
+ - White Box: Fantastic Medieval Adventure Game
+
+Für andere häufiger anzutreffende Klassen
+gelten allerdings folgende Einschränkungen:
+
+: Andere Klassen 
+
+------------------------------------------------------------
+Klasse       Mindestwerte             Trefferwürfel                 
+------------ ------------------------ ----------------------
+Assassine    ST 12, GE 12,            W6                            
+             IN 12
+
+Druide       WE 12, CH 14             W6                            
+
+Mönch        ST 12, GE 15,            W4 (beginnend mit 2W4)     
+             WE 15
+
+Paladin      CH 17                    W10                           
+
+Waldläufer   KO 15, IN 12,            W8 (beginnend mit 2W8)  
+             WE 12 
+------------------------------------------------------------
+
+Tabellen
+==============
+\index{Tabellen}
+
+
+## Charakterstufen
+\index{Stufen}
+
+Die folgenden Tabellen zeigen die speziellen Voraussetzungen und
+Eigenschaften der verschiedenen Klassen. "EP" steht für
+Erfahrungspunkte, die für das Erreichen einer bestimmten Stufe
+angesammelt werden müssen. "TP" bezeichnen die Trefferpunkte, und "AB"
+den Angriffsbonus, der auf höheren Stufen erlangt werden kann, und dann
+als zusätzlicher Bonus auf Angriffswürfe angewandt wird.
+
+Die Tabellen der Klassen die Magie anwenden können funden sich auf der
+rechten Seite nummerierte Spalten. Diese zeigen die Anzahl an
+Zaubersprüchen einer bestimmten Stufe an, die ein Charakter *pro Tag*
+wirken kann. Beim Kleriker steht zum Beispiel in der vierten Stufe in
+der Spalte 1 eine 2, und in der Spalte 2 eine 1. Das bedeutet, dass
+ein Kleriker der vierten Stufe an einem Tag jeweils 2 Sprüche
+des 1. Grades und einen Spruch des 2. Grades wirken kann. 
+
+: Kämpfer Stufen
+
+| Stufe |             EP | TP          | AB |
+|:-----:|---------------:|:-----------:|:--:|
+| 1     |              0 | 1W10        | 0  |
+| 2     |          2.000 | +1W10       | 0  |
+| 3     |          4.000 | +1W10       | 0  |
+| 4     |          8.000 | +1W10       | +1 |
+| 5     |         16.000 | +1W10       | +1 |
+| 6     |         32.000 | +1W10       | +1 |
+| 7     |         64.000 | +1W10       | +2 |
+| 8     |        128.000 | +1W10       | +2 |
+| 9     |        256.000 | +1W10       | +2 |
+| 10    |        350.000 | +1W10       | +3 |
+| 11+   | +100.000/Stufe | +2 TP/Stufe | +3 |
+
+\index{Kämpfer!Stufen}
+
+: Kleriker Stufen
+
+| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|---|
+| 1     |           0 | 1W8   | 0  | - | - | - | - | - | - | - |
+| 2     |       1.500 | +1W8  | 0  | 1 | - | - | - | - | - | - |
+| 3     |       3.000 | +1W8  | 0  | 2 | - | - | - | - | - | - |
+| 4     |       6.000 | +1W8  | 0  | 2 | 1 | - | - | - | - | - |
+| 5     |      1.2000 | +1W8  | +1 | 2 | 2 | - | - | - | - | - |
+| 6     |      24.000 | +1W8  | +1 | 2 | 2 | 1 | 1 | - | - | - |
+| 7     |      48.000 | +1W8  | +1 | 2 | 2 | 2 | 1 | 1 | - | - |
+| 8     |     100.000 | +1W8  | +1 | 2 | 2 | 2 | 2 | 2 | - | - |
+| 9     |     170.000 | +1W8  | +2 | 3 | 3 | 3 | 2 | 2 | - | - |
+| 10    |     240.000 | +1    | +2 | 3 | 3 | 3 | 3 | 3 | - | - |
+| 11    |     310.000 | +1    | +2 | 4 | 4 | 4 | 3 | 3 | - | - |
+| 12    |     380.000 | +1    | +2 | 4 | 4 | 4 | 4 | 4 | 1 | - |
+| 13    |     450.000 | +1    | +3 | 5 | 5 | 5 | 4 | 4 | 1 | - |
+| 14    |     520.000 | +1    | +3 | 5 | 5 | 5 | 5 | 5 | 2 | - |
+| 15    |     590.000 | +1    | +3 | 6 | 6 | 6 | 5 | 5 | 2 | - |
+| 16    |     660.000 | +1    | +3 | 6 | 6 | 6 | 6 | 6 | 3 | - |
+| 17    |     730.000 | +1    | +4 | 7 | 7 | 7 | 6 | 6 | 3 | 1 |
+| 18    |     800.000 | +1    | +4 | 7 | 7 | 7 | 7 | 7 | 4 | 1 |
+| 19    |     870.000 | +1    | +4 | 8 | 8 | 8 | 7 | 7 | 4 | 2 |
+| 20    |     940.000 | +1    | +4 | 8 | 8 | 8 | 8 | 8 | 5 | 2 |
+| 21+   |  +70.000/St | +1/St | +5 | 9 | 9 | 9 | 8 | 8 | 5 | 3 |
+
+\index{Kleriker!Stufen}
+
+
+: Zauberkundige Stufen
+\index{Zauberkundige!Stufen}
+
+| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|---|---|---|
+| 1     |           0 | 1W4   | 0  | 1 | - | - | - | - | - | - | - | - |
+| 2     |       2.500 | +1W4  | 0  | 2 | - | - | - | - | - | - | - | - |
+| 3     |       5.000 | +1W4  | 0  | 3 | 1 | - | - | - | - | - | - | - |
+| 4     |      10.000 | +1W4  | 0  | 3 | 2 | - | - | - | - | - | - | - |
+| 5     |      20.000 | +1W4  | 0  | 4 | 2 | 1 | - | - | - | - | - | - |
+| 6     |      35.000 | +1W4  | +1 | 4 | 2 | 2 | - | - | - | - | - | - |
+| 7     |      50.000 | +1W4  | +1 | 4 | 3 | 2 | 1 | - | - | - | - | - |
+| 8     |      75.000 | +1W4  | +1 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9     |     100.000 | +1W4  | +1 | 4 | 3 | 3 | 2 | 1 | - | - | - | - |
+| 10    |     200.000 | +1    | +1 | 4 | 4 | 3 | 2 | 2 | - | - | - | - |
+| 11    |     300.000 | +1    | +2 | 4 | 4 | 4 | 3 | 3 | - | - | - | - |
+| 12    |     400.000 | +1    | +2 | 4 | 4 | 4 | 4 | 4 | 1 | - | - | - |
+| 13    |     500.000 | +1    | +2 | 5 | 5 | 5 | 4 | 4 | 2 | - | - | - |
+| 14    |     600.000 | +1    | +2 | 5 | 5 | 5 | 4 | 4 | 3 | 1 | - | - |
+| 15    |     700.000 | +1    | +2 | 5 | 5 | 5 | 5 | 4 | 4 | 2 | - | - |
+| 16    |     800.000 | +1    | +3 | 5 | 5 | 5 | 5 | 5 | 5 | 1 | 1 | - |
+| 17    |     900.000 | +1    | +3 | 6 | 6 | 6 | 5 | 5 | 5 | 2 | 2 | - |
+| 18    |   1.000.000 | +1    | +3 | 6 | 6 | 6 | 6 | 6 | 5 | 2 | 2 | 1 |
+| 19    |   1.100.000 | +1    | +3 | 7 | 7 | 7 | 6 | 6 | 6 | 3 | 2 | 2 |
+| 20    |   1.200.000 | +1    | +3 | 7 | 7 | 7 | 7 | 7 | 7 | 3 | 3 | 2 |
+| 21+   | +100.000/St | +1/St | +4 | 8 | 8 | 8 | 7 | 7 | 7 | 4 | 3 | 3 |
+
+: Diebe Stufen
+\index{Diebe!Stufen}
+
+| Stufe |            EP | TP       | AB | Fertigkeitspunkte |
+|:-----:|--------------:|:--------:|:--:|:-----------------:|
+| 1     |             0 | 1W6      | +0 | 4                 |
+| 2     |         1.250 | +1W6     | +0 | +2                |
+| 3     |         2.500 | +1W6     | +0 | +1                |
+| 4     |         5.000 | +1W6     | +0 | +1                |
+| 5     |        10.000 | +1W6     | +1 | +1                |
+| 6     |        20.000 | +1W6     | +1 | +1                |
+| 7     |        40.000 | +1W6     | +1 | +1                |
+| 8     |        60.000 | +1W6     | +1 | +1                |
+| 9     |        90.000 | +1W6     | +2 | +1                |
+| 10    |       120.000 | +1W6     | +2 | +1                |
+| 11    |       240.000 | +1W6     | +2 | +1                |
+| 12+   |   +130.000/St | +2/St    | +2 | +1/St             |
+
+
+## Angriffstabellen
 
 : Angriffstabelle Kämpfer, Waldläufer, Paladine, Normale Menschen (NM)
 
@@ -1651,340 +2075,81 @@ Kampf
 |  9-14 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | 15-20 | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 
-### Nahkampfmanöver
 
-Rückzugsgefecht
-:    Ein Charakter kann sich mit halber Geschwindigkeit rückwärts
-     bewegen und dabei weiter kämpfen. Falls sein Gegner ihn dabei
-     nicht verfolgt, oder der Gegner zum Beispiel durch einen
-     Verbündeten an einer Verfolgung gehindert wird, kann sich der
-     Charakter so relativ risikoarm aus einem Gefecht zurück ziehen.
-	 
-Rückzug
-:    Entscheidet sich ein Charakter aus dem Kampf zu fliehen, kann er
-     dies mit voller Geschwindigkeit tun, muss aber einen
-     Gelegenheitsangriff mit +2 durch seinen Gegner riskieren.
-	 
-Flucht 
-:    Ein Charakter kann im Kampf mit bis zu dreifacher
-     Kampfgeschwindigkeit (also 90' pro Runde bei BW 9") flüchten, und
-     bekommt grundsätzlich eine Runde Vorsprung, bevor seine
-     Kontrahenten gegebenenfalls die Verfolgung aufnehmen.
-
-### Reichweite im Fernkampf
-
-
-### Angriffsbonus und ThacO
-
-ThacO \index{ThacO} ist ein Akronym für ``to hit armor class zero''. 
-ThacO bezieht sich
-auf die absteigende Rüstungsklasse und kann benutzt werden, um den
-erforderlichen Wurf für einen Treffer zu berechnen:
-
-Trefferwurf = ThacO - RK
-
-Entsprechend trifft ein Kämpfer mit ThacO 19 einen Kontrahenten in
-Kettenhemd, also mit Rüstungsklasse 5 auf einen Wurf von 14.
-
-Der Angriffsbonus (AB) oder Grundangriffsbonus (GAB) ist das
-Gegenstück der ThacO für aufsteigende Rüstungsklassen.
-
-Trefferwurf = RK - AB
-
-Um mit den klassischen TSR Editionen, aber auch Swords &
-Wizardry, der 5. Edition, so weit wie möglich kompatibel zu sein,
-entspricht ein AB von 0 einer Thac0 von 19, und wie o.g.
-entspricht die absteigende Rüstungsklasse 9 der aufsteigenden
-Rüstungsklasse 10.
-
-### Trefferpunkte 
-
-Charaktere beginnen auf Stufe 1 mit der maximal möglichen Zahl an
-Trefferpunkten, zuzüglich eventueller Konstitutions-Boni. Also Kämpfer
-und Zwerge mit 8, Elfen und Kleriker mit 6, Zauberkundige und Diebe
-mit 4 Trefferpunkten. Danach werden die Trefferpunkte ausgewürfelt wie
-üblich.
-
-### Verletzung, Bewußtlosigkeit, Tod
-
-Sinken die Trefferpunkte eines Charakters auf unter Null ist
-er bewußtlos. Danach verliert er weiter einen Trefferpunkt pro Runde
-so lange ihm nicht geholfen wird. Sinken die Trefferpunkte auf den
-negativen Betrag, welcher der Stufe des Charakters entspricht, stirbt
-der Charakter. Also ein Stufe 3 Charakter zum Beispiel bei -3
-Trefferpunkten.
-
-
-### Heilungsrate
-
-Charaktere heilen \index{Heilung} 1-3 Trefferpunkte wenn sie für einen
-Tag vollständige Ruhe einhalten. Nach 3 Wochen Krankenlager sind sie
-so oder so wieder vollständig geheilt.
-
-
-
-### Stunt Dice
-
-https://www.reddit.com/r/FATErpg/comments/69grx8/does_fate_mandate_mechanics/dh6jt3v
-
-http://www.necropraxis.com/2011/11/11/the-big-purple-d30-rule/
-
-
-Fertigkeiten
-------------
-
-Dieses Fertigkeitssystem ist aus *Lamentations of the Flame Princess*
-übernommen:
-
-: Fertigkeiten
-
-| Fertigkeit             | Grundwert      |
-|------------------------|----------------|
-| Architektur            | 1 in 6         |
-| Wildnisleben           | 1 in 6         |
-| Klettern               | 1 in 6         |
-| Sprachen               | 1 in 6         |
-| Suchen                 | 1 in 6         |
-| Taschendiebstahl       | 1 in 6         |
-| Hinterhältiger Angriff | kein Grundwert |
-| Heimlichkeit           | 1 in 6         |
-| Frickeln               | 1 in 6         |
-
-Die Grundwerte gelten für alle Charakterklassen. Spezialisten
-(traditionell Diebe genannt) können ihre Fertigkeitspunkte in eine
-Steigerung der Grundwerte investieren.
-
-Eine Probe gilt als gelungen, wenn auf einem W6 der jeweilige 
-Fertigkeitswert oder weniger gewürfelt wird. Sollte ein Charakter
-eine Fertigkeit von 6 in 6 haben, muss die Probe mit zwei Würfeln
-gewürfelt werden. Sie scheitert, wenn auf beiden Würfeln eine 6
-erscheint.
-
-
-Erfahrungspunkte und Stufen
----------------------------
-
-Alleine für das Überleben einer Session erhält ein *Spielercharakter* 
-500 Erfahrungspunkte. Zusätzlich erhält jeder *Spieler* 200
-Erfahrungspunkte, die an andere
-Spielercharaktere verteilen werden sollen. Zum Beispiel für gutes 
-Rollenspiel.
-
-Für jede Goldmünze, die im Spiel *ausgegeben* wird, erhält ein
-Spielercharkater 
-einen einen XP.
-
-Für *feindseelige Monster* die überwunden werden, erhält ein
-Spielercharakter 100
-Erfahrungspunkte pro Trefferwürfel. 
-*Überwinden* bedeutet in diesem Zusammenhang
-ausgetrickst, im Kampf besiegt, in die Flucht geschlagen, oder
-ähnliches. Ob ein Schnack mit einem Drachen über das Wetter
-Erfahrungspunkte bringt, liegt im Ermessen der Spielleitung.
-
-
-Andere Spielerhandbücher
-========================
-
- - OD&D "Men & Magic"
- - Basic D&D Holmes Edition
- - Basic und Expert D&D Moldvay/Cook
- - Basic und Expert D&D Mentzer 
- - AD&D 1. Edition
- - Swords & Wizardry
- - Labyrinth Lord
- - Lamentations of the Flame Princess
- - Basic Fantasy RPG
- - OSRIC
- - White Box: Fantastic Medieval Adventure Game
-
-Stufentabellen
-==============
-\index{Stufen}
-
-Die folgenden Tabellen zeigen die speziellen Voraussetzungen und
-Eigenschaften der verschiedenen Klassen. "EP" steht für
-Erfahrungspunkte, die für das Erreichen einer bestimmten Stufe
-angesammelt werden müssen. "TP" bezeichnen die Trefferpunkte, und "AB"
-den Angriffsbonus, der auf höheren Stufen erlangt werden kann, und dann
-als zusätzlicher Bonus auf Angriffswürfe angewandt wird.
-
-Die Tabellen der Klassen die Magie anwenden können funden sich auf der
-rechten Seite nummerierte Spalten. Diese zeigen die Anzahl an
-Zaubersprüchen einer bestimmten Stufe an, die ein Charakter *pro Tag*
-wirken kann. Beim Kleriker steht zum Beispiel in der vierten Stufe in
-der Spalte 1 eine 2, und in der Spalte 2 eine 1. Das bedeutet, dass
-ein Kleriker der vierten Stufe an einem Tag jeweils 2 Sprüche
-des 1. Grades und einen Spruch des 2. Grades wirken kann. 
-
-: Kämpfer Stufen
-
-| Stufe |             EP | TP          | AB |
-|:-----:|---------------:|:-----------:|:--:|
-| 1     |              0 | 1W10        | 0  |
-| 2     |          2.000 | +1W10       | 0  |
-| 3     |          4.000 | +1W10       | 0  |
-| 4     |          8.000 | +1W10       | +1 |
-| 5     |         16.000 | +1W10       | +1 |
-| 6     |         32.000 | +1W10       | +1 |
-| 7     |         64.000 | +1W10       | +2 |
-| 8     |        120.000 | +1W10       | +2 |
-| 9     |        240.000 | +1W10       | +2 |
-| 10    |        360.000 | +2          | +3 |
-| 11    |        480.000 | +2          | +3 |
-| 12    |        600.000 | +2          | +3 |
-| 13    |        720.000 | +2 TP       | +4 |
-| 14+   | +120.000/Stufe | +2 TP/Stufe | +4 |
-
-\index{Kämpfer!Stufen}
+## Rettungswürfe
 
 : Rettungswürfe der Kämpfer
 
-| Stufe                           | 1-3 | 4-6 | 7-9 | 10-12 | 13-15 |
+| Stufe                           | 1-3 | 4-6 | 7-9 | 10-12 | 13+ |
 |---------------------------------|-----|-----|-----|-------|-------|
-| Gift und Todesstrahlen          | 12  | 10  | 8   | 6     | 6     |
-| Zauberstäbe                     | 13  | 11  | 9   | 7     | 6     |
-| Lähmung und zu Stein erstarren  | 14  | 12  | 10  | 8     | 7     |
-| Drachenodem                     | 15  | 13  | 11  | 9     | 8     |
-| Zaubersprüche, -stecken, -ruten | 16  | 14  | 12  | 10    | 9     |
+| Gift und Todesstrahlen          | 12  | 10  | 8   | 6     | 4     |
+| Zauberstäbe                     | 13  | 11  | 9   | 7     | 5     |
+| Lähmung und zu Stein erstarren  | 14  | 12  | 10  | 8     | 5     |
+| Drachenodem                     | 15  | 13  | 10  | 8     | 5     |
+| Zaubersprüche, -stecken, -ruten | 16  | 14  | 12  | 10    | 8     |
 
 \index{Rettungswürfe!Kämpfer}	
 
-: Kleriker Stufen
-
-| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 |
-|:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|
-| 1     |           0 | 1W8   | 0  | - | - | - | - | - | - |
-| 2     |       1.500 | +1W8  | 0  | 1 | - | - | - | - | - |
-| 3     |       3.000 | +1W8  | 0  | 2 | - | - | - | - | - |
-| 4     |       6.000 | +1W8  | 0  | 2 | 1 | - | - | - | - |
-| 5     |      1.2000 | +1W8  | +1 | 2 | 2 | - | - | - | - |
-| 6     |      25.000 | +1W8  | +1 | 2 | 2 | 1 | - | - | - |
-| 7     |      50.000 | +1W8  | +1 | 3 | 2 | 2 | - | - | - |
-| 8     |     100.000 | +1W8  | +1 | 3 | 3 | 2 | 1 | - | - |
-| 9     |     200.000 | +1W8  | +2 | 3 | 3 | 3 | 2 | - | - |
-| 10    |     300.000 | +1    | +2 | 4 | 4 | 3 | 2 | 1 | - |
-| 11    |     400.000 | +1    | +2 | 4 | 4 | 3 | 3 | 2 | - |
-| 12    |     500.000 | +1    | +2 | 4 | 4 | 4 | 3 | 2 | 1 |
-| 13    |     600.000 | +1    | +3 | 5 | 5 | 4 | 3 | 2 | 2 |
-| 14+   | +100.000/St | +1/St | +3 | 5 | 5 | 5 | 3 | 3 | 2 |
-
-\index{Kleriker!Stufen}
 
 : Rettungswürfe der Kleriker
 
-| Stufe                           | 1-4 | 5-8 | 9-12 | 13-16 |
+| Stufe                           | 1-4 | 5-8 | 9-12 | 13+   |
 |---------------------------------|-----|-----|------|-------|
-| Gift und Todesstrahlen          | 11  | 9   | 7    | 6     |
-| Zauberstäbe                     | 12  | 10  | 8    | 7     |
-| Lähmung und zu Stein erstarren  | 14  | 12  | 10   | 8     |
-| Drachenodem                     | 16  | 14  | 12   | 10    |
-| Zaubersprüche, -stecken, -ruten | 15  | 13  | 11   | 9     |
+| Gift und Todesstrahlen          | 11  | 9   | 6    | 3     |
+| Zauberstäbe                     | 12  | 10  | 7    | 5     |
+| Lähmung und zu Stein erstarren  | 14  | 12  | 9    | 7     |
+| Drachenodem                     | 16  | 14  | 11   | 8     |
+| Zaubersprüche, -stecken, -ruten | 15  | 12  | 9    | 7     |
 
 \index{Rettungswürfe!Kleriker}
 
+
+: Rettungswürfe der Zauberkundigen und Diebe
+
+| Stufe                           | 1-5 | 6-10 | 11-15 | 16+ |
+|---------------------------------|-----|------|-------|-----|
+| Gift und Todesstrahlen          | 13  | 11   | 8     | 5 |
+| Zauberstäbe                     | 14  | 12   | 9     | 6 |
+| Lähmung und zu Stein erstarren  | 13  | 11   | 8     | 5 |
+| Drachenodem                     | 16  | 14   | 11    | 8 |
+| Zaubersprüche, -stecken, -ruten | 15  | 12   | 8     | 3 |
+
+\index{Rettungswürfe!Zauberkundige}\index{Rettungswürfe!Diebe}
+
+
+## Untote vertreiben
+
+Es werden zwei Sechser-Würfel (2W6) gewürfelt, um zu sehen ob
+eine bestimmte Art von Untoten vertrieben werden kann. 
+
+Die Tabelle zeigt zeilenweise die aufsteigenden Klerikerstufen.
+Die Spalten beziehen sich auf die Anzahl Trefferwürfel der
+untoten Kreaturen. Zombies haben einen Trefferwürfel, Skelette
+zwei, Ghule drei usw. "V", dass ein Vertreiben automatisch gelingt,
+und "Z" das die Untoten nicht nur vertrieben, sondern endgültig
+zerstört werden. 
+
 : Untote vertreiben
 
-| Stufe           | 1  | 2  | 3  | 4  | 5  | 6  | 7 | 8 | 9-10 |
-|-----------------|:--:|:--:|:--:|:--:|:--:|:--:|:-:|:-:|:----:|
-| Skelett         | 7  | V  | V  | Z  | Z  | Z  | Z | Z | Z    |
-| Zombie          | 9  | 7  | V  | V  | Z  | Z  | Z | Z | Z    |
-| Ghul            | 11 | 9  | 7  | V  | V  | Z  | Z | Z | Z    |
-| Gruftbewohner   | -  | 11 | 9  | 7  | V  | V  | Z | Z | Z    |
-| Todesalb        | -  | -  | 11 | 9  | 7  | V  | V | Z | Z    |
-| Mumie           | -  | -  | -  | 11 | 9  | 7  | V | V | Z    |
-| Schreckgespenst | -  | -  | -  | -  | 11 | 9  | 7 | V | V    |
-| Vampir          | -  | -  | -  | -  | -  | 11 | 9 | 7 | V    |
+| Untote TW:     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10+ |
+|:--------------:|:-:|:-:|:-:|:-:|:-:|:-:|:--|:-:|:-:|:---:|
+| Kleriker Stufe |   |   |   |   |   |   |   |   |   |     |
+| 1              | 7 | 9 |11 | - | - | - | - | - | - | -   |
+| 2              | 5 | 7 | 9 | 11| - | - | - | - | - | -   |
+| 3              | 3 | 5 | 7 | 9 | 11| - | - | - | - | -   |
+| 4              | V | 3 | 5 | 7 | 9 |11 | - | - | - | -   |
+| 5              | V | V | 3 | 5 | 7 | 9 |11 | - | - | -   |
+| 6              | Z | V | V | 3 | 5 | 7 | 9 |11 | - | -   |
+| 7              | Z | Z | V | V | 3 | 5 | 7 | 9 |11 | -   |
+| 8              | Z | Z | Z | V | V | 3 | 5 | 7 | 9 | 11  |
+| 9              | Z | Z | Z | Z | V | V | 3 | 5 | 7 |  9  |
+| 10             | Z | Z | Z | Z | Z | V | V | 3 | 5 |  7  |
+| 11             | Z | Z | Z | Z | Z | Z | V | V | 3 | 5   |
+| 12             | Z | Z | Z | Z | Z | Z | Z | V | V | 3   |
+| 13             | Z | Z | Z | Z | Z | Z | Z | Z | V | V   |
+| 14+            | Z | Z | Z | Z | Z | Z | Z | Z | Z | V   |
 
 \index{Untote!vertreiben}
-Es werden zwei
-Sechser-Würfel (2W6) gewürfelt, um zu sehen ob eine bestimmte Art
-von Untoten vertrieben werden kann. In der Tabelle
-bedeutet "V", dass ein Vertreiben automatisch gelingt, und "Z"
-das die Untoten nicht nur vertrieben, sondern endgültig zerstört
-werden. 
-
-: Zauberkundige Stufen
-\index{Zauberkundige!Stufen}
-
-| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 |
-|:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|
-| 1     |           0 | 1W4   | 0  | 1 | - | - | - | - | - |
-| 2     |       2.500 | +1W4  | 0  | 2 | - | - | - | - | - |
-| 3     |       5.000 | +1W4  | 0  | 2 | 1 | - | - | - | - |
-| 4     |      10.000 | +1W4  | 0  | 2 | 2 | - | - | - | - |
-| 5     |      20.000 | +1W4  | 0  | 2 | 2 | 1 | - | - | - |
-| 6     |      40.000 | +1W4  | +1 | 3 | 2 | 2 | - | - | - |
-| 7     |      80.000 | +1W4  | +1 | 3 | 2 | 2 | 1 | - | - |
-| 8     |     150.000 | +1W4  | +1 | 3 | 3 | 2 | 2 | - | - |
-| 9     |     300.000 | +1W4  | +1 | 3 | 3 | 2 | 2 | 1 | - |
-| 10    |     450.000 | +1    | +1 | 4 | 3 | 3 | 2 | 2 | - |
-| 11    |     600.000 | +1    | +2 | 4 | 4 | 4 | 3 | 2 | - |
-| 12    |     750.000 | +1    | +2 | 4 | 4 | 4 | 3 | 2 | 1 |
-| 13    |     900.000 | +1    | +2 | 5 | 4 | 4 | 3 | 2 | 2 |
-| 14+   | +150.000/St | +1/St | +2 | 5 | 4 | 4 | 4 | 3 | 2 |
-
-: Rettungswürfe der Zauberkundigen
-\index{Rettungswürfe!Zauberkundige}
-
-| Stufe                           | 1-5 | 6-10 | 11-15 |
-|---------------------------------|-----|------|-------|
-| Gift und Todesstrahlen          | 11  | 9    | 7     |
-| Zauberstäbe                     | 12  | 10   | 8     |
-| Lähmung und zu Stein erstarren  | 14  | 12   | 10    |
-| Drachenodem                     | 16  | 14   | 12    |
-| Zaubersprüche, -stecken, -ruten | 15  | 12   | 9     |
-
-: Diebe Stufen
-\index{Diebe!Stufen}
-
-| Stufe |            EP | TP       | AB | Fertigkeitspunkte |
-|:-----:|--------------:|:--------:|:--:|:-----------------:|
-| 1     |             0 | 1W6      | +0 | 4                 |
-| 2     |         1.500 | +1W6     | +0 | +2                |
-| 3     |         3.000 | +1W6     | +0 | +2                |
-| 4     |         6.000 | +1W6     | +0 | +2                |
-| 5     |        12.000 | +1W6     | +1 | +2                |
-| 6     |        24.000 | +1W6     | +1 | +2                |
-| 7     |        48.000 | +1W6     | +1 | +2                |
-| 8     |        96.000 | +1W6     | +1 | +2                |
-| 9     |       192.000 | +1W6     | +2 | +2                |
-| 10    |       288.000 | +2       | +2 | +2                |
-| 11    |       384.000 | +2       | +2 | +2                |
-| 12    |       480.000 | +2       | +2 | +2                |
-| 13    |       576.000 | +2       | +3 | +2                |
-| 14+   | +96.000/Stufe | +2/Stufe | +3 | +2/Stufe          |
-
-: Rettungswürfe der Diebe
-\index{Rettungswürfe!Diebe}
-
-| Stufe                           | 1-4 | 5-8 | 9-12 | 13-16 |
-|---------------------------------|-----|-----|------|-------|
-| Gift und Todesstrahlen          | 13  | 11  | 9    | 7     |
-| Zauberstäbe                     | 14  | 12  | 10   | 8     |
-| Lähmung und zu Stein erstarren  | 13  | 11  | 9    | 7     |
-| Drachenodem                     | 16  | 14  | 12   | 10    |
-| Zaubersprüche, -stecken, -ruten | 15  | 13  | 11   | 9     |
-
-
-Sonstige Tabellen
-=================
-
-: Mehr Sprachen
-\index{Sprachen!Tabelle}
-
----- -------------------- ---- ----------------------
- 1   Grottenschratisch     11  Harpyisch 
- 2   Doppelgängerisch      12  Hobgoblinsch
- 3   Drachensprache        13  Koboldisch
- 4   Zwergisch             14  Echsisch
- 5   Elfisch               15  Medusisch
- 6   Gargylisch            16  Minotaurisch
- 7   Gnollisch             17  Ogerisch/Riesensprache
- 8   Gnomisch              18  Orkisch
- 9   Goblinsch             19  Pixisch
- 10  Halblingisch          20  Gemeinsprache
------------------------------------------------------
 
 Preislisten
 ------------
