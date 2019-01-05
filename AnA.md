@@ -116,6 +116,24 @@ B/X-Klon, der auch auf Deutsch erschienen ist, sowie
 *Lamentations of the Flame Princess* (LotFP) eine radikalere 
 B/X-Überarbeitung von James Raggi IV.
 
+Men & Magic
+===========
+
+Attribute & Modifikatoren
+-------------------------
+
+### OD&D + Greyhawk
+
+3W6, niedrige Modifikatoren
+
+
+### AD&D
+
+4W6 drop lowest, niedrige Modifikatoren
+
+### Basic D&D
+
+3W6, hohe Modifikatoren
 
 
 Monsters & Treasure

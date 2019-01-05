@@ -5,15 +5,34 @@ rights: © 2019 Laurens Kils-Hütten <lskh3004@gmail.com>, OGL 1.0a
 lang: de
 ---
 
-Impressum
-=========
-
+\Large
+Menschen & Magie \newline
+\normalsize
+Ein Spielerhandbuch für Old-School Rollenspiele \newline
+Version *alpha* \newline
 Text und Satz: © Laurens Kils-Hütten, 2019 \newline
 lskh3004@gmail.com
 
 Titelbild: LadyofHats, CC 0, public domain 
 
 OSR-Logo: Stuart Robertson, CC BY 3.0
+
+*Dungeons & Dragons*, *D&D* und *AD&D* sind eingetragene
+Warenzeichen von *Wizards of the Coast*
+
+*Swords & Wizardry* ist ein eingetragenes Warenzeichen von Matt
+Finch
+
+*Labyrinth Lord* ist ein eingetragenes Warenzeichen von Daniel
+Proctor
+
+*OSRIC* ist ein eingetragenes Warenzeichen von Stuart Marshall
+
+*Basic Fantasy Role Playing Game* ist ein eingetragenes
+Warenzeichen von Chris Gonnermann
+
+*Lamentations of the Flame Princess* ist ein eingetragenes
+Warenzeichen von James Raggie IV
 
 Der Text und alle Tabellen von *Menschen & Magie* ist Open Game
 Content im Sinne der Open Game License, OGL 1.0a
@@ -47,32 +66,42 @@ es ihnen als PDF per Email zuzuschicken.
 
 Doch dieses Heft ist mehr als nur ein Spielerhandbuch. Durch die
 Hinweise in den Fußnoten ist es auch ein
-kleines Werk über die Geschichte der ersten Versionen von Dungeons &
-Dragons aus den 70er und 80er Jahren, sowie einer Bewegung, die sich
-*Old School Renaissance* (OSR) nennt, und die etwa seit Mitte der Nuller
-Jahre eine unglaubliche Menge an spannenden, originellen und zum Teil
-in eindrucksvoller künstlerischer Qualität gearbeitete Werke hervor
-bringt.
+kleines Werk über die Geschichte der ersten Versionen von *Dungeons &
+Dragons* aus den 70er und 80er Jahren geworden. 
 
-Menschen & Magie ist kein Klon einer bestimmten früheren Edition
-sondern eher so eine Art Remix aus den echten Old School Regeln und
-neueren Regelwerken, die sich aber auf das alte D&D beziehen.
-Grundlage für diesen Remix ist Basic und Expert D&D in der Version von
-Frank Mentzer von 1983, auch bekannt als BECMI-Edition.  Was
-Zaubersprüche, Einkaufsliste und sozusagen das allgemeines Flair
-angeht habe ich mich aber so oft es ging an die Originalausgabe
-bzw. AD&D gehalten.  Die Regeln zu Trefferwürfeln sind an AD&D und
-*Lamentations of the Flame Princess* angelehnt, damit die Charaktere
-etwas robuster werden. Zusätzlich habe ich einige Hausregeln
-eingefügt, die sich an unserem eigenen Spieltisch bewährt haben, oder
-in den einschlägigen Internetforen populär sind. Die meisten dieser
-Hausregeln dienen ebenfalls dazu die Überlebenschancen der Charaktere
-zu verbessern.
+Ermöglicht wird diese Projekt durch die Veröffentlichung der
+*Open Game License* und der *System Reference Documents* durch
+*Wizards of the Coast* und die Vorarbeit vieler
+Mitglieder einer Bewegung, die sich *Old School Renaissance*
+(OSR) nennt. Eine Bewegung die seit etwa Mitte der Nuller Jahre 
+die alten
+Regelwerke neu formuliert veröffentlicht, und darüber hinaus
+eine unglaubliche Menge spannender, origineller und zum Teil
+in eindrucksvoller künstlerischer Qualität gearbeiteter Werke
+hervor gebracht hat.
 
-Aufgebaut ist das Heft aus einem Abschnitt über die Erschaffung von
-Stufe 1-Charakteren, in dem vermieden wird irgendwelche Regeln 
-anzugeben, die für die erste Stufe noch nicht relevant sind, 
-und einem Tabellenteil, der im laufenden Spiel und auf höheren 
+*Menschen & Magie* ist kein "Retro-Klon" einer bestimmten
+früheren Edition sondern eher so eine Art Remix aus den echten
+alten Regeln und neueren Regelwerken.  Grundlage für diesen Remix
+ist das alte original Rollenspiel in der *Basic* und *Expert*
+Edition von Frank Mentzer aus dem Jahr 1983, auch bekannt als
+BECMI-Edition.  Was Zaubersprüche, Einkaufslisten und sozusagen
+das allgemeine Flair angeht, habe ich mich aber tendentiell an
+die Originalausgabe von 1974 - auch bekannt als *Nullte Edition*
+oder auch 0e, bzw. die darauf folgende *Holmes-Edition* und die
+von Gary Gygax selbst veröffentlichte *Advanced*-Edition, auch
+bekannt als *Erste Edition* oder 1e, von 1977 bis 1979 gehalten.
+Die Regeln zu Trefferwürfeln sind an letztere sowie an
+*Lamentations of the Flame Princess* angelehnt, damit die
+Charaktere etwas robuster werden. Zusätzlich habe ich einige
+Hausregeln eingefügt, die sich an unserem eigenen Spieltisch
+bewährt haben, oder die in den einschlägigen Internetforen
+populär sind. Die meisten dieser Hausregeln dienen ebenfalls dazu
+die Überlebenschancen der Charaktere zu verbessern.
+
+Aufgebaut ist das Heft aus einem einfach gehaltenen Abschnitt 
+über die Erschaffung von Stufe 1-Charakteren,  
+sowie einem Tabellenteil, der im laufenden Spiel und auf höheren 
 Spielstufen benutzt werden kann.
 
 
@@ -81,8 +110,9 @@ Einleitung
 ===========
 
 
-\lettrine{D}{ungeons and Dragons}, kurz D&D, ist ein Fantasy
-Rollenspiel[^1]. Das Prinzip ist einfach, jeder Spieler führt eine
+\lettrine{M}{enschen und Magie} ist eine Hausregelsammlung für
+das erste Fantasy Rollenspiel der Welt. 
+Das Prinzip ist einfach, jeder Spieler führt eine
 fiktive Figur - üblicherweise Charakter genannt - durch eine
 abenteuerliche Fantasywelt voller unwägbarer Gefahren, geheimnisvoller
 Magie und fabelhafter Schätze. Die Welt selbst, das Verhalten von
@@ -193,16 +223,13 @@ usw. Es kann auch sein, dass noch eine bestimmte Punktzahl
 hinzurechnen werden soll. Dann schreibt man zum Beispiel 1W4+3, womit
 gemeint ist, dass man einen vierseitigen Würfel wirft, und dann zu dem
 Ergebnis 3 addiert. Es müsste also eine zufällige Zahl zwischen 4 und
-7 dabei heraus kommen. In alten D&D-Heften wurde anstelle von 1W4+3 
+7 dabei heraus kommen. In alten Regelheften und Abenteuermodulen wurde anstelle von 1W4+3 
 oft auch nur 4 - 7 angegeben. Der Leser musste dann selbst austüfteln, 
 mit welcher Kombination von Würfel und Bonus der entsprechende
 Wertebereich abgedeckt werden konnte. 
 
-[^1]: Nein, es ist nicht *ein* Fantasy Rollenspiel, es ist *das*
-    Fantasy Rollenspiel, das ursprüngliche und erste Fantasy
-    Rollenspiel überhaupt.
-
-[^2]: Ich glaube, dass es bei D&D im Grunde um das Durchspielen, oder
+[^2]: Ich glaube, dass es in diesem Spiel im Grunde um das 
+    Durchspielen, oder
     Miterleben der klassischen Heldenreise geht, also den mutigen
     Aufbruch in die Fremde, das Erleben von Abenteuern, entscheiden
     müssen in Schicksalsfragen, schließlich die krisenhafte
@@ -211,7 +238,7 @@ Wertebereich abgedeckt werden konnte.
     zurück zu kehren.
 
 [^3]: Diese Haltung bezüglich der Würfel ist in der ursprünglichen
-    Version von D&D und den davon abgeleiteten Old-School
+    Version des Spiels und den davon abgeleiteten Old-School
     Rollenspielen - um genau die geht es hier - anderes als in
     moderneren Regelwerken. Eine der wichtigsten, und ältesten
     Würfelmechaniken ist zum Beispiel der *Rettungswurf*. Er hat bei
@@ -224,7 +251,8 @@ Wertebereich abgedeckt werden konnte.
     könnte ein Charakter ein guter Angler sein, und einen Wert in
     Angeln haben, der einer Erfolgschance von 75% entspricht. Er wird
     also mit seinem Angeln-Wurf meistens Erfolg haben. Bei Old-School
-    D&D musst Du nicht würfeln um zu Angeln, es muss auch nirgendwo
+    Rollenspielen musst Du nicht würfeln um zu Angeln, es muss auch
+    nirgendwo
     stehen, dass Du angeln kannst - Du tust es einfach.
 
 
@@ -234,7 +262,6 @@ Charaktererschaffung
 
 \lettrine{D}{as Spiel beginnt} damit, dass Du dir einen Charakter,
 also eine Spielfigur erschaffst. 
-
 Die Eigenschaften und Habseeligkeiten Deines Charakters werden auf einem
 Blatt Papier fest gehalten, dem so genannten Charakterbogen. Es gibt
 dafür alle möglichen Formulare, aber Du kannst auch ein einfaches leeres
@@ -268,24 +295,6 @@ besser.  Nun kannst Du schon ein bisschen erahnen, welche Art von
 Abenteurer Du hier vor Dir hast. Ein dümmlicher Kraftprotz?  ein
 gewitzter Hänfling? jemand der klug und charismatisch ist?
 
-[^12]: Beginnend mit AD&D bis zur heutigen 5. Edition von D&D werden
-	die Attribute mit vier sechser Würfeln ausgewürfelt, wobei der
-	niedrigste Wert verworfen wird - *4W6 drop lowest*. Dabei ergeben
-	sich auch Werte zwischen 3 und 18, aber mit einer deutlichen
-	Betonung der höhren Werte.  Aus meiner Sicht ist das nicht mehr
-	Old-School, und "moderne" Old-School Regelwerke wie *Basic Fantasy
-	RPG*, *Swords & Wizardry* oder *Lamentations of the Flame
-	Princess* nutzen weiterhin einhellig die alte 3W6 Methode.
-
-Hausregel: Auf Wunsch
-des Spielers darf einmalig der höchste mit dem niedrigsten Wert
-getauscht werden.
-
-Rechts neben den Wert jedes Attributs schreibst Du nun noch einen
-*Modifikator* für jedes Attribut dessen Wert über 12 oder unter 9
-liegt. Die Modifikatoren \index{Modifikator} haben jeweils einen 
-Wert zwischen -3, also ein Malus, und +3, also ein Bonus[^boni]:
-
 | Attribut | Modifikator |
 |:--------:|:-----------:|
 | 3        | -3          |
@@ -298,8 +307,27 @@ Wert zwischen -3, also ein Malus, und +3, also ein Bonus[^boni]:
 
 : Attributs-Modifikatoren
 
+[^12]: Beginnend mit der ersten Edition bis zur heutigen 5. Edition werden
+	die Attribute mit vier sechser Würfeln ausgewürfelt, wobei der
+	niedrigste Wert verworfen wird - *4W6 drop lowest*. Dabei ergeben
+	sich auch Werte zwischen 3 und 18, aber mit einer deutlichen
+	Betonung der höhren Werte.  Aus meiner Sicht ist das nicht mehr
+	Old-School, und "moderne" Old-School Regelwerke wie *Basic Fantasy
+	RPG*, *Swords & Wizardry* oder *Lamentations of the Flame
+	Princess* nutzen weiterhin einhellig die alte 3W6 Methode.
+
+Auf Wunsch
+des Spielers darf einmalig der höchste mit dem niedrigsten Wert
+getauscht werden.
+
+Rechts neben den Wert jedes Attributs schreibst Du nun noch einen
+*Modifikator* für jedes Attribut dessen Wert über 12 oder unter 9
+liegt. Die Modifikatoren \index{Modifikator} haben jeweils einen 
+Wert zwischen -3, also ein Malus, und +3, also ein Bonus[^boni].
+
+
 [^boni]: Die Spanne von -3 bis +3 ist in den meisten Old
-    School-Editionen Standard. Im original D&D von 1974 und auch in
+    School-Editionen Standard. Im original Spiel von 1974 und auch in
     der Holmes-Edition, gab es noch wesentlich weniger, und auch
     kleinere Boni. Bei einer Geschicklichkeit über 12 einen Aufschlag
     von +1 auf Fernkampfangriffe, und bei einer Konstitution über 14
@@ -400,7 +428,8 @@ deren Primärattribute: \index{Primärattribut}
 | Dieb           | Geschicklichkeit |
 
 [^klassen]: Kämpfer, Zauberkundiger und Kleriker waren die einzigen
-	Klassen, die es 1974 in der ersten Ausgabe von D&D gab.  Wenn Du
+	Klassen, die es 1974 in der ersten Ausgabe des Spiels gab.  
+        Wenn Du
 	also sehr old-schoolig sein willst, spiele einen Kämpfer,
 	Zauberkundigen oder Kleriker.
 
@@ -417,18 +446,26 @@ wenn er das erste Mal ins
 Abenteuer zieht, denn die verschiedenen Klassen benutzen zum Teil
 verschiedene Würfel um die Menge an Trefferpunkten zu ermitteln.
 
-Charaktere beginnen die erste Stufe mit der maximal
-möglichen Anzahl an Trefferpunkten[^5]. Wenn die Klasse zum Beispiel 
-einen Achter-Würfel (W8) als Trefferwürfel \index{Trefferwürfel} 
-vorsieht, beginnt der Charakter also die erste Stufe mit 8 
-Trefferpunkten.
+Die Trefferpunkte werden bei der Charaktererschaffung
+ausgewürfelt. Unterschreiten die Trefferpunkte allerdings einen
+bestimmten Mindestwert, kann nochmal gewürfelt werden[^5].
 
-[^5]: Das ist eine populäre Hausregel. Traditionell werden die
- Trefferpunkte auch in der ersten Stufe mit dem entsprechenden
- Trefferwürfel ausgewürfelt. Es macht aber vielen Spielern keinen
+: Minimale Trefferpunkte 
+
+| Klasse | Trefferpunkte |
+|:--------|:-------:|
+| Kämpfer | 6 | 
+| Kleriker | 4 |
+| Zauberkundige | 3 |
+| Diebe | 4 |
+
+[^5]: Das ist eine an *Lamentations of the Flame Princess*
+ angelehnte  Hausregel. Traditionell werden die
+ Trefferpunkte ohne Mindestwert ausgewürfelt.
+ Es macht aber vielen Spielern keinen
  Spass einen Kämpfer mit 2 Trefferpunkten zu spielen.  Andereseits,
- wenn Du besonders old-schoolig sein willst, würfele Deine
- Trefferpunkte aus!
+ wenn Du besonders old-schoolig sein willst, 
+ vergiss die Mindestwerte!
 
 Wenn Du also eine Klasse ausgewählt hast, kannst Du anhand der Angaben
 die nächsten Eintragungen auf deinem Charakterbogen machen. 
@@ -455,7 +492,7 @@ Primärattribut
 :    Stärke
 
 Trefferpunkte
-:    10 [^6]
+:    1W10[^6], mindesten 6 
 
 Klassenfähigkeiten
 :    keine
@@ -466,12 +503,13 @@ Klassenbeschränkungen
 Rettungswürfe
 :    Gift: 12, Stäbe: 13, Lähmung: 14, Odem: 15, Sprüche: 16
 
-[^6]: in der Ursprünglichen Version von D&D hatte der Kämpfer 1W6+1
-    Trefferpunkte. In *Basic D&D* wurde ein W8 für den Kämpfer
-    benutzt, und in *Advanced Dungeons & Dragons* (AD&D) schließlich
+[^6]: in der Ursprünglichen Version des Spiels hatte der Kämpfer 1W6+1
+    Trefferpunkte. In *Basic* wurde ein W8 für den Kämpfer
+    benutzt, und in *Advanced* schließlich
     ein W10. Die meisten Spieler finden es gut, wenn ein Kämpfer
-    tüchtig was aushalten kann, und da AD&D immer noch als Old-School
-    D&D zählt, wird hier deshalb der W10
+    tüchtig was aushalten kann, und da die erste Edition immer
+    noch als Old-School
+    zählt, wird hier deshalb der W10
     vorgeschlagen. Wenn Du aber Lust auf Old-School im Survival Modus
     hast, gib dem Kämpfer den guten alten Sechser-Würfel plus eins!
 
@@ -483,15 +521,17 @@ Primärattribut
 :    Weisheit
 
 Trefferpunkte
-:    8 [^7]
+:    1W8[^7], mindestens 4 
 
 Klassenfähigkeiten
 :    Kleriker können "Untote" beherrschen, und ab der zweiten Stufe 
-     klerikale Magie wirken.
+     klerikale Magie wirken. \index{Untote!vertreiben}
 	 
 	 Um Untote zu beherrschen werden 2W6 geworfen. Liegt das Ergebnis
      über einem bestimmten Wert, erlangt der Kleriker für eine 
 	 betimmte Zeit die Kontrolle über die untoten Kreaturen.
+     Der Spielleiter stellt fest, wie viele Untote tatsächlich
+     beherrscht werden.
      Wenn Du einen Kleriker spielst, notiere Dir folgende kleine
      Tabelle auf deinem Charakterbogen:
 	 
@@ -500,6 +540,7 @@ Klassenfähigkeiten
      Zombies        9
 	 Ghule         11
      ----------------
+
 
      Je nach Gesinnung bedeutet "beherrschen" etwas anderes. Kleriker
      guter Gesinnung *vertreiben* die Untoten, während Kleriker böser
@@ -514,8 +555,9 @@ Rettungswürfe
 :    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16, Sprüche 15
 
 
-[^7]: In Original D&D von 1974 und auch im späteren *Basic D&D*
-	benutzte der Kleriker einen W6 als Trefferwürfel. In AD&D gab es
+[^7]: In Original von 1974 und auch im späteren *Basic*
+	benutzte der Kleriker einen W6 als Trefferwürfel. In der
+        ersten Edition gab es
 	dann as Upgrade auf den W8, der hier vorgeschlagen wird, mit der
 	gleichen Begründung wie beim Kämpfer. Puristen würfeln für ihren
 	Stufe eins Kleriker einen W6.
@@ -528,12 +570,12 @@ Primärattribut
 :    Intelligenz
 
 Trefferpunkte
-:    4 [^8]
+:    1W4[^8], mindestens 3 
 
 [^8]: Der Ursprüngliche Zauberkundige hatte 1W6-1 Trefferpunkte. In
     allen späteren Old-School-Varianten hat der Zauberkundige immer
-    einen W4 als Trefferwürfel. Als Purist kannst Du also auch 1W6-1
-    werfen um die Trefferpunkte deines Magiers zu ermitteln.
+    einen W4 als Trefferwürfel. Als Old School Purist kannst Du also 
+    auch 1W6-1 werfen um die Trefferpunkte deines Magiers zu ermitteln.
 
 Klassenfähigkeiten
 :    Zauberkundige können Zauberkundigensprüche wirken. Um sie
@@ -552,7 +594,8 @@ Klassenfähigkeiten
      ermittelte Sprüche. Alle weiteren Sprüche müssen im Spiel
      gefunden bzw. erlernt werden[^sprüche].
 	 
-[^sprüche]: das ist eine an AD&D angelehnte Hausregel. Die Regeln zum
+[^sprüche]: das ist eine an die erste Edition angelehnte Hausregel. 
+    Die Regeln zum
     erlernen neuer Sprüche sind in den verschiedenen Editionen recht
     unterschiedlich. Mit gefällt diese Regel am besten, da sie
     einerseits mit der Auswahl von 4 Sprüchen ein bisschen Abwechslung
@@ -574,7 +617,7 @@ Primärattribut
 :    Geschicklichkeit
 
 Trefferpunkte
-:    6 [^9]
+:    1W6[^9], mindestens 4 
 
 Klassenfähigkeiten
 :    Der Dieb hat bessere Möglichkeiten bestimmte Fertigkeiten zu
@@ -596,14 +639,15 @@ Klassenbeschränkungen
 Rettungswürfe
 :    Gift 13, Stäbe 14, Lähmung 13, Odem 16, Sprüche 15
 
-[^9]: Im alten OD&D gab es noch keinen Dieb. Der Dieb tauchte das
+[^9]: In der Ausgabe von 1974 gab es noch keinen Dieb. Der Dieb tauchte das
     erste mal im Supplement I "Greyhawk" auf, und bekam einen W4 als
-    Trefferwürfel. Genau so war es auch in Basic D&D. In AD&D
+    Trefferwürfel. Genau so war es auch in *Basic*.  In
+    *Advanced*
     schließlich bekam der Dieb dann den W6 als Trefferwürfel. Der
     *Specialist* eine moderne Version des Diebes aus *Lamentations of
     the Flame Princess* hat ebenfalls einen W6.
 
-[^10]: Das Greyhawk-Supplement, Basic und Advanced D&D benutzten für
+[^10]: Das Greyhawk-Supplement, *Basic* und *Advanced* benutzten für
     die Fertigkeiten des Diebes eine riesige Tabelle mit
     Prozentangaben. Das erscheint mir zu kompliziert. Das System mit
     Sechser-Würfeln aus *Lamentations of the Flame Princess* erscheint
@@ -612,26 +656,31 @@ Rettungswürfe
 
 ### Andere Klassen
 
-In anderen Spielerhandbüchern werden noch andere Klassen
-beschrieben. Diese Klassen können ohne weiteres auch verwendet werden,
-es gelten allerdings folgende Einschränkungen:
+Spieler dürfen *jedes* OSR-kompatible Spielerhandbuch benutzen, um
+sich daraus Charakterklassen \index{Klassen} und Sprüche
+auszusuchen. 
+
+Für andere häufiger anzutreffende Klassen
+gelten allerdings folgende Einschränkungen:
 
 : Andere Klassen 
 
----------------------------------------------------------
-Klasse       Mindestwerte          Trefferwürfel                 
------------- --------------------- ----------------------
-Assassine    ST 12, GE 12, IN 12   W6                            
+------------------------------------------------------------
+Klasse       Mindestwerte             Trefferwürfel                 
+------------ ------------------------ ----------------------
+Assassine    ST 12, GE 12,            W6                            
+             IN 12
 
-Druide       WE 12, CH 14          W6                            
+Druide       WE 12, CH 14             W6                            
 
-Mönch        ST 12, GE 15, WE 15   W4 (beginnd mit 2W4)     
+Mönch        ST 12, GE 15,            W4 (beginnend mit 2W4)     
+             WE 15
 
-Paladin      CH 17                 W10                           
+Paladin      CH 17                    W10                           
 
-Waldläufer   KO 15, IN 12, WE 12   W8 (beginnend mit 2W8)  
-
----------------------------------------------------------
+Waldläufer   KO 15, IN 12,            W8 (beginnend mit 2W8)  
+             WE 12 
+------------------------------------------------------------
 
 Völker
 ------
@@ -668,12 +717,14 @@ Klassen
 	 kombinieren.
 
 Vorteile
-:    Infravision, Geheimtüren entdecken 2/6 (im Vorbeigehen immer noch
+:    Trefferwurf +1 mit Schwertern und Bögen, Infravision,
+     Geheimtüren entdecken 2/6 (im Vorbeigehen immer noch
      1/6), Immunität gegen magische Lähmung, Elfen sprechen neben der
      Gemeinsprache auch Elfisch, Gnollisch, Hobgoblinsch und Orkisch.
+     Rettungswürfe gegen Versteinerung und Lähmung +2.
  
 Nachteile
-:    Elfen benutzen maximal einen W6 als Trefferwürfel
+:    Elfen benutzen maximal einen W8 als Trefferwürfel
 
 
 ### Halblinge
@@ -686,11 +737,13 @@ Klassen
 :    Kämpfer bis Stufe 6, Dieb unbegrenzt
 
 Vorteile
-:    +1 auf Fernkampfangriffe, Rüstungsklasse um 2 verbessert im Kampf gegen
+:    +1 auf Fernkampfangriffe, Rüstungsklasse um 2 verbessert im Kampf
+     gegen
      Kreaturen die größer als Menschen sind, Initiative +1 (falls die
      Initiative individuell ausgewürfelt wird), Verstecken in der Natur
      9/10, Verstecken im Dungeon 3/10. Halblinge sprechen die
      Gemeinsprache und natürlich die Halblingsprache.
+     Rettungswürfe gegen Gift und Todesstrahlen +2.
 
 Nachteile
 :    Halblinge benutzen maximal einen W6 als Trefferwürfel, sie können
@@ -711,6 +764,7 @@ Vorteile
      Veränderungen im Mauerwerk, dass wahrnehmen von Gefällen und
      ähnliches gemeint). Zwerge sprechen neben der Gemeinsprache auch
      Zwergisch, Gnomisch, Goblinsch und Koboldisch.
+     Rettungswürfe gegen Zaubersprüche +2.
 	 
 Nachteile
 :    Zwerge dürfen keine Zweihandschwerter, Stangenwaffen oder
@@ -720,18 +774,6 @@ Nachteile
     oder Kriegshämmer benutzen... das habe ich nie verstanden. In
     allen Romanen und Filmen hat doch *jeder* Zwerg eine zweihändige
     Axt ...
-
-Weitere Hausregeln
--------------------
-
-Spieler dürfen *jedes* OSR-kompatible Spielerhandbuch benutzen, um
-sich daraus Charakterklassen \index{Klassen} und Sprüche
-auszusuchen. 
-
-Es steht den Spielern frei, eine frei gewählte
-Volk/Klassen-Kombination, wie zum Beispiel Halbling-Dieb, oder eine
-der in Basic D&D üblichen Klassen wie zum Beispiel *Halbling*
-oder *Zwerg* zu nutzen.
 
 Gesinnung
 ---------
@@ -744,8 +786,8 @@ Systemen findet man zusätzlich noch die Achse *böse*, *neutral*, *gut*.
 
 Um möglichst gut mit den verschiedenen Systemen kompatibel zu sein,
 werden hier alle neun Gesinnungen angegeben, die das zweidimensionale
-Gesinnungssystem aus der Basic D&D Holmes Edition von 1977 und AD&D
-von 1979 bietet:
+Gesinnungssystem aus der Holmes Edition von 1977 und die *erste
+Edition* von 1979 bietet:
 
 : Gesinnungen
 
@@ -802,41 +844,193 @@ folgenden Liste zusätzliche Sprachen aussuchen.
  7. Ogerisch (die Sprache der Oger und Riesen)
  8. Koboldisch
 
-Neben den genannten Sprachen, gibt es auch für jede Gesinnung eine
-sogenannte Gesinnungssprache\index{Sprache!Gesinnungs-}. Diese sollte man sich aber wohl eher wie
-eine Art Geheimsprache vorstellen, die aus besonderen Handzeichen oder
-Gesten besteht, die jeweils den Menschen und Kreaturen einer
-bestimmten Gesinnung bekannt sind.
+Neben den genannten Sprachen, gibt es auch für jede Gesinnung
+eine sogenannte Gesinnungssprache\index{Sprache!Gesinnungs-}.
+Diese sollte man sich aber wohl eher wie eine Art Geheimsprache
+vorstellen, die aus besonderen Handzeichen oder Gesten besteht,
+die jeweils den Menschen und Kreaturen einer bestimmten Gesinnung
+bekannt sind.
 
 Magie
 -----
 
+Zauberkundige lernen ihre Sprüche durch kostspielige Ausbildung
+bei einem Meister, magische Forschung oder durch glückliche
+Zufälle während ihrer Abenteuer.  Um einen Spruch wirken zu
+können, müssen sie ihn mit Hilfe ihres Zauberbuches
+\index{Zauberbuch} studieren und sich
+einprägen\index{Zauberspruch!vorbereiten}. Wird der Spruch
+einmal gewirkt, ist der Zauberkundige in Folge der Anstrengungen
+des Spruchwirkens nicht mehr in der Lage, den gleichen Spruch
+noch einmal zu wirken, sondern der Spruch muss auf die gleiche
+Weise erneut vorbereitet werden.  Daher können Zauberkundige der
+ersten Stufe nur einen einzigen Spruch pro Tag wirken. Einmal
+gelernte Sprüche werden aus dem Gedächtnis gewirkt. Es ist also
+nicht erforderlich, dass der Zauberkundige sein Zauberbuch -
+unter umständen ein gewichtiger Foliant - mit sich herum trägt um
+vorbereitete Zauber wirken zu können. Allerdings kann er auch
+keine neuen Sprüche vorbereiten, sollte er keinen Zugriff auf
+sein Zauberbuch haben, oder dieses gar verlieren.
+
 Kleriker "lernen" ihre Sprüche durch Kontemplation und Gebet, oder wie
-sonst auch immer man seiner jeweiligen Gottheit huldigen mag.
- 
+sonst auch immer sie ihrer jeweiligen Gottheit huldigen mögen.
 Viele Klerikersprüche dienen Schutz, Gesundheit und
 Heilung\index{Heilung}. 
 Daher ist es für viele Unternehmungen lebenswichtig
 einen Kleriker dabei zu haben, und es kann taktisch klug sein,
 dem Kleriker zu helfen so schnell wie möglich die zweite Stufe zu
-erlangen. Kleriker können frei auswähleni, welchen Spruch aus der
+erlangen, damit er in die Lage versetzt wird, Sprüche wirken zu
+können. Kleriker können frei auswählen, welchen Spruch aus der
 Liste der Klerikersprüche sie an einem bestimmten Tag vorbereiten
 wollen.\index{Zaubersprüche}
 
-Um den Rahmen dieses Hefts nicht zu sprengen, gebe ich hier nur die
-bekanntesten und wichtigsten Zaubersprüche für die ersten 3
-Erfahrungsstufen von Klerikern und Zauberkundigen wieder. In
-Wirklichkeit gibt es hunderte von Zaubersprüchen - alleine in AD&D -
-und im Internet kann man viele weitere Sprüche finden.
+Einige Sprüche, sowohl die der Kleriker, als auch der
+Zauberkundigen, können umgekehrt werden. Diese Sprüche sind in den
+Tabellen mit einem Sternchen gekennzeichnet. Kleriker können
+Sprüche die sie zuvor bereits durch ihr Gebet erhalten haben
+spontan umkehren - was allerdings ihrer Gottheit nicht gefallen
+könnte. Zauberkundige müssen den umgekehrten Spruch explizit
+vorbereiten, und können ihn dann auch nur so wirken.
+
+### Spruchrollen
+
+Es kann gut sein, dass die Abenteurer auf ihren Unternehmungen
+auf Pergamentrollen geschriebene Sprüche entdecken. Vielleicht
+als Bestandteil eines Schatzes, oder man bietet ihnen 
+eine Spruchrolle zum Kauf, oder als Lohn für eine besondere
+Aufgabe an.
+
+Bei diesen Spruchrollen kann es sich um Klerikersprüche - die von
+jedem (!) gewirkt werden können - oder um Zauberkundigen-Sprüche
+handeln. Letztere können nur von Zauberkundigen benutzt werden.
+Sprüche von einer Spruchrolle werden - unabhängig von der Stufe des
+Anwenders - durch lautes Vorlesen gewirkt. Es ist also mit Hilfe
+von Spruchrollen möglich sehr mächtige Sprüche zu wirken, zu
+denen sonst gar kein Zugang bestehen würde. Auch wirken sich von
+Spruchrollen gewirkte Sprüche nicht auf das Kontingent der
+vorbereiteten Sprüche aus.
+
+Allerdings verschwindet die magische Schrift der Spruchrollen von
+dem Pergament, sobald der Spruch einmal gewirkt wurde. Sprüche
+von Spruchrollen können also nur ein einziges mal gewirkt werden.
+
+Zauberkundigen steht es frei, den Spruch - nachdem er
+mit *Magie lesen* einmalig entziffert wurde - in ihr Buch
+einzutragen, um ihn später immer wieder vorbereiten und wirken zu
+können. Auch dann verschwinden die magischen Runen allerdings von
+der Spruchrolle.
+
+Sehr erfahrene Zauberkundige und Kleriker erwerben die Fähigkeit,
+selbst Spruchrollen herzustellen.
+
+### Magische Gegenstände
+\index{Magische Gegenstände}
+
+In der Spielwelt gibt es unzählige verschiedene magische
+Gegenstände. Dabei kann es sich um Tränke und Elixiere, Ringe,
+Schmuckstücke, Zauberstäbe, magische Rüstungen, Waffen oder
+sonstige Gegenstände handeln. 
+
+Viele Gegenstände haben spruchähnliche Wirkungen wie zum Beispiel
+ein *Amulett der Unsichtbarkeit*. Zauberstäbe
+\index{Zauberstäbe} haben häufig eine 
+begrenzte Anzahl von "Ladungen" - ein *Feuerball Stab* wäre ein
+Beispiel. Manche Gegenstände wirken nur ein einziges Mal, wie zum
+Beipiel ein *Wunschring*.
+
+**Magische Rüstungen** \index{Rüstung!magische}verbessern die Rüstungsklasse. Zum Beispiel
+hätte ein magisches Kettenhemd+1 eine Rüstungsklasse von 4 statt
+5 (niedrige Rüstungsklassen sind besser als hohe). Gleichzeitig
+wirken sich magische Rüstungen weniger auf die Belastung
+\index{Belastung!Magische Rüstungen} aus.
+
+**Magische Waffen** \index{Waffen!magische} geben Aufschläge auf
+Treffer- und Schadenswurf.  Ein magischer Morgenstern+2 verbessert
+also die Trefferwahrscheinlichkeit um 10%, und verursacht immer 2
+Punkte mehr Schaden es bei einem gewöhnlichen Morgenstern der
+Fall wäre. 
+
+Da es Kreaturen gibt, die überhaupt nur mit magischen Waffen
+verletzt werden können, werden manche Unternehmungen hoffnungslos
+sein, wenn keiner der Abenteurer über eine magische Waffe
+verfügt.
+
+Manche magische Waffen haben eine besonders
+ausgeprägte Wirkung gegenüber bestimmten Kreaturen. Es wäre also
+zum Beispiel ein Magisches Schwert +1, +3 gegen Drachen denkbar.
+
+Mit magischen Schwertern \index{Schwerter!magische} hat es überhaupt eine besondere
+Bewandnis. Häufig kann man sie an einem geheimnisvollen Glimmen
+ihrer Klinge erkennen, manchmal so hell, dass sie im Dunklen
+ausreichend Licht spenden. Schwerter mit einer besonderen Wirkung
+gegen bestimmte Kreaturen werden regelrecht aufleuchten, wenn
+sich entsprechende Kreaturen in der Nähe befinden. Schließlich
+soll es Schwerter geben, die so voller Magie sind, dass sie ihrem
+Besitzer ermöglichen bestimmte Sprüche zu wirken, sie einen
+eigenen Willen haben, vielleicht sogar selbstständig Kämpfen und
+eigene Ziele verfolgen.
+
+
+### Erkennen und Identifizieren magischer Gegenstände
+
+Die meisten magischen Gegenstände sehen aus wie ganz gewöhnliche
+Gegenstände. Einige mögen mit geheimnisvollen Runen oder Symbolen
+verziert sein. 
+
+Mit einem *Magie entdecken* Spruch, kann auch ein unerfahrener
+Magier feststellen, *dass* ein Gegenstand magische Eigenschaften
+hat. Er kann jedoch nicht erkennen, genau welche!
+
+Die Wirkung magischer Gegenstände kann meistens
+durch schlichtes ausprobieren festgestellt werden, was aber auch
+Risiken birgt. Zum Beispiel könnte es passieren, dass ein
+magischer Helm nach einmaligem aufsetzen erst einmal nicht mehr
+abgenommen werden kann.
+
+Erfahrene Zauberkundige, die einen Spruch wie *Identifizieren*
+oder ein entsprechendes Ritual beherrschen, können einen
+Gegenstand genau analysieren, und dessen magischen Eigenschaften
+und Wirkungen vorhersagen.
+
+### Verfluchte Gegenstände
+
+Genauso wie Gegenstände mit nützlichen magischen Eigenschaften
+belegt sein können, kann es auch verfluchte Gegenstände geben.
+Dabei kann es sich um eher unterhaltsame Effekte handeln, wie zum
+Beispiel, dass sich die Kleidung des Betroffenen in Luft auflöst,
+oder dessen Nase plötzlich unnatürliche Propertionen annimmt. Es
+können aber auch dramatische Dinge geschehen. 
+
+Nicht ganz selten, kann der Fluch
+der auf einem magischen Gegenstand liegt, seinen Träger auf eine
+bestimmte Queste zwingen, und ihn ansonsten mit immer schlimmer
+werdenden Albträumen heimsuchen, falls er nicht alles daran setzt
+das Ziel der verfluchten Mission zu erreichen.
+
+
+
+Zaubersprüche
+-------------
+
+Die folgende Spruchauswahl orientiert sich stark an den
+ursprünglichen Regeln von 1974 bzw. an *Swords & Wizardry*. Wenn
+keine Angaben zu einem Rettungswurf oder einer
+Materialkomponenten gegeben sind, ist auch explizit kein
+Rettungswurf vorgesehen, bzw. keine Materialkomponente
+erforderlich.
+
+: Klerikersprüche des 1. Grades
 
 |   | Klerikersprüche des 1. Grades | Seite                                 |
 |---|-------------------------------|---------------------------------------|
 | 1 | Heilen leichter Wunden*        | \pageref{heilen-leichter-wunden}      |
 | 2 | Wasser und Nahrung reinigen*   | \pageref{wasser-und-nahrung-reinigen} |
 | 3 | Zauberei erkennen             | \pageref{zauberei-erkennen}           |
-| 4 | Böses erkennen*                | \pageref{böses-erkennen}              |
-| 5 | Schutz vor Bösem*              | \pageref{schutz-vor-bösem}            |
+| 4 | Böses erkennen*                | \pageref{buxf6ses-erkennen}              |
+| 5 | Schutz vor Bösem*              | \pageref{schutz-vor-buxf6sem}            |
 | 6 | Licht*                         | \pageref{licht}                       |
+
+: Zauberkundigensprüche des 1. Grades
 
 |   | Zauberkundigensprüche des 1. Grades | Seite                       |
 |---|-------------------------------------|-----------------------------|
@@ -844,42 +1038,23 @@ und im Internet kann man viele weitere Sprüche finden.
 | 2 | Magischer Riegel                    | \pageref{magischer-riegel}  |
 | 3 | Zauber lesen                        | \pageref{zauber-lesen}      |
 | 4 | Sprachen lesen                      | \pageref{sprachen-lesen}    |
-| 5 | Schutz vor Bösem*                    | \pageref{schutz-vor-bösem}  |
+| 5 | Schutz vor Bösem*                    | \pageref{schutz-vor-buxf6sem}  |
 | 6 | Licht*                              | \pageref{licht}             |
 | 7 | Person bezaubern                    | \pageref{person-bezaubern}  |
 | 8 | Schlaf                              | \pageref{schlaf}            |
 
-|    | Zauberkundigensprüche des 2. Grades | Seite                           |
-|----|-------------------------------------|---------------------------------|
-| 1  | Unsichtbares Entdecken              | \pageref{unsichtbares-erkennen} |
-| 2  | Levitation                          | \pageref{levitation}            |
-| 3  | Halluzination                       | \pageref{halluzination}         |
-| 4  | Objekt lokalisieren                 | \pageref{objekt-lokalisieren}   |
-| 5  | Unsichtbarkeit                      | \pageref{unsichtbarkeit}        |
-| 6  | Zauberschloss                       | \pageref{zauberschloss}         |
-| 7  | Böses erkennen*                      | \pageref{böses-erkennen}        |
-| 8  | ESP                                 | \pageref{esp}                   |
-| 9  | Dauerndes Licht*                    | \pageref{dauerndes-licht}       |
-| 10 | Klopfen                         | \pageref{klopfen}           |
 
-
-#### Böses erkennen*
+### Böses erkennen*
 
 Zaubergrad
 :    Kleriker 1, Zauberkundiger 2
 
-Sprechzeit
-:    1 Runde
-
 Reichweite
-:    Kleriker: 120' (36m), Zauberkkundiger 60' (18m)
+:    Kleriker: 120' (36m), Zauberkundiger 60' (18m)
 
 Dauer
 :    Kleriker: 1 Phase + 1/2 Phase pro Stufe, Zauberkundiger 5 Runden
      pro Stufe
-
-Rettungswurf
-:    keiner
 
 Materialkompenenten
 :    Der Kleriker muss sein heiliges Symbol vor sich halten
@@ -892,107 +1067,7 @@ Wirkung
      gefährlich, haben aber keine böse Ausstrahlung, es sei denn sie
      wären mit einem entsprechenden Zauber belegt. 
 
-#### Dauerndes Licht*
-
-Zaubergrad
-:    Zauberkundige 2
-
-Sprechzeit
-:    1 Runde
-
-Reichweite
-:    60' (18 m)
-
-Dauer
-:    permanent
-
-Rettungswurf
-:    Sprüche, sofern der Spruch auf ein entsprechend begabtes Geschöpf
-     gewirkt wird.
-
-Materialkompenenten
-:    keine
-
-Wirkung
-:    Erzeugt ein dauerhaftes, fast taghelles Leuchten, welches in die
-     Luft, auf einen Gegenstand oder ein Geschöpf gewirkt werden
-     kann. Wird der Spruch auf die Augen eines Geschöpfes gewirkt,
-     wird es dadurch dauerhaft geblendet. Dieser Spruch kann umgekehrt
-     werden, und erzeugt dann *Dauernde Dunkelheit*.
-
-#### ESP
-
-Stufe
-:    Zauberkundige 2
-
-Sprechzeit
-:    1 Runde
-
-Reichweite
-:    5' (1,5 m) pro Stufe
-
-Dauer
-:    1 Runde pro Stufe
-
-Rettungswurf
-:    keiner
-
-Materialkompenenten
-:    ein Kupferstück
-
-Wirkung
-:    Der Zauberkundige kann mit diesem Spruch die Gedanken eines
-     Wesens in seiner Reichweite lesen. Falls es sich um ein Tier
-     handelt, kann er nur einfache instinktartige Gedanken
-     wahrnehmen. Falls das Wesen geistlos wie zum Beispiel ein Zombie
-     ist, kann mit diesem Spruch nichts wahrgenommen werden. Der
-     Spruch wirkt schlecht durch Felsen, noch schlechter durch Metall,
-     und schon gar nicht durch Blei. Allerdings kann dieser Zauber zum
-     Beispiel erkannt werden, ob sich hinter einer Tür ein Wesen
-     aufhält, welches Gedanken, oder zumindest Instinkte hat.
-
-#### Halluzination[^phantasmal] 
-\index{phantasmal force|textit}
-
-[^phantasmal]: Dieser Spruch heißt im englischen Original *phantasmal
-    force*.
-
-Stufe
-:    Zauberkundiger 2
-
-Sprechzeit
-:    1 Runde
-
-Reichweite
-:    80' + 10' pro Stufe (24 m + 3 m)
-
-Dauer
-:    speziell
-
-Rettungswurf
-:    speziell
-
-Materialkompenenten
-:    ein Stück Schafsfell
-
-Wirkung
-:    Mit diesem Spruch erzeugt der Zauberkundige eine optische
-     Illusion, die solange bestehen bleibt, wie sich der Zauberkundige
-     darauf konzentriert, oder bis die Illusion von jemand anderem
-     berührt oder mit einem Angriff getroffen wird. Die Illusion kann
-     sich auf Wunsch des Zauberkundigen innerhalb der Reichweite
-     bewegen, und ist bis auf die Tatsache, dass sie *keine Geräusche*
-     macht, so real, dass sogar Angriffe oder Schaden, der durch die
-     Illusion verursacht werden, zu realem Schaden führen.  Der
-     Zauberkundige könnte zum Beispiel eine Fallgrube im Speeren
-     erscheinen lassen, einen Feuer-Elementar, eine Spinne mit
-     tötlichem Gift, oder gar einen feuerspeienden Drachen. Geschöpfen
-     die nicht an die Illusion glauben, steht ein Rettungswurf gegen
-     Sprüche zu. Falls der Wurf gelingt, kann ihnen die Illusion
-     nichts mehr anhaben, und sie können anderen einen Bonus von +4
-     auf deren Rettungswurf geben.
-
-#### Heilen leichter Wunden*
+### Heilen leichter Wunden*
 
 Stufe
 :    Kleriker 1
@@ -1006,12 +1081,6 @@ Reichweite
 Dauer
 :    dauerhaft
 
-Rettungswurf
-:    keiner
-
-Materialkompenenten
-:    keine
-
 Wirkung
 :    Mit diesem Spruch kann der Kleriker sich selbst oder einem
      anderen Wesen 2 - 7 (1W6+1) Trefferpunkte heilen. Es ist nicht
@@ -1023,374 +1092,208 @@ Wirkung
      seine Gottheit unter Umständen nicht damit einverstanden sein,
      dass er seine Macht nutzt um Schaden zu verursachen.
 
-#### Klopfen
+### Licht*
 
 Stufe
-:    Zauberkundige 2
-
-Sprechzeit
-:    sofort
-
-Reichweite
-:    60' (18 m)
-
-Dauer
-:    speziell
-
-Rettungswurf
-:    keiner
-
-Materialkompenenten
-:    keine
-
-Wirkung
-:    Dieser Spruch öffnet verkeilte, verbarrikadierte, mechanisch
-     verschlossene, mit einem *Magischen Riegel* oder einem
-     *Zauberschloss* verschlossene Türen, Kisten, Kästchen, Ketten
-     oder Laschen. Ist der entsprechende Gegenstand mit einem
-     *Zauberschloss* verschlossen, wird dieser Zauber nur für eine
-     Phase außer Kraft gesetzt, und die Tür ist danach erneut magisch
-     verschlossen. Bei allen anderen genannten Möglichkeiten bleibt
-     der Gegenstand dauerhaft geöffnet, kann aber natürlich erneut
-     verscchlossen oder verkeilt werden, sofern dies mechanisch
-     möglich ist. Ist ein Gegenstand auf mehr als 2 Arten
-     verschlossen, zum Beispiel durch einen Riegel, einen Keil und
-     ein Zauberschloss, sind zwei Klopfen-Sprüche erforderlich, um ihn
-     erfolgreich zu öffnen.
-
-#### Levitation
-
-Stufe
-:    Zauberkundige 2
+:    Kleriker 1, Zauberkundige 1
 
 Sprechzeit
 :    1 Runde
 
 Reichweite
-:    20' (6 m) pro Stufe
+:    120'
 
 Dauer
-:    1 Phase pro Stufe
+:    12 Runden
 
 Rettungswurf
 :    Sprüche
 
-Materialkompenenten
-:    Ein dünner Lederriemen oder ein Stück Golddraht müssen in Form
-     einer Schüssel mit Henkeln auf beiden Seiten gehalten werden.
-
 Wirkung
-:    Dieser Spruch lässt den Zauberkundigen selbst oder eine andere
-     Person bis zu einem Gewicht von 100 Pfund pro Stufe mit
-     einer Geschwindigkeit von bis zu 20' pro Runde senkrecht in die
-     Höhe steigen. Seitliche Bewegungen sind nur möglich, wenn es dem
-     Schwebenden gelingt, sich zum Beispiel an der Decke oder einem
-     Mauervorsprung abzustoßen. Die Spruchwirkung kann innerhalb der
-     Wirkdauer durch den Zauberkundigen beendet werden. Einer Person
-     die nicht mit dem Spruch einverstanden ist, steht ein
-     Rettungswurf gegen Sprüche zu.
+:    Mit diesem Spruch kann magisches Licht von der Helligkeit
+     einer Fackel erzeugt werden.  Die Lichtquelle ist selbst
+     unbeweglich, kann aber auf einen beweglichen Gegenstand, oder
+     auch auf die Augen eines Wesens gewirkt werden. In letzterem Fall
+     wird das Wesen durch den Zauber geblendet, sofern ihm ein
+     Rettungswurf misslingt.
+     Der Zauber kann umgekehrt gewirkt werden, und erzeugt dann 
+     magische Dunkelheit.     
 
-#### Licht*
+### Magischer Riegel
+
+Auch bekannt als *Hält Türen* \index{Hält Türen}\index{Magischer Riegel}.
 
 Stufe
-:    <++>
+:    Zauberkundige 1
 
 Sprechzeit
-:    <++>
+:    1 Runde
 
 Reichweite
-:    <++>
+:    20' (6 m) / Stufe
 
 Dauer
-:    <++>
-
-Rettungswurf
-:    <++>
-
-Materialkompenenten
-:    <++>
+:    1 Runde / Stufe
 
 Wirkung
-:    <++>
+:    Mit diesem Spruch werden Türen, Tore oder ähnliches für die
+Wirkdauer magisch verschlossen. Sie können immer noch mit roher
+Gewalt eingerannt werden. Ein *Klopfen* Spruch oder *Magie
+zerstören* beendet die Spruchwirkung.
 
-#### Magischer Riegel
+### Person bezaubern
 
 Stufe
-:    <++>
+:    Zauberkundige 1
 
 Sprechzeit
-:    <++>
+:    1 Runde
 
 Reichweite
-:    <++>
+:    120' (36 m)
 
 Dauer
-:    <++>
+:    bis der Zauber gebrochen wird (!)
 
 Rettungswurf
-:    <++>
-
-Materialkompenenten
-:    <++>
+:    Sprüche
 
 Wirkung
-:    <++>
+:    Eine mit diesem Spruch bezauberte Person sieht in dem
+Spruchwirker einen guten Freund und Verbündeten, für den sie sich
+innerhalb gewisser Grenzen vorteilhaft einsetzen wird. Eine
+bezauberte Person wird bemüht sein, angemessenen Bitten des
+Spruchwirkers nachzukommen, sie wird sich aber nicht kopflos in
+den Untergang stürzen. 
 
-#### Objekt lokalisieren
+
+### Schlaf
 
 Stufe
-:    <++>
+:    Zauberkundige 1
 
 Sprechzeit
-:    <++>
+:    1 Runde
 
 Reichweite
-:    <++>
+:    240' (80 m)
 
 Dauer
-:    <++>
-
-Rettungswurf
-:    <++>
+:    5 Runden pro Stufe
 
 Materialkompenenten
-:    <++>
+:    Eine Prise feiner Sand, Rosenblätter oder eine lebende Grille
 
 Wirkung
-:    <++>
+:    Der Zauber lässt 2W8 Trefferwürfel an lebenden Wesen für die
+genannte Dauer in einen Tiefschlaf verfallen. Durch Schläge oder
+Tritte können sie geweckt werden. So lange sie schlafen, kann
+ihnen aber automatisch, d.h. ohne Trefferwurf Schaden zugefügt
+werden. 
 
-#### Person bezaubern
+### Schutz vor Bösem
+
+Umkehrbar zu *Schuzt vor Gutem*
 
 Stufe
-:    <++>
-
-Sprechzeit
-:    <++>
+:    Kleriker 1, Zauberkundige 1
 
 Reichweite
-:    <++>
+:    Berührung
 
 Dauer
-:    <++>
-
-Rettungswurf
-:    <++>
+:    Kleriker 3 Runden pro Stufe, Zauberkundige 2 Runden pro Stufe
 
 Materialkompenenten
-:    <++>
+:    Um den Empfänger muss mit Weihwasser (oder Blut im Falle des
+umgekehrten Zaubers) ein 1 m
+durchmessender Kreis auf den Boden gezeichnet werden.
 
 Wirkung
-:    <++>
+:    Der Zauber gibt den Angriffswürfen von bösen Kreaturen einen
+Abzug von -2 und den Rettungswürfen des Empfängers +2. Durch eine
+magische Hülle, die den Empfänger umgibt werden verzauberte,
+beschworene oder herbeigerufene Wesen daran gehindert den
+Empfänger auch nur zu berühren.
 
-#### Schlaf
+### Sprachen lesen
 
 Stufe
-:    <++>
-
-Sprechzeit
-:    <++>
+:    Zauberkundige 1
 
 Reichweite
-:    <++>
+:    Berührung
 
 Dauer
-:    <++>
-
-Rettungswurf
-:    <++>
+:    2 Phasen
 
 Materialkompenenten
-:    <++>
+:    Eine Prise Ruß und etwas Salz
 
 Wirkung
-:    <++>
+:    Der Spruch erlaubt dem Spruchwirker, ihm unbekannte Zeichen
+und Sprachen zu entziffern. Der Spruch erlaubt nicht das
+automatische Lösen von Rätseln!
 
-#### Schutz vor Bösem
+### Wasser und Nahrung reinigen
 
 Stufe
-:    <++>
-
-Sprechzeit
-:    <++>
+:    Kleriker 1
 
 Reichweite
-:    <++>
+:    10' (3 m)
 
 Dauer
-:    <++>
-
-Rettungswurf
-:    <++>
-
-Materialkompenenten
-:    <++>
+:    permanent
 
 Wirkung
-:    <++>
+:    Mit diesem Spruch können Nahrung und Wasser für bis zu 12 Personen wieder genießbar gemacht werden, wenn sie
+zuvor verschmutzt, vergiftet oder auf andere Art kontaminiert
+wurden.
 
-#### Sprachen lesen
+### Zauberei erkennen
 
 Stufe
-:    <++>
-
-Sprechzeit
-:    <++>
+:    Zauberkundige 1, Kleriker 1
 
 Reichweite
-:    <++>
+:    Zauberkundige 60' (18 m), Kleriker 30' (9 m)
 
 Dauer
-:    <++>
+:    Zauberkundige 2 Runden pro Stufe, Kleriker 
 
-Rettungswurf
-:    <++>
-
-Materialkompenenten
-:    <++>
+Materialkomponente
+:    Zauberkundige keine, Kleriker müssen ihre heiliges Symbol
+benutzen.
 
 Wirkung
-:    <++>
+:    in einem 10' (3 m) breiten Bereich in 
+Blickrichtung werden magische Gegenstände und magische
+Ausstrahlungen erkannt. Der Spruch wird durch dicke Steinwände,
+Metall von mehr als 2 cm, und Holz von mehr als 90 cm Dicke
+blockiert.
 
-#### Unsichtbares Entdecken
+### Zauber lesen
 
 Stufe
-:    <++>
-
-Sprechzeit
-:    <++>
+:    Zauberkundige 1
 
 Reichweite
-:    <++>
+:    nur der Zauberkundige selbst
 
 Dauer
-:    <++>
+:    2 Schriftrollen oder andere einzelne Absätze magischer
+Schriftzeichen
 
-Rettungswurf
-:    <++>
-
-Materialkompenenten
-:    <++>
+Materialkomponente
+:    ein Kristallprisma
 
 Wirkung
-:    <++>
-
-#### Unsichtbarkeit
-
-Stufe
-:    <++>
-
-Sprechzeit
-:    <++>
-
-Reichweite
-:    <++>
-
-Dauer
-:    <++>
-
-Rettungswurf
-:    <++>
-
-Materialkompenenten
-:    <++>
-
-Wirkung
-:    <++>
-
-#### Wasser und Nahrung reinigen
-
-Stufe
-:    <++>
-
-Sprechzeit
-:    <++>
-
-Reichweite
-:    <++>
-
-Dauer
-:    <++>
-
-Rettungswurf
-:    <++>
-
-Materialkompenenten
-:    <++>
-
-Wirkung
-:    <++>
-
-#### Zauberei erkennen
-
-Stufe
-:    <++>
-
-Sprechzeit
-:    <++>
-
-Reichweite
-:    <++>
-
-Dauer
-:    <++>
-
-Rettungswurf
-:    <++>
-
-Materialkompenenten
-:    <++>
-
-Wirkung
-:    <++>
-
-#### Zauber lesen
-
-Stufe
-:    <++>
-
-Sprechzeit
-:    <++>
-
-Reichweite
-:    <++>
-
-Dauer
-:    <++>
-
-Rettungswurf
-:    <++>
-
-Materialkompenenten
-:    <++>
-
-Wirkung
-:    <++>
-
-#### Zauberschloss
-
-Stufe
-:    <++>
-
-Sprechzeit
-:    <++>
-
-Reichweite
-:    <++>
-
-Dauer
-:    <++>
-
-Rettungswurf
-:    <++>
-
-Materialkompenenten
-:    <++>
-
-Wirkung
-:    <++>
-
-
-
+:    Lässt die Zauberkundige magische Runen entziffern. Wenn sie
+einen Spruch auf einer Spruchrolle oder aus einem Zauberbuch
+damit einmal entziffert hat, kann genau diese magische
+Schrift fortan ohne erneutes Wirken des Spruches
+gelesen werden.
 
 
 Silber und Gold
@@ -1429,7 +1332,7 @@ umfangreiche Einkaufslisten.
 Im laufenden Spiel kann natürlich nur etwas gekauft werden, wenn auch
 ein entsprechendes Geschäft aufgesucht wurde!
 
-### Dungeon Abenteurer Basispaket
+: Dungeon Abenteurer Basispaket
 
 | Gegenstand       | Preis |
 |------------------|------:|
@@ -1446,7 +1349,7 @@ ein entsprechendes Geschäft aufgesucht wurde!
 Das Basispaket schlägt gewichtsmäßig mit **einem Belastungspunkt** zu
 Buche. Mehr dazu später unter [Belastung], Seite \pageref[belastung].
 
-### Kämpfer Basispaket
+: Kämpfer Basispaket
 
 | Gegenstand       | Spielwert         | Preis |
 |------------------|-------------------|------:|
@@ -1476,7 +1379,7 @@ be splintered* [^shields]
 
 [^shields]: http://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html
 
-### Kleriker Basispaket
+: Kleriker Basispaket
 
 | Gegenstand               | Spielwert         | Preis |
 |--------------------------|-------------------|------:|
@@ -1493,7 +1396,7 @@ Die komplette Basisausrüstung für den Kleriker kostet also 44 GM.
 Die Rüstungsklasse ist 6, und dank seines heiligen Symbols ist er in
 der Lage "Untote" zu vertreiben.
 
-### Zauberkundigen Basispaket
+: Zauberkundigen Basispaket
 
 | Gegenstand       | Spielwert   | Preis |
 |------------------|-------------|-------:|
@@ -1509,7 +1412,7 @@ der Lage "Untote" zu vertreiben.
 Die Basisausrüstung für den Zauberkundigen kostet insgesamt 34 GM. Da
 der Zauberkundige keine Rüstung trägt, ist seine Rüstungsklasse 9.
 
-### Basispaket für Diebe
+: Basispaket für Diebe
 
 | Gegenstand           | Spielwert        | Preis |
 |----------------------|------------------|-------:|
@@ -1553,7 +1456,7 @@ Bonus bei der Berechung von Erfahrungspunkten einbringt. Du erhälst
 einen Zuschlag entsprechend der folgenden Liste, wenn das
 Primärattribut deines Charakters den entsprechenden Wert hat.
 
-\index{Modifikator!Prozent}
+: Prozent-Modifikatoren
 
 | Attribut |  %-Modifikator |
 |:--------:|:-------------:|
@@ -1564,6 +1467,8 @@ Primärattribut deines Charakters den entsprechenden Wert hat.
 | 13-15    | +5 %          |
 | 16-17    | +10 %         |
 | 18       | +15 %         |
+
+\index{Modifikator!Prozent}
 
 Um es noch einmal mit einem Beispiel zu verdeutlichen: angenommen Du
 spielst einen Dieb mit Geschicklichkeit 14, also einem guten Wert im
@@ -1629,6 +1534,8 @@ Belastungspunkte vergeben. Auf der Bewegungstabelle kann dann die
 unter der gegebenen Belastung noch mögliche Geschwindigkeit 
 nachgesehen werden.
 
+: Belastungspunkte
+
 | Gegenstände                | Belastungspunkte |
 |----------------------------|:----------------:|
 | Kettenhemd, Schuppenpanzer | +1               |
@@ -1659,6 +1566,8 @@ gerechnet. In der letzten Spalte findet sich die Angabe für die Anzahl
 an Kästchen, die auf einem typischen Spielfeld pro Runde zurück gelegt
 werden kann.
 
+: Belastungsstufen
+
 -------------------------------------------------------------------------
  Belastungs-    BW (")    BW (m)    Bewegung    Bewegung     5' Kästchen
  Punkte                             pro Phase   pro Runde
@@ -1677,10 +1586,12 @@ werden kann.
 Um es noch einfacher zu machen können auch folgende Belastungsstufen
 benutzt werden:
 
+: Belastungsstufen, vereinfacht
+
 ------------------------------------------------------------------
  Ausrüstung/Gepäck   BW (m)    Bewegung   Bewegung    5' Kästchen
                               pro Phase   pro Runde
--------------------	-------- ----------- ----------- -------------
+-------------------  -------- ----------- ----------- -------------
 Unbelastet,           36 m     120'        40'            8
 kein Gepäck
  
@@ -1699,32 +1610,39 @@ und Gepäck
 Kampf
 -----
 
-### Angriffstabellen
-
-#### Kämpfer, Waldläufer, Paladine, Normale Menschen (NM)
+: Angriffstabelle Kämpfer, Waldläufer, Paladine, Normale Menschen (NM)
 
 | Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
 |-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
 |    NM | -1 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 | 20 |
 |   1-2 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
-|     3 | +1 |  9 | 10 | 11 | 12 | 14 | 15 | 15 | 16 | 17 | 18 | 19 | 20 |
-|     4 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-|  5-6  | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-|  7-9  | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 10-14 | +5 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 15-20 | +6 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
+|     3 | +1 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|   4-5 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+|    6  | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+|    7  | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+|    8  | +5 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|    9  | +6 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 10-11 | +5 |  3 | 4  | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 
+|    12 | +6 | 2  | 3  |  4 |  5 |  6 |  7 |  8 | 9  | 10 | 11 | 12 | 13 | 
+| 13-14 | +7 |  1 |  2 |  3 |  4 | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 |
+|    15 | +8 | 1  |  1 |  2 |  3 | 4  |  5 |  6 |  7 |  8 |  9 | 10 | 11 |
+|    16 | +9 | 1  |  1 |  1 |  2 | 3  |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 
+| 17-18 | +10 | 1 |  1 | 1  | 1  | 2  | 3  |  4 |  5 |  6 |  7 |  8 |  9 |
+| 19-20 | +11 | 1 |  1 | 1  | 1  | 1  | 2  | 3  |  4 |  5 |  6 |  7 |  8 |
 
-#### Kleriker, Diebe, Assassinen, Mönche und Druiden
+
+: Angriffstabelle Kleriker, Diebe, Assassinen, Mönche und Druiden
 
 | Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
 |-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
 |   1-3 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
-|   4-5 | +1 |  9 | 10 | 11 | 12 | 14 | 15 | 15 | 16 | 17 | 18 | 19 | 20 |
-|  6-10 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| 11-15 | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 16-20 | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+|   4-6 | +1 |  9 | 10 | 11 | 12 | 14 | 15 | 15 | 16 | 17 | 18 | 19 | 20 |
+|   7-9 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 10-12 | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 13-15 | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 16-18 | +5 |  5 | 6  | 7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 
-#### Zauberkundige und Illusionisten
+: Angrisstabelle Zauberkundige und Illusionisten
 
 | Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
 |-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
@@ -1773,10 +1691,11 @@ Gegenstück der ThacO für aufsteigende Rüstungsklassen.
 
 Trefferwurf = RK - AB
 
-Um mit den klassischen TSR Editionen, aber auch Swords & Wizardry, D&D
-5e, so weit wie möglich kompatibel zu sein, entspricht ein AB von 0
-einer Thac0 von 19, und wie o.g. entspricht die absteigende
-Rüstungsklasse 9 der aufsteigenden Rüstungsklasse 10.
+Um mit den klassischen TSR Editionen, aber auch Swords &
+Wizardry, der 5. Edition, so weit wie möglich kompatibel zu sein,
+entspricht ein AB von 0 einer Thac0 von 19, und wie o.g.
+entspricht die absteigende Rüstungsklasse 9 der aufsteigenden
+Rüstungsklasse 10.
 
 ### Trefferpunkte 
 
@@ -1816,6 +1735,8 @@ Fertigkeiten
 
 Dieses Fertigkeitssystem ist aus *Lamentations of the Flame Princess*
 übernommen:
+
+: Fertigkeiten
 
 | Fertigkeit             | Grundwert      |
 |------------------------|----------------|
@@ -1896,13 +1817,11 @@ der Spalte 1 eine 2, und in der Spalte 2 eine 1. Das bedeutet, dass
 ein Kleriker der vierten Stufe an einem Tag jeweils 2 Sprüche
 des 1. Grades und einen Spruch des 2. Grades wirken kann. 
 
-Kämpfer
--------
-\index{Kämpfer!Stufen}
+: Kämpfer Stufen
 
 | Stufe |             EP | TP          | AB |
 |:-----:|---------------:|:-----------:|:--:|
-| 1     |              0 | 10          | 0  |
+| 1     |              0 | 1W10        | 0  |
 | 2     |          2.000 | +1W10       | 0  |
 | 3     |          4.000 | +1W10       | 0  |
 | 4     |          8.000 | +1W10       | +1 |
@@ -1917,9 +1836,9 @@ Kämpfer
 | 13    |        720.000 | +2 TP       | +4 |
 | 14+   | +120.000/Stufe | +2 TP/Stufe | +4 |
 
+\index{Kämpfer!Stufen}
 
-#### Rettungswürfe der Kämpfer
-\index{Rettungswürfe!Kämpfer}	
+: Rettungswürfe der Kämpfer
 
 | Stufe                           | 1-3 | 4-6 | 7-9 | 10-12 | 13-15 |
 |---------------------------------|-----|-----|-----|-------|-------|
@@ -1929,13 +1848,13 @@ Kämpfer
 | Drachenodem                     | 15  | 13  | 11  | 9     | 8     |
 | Zaubersprüche, -stecken, -ruten | 16  | 14  | 12  | 10    | 9     |
 
-Kleriker
---------
-\index{Kleriker!Stufen}
+\index{Rettungswürfe!Kämpfer}	
+
+: Kleriker Stufen
 
 | Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|
-| 1     |           0 | 8     | 0  | - | - | - | - | - | - |
+| 1     |           0 | 1W8   | 0  | - | - | - | - | - | - |
 | 2     |       1.500 | +1W8  | 0  | 1 | - | - | - | - | - |
 | 3     |       3.000 | +1W8  | 0  | 2 | - | - | - | - | - |
 | 4     |       6.000 | +1W8  | 0  | 2 | 1 | - | - | - | - |
@@ -1950,9 +1869,9 @@ Kleriker
 | 13    |     600.000 | +1    | +3 | 5 | 5 | 4 | 3 | 2 | 2 |
 | 14+   | +100.000/St | +1/St | +3 | 5 | 5 | 5 | 3 | 3 | 2 |
 
+\index{Kleriker!Stufen}
 
-#### Rettungswürfe der Kleriker
-\index{Rettungswürfe!Kleriker}
+: Rettungswürfe der Kleriker
 
 | Stufe                           | 1-4 | 5-8 | 9-12 | 13-16 |
 |---------------------------------|-----|-----|------|-------|
@@ -1962,14 +1881,9 @@ Kleriker
 | Drachenodem                     | 16  | 14  | 12   | 10    |
 | Zaubersprüche, -stecken, -ruten | 15  | 13  | 11   | 9     |
 
-#### Untote vertreiben
-\index{Untote!vertreiben}
-Dazu werden zwei
-Sechser-Würfel (2W6) gewürfelt, um zu sehen ob eine bestimmte Art
-von Untoten vertrieben werden kann. In der folgenden Tabelle
-bedeutet "V", dass ein Vertreiben automatisch gelingt, und "Z"
-das die Untoten nicht nur vertrieben, sondern endgültig zerstört
-werden. 
+\index{Rettungswürfe!Kleriker}
+
+: Untote vertreiben
 
 | Stufe           | 1  | 2  | 3  | 4  | 5  | 6  | 7 | 8 | 9-10 |
 |-----------------|:--:|:--:|:--:|:--:|:--:|:--:|:-:|:-:|:----:|
@@ -1982,13 +1896,20 @@ werden.
 | Schreckgespenst | -  | -  | -  | -  | 11 | 9  | 7 | V | V    |
 | Vampir          | -  | -  | -  | -  | -  | 11 | 9 | 7 | V    |
 
-Zauberkundige
--------------
+\index{Untote!vertreiben}
+Es werden zwei
+Sechser-Würfel (2W6) gewürfelt, um zu sehen ob eine bestimmte Art
+von Untoten vertrieben werden kann. In der Tabelle
+bedeutet "V", dass ein Vertreiben automatisch gelingt, und "Z"
+das die Untoten nicht nur vertrieben, sondern endgültig zerstört
+werden. 
+
+: Zauberkundige Stufen
 \index{Zauberkundige!Stufen}
 
 | Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|
-| 1     |           0 | 4     | 0  | 1 | - | - | - | - | - |
+| 1     |           0 | 1W4   | 0  | 1 | - | - | - | - | - |
 | 2     |       2.500 | +1W4  | 0  | 2 | - | - | - | - | - |
 | 3     |       5.000 | +1W4  | 0  | 2 | 1 | - | - | - | - |
 | 4     |      10.000 | +1W4  | 0  | 2 | 2 | - | - | - | - |
@@ -2003,7 +1924,7 @@ Zauberkundige
 | 13    |     900.000 | +1    | +2 | 5 | 4 | 4 | 3 | 2 | 2 |
 | 14+   | +150.000/St | +1/St | +2 | 5 | 4 | 4 | 4 | 3 | 2 |
 
-#### Rettungswürfe der Zauberkundigen
+: Rettungswürfe der Zauberkundigen
 \index{Rettungswürfe!Zauberkundige}
 
 | Stufe                           | 1-5 | 6-10 | 11-15 |
@@ -2014,13 +1935,12 @@ Zauberkundige
 | Drachenodem                     | 16  | 14   | 12    |
 | Zaubersprüche, -stecken, -ruten | 15  | 12   | 9     |
 
-Diebe
------
+: Diebe Stufen
 \index{Diebe!Stufen}
 
 | Stufe |            EP | TP       | AB | Fertigkeitspunkte |
 |:-----:|--------------:|:--------:|:--:|:-----------------:|
-| 1     |             0 | 6        | +0 | 4                 |
+| 1     |             0 | 1W6      | +0 | 4                 |
 | 2     |         1.500 | +1W6     | +0 | +2                |
 | 3     |         3.000 | +1W6     | +0 | +2                |
 | 4     |         6.000 | +1W6     | +0 | +2                |
@@ -2035,7 +1955,7 @@ Diebe
 | 13    |       576.000 | +2       | +3 | +2                |
 | 14+   | +96.000/Stufe | +2/Stufe | +3 | +2/Stufe          |
 
-#### Rettungswürfe der Diebe
+: Rettungswürfe der Diebe
 \index{Rettungswürfe!Diebe}
 
 | Stufe                           | 1-4 | 5-8 | 9-12 | 13-16 |
@@ -2050,8 +1970,7 @@ Diebe
 Sonstige Tabellen
 =================
 
-Mehr Sprachen
--------------
+: Mehr Sprachen
 \index{Sprachen!Tabelle}
 
 ---- -------------------- ---- ----------------------
@@ -2070,7 +1989,7 @@ Mehr Sprachen
 Preislisten
 ------------
 
-### Waffen
+: Waffen
 \index{Waffen}
 
 | Waffe                              | Preis | Schaden |   Gewicht |
@@ -2079,9 +1998,9 @@ Preislisten
 | Axt, Hand-                         |  1 GM | 1W6     |   3 Pfund |
 | Keule                              |  3 GM | 1W4     |   3 Pfund |
 | Armbrust, schwer                   | 25 GM | -       |   8 Pfund |
-| Schwere Bolzen (10) in einer Kiste |  3 GM | 1W8     |   1 Pfund |
+| Schwere Bolzen (10) |  3 GM | 1W8     |   1 Pfund |
 | Armbrust, leicht                   | 16 GM | -       |   4 Pfund |
-| Leichte Bolzen (10) in einer Kiste |  3 GM | 1W6     |   1 Pfund |
+| Leichte Bolzen (10) |  3 GM | 1W6     |   1 Pfund |
 | Dolch                              |  3 GM | 1W4     |   1 Pfund |
 | Dolch, silbern                     | 30 GM | 1W4     |   1 Pfund |
 | Wurfpfeil                          |  5 SM | 1W4     | 1/2 Pfund |
@@ -2111,7 +2030,7 @@ Preislisten
 | Schwert, Zweihänder-               | 15 GM | 1W10    |  15 Pfund |
 | Dreizack                           |  4 GM | 1W6     |   4 Pfund |
 
-### Rüstungen
+: Rüstungen
 \index{Rüstung}\index{Rüstungsklasse}
 
 | Rüstung                 |  Preis | RK |  Gewicht |
@@ -2128,7 +2047,9 @@ Preislisten
 | Verstärkte Lederrüstung |  30 GM | 6  | 20 Pfund |
 | Ungerüstet              |      - | 9  |        - |
 
-### Sonstige Ausrüstung
+
+: Sonstige Ausrüstung
+\index{Ausrüstung!sonstige}
 
 | Gegenstand                                     |    Preis |    Gewicht |
 |:-----------------------------------------------|---------:|-----------:|
@@ -2181,7 +2102,7 @@ Preislisten
 | Wein (1 Liter)                                 |     1 GM |    2 Pfund |
 | Wolfsbann (1 Büschel)                          |    10 GM |          - |
 
-### Vieh und Transport
+: Vieh und Transport
 \index{Transport}\index{Tiere}
 
 |                         | Preis  |
@@ -2199,7 +2120,7 @@ Preislisten
 | Unterbringung (pro Tag) | 5 SM   |
 | Wagen, zweiachsig       | 200 GM |
 
-### Wasserfahrzeuge
+: Wasserfahrzeuge
 \index{Wasserfahrzeuge}
 \index{Boote}\index{Schiffe}
 
