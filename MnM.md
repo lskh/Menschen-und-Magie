@@ -214,19 +214,19 @@ irgendwo W100 oder W% steht, dann ist ein Paar zehnseitiger Würfel
 gemeint, bei dem der eine für die Einerstellen, und der andere für die
 Zehnerstellen benutzt wird.
 
-Um anzugeben wie viele Würfel von welcher Sorte
-für eine bestimmte Probe geworfen werden sollen, hat sich folgende
-Notation etabliert. Wenn zum Beispiel drei Sechserwürfel gemeint sind,
-schreibt man 3W6, und sagt "drei-weh-sechs", bei 2 Zwölfern
-entsprechend 2W12
-usw. Es kann auch sein, dass noch eine bestimmte Punktzahl
-hinzurechnen werden soll. Dann schreibt man zum Beispiel 1W4+3, womit
-gemeint ist, dass man einen vierseitigen Würfel wirft, und dann zu dem
-Ergebnis 3 addiert. Es müsste also eine zufällige Zahl zwischen 4 und
-7 dabei heraus kommen. In alten Regelheften und Abenteuermodulen wurde anstelle von 1W4+3 
-oft auch nur 4 - 7 angegeben. Der Leser musste dann selbst austüfteln, 
-mit welcher Kombination von Würfel und Bonus der entsprechende
-Wertebereich abgedeckt werden konnte. 
+Um anzugeben wie viele Würfel von welcher Sorte für eine
+bestimmte Probe geworfen werden sollen, hat sich folgende
+Notation etabliert. Wenn zum Beispiel drei Sechserwürfel gemeint
+sind, schreibt man 3W6, und sagt "drei-weh-sechs", bei 2 Zwölfern
+entsprechend 2W12 usw. Es kann auch sein, dass noch eine
+bestimmte Punktzahl hinzurechnen werden soll. Dann schreibt man
+zum Beispiel 1W4+3, womit gemeint ist, dass man einen
+vierseitigen Würfel wirft, und dann zu dem Ergebnis 3 addiert. Es
+müsste also eine zufällige Zahl zwischen 4 und 7 dabei heraus
+kommen. In alten Regelheften und Abenteuermodulen wurde anstelle
+von 1W4+3 oft auch nur 4 - 7 angegeben. Der Leser musste dann
+selbst austüfteln, mit welcher Kombination von Würfel und Bonus
+der entsprechende Wertebereich abgedeckt werden konnte. 
 
 [^2]: Ich glaube, dass es in diesem Spiel im Grunde um das 
     Durchspielen, oder
@@ -988,8 +988,6 @@ erforderlich.
 
 : Klerikersprüche des 1. Grades
 
-: Klerikersprüche des 1. Grades
-
 |   | Klerikersprüche des 1. Grades | Seite                                 |
 |---|-------------------------------|---------------------------------------|
 | 1 | Heilen leichter Wunden*        | \pageref{heilen-leichter-wunden}      |
@@ -1012,24 +1010,6 @@ erforderlich.
 | 7 | Person bezaubern                    | \pageref{person-bezaubern}  |
 | 8 | Schlaf                              | \pageref{schlaf}            |
 
-<<<<<<< HEAD
-=======
-: Zauberkundigensprüche des 2. Grades
-
-|    | Zauberkundigensprüche des 2. Grades | Seite                           |
-|----|-------------------------------------|---------------------------------|
-| 1  | Unsichtbares Entdecken              | \pageref{unsichtbares-erkennen} |
-| 2  | Levitation                          | \pageref{levitation}            |
-| 3  | Halluzination                       | \pageref{halluzination}         |
-| 4  | Objekt lokalisieren                 | \pageref{objekt-lokalisieren}   |
-| 5  | Unsichtbarkeit                      | \pageref{unsichtbarkeit}        |
-| 6  | Zauberschloss                       | \pageref{zauberschloss}         |
-| 7  | Böses erkennen*                      | \pageref{buxf6ses-erkennen}        |
-| 8  | ESP                                 | \pageref{esp}                   |
-| 9  | Dauerndes Licht*                    | \pageref{dauerndes-licht}       |
-| 10 | Klopfen                         | \pageref{klopfen}           |
-
->>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 
 #### Böses erkennen*
 \index{Böses erkennen}
@@ -1082,50 +1062,6 @@ Wirkung
      seine Gottheit unter Umständen nicht damit einverstanden sein,
      dass er seine Macht nutzt um Schaden zu verursachen.
 
-#### Licht*
-\index{Licht*}
-
-
-Stufe
-:    Kleriker 1, Zauberkundige 1
-
-Sprechzeit
-:    1 Runde
-
-Reichweite
-:    120'
-
-Dauer
-:    12 Runden
-
-Rettungswurf
-:    Sprüche
-
-<<<<<<< HEAD
-Wirkung
-:    Mit diesem Spruch kann magisches Licht von der Helligkeit
-     einer Fackel erzeugt werden.  Die Lichtquelle ist selbst
-     unbeweglich, kann aber auf einen beweglichen Gegenstand, oder
-     auch auf die Augen eines Wesens gewirkt werden. In letzterem Fall
-     wird das Wesen durch den Zauber geblendet, sofern ihm ein
-     Rettungswurf misslingt.
-     Der Zauber kann umgekehrt gewirkt werden, und erzeugt dann 
-     magische Dunkelheit.     
-=======
-Materialkompenenten
-:    Ein dünner Lederriemen oder ein Stück Golddraht müssen in Form
-     einer Schüssel mit Henkeln auf beiden Seiten gehalten werden.
-
-Wirkung
-:    Dieser Spruch lässt den Zauberkundigen selbst oder eine andere
-     Person bis zu einem Gewicht von 100 Pfund pro Stufe mit
-     einer Geschwindigkeit von bis zu 20' pro Runde senkrecht in die
-     Höhe steigen. Seitliche Bewegungen sind nur möglich, wenn es dem
-     Schwebenden gelingt, sich zum Beispiel an der Decke oder einem
-     Mauervorsprung abzustoßen. Die Spruchwirkung kann innerhalb der
-     Wirkdauer durch den Zauberkundigen beendet werden. Einer Person
-     die nicht mit dem Spruch einverstanden ist, steht ein
-     Rettungswurf gegen Sprüche zu.
 
 #### Licht*
 
@@ -1154,7 +1090,6 @@ auf die Augen eines Wesens gewirkt werden. In letzterem Fall wird das Wesen durc
 geblendet, sofern ihm ein Rettungswurf misslingt.
 
      Der Zauber kann umgekehrt gewirkt werden, und erzeugt dann magische Dunkelheit.     
->>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 
 #### Magischer Riegel
 \index{Magischer Riegel}
@@ -1509,13 +1444,8 @@ Bonus bei der Berechung von Erfahrungspunkten einbringt. Du erhälst
 einen Zuschlag entsprechend der folgenden Liste, wenn das
 Primärattribut deines Charakters den entsprechenden Wert hat.
 
-<<<<<<< HEAD
 : Prozent-Modifikatoren
 
-=======
-\index{Modifikator!Prozent}
-: Prozent-Modifikatoren
->>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 | Attribut |  %-Modifikator |
 |:--------:|:-------------:|
 | 3        | -15 %         |
@@ -1541,63 +1471,289 @@ ermöglicht einem Charakter schneller höhere Stufen zu erreichen.
 Ins Abenteuer ziehen
 ====================
 
-Zeit, Bewegung und Belastung
-----------------------------
+Grob gesagt kann man die Geschehnisse einer Spielrunde meistens
+in eine von drei Kategorien einteilen. Das Stadtabenteuer, das
+Erkunden von Höhlen und Verliesen, auch bekannt als *Dungeon
+Crawl* und drittens das Wildnisabenteuer, oder die Überlandreise.
 
-Das Vergehen von Zeit im Spiel kann manchmal ganz einfach abgehandelt
-werden, zum Beispiel in dem der Spielleiter sagt: "Eure zweitägige
-Reise verläuft ohne besondere Zwischenfälle". 
+In einem typischen Old School Spiel gibt es keinen vorgefertigten
+Plot für ein bestimmtes Abenteuer. Vielmehr kannst Du davon
+ausgehen, dass die Spielleiterin eine sogenannte *Sandbox*
+vorbereitet hat. Das ist ein mehr oder weniger großer Ausschnitt
+einer Fantasy-Welt mit allen möglichen interessanten Orten,
+gefährlichen Kreaturen und verborgenen Schätzen, in der sich die
+Spielerfiguren frei bewegen können. Der Spielleiter wird
+vielleicht mehr oder weniger offensichtlich 
+sogenannte "Plot-Hooks" \index{Plot-Hook}- also Aufhänger - 
+anbieten, aber was ihr
+tatsächlich unternehmt, welchem Plot-Hook ihr vielleicht folgt,
+ist ganz alleine Eure Entscheidung als Spieler. 
+
+Stadtabenteuer
+--------------
+
+Typischerweise beginnt eine Spielsession in der Taverne einer 
+menschlichen Ansiedlung. Das mag etwas abgedroschen klingen, ist
+aber aus verschiedenen Gründen sehr wirkungsvoll um ins Spiel 
+zu kommen. 
+
+Während Ihr - Du
+merkst ich spreche Dich jetzt als dein Spielcharakter an - also
+in der Taverne sitzt, und Euch von dem alten einbeinigen Mann
+mit der Augenklappe sagenhafte alte Geschichten erzählen lasst,
+sind wir ganz klar im ersten Spielmodus, dem Stadtabenteuer. Es
+geht darum, sich zu orientieren, Gerüchte (höchst wahrscheinlich
+Plot-Hooks) in Erfahrung zu
+bringen, vielleicht einen Auftraggeber für einen gut bezahlten
+Job zu finden und Einkäufe zu erledigen um die Ausrüstung
+vielleicht noch zu verbessern. Vielleicht muss ein verletzter
+Gefährte noch ein paar Tage rasten, bevor ihr aufbrechen könnt.
+
+In dieser Spielphase wird meistens kaum gewürfelt, sondern es ist
+die Zeit für intensives Rollenspiel. Komm' mit dem alten Mann ins
+Gspräch, bestelle großzügig eine Runde beim Wirt für deine
+Gefährten. Du kannst - und solltest auch versuchen mit anderen
+Personen ins Gespräch zu kommen. Gebe deinem Charakter eine
+Stimme, probiere verschiedene Stimmlagen aus, vielleicht einen
+Akzent, eine ulkige Redensart, lass ihn oder sie persönliche 
+Markenzeichen entwickeln. Und noch ein kleines Geheimnis 
+zum *Alten Mann*: er ist das geheime Sprachrohr der
+Spielleiterin. Es könnte sein, dass sie Euch - in der
+Rolle des alten Mannes - entscheidende Hinweise zuraunt. Aber
+umgekehrt könnt ihr auch den alten Mann fragen, wenn ihr Fragen
+als an den Spielleiter habt. Insbesondere wenn Du noch nie so ein
+Rollenspiel gespielt hast, und alles ganz schön verwirrend
+findest. Versuche Deine Frage aus Sicht deiner Spielerfigur zu
+formulieren, und frag' den alten Mann in der Taverne!
+\index{Taverne!alter Mann in der -} Du kannst
+natürlich gerne auch jeden anderen NSC ansprechen (so
+werden die Nicht-Spieler-Charaktere\index{NSC}, also die Figuren, 
+die von
+der Spielleitung geführt werden, genannt). Alle NSC
+können als geheime Telegrafieleitung zum Spielleiter genutzt
+werden. Insbesondere der Aufenthalt in der Taverne dient letzlich
+dazu, Euch eine Idee zu geben, was ihr unternehmen könnten, und
+so dem Spiel eine Richtung zu geben.
+
+Neben dem ganzen Gequatsche können Stadtabenteuer aber auch
+wirklich abenteuerlich sein. Vielleicht kommt es in der Taverne
+zu einer Schlägerei, oder ihr werdet auf dem Weg in Euer
+Nachtquartier von Straßenräubern überfallen. Und nicht selten
+findet sich der Eingang zum nächsten Dungeon gleich im Keller
+unter der Taverne. Wenn ihr's nicht glaubt könnt ihr ja mal nach
+sehen. Schließlich sind Städte und Dörfer oft die Orte wo es in
+wirklichkeit das meiste Gold gibt. Ist ja auch logisch: wenn
+Heerscharen von Abenteurern in Grotten und Wildnis ausziehen um
+Gold zu finden, müssen sie es ja am Ende irgendwo hin bringen.
+Unsere Regel ist ja auch, dass nur ausgegebenes Gold für das
+Ansammlung von Erfahrung zählt [^dieb]
+
+[^dieb]: Wenn Du ein Dieb bist, kannst Du ja an dieser Stelle mal
+    über den Pfandleiher gleich neben dem Juvelier gegenüber vom
+    Kontor des Stadtkämmerers nachdenken, oder zumindest über die
+    Schatulle des Tavernenwirts. Da ergibt sich vielleicht ein ganz
+    eigenes kleines Abenteuer für Dich!
+
+Womit wir bei einem wichtigen Aspekt des Stadtabenteuers wären:
+Aufenthalte in der Stadt kosten Geld. Tu' dem Spielleiter einen
+riesen Gefallen und führe während der Phase des Stadtabenteuers
+selbst Buch über deine Ausgaben. Jede Übernachtung kostet ein paar
+Münzen, und auch jede Mahlzeit. Der Wirt wird Dir schon sagen,
+was Du zu zahlen hast (Sprachrohr...). Sollte Dir das Geld
+ausgehen, sei nicht betrübt, das ist der Sinn der Sache! Erstens
+verdienst Du Erfahrungspunkte, und zweitens musst Du dich jetzt
+umschauen: nach einem Job, dem Beutel deines Nachbarn, oder nach
+dem Pfandleiher - und schon geht das Abenteuer los. 
+
+Wenn Du ein echter *Munchkin*[^munchkin]\index{Munchkin} bist, 
+dann ziehst Du
+natürlich bevorzugt ins nächste Dungeon, verprügelst ein paar
+Monster, nimmst ihnen ihr Gold weg, und bezahlst dann damit deine
+offene Rechnung beim Tavernenwirt - der alte Mann mit 
+dem Papagei auf der Schulter wird stolz auf Dich sein! 
+
+[^munchkin]: So nennen Rollenspiel-Nerds die bis aufs letzte
+    Detail optimierten Charaktere erfahrener Spieler. Rüstungsklasse
+    -1 durch magische Rüstung und Geschicklichkeitsbonus, 30
+    Trefferpunkte, Angriffsbonus +6 durch Stufe, Stärkebonus 
+    und *Ring der Unsichtbarkeit*, extra Schaden mit der magischen 
+    *Axt der vielfachen Zerteilung* und durch 
+    die *Ogerkraft-Handschuhe* ...
+
+
+Der Dungeon Crawl
+-------------------
+\index{Dungeon Crawl}
+
+Im Stadtabenteuer wird der Verlauf der Zeit häufig stark
+abstrahiert. Der Spielleiter erzählt vielleicht einfach, dass ihr
+"noch zwei weitere Tage" mit Vorbereitungen verbringt, um dann
+aufzubrechen. Vielleicht wird grob in vormittags, nachmittags und
+abends eingeteilt.
+
+Sobald sich das Geschehen der Handlung aber an einen 
+gefährlichen Ort wie eben ein typische Verlies - einen *Dungeon* -
+verlagert, bekommt das Spiel einen anderen Rhyhmus.
 
 ### Spielphasen
-
 \index{Phase}
 
-In bestimmten
-Situationen aber, insbesondere wenn eine gefährliche Umgebung wie ein
-Dungeon erkundet wird, verläuft die Spielzeit in sogenannten Phasen,
-die jeweils 10 Minuten dauern. Das ist wichtig, weil zum Beispeil
-typischerweise in jeder 3. Phase durch einen Würfelwurf geprüft wird,
-ob es zu einer zufälligen Begegnung kommt.
+Der Spielleiter beginnt nun das Geschehen in jeweils 10-minütige
+Phasen einzuteilen. Alles wofür die Spielercharaktere *in der
+Spielwelt* ungefähr 10 Minuten benötigen wird als Phase gezählt.
+Das kann in Realzeit schnell abgehandelt sein, zum Beispiel wenn
+die Spieler erklären, dass sie einen Raum gründlich absuchen,
+oder einfach erzählt wird: "ihr bewegt Euch vorsichtig weitere 60
+Fuß den Gang hinunter". In beiden Fällen sind *in game* jeweils
+10 Minuten - also eine Phase - vergangen[^phase]. Andererseits
+kann aber eine Phase auch *echte* 10 Minuten beanspruchen, zum
+Beispiel wenn Die Charaktere vor einer verschlossenen Tür stehen
+und *in Echtzeit* diskutieren, ob sie die Tür nun einrennen
+sollen, oder nicht. Schließlich kann eine Phase auch mehr als 10
+Minuten Realzeit in Anspruch nehmen, nämlich dann, wenn es sich
+um eine Aktion handelt, die *in game* zwar sicher nicht mehr als
+10 Minuten in Anspruch nehmen würde, aber am Spieltisch in
+Realzeit mehr als zehn Minuten braucht, um in allen Einzelheiten
+durchgespielt zu werden.
 
-Meistens wird das Verstreichen von einer Phase daran fest gemacht,
-dass die Charaktere eine bestimmte Strecke zurück gelegt haben. Aber
-wenn die Charactere zum Beispiel vor einer Tür stehen, und die
-*Spieler* 10 Minuten lang diskutieren, was jetzt zu unternehmen sei,
-dann kann auch das als Phase veranschlagt werden, und es wäre nicht
-ganz ungewöhnlich, wenn die Charaktere nach 10 Minuten Diskussion in
-einer gefährlichen Umgebung plötzlich von einem zufällig vorbei
-kommenden Monster überrascht werden.
+Die Einteilung in Phasen ist Spielmechanisch aus verschiedenen
+Gründen wichtig. Die Geschwindikeit, mit der sich die
+Abenteurer durch einen Dungeon bewegen können, wird in *Fuß pro
+Phase* gemessen - selten auch in Meter pro Phase. Wurde also eine
+bestimmte Distanz im Dungeon zurück gelegt, ist entsprechend auch
+eine bestimmte Anzahl Phasen verstrichen, egal wie lange das
+Spiel in Realzeit gedauert hat. Es wird angenommen, dass die
+Charaktere nach 5 Phase *Dungeon Crawling* eine Pause von der
+Dauer einer Phase benötigen, um nicht zu erschöpfen - was 
+natürlich zu Abzügen bei den  nächsten Würfelproben führen könnte. 
 
-Die Bewegung in einer Phase findet relativ langsam statt. In den
-abstrakten Ablauf einer Phase werden Tätigkeiten wie das Suchen nach
-Fallen, beobachten der Umgebung, Zeichnen einer Karte, immer wieder
-stehen bleiben um zu Lauschen und ähnliches einkalkuliert.
+Und schließlich wird auch das Geschehen der Spielwelt durch das
+Verstreichen von Phasen angetrieben. Die Spielleitung wird
+nämlich typischerweise alle zwei bis drei Phasen würfeln um zu
+prüfen ob es zu einer zufälligen Begegnung
+\index{Zufallsbegegnung} zum Beispiel mit einem sogenannten
+"wandernden" Monster \index{Monster!wandernde} kommt.  Wandernde
+Monster - dabei kann es sich um ein oder mehrere echte Monster,
+aber auch sonstige NSC, oder auch mal um eine konkurierende, vom
+Spielleiter geführte Abenteurergruppe handeln - lassen die
+Spielwelt lebendig erscheinen. Es wäre ja ungewöhnlich wenn die
+Monster immer nur dann in Erscheinung träten, wenn sie von den
+Abenteurern aktiv aufgesucht werden. Sicherlich haben auch
+*Goblins* ihre eigenen Angelegenheiten zu erledigen. 
 
-### Kampfrunden
-\index{Kampfrunde}
+[^phase]: Die Bewegung in einer Phase findet relativ langsam
+    statt. In den abstrakten Ablauf einer Phase werden Tätigkeiten
+    wie das Suchen nach Fallen, beobachten der Umgebung, Zeichnen
+    einer Karte, immer wieder stehen bleiben um zu Lauschen und
+    ähnliches einkalkuliert.
 
-Kommt es zu einem Kampf wird gewissermaßen auf Zeitlupe umgeschaltet,
-denn dann wird die Zeit in *Runden* gemessen, die ungefähr 10 Sekunden
-Realzeit entsprechen. Auch hier wird abstrahiert. Zehn Sekunden sind
-in einem wilden Schwertkampf eine lange Zeit, sicherlich Zeit für
-mehrere abwechselnde Schwerthiebe, Finten, Zwischenrufe und ähnliches.
+### Karten zeichnen
+
+Während Ihr ein Dungeon oder eine ähnliche unbekannte Umgebung
+erkundet, solltet ihr unbedingt eine Karte zeichnen. Sprecht Euch
+als Gruppe ab, wer den Job des Kartenzeichners übernimmt.
+Traditonell wird das Kartenzeichnen als *in game* Tätigkeit
+aufgefasst. Das heißt, während Du als Spieler mit einem Bleistift
+in der Hand auf einem Stück Karo-Papier zeichnest, 
+schreitet Dein Charakter mit vorsichtigen
+Schritten und vielleicht einem Stück Baumrinde und einem rußigen
+Stöckchen in der Hand durch die Höhle, beobachtet, und schätzt,
+versucht alle Details zu erfassen um sie auf seiner "Karte" fest
+zu halten. 
+
+Prädestiniert für diese Aufgabe sind natürlich die
+Zauberkundigen, da sie sich in gefährlichen Umgebungen ohnehin
+lieber nicht in der ersten Reihe aufhalten sollte, in der
+Regel des Schreibens mächtig sind und wahrscheinlich auch Feder,
+Tinte und vielleicht sogar ein Stück Pergament bei sich haben - 
+schließlich haben sie studiert.
+
+Um eine Karte zu zeichnen höre genau zu, was die Spielleiterin
+sagt. Sie wird zu Beispiel erzählen:
+
+> "... nachdem ihr die Treppe hinunter gestiegen seid, und 
+> ungefähr 40 Fuß in westlicher Richtung zurück
+> gelegt habt ist der Weg vor Euch mit Gitterstäben versperrt
+> allerdings zweigt in nördlicher Richtung ein Gang ab.
+>  
+> Alle Gänge hier sind übrigens ungefähr 10 Fuß hoch und
+> 10 Fuß breit. 
+> 
+> Etwa 30 Fuß in nördlicher Richtung, soweit wie das
+> Licht eurer Fackeln reicht, erkennt ihr auf der Westseite eine
+> Tür und auf der Ostseite scheinbar eine weitere Abzweigung
+> ..."
+
+Deine Zeichnung könnte also nun zum Beispiel ungefähr so
+aussehen wie in Abbildung 1. Ihr steht gerade da, wo die "1" ist,
+und schaut nach Norden.
+
+![Beispiel-Dungeon Karte](img/Map1.png){ width=50% }
+
+10 Fuß pro Kästchen ist ein sehr üblicher Maßstab zum
+Kartenzeichnen, und 10 Fuß Breite und 10 Fuß Höhe ist auch das
+weit verbreitete Standard-Maß für die Gänge eines Dungeons. 
+Wenn Du keine Angaben zur Breite eines Ganges erhalten hast, dann
+geh davon aus, dass er 10 Fuß breit ist. Genauso kannst Du davon
+ausgehen, dass Abzweigungen rechtwinkelig verlaufen, wenn hierzu
+keine speziellen Angaben gemacht wurden.
+
+Da Du am Anfang noch nicht weißt, in welche
+Richtung euch die Gänge führen werden, fange einfach in der Mitte
+des Blattes an. Wahrscheinlich musst Du dann relativ bald irgend
+wo ein neues Blatt anbauen, aber das macht nichts.
+
+Für die Charaktere ist das Anfertigen einer Karte die
+Voraussetzung, sich überhaupt im Dungeon zu recht
+zu finden. Nur so können sie im Notfall auch den Weg zum 
+Ausgang wieder finden. Dir als Spieler - und natürlich der ganzen
+Spielrunde - hilft es, sich das Ganze besser vorstellen zu können.  
+
+Es kommt überhaupt nicht darauf an, dass die Karte genau mit der
+geheimen Karte des Spielleiters übereinstimmt. Die Charaktere
+laufen ja schließlich nicht mit Messlatten durch den Dungeon,
+sondern schätzen grob wie viele Schritte sie von einer zur
+nächsten Abzweigung zurück gelegt haben. Genauso grob darf Eure
+Karte gerne sein. Vielleicht hat der
+Spielleiter ja auch gar keine Karte und improvisiert gerade - wer
+weiß das schon. 
+
+Wenn Dir etwas zu den räumlichen Bedingungen unklar ist, kannst
+Du den Spielleiter fragen - am besten solltest Du dies in eine
+Handlung deines Charakters verpacken:
+
+> "ich konnte nicht genau erkennen, ob nicht auf der Südseite
+> doch noch eine Tür ist. Ich schau mir den Raum nochmal genau
+> an, was sehe ich?"
+
+Wenn dann immer noch etwas unklar ist, konnten die Charaktere
+eben einfach nicht alles genau erfassen. So ist das Leben im
+Dungeon nun einmal. Der Spielleiter sollte wirklich nur in
+Ausnahmefällen selbst auf Eurer Karte etwas einzeichnen, oder
+korrigieren.
 
 ### Belastung
 \index{Belastung}
 
+Je nach dem wie viel Ausrüstung und Schätze die Abenteurer mit
+sich herum schleppen, sind sie mehr oder weniger *belastet*.
+Charaktere mit einer höheren Belastung können sich weniger
+Schnell bewegen, als Charaktere mit weniger Belastung. Die alten
+Regeln zur Belastung waren ziemlich aufwendig, es musste das
+Gewicht jedes einzelnen Gegenstandes festgehalten festgehalten
+und zusammengerechnet werden, um die Gesamtbelastung zu 
+ermitteln - eine Buchhaltungsorgie!
+
 Das folgende Belastungssystem ist aus *Lamentations of the Flame
 Princess* übernommen. Es ist mit den früheren Regeln zur Belastung
-kompatibel, aber wesentlich leichter zu handhaben, da nicht so viel
-gerechnet werden muss. Für bestimmte Gegenstände werden
+kompatibel, aber viel leichter zu handhaben. 
+Für bestimmte Gegenstände oder Gruppen von Gegenständen werden
 Belastungspunkte vergeben. Auf der Bewegungstabelle kann dann die
 unter der gegebenen Belastung noch mögliche Geschwindigkeit 
 nachgesehen werden.
 
 : Belastungspunkte
-<<<<<<< HEAD
 
-=======
->>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 | Gegenstände                | Belastungspunkte |
 |----------------------------|:----------------:|
 | Kettenhemd, Schuppenpanzer | +1               |
@@ -1608,13 +1764,14 @@ nachgesehen werden.
 | > 20 kleine Gegenstände    | +4               |
 | 1 übergroßer Gegenstand    | +1               |
 
-Normale Kleidung, leichtere Rüstung als Kettenhemd werden nicht extra
+Normale Kleidung, und Rüstung die leichter ist als ein 
+Kettenhemd werden nicht extra
 gezählt. Mengen von gleichen kleinen Gegenständen wie zum Beispiel
 Pfeile, Krähenfüße oder Armbrustbolzen zählen als jeweils ein
 Gegenstand. Als übergroße Gegenstände gelten zweihändige Waffen, und
 gegenerell jeder Gegenstand, der mit zwei Händen getragen werden muss,
 wie zum Beispiel eine Truhe. Sehr leichte Gegenstände wie zum Beispiel
-eine Schreibfeder werden nicht gezählt.
+eine Schreibfeder, oder einzelne Pergamentrollen werden gar nicht gezählt.
 
 ### Bewegung
 \index{Bewegung}
@@ -1629,10 +1786,7 @@ an Kästchen, die auf einem typischen Spielfeld pro Runde zurück gelegt
 werden kann.
 
 : Belastungsstufen
-<<<<<<< HEAD
 
-=======
->>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 -------------------------------------------------------------------------
  Belastungs-    BW (")    BW (m)    Bewegung    Bewegung     5' Kästchen
  Punkte                             pro Phase   pro Runde
@@ -1652,10 +1806,7 @@ Um es noch einfacher zu machen können auch folgende Belastungsstufen
 benutzt werden:
 
 : Belastungsstufen, vereinfacht
-<<<<<<< HEAD
 
-=======
->>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 ------------------------------------------------------------------
  Ausrüstung/Gepäck   BW (m)    Bewegung   Bewegung    5' Kästchen
                               pro Phase   pro Runde
@@ -1674,6 +1825,165 @@ und Gepäck
 Plattenrüstung         9 m     30'         10'            2
 und Gepäck
 ------------------------------------------------------------------ 
+
+
+Wildnisabenteuer
+----------------
+\index{Wildnisabenteuer}
+
+Entscheidet Ihr euch in die Ferne zu ziehen, um vielleicht weiter
+entfernte Ruinen zu erforschen, von denen Euch der alte Mann in 
+der Taverne erzählt hat, beginnt ein Wildnisabenteuer.
+
+In diesem Spielmodus wird nicht jeder einzelne Schritt
+ausgespielt, sondern ihr erklärt wie, ob zu Fuß oder zu Pferd, und 
+in welche Richtung ihr Euch bewegen wollt, und die Reise findet
+dann quasi im Zeitraffer statt. 
+Der Spielleiter beschreibt Euch die
+Landschaft, durch die ihr Reist, und erzählt wem ihr
+begegnet, und was sich sonst an Ereignissen auf Eurer Reise
+ergeben mögen, denn auch wenn ihr in der Wildnis unterwegs seid,
+würfelt der Spielleiter in bestimmten Intervallen auf
+Zufallsbegegnungen.
+
+Seid darauf gefasst, dass Begegnungen in der Wildnis durchaus
+gefährlich sein können. Auf ausgetretenen Routen zwischen zwei
+Ortschaften werdet ihr vielleicht eher Probleme mit Wegelagerern
+haben, aber abseits der Straßen könntet ihr durchaus einmal
+unerwartet einem Riesen oder einem Drachen gegenüberstehen.
+
+Natürlich kann es auch gut sein, dass ihr auf Eurer Reise durch die
+Wildnis eine Höhle oder eine alte Rouine entdeckt, dann wären wir
+wieder beim Dungeon Crawl. Oder ihr erreicht eine benachbarte
+Ortschaft, so dass das Spiel wieder auf Stadtabenteuer
+umschaltet.
+
+Um es mit den Richtungsangaben 
+einfacher zu haben, werden Wildniskarten traditionell auf Papier mit
+Sechseck-Raster gezeichnet. Deshalb wird dieser Spielmodus auch
+*Hex crawl* \index{Hex crawl} genannt.  
+Meistens wird das Raster so ausgerichtet,
+dass die Hexfelder auf der Seite liegen (und nicht auf der Spitze
+stehen). Entsprechend hätte also jedes Hexfeld eine Nord- eine
+Süd-, eine Nordost-, eine Südost, und eine Nordwest- und eine
+Südwest-Seite. Und an genau diese Himmelsrichtungen wird sich 
+der Spielleiter in seiner Beschreibung halten.
+
+Abbildung \ref{hexmap-1} zeigt eine Karte wie Du sie zum
+Beispiel gezeichnet haben könntest, nachdem der Spielleiter Euch
+folgende Beschreibung gegeben hat:
+
+> "... ihr habt das Dorf in nordwestlicher Richtung verlassen. Im
+> Nordosten seht ihr eine Gebirgskette, die in nordwestlicher
+> Richtung verläuft. Im Südwesten seht ihr, dass das Land nach
+> einigen Meilen zu einer Hügellandschaft ansteigt. Weit vor Euch
+> im Nordwesten seht ihr ebenfalls einige Berge..."
+
+![Wildniskarte 1\label{hexmap-1}](img/HexMap1.png){ width=80% }
+
+Ihr entscheidet Euch, die Ebene in Richtung der Berge im
+Nordwesten zu durchqueren. Der Spielleiter erzählt:
+
+> "... nach ereignisloser Wanderung erreicht ihr am späten
+> Nachmittag den Fuß der Berge im Nordwesten. Nun seht ihr, dass
+> im Norden ein dichter Wald beginnt ..."
+
+Abbildung \ref{hexmap-2} zeigt, wie die Karte nun aussieht.
+Du konntest lediglich im Norden ein Symbol für dichten Wald
+ergänzen, denn durch die ganzen Bäume oder auch die Berghänge im
+Nordosten und im Nordwesten kann man ja nicht weit gucken.
+
+![Wildniskarte 2\label{hexmap-2}](img/HexMap2.png){ width=80% }
+
+Nach einer unruhigen Nacht, während der ihr abwechselnd Wache
+gehalten habt, seid Ihr am nächsten Tag aufgebrochen, um den
+Wald in nordöstlicher Richtung zu durchqueren. Nur mit Glück
+konntet ihr auf dem Weg im letzten Moment einem Grünen 
+Drachen[^drache] ausweichen, der irgendwo in dem Wald sein Lager zu 
+haben scheint. Abends schließlich erreicht ihr einige Hügel im
+Nordosten des Waldes, von wo aus ihr eine weitere größere Ebene
+in nordöstlicher Richtung überblicken könnt. Viele Meilen im Nordosten
+seht ihr im Dunst, von der Abendsonne angeleuchtet, die Silhuette
+einer Stadt ...
+
+Aber wo wir gerade beim Thema waren: ihr solltet immer Wachen
+aufstellen, wenn ihr in der Wildnis kampiert, denn auch für jede
+Nacht wird die Spielleiterin auf wandernde Monster würfeln.
+Typischerweise wird die Nacht in drei Wachen eingeteilt: Abend,
+tiefe Nacht, auch bekannt als "Hundewache" und die Morgenstunden. 
+
+[^drache]: Ihr solltet Euch eine Notiz machen, dass ihr in diesem
+Hexfeld einen Drachen gesehen habt. Entweder weil ihr in Zukunft
+lieber vermeiden wollt, diese Gegend zu bereisen, oder weil ihr
+Euch überlegt, nach gründlicher Planung und Zusammenstellung
+einer entsprechenden Ausrüstung auf Drachenjagd zu gehen. 
+
+Abbildung \ref{hexmap-3} zeigt, wie die Karte
+nun aussieht.
+
+![Wildniskarte 3\label{hexmap-3}](img/HexMap3.png){ width=80% }
+
+Du siehst, dass man offensichtlich über weite Ebenen, oder erst
+Recht von erhöhten Positionen weiter gucken kann, und so auch
+Informationen über weiter entfernte Hexfelder erhalten kann.
+Befindet man sich dagegen in einem Tal zwischen zwei Bergketten,
+kann man noch gerade etwas aus dem direkt angrenzenden Hexfeld
+erkennen. Steht man im Wald (!) kann man überhaupt nichts über
+die angrenzenden Hexfelder erfahren - außer man fragt die
+freundlichen Waldbewohner wie es 6 Meilen von hier im Südwesten
+aussieht.
+
+### Bewegungstempo in der Wildnis
+
+Wie im Dungeon wirkt sich eure Belastung auf das Bewegungstempo
+in der Wildnis aus. Meistens werden Wildniskarten in einem
+Maßstab von 6 Meilen pro Hexfeld gezeichnet. Entsprechend
+könnt ihr an einem Tag zurücklegen:
+
+: Bewegung in der Wildnis
+
+--------------------------------------------------
+ Belastung-   Meilen pro Tag   6-Meilen-Hexfelder  
+ Punkte                        pro Tag 
+------------ ---------------- --------------------
+  0-1             24              4
+    
+    2             18              3
+
+    3             12              2
+
+    4              6              1
+--------------------------------------------------
+
+
+Natürlich hängt die Geschwindigkeit auch von der Art des Geländes
+ab. 
+
+: Bewegung ja nach Gelände
+
+-------------------------------------------
+Geländeart           Bewegungstempo
+------------------- -----------------------
+Straßen                3/2
+
+Offenes Gelände,       normal
+Steppen, Pfade   
+
+Wald, Hügel            2/3
+
+Gebirge, Sumpf         1/2
+Dschungel
+-------------------------------------------
+
+### Verirren
+
+Schließlich kann es natürlich, abseits von Straßen, oder wenn ihr
+nicht zum Beispiel einem Flusßlauf folgt, auch dazu
+kommen, dass ihr Euch verirrt. Geht also nicht fest davon aus,
+dass Eure Karte immer richtig ist. Achtet darauf in welcher
+Richtung die Sonne untergeht. Vielleicht könnt ihr nachts den
+Nordstern erkennen. Achtet auf Landmarken oder fragt andere
+Reisende nach dem richtigen Weg.
 
 
 Fertigkeiten
@@ -1708,17 +2018,20 @@ eine 6 erscheint.
 ### Architektur
 \index{Architektur}
 
-Mit dieser Fertigkeit können besondere Eigenschaften von Gebäuden erkannt werden, z.B. minimale Gefälle von Gängen, neue Einbauten, Hinweise auf Schiebetüren oder Fallen. Eine Eigenschaft die Traditionell in besonderem Maße den Zwergen zugeschrieben wird.
+Mit dieser Fertigkeit können besondere Eigenschaften von Gebäuden erkannt
+werden, z.B. minimale Gefälle von Gängen, neue Einbauten, Hinweise auf
+Schiebetüren oder Fallen. Eine Eigenschaft die Traditionell in besonderem Maße
+den Zwergen zugeschrieben wird.
 
 ### Wildnisleben
 \index{Wildnisleben}
 
-Wenn in der Wildnis nach Wasser und Nahrung gesucht werden muss,
-kann eine Probe auf diese Fertigkeit gewürfelt werden.  Günstige Bedingungen können Boni ergeben wie z.B. Jagen im Wald
-oder im Dschungel +2, auf offenen Ebenen +1. Andererseits könnte es zum
-Beispiel in der Wüste schwierig werden, also -1. Um in einer Wüste
-Wasser zu finden ist ein Wildnisleben-Wurf auf einem W12, anstelle eines
-W6 erforderlich.
+Wenn in der Wildnis nach Wasser und Nahrung gesucht werden muss, kann eine
+Probe auf diese Fertigkeit gewürfelt werden.  Günstige Bedingungen können Boni
+ergeben wie z.B. Jagen im Wald oder im Dschungel +2, auf offenen Ebenen +1.
+Andererseits könnte es zum Beispiel in der Wüste schwierig werden, also -1. Um
+in einer Wüste Wasser zu finden ist ein Wildnisleben-Wurf auf einem W12,
+anstelle eines W6 erforderlich.
 
 ### Klettern
 \index{Klettern}
@@ -1811,47 +2124,15 @@ Rüstungsklasse mindestens erreichen musst:
 
 : Angriffstabelle für Stufe 1 Charaktere
 
-<<<<<<< HEAD
 RK       |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 |
 ---------|----|----|----|----|----|----|----|----|----|----|----|  
 1W20     | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |  
-=======
-| Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
-|-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
-|    NM | -1 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 | 20 |
-|   1-2 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
-|     3 | +1 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-|   4-5 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-|    6  | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-|    7  | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-|    8  | +5 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-|    9  | +6 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 10-11 | +5 |  3 | 4  | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 
-|    12 | +6 | 2  | 3  |  4 |  5 |  6 |  7 |  8 | 9  | 10 | 11 | 12 | 13 | 
-| 13-14 | +7 |  1 |  2 |  3 |  4 | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 |
-|    15 | +8 | 1  |  1 |  2 |  3 | 4  |  5 |  6 |  7 |  8 |  9 | 10 | 11 |
-|    16 | +9 | 1  |  1 |  1 |  2 | 3  |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 
-| 17-18 | +10 | 1 |  1 | 1  | 1  | 2  | 3  |  4 |  5 |  6 |  7 |  8 |  9 |
-| 19-20 | +11 | 1 |  1 | 1  | 1  | 1  | 2  | 3  |  4 |  5 |  6 |  7 |  8 |
-
->>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 
 \index{Angriffstabelle}
 
-<<<<<<< HEAD
 Das ist die Treffertabelle für normale Stufe 1 Charaktere. Solltest Du
 aber zum Beispiel ein Kämpfer mit einem Stärkemodifikator von +1 sein,
 dann solltest Du die Tabelle anpassen:
-=======
-| Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
-|-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
-|   1-3 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
-|   4-6 | +1 |  9 | 10 | 11 | 12 | 14 | 15 | 15 | 16 | 17 | 18 | 19 | 20 |
-|   7-9 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| 10-12 | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 13-15 | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 16-18 | +5 |  5 | 6  | 7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
->>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 
 : Angriffstabelle, Stufe 1 mit Angriffsbonus +1
 
@@ -1879,6 +2160,14 @@ RK       |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 |
 Mit Bo ist also nicht zu spaßen - ganz wie *Gary Gygax* geschrieben 
 hat: *"Halflings [...] have deadly accuracy with missiles ..."*
 
+### Kampfrunden
+\index{Kampfrunde}
+
+Kommt es zu einem Kampf wird gewissermaßen auf Zeitlupe umgeschaltet,
+denn dann wird die Zeit in *Runden* gemessen, die ungefähr 10 Sekunden
+Realzeit entsprechen. Auch hier wird abstrahiert. Zehn Sekunden sind
+in einem wilden Schwertkampf eine lange Zeit, sicherlich Zeit für
+mehrere abwechselnde Schwerthiebe, Finten, Zwischenrufe und ähnliches.
 
 ### Kampfmanöver
 
@@ -1963,48 +2252,6 @@ Charaktere heilen \index{Heilung} 1-3 Trefferpunkte wenn sie für einen
 Tag vollständige Ruhe einhalten. Nach 3 Wochen Krankenlager sind sie
 so oder so wieder vollständig geheilt.
 
-
-<<<<<<< HEAD
-=======
-
-### Stunt Dice
-
-https://www.reddit.com/r/FATErpg/comments/69grx8/does_fate_mandate_mechanics/dh6jt3v
-
-http://www.necropraxis.com/2011/11/11/the-big-purple-d30-rule/
-
-
-Fertigkeiten
-------------
-
-Dieses Fertigkeitssystem ist aus *Lamentations of the Flame Princess*
-übernommen:
-
-: Fertigkeiten
-| Fertigkeit             | Grundwert      |
-|------------------------|----------------|
-| Architektur            | 1 in 6         |
-| Wildnisleben           | 1 in 6         |
-| Klettern               | 1 in 6         |
-| Sprachen               | 1 in 6         |
-| Suchen                 | 1 in 6         |
-| Taschendiebstahl       | 1 in 6         |
-| Hinterhältiger Angriff | kein Grundwert |
-| Heimlichkeit           | 1 in 6         |
-| Frickeln               | 1 in 6         |
-
-Die Grundwerte gelten für alle Charakterklassen. Spezialisten
-(traditionell Diebe genannt) können ihre Fertigkeitspunkte in eine
-Steigerung der Grundwerte investieren.
-
-Eine Probe gilt als gelungen, wenn auf einem W6 der jeweilige 
-Fertigkeitswert oder weniger gewürfelt wird. Sollte ein Charakter
-eine Fertigkeit von 6 in 6 haben, muss die Probe mit zwei Würfeln
-gewürfelt werden. Sie scheitert, wenn auf beiden Würfeln eine 6
-erscheint.
-
-
->>>>>>> b41b85d10faa8f623485729f99558540ce08f2a0
 Erfahrungspunkte und Stufen
 ---------------------------
 
