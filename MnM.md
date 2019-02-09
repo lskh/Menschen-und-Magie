@@ -9,9 +9,12 @@ lang: de
 Menschen & Magie \newline
 \normalsize
 Ein Spielerhandbuch für Old-School Rollenspiele \newline
-Version *alpha* \newline
+Version *beta*, 
+Datum:
+\newline
 Text und Satz: © Laurens Kils-Hütten, 2019 \newline
-lskh3004@gmail.com
+<lskh3004@gmail.com>
+\small
 
 Titelbild: LadyofHats, CC 0, public domain 
 
@@ -20,13 +23,13 @@ OSR-Logo: Stuart Robertson, CC BY 3.0
 *Dungeons & Dragons*, *D&D* und *AD&D* sind eingetragene
 Warenzeichen von *Wizards of the Coast*
 
-*Swords & Wizardry* ist ein eingetragenes Warenzeichen von Matt
+*Swords & Wizardry* ist ein eingetragenes Warenzeichen von Matthew J.
 Finch
 
 *Labyrinth Lord* ist ein eingetragenes Warenzeichen von Daniel
 Proctor
 
-*OSRIC* ist ein eingetragenes Warenzeichen von Stuart Marshall
+*OSRIC* ist ein eingetragenes Warenzeichen von Matthew J. Finch und Stuart Marshall
 
 *Basic Fantasy Role Playing Game* ist ein eingetragenes
 Warenzeichen von Chris Gonnermann
@@ -44,7 +47,10 @@ Es ist auch kein Problem, *Menschen & Magie* für deinen eigenen Open
 Game Content zu benutzen, vorausgesetzt, Du hälst Dich dabei an die
 Regeln der Open Game License.
 
- 
+Schließlich ist *Menschen & Magie* auch Open Source. Du findest die Quelldateien für dieses Dokument unter 
+<https://github.com/lskh/Hausregeln>
+
+\normalsize 
 
 \tableofcontents
 
@@ -57,12 +63,8 @@ Vorwort
 Hausregeln zu verfassen. Dann dachte ich, dass es ganz schön wäre,
 wenn alle Spieler ein kleines Heftchen mit den wichtigsten Tabellen
 zur Hand hätten. Schließlich ist daraus dieses kleine Spielerhandbuch
-geworden.
-
-Dass ich nun dieses Heft habe, hat für mich den Vorteil, dass ich es -
-da selbst geschrieben - ohne weiteres immer wieder ausdrucken kann, um
-es Interessenten oder neuen Spielerinnen in die Hand zu drücken, oder
-es ihnen als PDF per Email zuzuschicken.
+geworden. Und das schöne ist, es kann frei ausgedruckt und kopiert 
+werden, und völlig legal als PDF weiter gereicht werden.
 
 Doch dieses Heft ist mehr als nur ein Spielerhandbuch. Durch die
 Hinweise in den Fußnoten ist es auch ein
@@ -83,32 +85,28 @@ hervor gebracht hat.
 *Menschen & Magie* ist kein "Retro-Klon" einer bestimmten
 früheren Edition sondern eher so eine Art Remix aus den echten
 alten Regeln und neueren Regelwerken.  Grundlage für diesen Remix
-ist das alte original Rollenspiel in der *Basic* und *Expert*
-Edition von Frank Mentzer aus dem Jahr 1983, auch bekannt als
-BECMI-Edition.  Was Zaubersprüche, Einkaufslisten und sozusagen
-das allgemeine Flair angeht, habe ich mich aber tendentiell an
-die Originalausgabe von 1974 - auch bekannt als *Nullte Edition*
-oder auch 0e, bzw. die darauf folgende *Holmes-Edition* und die
-von Gary Gygax selbst veröffentlichte *Advanced*-Edition, auch
-bekannt als *Erste Edition* oder 1e, von 1977 bis 1979 gehalten.
-Die Regeln zu Trefferwürfeln sind an letztere sowie an
-*Lamentations of the Flame Princess* angelehnt, damit die
-Charaktere etwas robuster werden. Zusätzlich habe ich einige
-Hausregeln eingefügt, die sich an unserem eigenen Spieltisch
-bewährt haben, oder die in den einschlägigen Internetforen
-populär sind. Die meisten dieser Hausregeln dienen ebenfalls dazu
-die Überlebenschancen der Charaktere zu verbessern.
+war zunächst *Labyrinth Lord* ein Retro-Klon der B/X-Edition,
+doch beim Sichten und Zusammenstellen der Regeln aus den
+verschiedenen Systemen habe ich mich auch an *OSRIC*, *Swords &
+Wizardry*, *Lamentations of the Flame Princess* und *Blueholme* 
+bedient. Es ist eine bunte Mischung
+geworden, die schließlich auch noch Hausregeln aus unserer eigenen
+Spielrunde und aus einschlägigen Internetforen enthält.
+Zusammenfassend könnte man über *Menschen & Magie* sagen, es hat
+die Flexibilität der Charaktererschaffung von *Swords & Wizardry*,
+die Gewichtung der Attribute von *B/X*, und die Zähigkeit der
+Charaktere wie in *OSRIC* oder *Lamentations of 
+the Flame Princess*.
 
 Aufgebaut ist das Heft aus einem einfach gehaltenen Abschnitt 
-über die Erschaffung von Stufe 1-Charakteren,  
+über die Erschaffung von Stufe 1-Charakteren, einem Abschnitt über 
+die Prozeduren und Regeln die während des Spiels zum tragen kommen,
 sowie einem Tabellenteil, der im laufenden Spiel und auf höheren 
-Spielstufen benutzt werden kann.
-
+Spielstufen als schnelle Referenz benutzt werden kann.
 
 
 Einleitung
 ===========
-
 
 \lettrine{M}{enschen und Magie} ist eine Hausregelsammlung für
 das erste Fantasy Rollenspiel der Welt. 
@@ -121,7 +119,7 @@ oder vom Händler an der Ecke wird vom Spielleiter beschrieben.
 
 Das funktioniert zum Beispiel so: 
 
-> Spielleiter: ... nachdem Ihr die Kellertreppe heruntergestiegen
+> Spielleiter: ... nachdem Ihr die Kellertreppe herunter gestiegen
 > seid, steht ihr in einem kleinen Raum, vielleicht 3 x 4 Meter groß,
 > nur von euren Fackeln erleuchtet.
 > In der Südost-Ecke stehen zwei Holzfässer die nach Sauerkraut
@@ -195,12 +193,12 @@ Dir eines Tages deine eigene Burg, kein Problem!
 
 Allerdings kann es sehr gut passieren, dass der Spielleiter von Dir
 verlangt zu würfeln, um zu sehen ob Dir dein kühnes Vorhaben gelingt.
-Tendentiell bedeutet die Aufforderung des Spielleiters zu würfeln in
+Tendenziell bedeutet die Aufforderung des Spielleiters zu würfeln in
 etwa: "was Du hier vor hast funktioniert mit großer Wahrscheinlichkeit
 **nicht**, oder ist super **gefährlich**, dieser Würfelwurf ist Deine
 letzte Chance damit irgendwie davon zukommen" [^3]. Das Gleiche gilt,
 wenn gewürfelt wird um in den Kampf zu ziehen. Kämpfe sind gefährlich! -
-meistens tötlich! - aber das wusstest Du wahrscheinlich schon.
+meistens tödlich! - aber das wusstest Du wahrscheinlich schon.
 
 Noch was zu den Würfeln: in diesem Spiel werden viele verschiedene
 Würfel benutzt. Die normalen sechsseitigen, aber auch 4-, 8-, 10-, 12-
@@ -262,7 +260,7 @@ Charaktererschaffung
 
 \lettrine{D}{as Spiel beginnt} damit, dass Du dir einen Charakter,
 also eine Spielfigur erschaffst. 
-Die Eigenschaften und Habseeligkeiten Deines Charakters werden auf einem
+Die Eigenschaften und Habseligkeiten Deines Charakters werden auf einem
 Blatt Papier fest gehalten, dem so genannten Charakterbogen. Es gibt
 dafür alle möglichen Formulare, aber Du kannst auch ein einfaches leeres
 Blatt Papier dafür benutzen - ich finde das jedenfalls am meisten *old
@@ -276,8 +274,8 @@ vielleicht auch den Namen des Spielleiters eintragen.  Darunter,
 solltest Du Dir ein bisschen Platz für eine kleine Skizze deiner Figur
 frei halten.
 
-Oben in die Mitte, zwischen den Namen des Charakters und deinem Namen
-brauchst Du etwas Platz um *Volk*, *Klasse* und *Stufe* deines
+Oben in die Mitte, zwischen dem Namen des Charakters und deinem Namen
+brauchst Du etwas Platz, um *Volk*, *Klasse* und *Stufe* deines
 Charakters zu notieren. Zu Klasse und Volk kommen wir gleich, bei Stufe
 kannst Du schon mal eine eins eintragen. Du brauchst auch noch ein Feld
 um Deine *Gesinnung* zu notieren. Eine Zeile unter *Klasse* würde sich
@@ -292,8 +290,24 @@ Sechser-Würfel[^12] (3W6), und würfelst von oben nach unten, also für
 ein Attribut nach dem anderen einen Wert zwischen 3 und 18 aus, und
 schreibst ihn hinter das jeweilige Attribut, je höher der Wert, desto
 besser.  Nun kannst Du schon ein bisschen erahnen, welche Art von
-Abenteurer Du hier vor Dir hast. Ein dümmlicher Kraftprotz?  ein
-gewitzter Hänfling? jemand der klug und charismatisch ist?
+Abenteurer Du hier vor Dir hast. Einen dümmlichen Kraftprotz?
+einen
+gewitzten Hänfling? jemanden der klug und charismatisch ist?
+
+[^12]: Beginnend mit der ersten Edition bis zur heutigen 5. Edition werden
+	die Attribute mit vier Sechser- Würfeln ausgewürfelt, wobei der
+	niedrigste Wert verworfen wird - *4W6 drop lowest*. Dabei ergeben
+	sich auch Werte zwischen 3 und 18, aber mit einer deutlichen
+	Betonung der höheren Werte.  Aus meiner Sicht ist das nicht mehr
+	Old-School, und "moderne" Old-School Regelwerke wie *Basic Fantasy
+	RPG*, *Swords & Wizardry* oder *Lamentations of the Flame
+	Princess* nutzen weiterhin einhellig die alte 3W6 Methode.
+
+Auf Wunsch
+des Spielers darf einmalig der höchste mit dem niedrigsten Wert
+getauscht werden.
+
+: Attributs-Modifikatoren\label{atr-mod}
 
 | Attribut | Modifikator |
 |:--------:|:-----------:|
@@ -305,26 +319,12 @@ gewitzter Hänfling? jemand der klug und charismatisch ist?
 | 16-17    | +2          |
 | 18       | +3          |
 
-: Attributs-Modifikatoren
-
-[^12]: Beginnend mit der ersten Edition bis zur heutigen 5. Edition werden
-	die Attribute mit vier sechser Würfeln ausgewürfelt, wobei der
-	niedrigste Wert verworfen wird - *4W6 drop lowest*. Dabei ergeben
-	sich auch Werte zwischen 3 und 18, aber mit einer deutlichen
-	Betonung der höhren Werte.  Aus meiner Sicht ist das nicht mehr
-	Old-School, und "moderne" Old-School Regelwerke wie *Basic Fantasy
-	RPG*, *Swords & Wizardry* oder *Lamentations of the Flame
-	Princess* nutzen weiterhin einhellig die alte 3W6 Methode.
-
-Auf Wunsch
-des Spielers darf einmalig der höchste mit dem niedrigsten Wert
-getauscht werden.
-
 Rechts neben den Wert jedes Attributs schreibst Du nun noch einen
 *Modifikator* für jedes Attribut dessen Wert über 12 oder unter 9
 liegt. Die Modifikatoren \index{Modifikator} haben jeweils einen 
 Wert zwischen -3, also ein Malus, und +3, also ein Bonus[^boni].
-
+Tabelle \ref{atr-mod} zeigt welcher
+Modifikator dem jeweiligen Attributswert zugeordnet wird.
 
 [^boni]: Die Spanne von -3 bis +3 ist in den meisten Old
     School-Editionen Standard. Im original Spiel von 1974 und auch in
@@ -332,6 +332,8 @@ Wert zwischen -3, also ein Malus, und +3, also ein Bonus[^boni].
     kleinere Boni. Bei einer Geschicklichkeit über 12 einen Aufschlag
     von +1 auf Fernkampfangriffe, und bei einer Konstitution über 14
     einen Aufschlag von +1 auf jeden Trefferwürfel.
+
+
 
 Attribute
 ---------
@@ -380,14 +382,14 @@ Konstitution \index{Konstitution}
 	 
 	  - die Trefferpunkte \index{Trefferpunkte} eines Charakters.
 	  - die Wahrscheinlichkeit eines Charakters eine Verwandlung oder
-        auch eine magische Wiederbelebung zu überstehen.
+        auch eine magische Wiederbelebung\index{Wiederbelebung}
+	zu überstehen.
 	  
      Trefferpunkte stehen für die Menge an Schaden, Verletzungen,
      Prellungen aber auch zum Beispiel Rückschlag und Frustration, die
      ein Charakter im Kampf erleiden kann. Sinken die Trefferpunkte
-     auf Null geht ein Charakter leblos zu Boden und stirbt, wenn ihm
-     nicht schnell geholfen wird.
-	 
+     auf Null geht ein Charakter leblos zu Boden.
+
 Charisma \index{Charisma}
 :    kann am besten als Ausdruck für das diplomatische Talent
      und die Führungsfähigkeiten eines Charakters verstanden werden. 
@@ -397,7 +399,7 @@ Charisma \index{Charisma}
 	  - die Anzahl an Gefolgsleuten, die einen Charakter begleiten 
 	    werden.
 
-	Mit Reaktionswürfen stellt der Spielleiter zum Beispiel fest, 
+	Mit Reaktionswürfen stellt der Spielleiter fest, 
 	ob es zum
     Beispiel gelungen ist, die Wachen am Palasteingang zu überreden
     dieses mal eine kleine Ausnahme zu machen (wobei vielleicht auch
@@ -408,17 +410,19 @@ Charisma \index{Charisma}
 Klassen
 -------
 
-Nun ist es an der Zeit eine Klasse für Deinen Charakter zu wählen. Eine
-wichtige Rolle spielt dabei das sogenannte Primärattribut. Zum Beispiel
-ist das Primärattribut der Kämpfer-Klasse die Stärke. Ein Kämpfer
-profitiert zum Beispiel von einem hohen Wert in Stärke mehr als andere
-Charakterklassen, deshalb ist es taktisch günstig einen Kämpfer zu
-wählen, wenn die Würfel einen hohen Wert in Stärke ergeben haben. 
+Nun ist es an der Zeit eine Klasse für Deinen Charakter zu
+wählen. *Menschen & Magie* bietet die üblichen vier
+Standard-Klassen "Kämpfer", "Kleriker", "Zauberkundiger" und
+"Dieb"[^klassen]. Eine wichtige Rolle spielt bei der Wahl der Klasse das
+sogenannte Primärattribut\index{Primärattribut}. Zum Beispiel ist das Primärattribut
+der Kämpfer-Klasse die Stärke. Ein Kämpfer profitiert von einem hohen Wert in Stärke mehr als andere
+Charakterklassen, deshalb ist es taktisch günstig einen Kämpfer
+zu wählen, wenn die Würfel einen hohen Wert in Stärke ergeben
+haben. Tabelle \ref{pri-atr} gibt eine Übersicht über die vier 
+Klassen und ihre Primärattribute.
 
-Tabelle [primärattribute] zeigt eine Übersicht über die Klassen[^klassen] und
-deren Primärattribute: \index{Primärattribut}
 
-: Primärattribute
+: Primärattribute\label{pri-atr}
 
 | Klasse         | Primärattribut   |
 |----------------|------------------|
@@ -427,64 +431,34 @@ deren Primärattribute: \index{Primärattribut}
 | Kleriker       | Weisheit         |
 | Dieb           | Geschicklichkeit |
 
+
 [^klassen]: Kämpfer, Zauberkundiger und Kleriker waren die einzigen
 	Klassen, die es 1974 in der ersten Ausgabe des Spiels gab.  
         Wenn Du
 	also sehr old-schoolig sein willst, spiele einen Kämpfer,
 	Zauberkundigen oder Kleriker.
 
-Es gibt auch noch weitere Klassen wie zum Beispiel Paladine,
-Waldläufer, Druiden, Illusionisten, Assassinen oder sogar Mönche. Wenn
-Du ein anderes Spielerhandbuch benutzt - was erlaubt ist - findest Du
-dort vielleicht Angaben zu anderen Klassen. Meistens kann man diese
-Klassen aber nur spielen, wenn man bestimmte Mindestwerte in den
-Attributen erwürfelt hat.
 
-Von der Wahl der Klasse hängt auch unmittelbar die Anzahl der
-Trefferpunkte \index{Trefferpunkte} ab, die Dein Charakter hat, 
-wenn er das erste Mal ins
-Abenteuer zieht, denn die verschiedenen Klassen benutzen zum Teil
-verschiedene Würfel um die Menge an Trefferpunkten zu ermitteln.
-
-Die Trefferpunkte werden bei der Charaktererschaffung
-ausgewürfelt. Unterschreiten die Trefferpunkte allerdings einen
-bestimmten Mindestwert, kann nochmal gewürfelt werden[^5].
-
-: Minimale Trefferpunkte 
-
-| Klasse | Trefferpunkte |
-|:--------|:-------:|
-| Kämpfer | 6 | 
-| Kleriker | 4 |
-| Zauberkundige | 3 |
-| Diebe | 4 |
-
-[^5]: Das ist eine an *Lamentations of the Flame Princess*
- angelehnte  Hausregel. Traditionell werden die
- Trefferpunkte ohne Mindestwert ausgewürfelt.
- Es macht aber vielen Spielern keinen
- Spass einen Kämpfer mit 2 Trefferpunkten zu spielen.  Andereseits,
- wenn Du besonders old-schoolig sein willst, 
- vergiss die Mindestwerte!
-
-Wenn Du also eine Klasse ausgewählt hast, kannst Du anhand der Angaben
+Wenn Du eine Klasse ausgewählt hast, kannst Du anhand der Angaben
 die nächsten Eintragungen auf deinem Charakterbogen machen. 
 
-Natürlich oben in der Mitte die Klasse und darunter, also rechts neben
-den Attributen und Modifikatoreni, die Trefferpunkte (TP). Unter den
-Trefferpunkten kannst Du den Angriffsbonus (AB) notieren, und darunter
-kannst Du schon ein Feld für deine Rüstungsklasse (RK) einrichten. Aber
-lass es noch offen, denn Deine Rüstungsklasse hängt davon ab, was für
-eine Ausrüstung Du dir später kaufst.
+Den Platz für die Klasse, oben in der Mitte, hattest Du Dir ja
+schon frei gehalten. Unter den Feldern für Klasse, Volk und
+Gesinnung, also rechts neben
+den Attributen und Modifikatoren, solltest Du Dir nun Felder für
+Trefferpunkte (TP), Angriffsbonus (AB) und Rüstungsklasse (RK)
+einrichten. 
 
-Unter dem Feld für die Rüstungsklasse kannst Du nun eine kleine Tabelle
+Unter dem Feld für die Rüstungsklasse kannst Du als nächstes eine 
+kleine Tabelle
 mit deinen fünf Rettungswürfen \index{Rettungswürfe} anlegen.  Die
 Rettungswürfe heißen "Gift und Todesstrahlen", "Zauberstäbe", "Lähmung
-und zu Stein erstarren", "Drachenodem", "Zaubersprüche, -stecken und
+und zu Stein erstarren", "Drachenodem" und "Zaubersprüche, -stecken und
 -ruten". Das gibt Dir schon mal eine Idee, in welchen prekären
 Situationen Rettungswürfe zum Einsatz kommen könnten. Um Platz
-zu sparen kürze ich sie meistens ab mit: Gift, Stäbe, Lähmung, Odem und
-Sprüche
+zu sparen, kürze ich die Rettungswürfe meistens ab mit: Gift,
+Stäbe, Lähmung, Odem und Sprüche.
+
 
 ### Kämpfer
 
@@ -495,7 +469,7 @@ Trefferpunkte
 :    1W10[^6], mindesten 6 
 
 Klassenfähigkeiten
-:    Parrieren: Kämpfer können sich im Kampf defensiv verhalten, so 
+:    Parieren: Kämpfer können sich im Kampf defensiv verhalten, so 
      dass sich ihr Geschicklichkeitsmodifikator als Malus auf den 
      Angriffswurf des Gegners auswirkt.
 
@@ -530,9 +504,9 @@ Klassenfähigkeiten
 :    Kleriker können "Untote" beherrschen, und ab der zweiten Stufe 
      klerikale Magie wirken. \index{Untote!vertreiben}
 	 
-	 Um Untote zu beherrschen werden 2W6 geworfen. Liegt das Ergebnis
+     Um Untote zu beherrschen werden 2W6 geworfen. Liegt das Ergebnis
      über einem bestimmten Wert, erlangt der Kleriker für eine 
-	 betimmte Zeit die Kontrolle über die untoten Kreaturen.
+     bestimmte Zeit die Kontrolle über die untoten Kreaturen.
      Der Spielleiter stellt fest, wie viele Untote tatsächlich
      beherrscht werden.
      Wenn Du einen Kleriker spielst, notiere Dir folgende kleine
@@ -540,9 +514,12 @@ Klassenfähigkeiten
 	 
 	 ---------- -----
 	 Skelette       7
-     Zombies        9
+         
+	 Zombies        9
+	 
 	 Ghule         11
-     ----------------
+         
+	 ---------- -----
 
 
      Je nach Gesinnung bedeutet "beherrschen" etwas anderes. Kleriker
@@ -562,13 +539,13 @@ Rettungswürfe
 [^7]: In Original von 1974 und auch im späteren *Basic*
 	benutzte der Kleriker einen W6 als Trefferwürfel. In der
         ersten Edition gab es
-	dann as Upgrade auf den W8, der hier vorgeschlagen wird, mit der
+	dann das Upgrade auf den W8, der hier vorgeschlagen wird, mit der
 	gleichen Begründung wie beim Kämpfer. Puristen würfeln für ihren
 	Stufe eins Kleriker einen W6.
 
 
 
-### Zauberkundige 
+### Zauberkundiger
 
 Primärattribut
 :    Intelligenz
@@ -616,7 +593,8 @@ Rettungswürfe
 :    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16,\newline
      Sprüche 15
 
-### Diebe
+
+### Dieb
 
 Primärattribut
 :    Geschicklichkeit
@@ -659,15 +637,83 @@ Rettungswürfe
     mir logischer und wesentlich einfacher.
 
 
+Von der Wahl der Klasse hängt auch unmittelbar die Anzahl der
+Trefferpunkte \index{Trefferpunkte} ab, die Dein Charakter hat, 
+wenn er das erste Mal ins
+Abenteuer zieht, denn die verschiedenen Klassen benutzen zum Teil
+verschiedene Würfel um die Menge an Trefferpunkten zu ermitteln.
+
+Die Trefferpunkte werden bei der Charaktererschaffung
+ausgewürfelt. Unterschreiten die Trefferpunkte allerdings einen
+bestimmten Mindestwert, kann nochmal gewürfelt werden[^5].
+
+: Minimale Trefferpunkte 
+
+| Klasse | Trefferpunkte |
+|:--------|:-------:|
+| Kämpfer | 6 | 
+| Kleriker | 4 |
+| Zauberkundige | 3 |
+| Diebe | 4 |
+
+[^5]: Das ist eine an *Lamentations of the Flame Princess*
+ angelehnte  Hausregel. Traditionell werden die
+ Trefferpunkte ohne Mindestwert ausgewürfelt.
+ Es macht aber vielen Spielern keinen
+ Spaß einen Kämpfer mit 2 Trefferpunkten zu spielen.  Andererseits,
+ wenn Du besonders old-schoolig sein willst, 
+ vergiss die Mindestwerte!
+
+Unter bestimmten Voraussetzungen kann es auch möglich sein die
+Klasse eines Charakters zu wechseln. So etwas ist sicher nicht
+alltäglich, sondern eher ein *Life Event* und sollte sich aus der
+Geschichte des Spiels ergeben. Daneben gibt auch noch weitere
+Klassen wie zum Beispiel Paladine, Waldläufer, Druiden,
+Illusionisten, Assassinen oder sogar Mönche. Wenn Du ein anderes
+Spielerhandbuch benutzt - was erlaubt ist - findest Du dort
+vielleicht Angaben zu anderen Klassen. Meistens kann man diese
+Klassen aber nur spielen, wenn man bestimmte Mindestwerte in den
+Attributen erwürfelt hat.
+
+Andererseits solltest Du versuchen, Dich nicht durch die
+Klassenbezeichnungen einschränken zu lassen. In
+Old-School-Rollenspielen wird vieles auf dem Charakterbogen gar
+nicht so genau fest gelegt. Du kannst einfach die Klasse nehmen,
+die grob am besten zu Deiner Charakteridee passt, und die Details
+rollenspielerisch ausfüllen. Der Begriff "Zauberkundiger" - im
+englischen original "magic-user" illustriert das ganz gut: Die
+Klasse bietet Dir grundsätzlich Zugang zu Magie. Für die
+Ausgestaltung Deines Magie-Anwenders gibt es aber viele
+verschiedene Möglichkeiten. Du könntest natürlich einen
+klassischen Magier mit spitzem Hut spielen, aber genauso gut auch
+eine Hexe, einen gelehrten Forscher der arkanen Künste, oder
+einen illusionistisch begabten Trickbetrüger.
+
+Genau so gut könnte ein Kleriker auch als Druide oder Schamane
+ausgestaltet werden, und ein Kämpfer als stolzer (möchtegern)
+Ritter, gewiefter Waldläufer, als geheimnisvolle Amazone
+oder auch als ungehobelter Barbar. Und es spricht auch nichts
+dagegen, Deinem Charakter noch
+einen Beruf zu geben, der vielleicht erstmal nicht besonders
+abenteuerlich ist, aber rollenspielerisch interessant sein könnte.
+
+Aber Achtung, investiere nicht zuviel Zeit und Hingabe in die
+Hintergrundgeschichte Deines Charakters. Das Abenteurerleben in
+Old-School-Spielen kann sehr kurz sein. Du solltest es lieber so
+sehen, dass die Hintergrundgeschichte Deines Charakters während
+der ersten drei Stufen erspielt wird.
+
+
 Völker
 ------
 
 Neben den verschiedenen Klassen können Charaktere auch einem
-bestimmten Volk der Fantasy-Welt angehören. Andere Spezies wie zum
-Beispiel Elfen haben bestimmte vorteilhafte Fähigkeiten, müssen dafür
-aber auch Einschränkungen in Kauf nehmen. Zum Beispiel kann es sein,
-dass Ihnen nur kleinere Trefferwürfel zur Verfügung stehen, oder dass
-sie in einer bestimmten Klasse nur bis zu einem betimmten Level
+bestimmten Volk[^volk]\index{Volk} der Fantasy-Welt angehören. Andere
+Spezies\index{Spezies} wie zum Beispiel Elfen haben bestimmte
+vorteilhafte Fähigkeiten, müssen dafür aber auch Einschränkungen
+in Kauf nehmen. Zum Beispiel kann es sein, dass Ihnen nur
+kleinere Trefferwürfel zur Verfügung stehen, oder dass sie in
+einer bestimmten Klasse nur bis zu einem bestimmten Level
 aufsteigen können. 
 
 Manche Völker können gleichzeitig mehreren Klassen angehören, und
@@ -676,11 +722,21 @@ zauberkundigen Kämpfer spielen. Dann müssen allerdings die erworbenen
 Erfahrungspunkte auf die zwei oder drei Klassen aufgeteilt werden, so
 dass der Stufenaufstieg entsprechend langsamer vonstatten geht. 
 
+[^volk]: Traditionell wird in Fantasy-Rollenspielen hier der
+Begriff "Rasse" benutzt. Dieser Begriff ist natürlich aus
+historischen Gründen sehr problematisch, und ja auch noch nicht
+einmal richtig. Im naturwissenschaftlichen Sinne wäre wahrscheinlich 
+*Spezies* oder *Art* richtiger, vielleicht auch *Familie* oder
+*Gattung*. Der Begriff "Volk" ist auch nicht ganz
+unproblematisch, aber ich finde, dass er gut in die Fantasy-Welt
+passt: "Volk der Zwerge", "Elfenvolk", das ist schon ganz o.k., finde
+ich.
+
 ### Menschen
 
-Haben besonderen Vor- oder Nachteile, und keine Klassen- oder
-Stufenbeschränkungen, außer dass sie nur immer jeweils einer Klasse
-angehören können.\index{Menschen}
+Menschen haben keine besonderen Vor- oder Nachteile, und keine
+Klassen- oder Stufenbeschränkungen, außer dass sie nur immer
+jeweils einer Klasse angehören können.\index{Menschen}
 
 ### Elfen
 \index{Elfen}
@@ -695,9 +751,9 @@ Klassen
 
 Vorteile
 :    Trefferwurf +1 mit Schwertern und Bögen, Infravision,
-     Geheimtüren entdecken/Fertigkeit *Suchen* 2/6 (im Vorbeigehen 
+     Geheimtüren entdecken/Fertigkeit *Suchen* 2 in 6 (im Vorbeigehen 
      immer noch
-     1/6), Immunität gegen magische Lähmung, Elfen sprechen neben der
+     1 in 6), Immunität gegen magische Lähmung, Elfen sprechen neben der
      Gemeinsprache auch Elfisch und Orkisch.
      Rettungswürfe gegen Versteinerung und Lähmung +2.
  
@@ -719,8 +775,8 @@ Vorteile
      gegen
      Kreaturen die größer als Menschen sind, Initiative +1 (falls die
      Initiative individuell ausgewürfelt wird), Verstecken in der Natur
-     9/10, Verstecken im Dungeon 3/10. Fertigkeit *Wildnisleben*
-     3/6\index{Wildnisleben}. Rettungswürfe gegen Gift und
+     9 in 10, Verstecken im Dungeon 3 in 10. Fertigkeit *Wildnisleben*
+     3 in 6\index{Wildnisleben}. Rettungswürfe gegen Gift und
      Todesstrahlen +2.
 
 Nachteile
@@ -764,17 +820,8 @@ Systemen findet man zusätzlich noch die Achse *böse*, *neutral*, *gut*.
 
 Um möglichst gut mit den verschiedenen Systemen kompatibel zu sein,
 werden hier alle neun Gesinnungen angegeben, die das zweidimensionale
-Gesinnungssystem aus der Holmes Edition von 1977 und die *erste
-Edition* von 1979 bietet:
-
-: Gesinnungen
-
------------------------ ---------------------- ---------------------
- rechtschaffen-gut         neutral-gut           chaotisch-gut 
- rechtschaffen-neutral     neutral              chaotisch-neutral 
- rechtschaffen-böse       neutral-böse           chaotisch-böse \index{Gesinnung!Tabelle}
---------------------------------------------------------------------
-
+Gesinnungssystem aus der *ersten
+Edition* von 1979 bietet.
 
 Die Achse gut - neutral - böse ist wohl selbsterklärend. Die Achse
 rechtschaffen - neutral - chaotisch lässt sich vielleicht am
@@ -785,19 +832,29 @@ Bedürfnisse. Der Chaotische Charakter hingegen steht Regeln und
 Gesetzen ablehnend gegenüber, individuelle Interessen gehen vor
 Interessen der Allgemeinheit.
 
-Mahatma Ghandi wäre nach diesem System 
+: Gesinnungen\index{Gesinnung!Tabelle}
+
+----------------------- ---------------------- ---------------------
+ rechtschaffen-gut         neutral-gut           chaotisch-gut 
+ rechtschaffen-neutral     neutral              chaotisch-neutral 
+ rechtschaffen-böse       neutral-böse           chaotisch-böse 
+--------------------------------------------------------------------
+
+
+*Mahatma Ghandi* wäre nach diesem System 
 rechtschaffen-guter Gesinnung, während die Hippies ein schönes
 Beispiel für chaotisch-gut wären. Befehlstreue Nazi-Schergen wären
 rechtschaffen-böse (sozusagen gesetzestreue Menschenverachtung), und
-für chaotisch-böse ist *the Joker* aus den Batman-Geschichten ein
+für chaotisch-böse ist der *Joker* aus den Batman-Geschichten ein
 gutes Beispiel, oder ein außer Kontrolle geratener Killer-Roboter
-... oh mann ... jedenfalls gruselig. Die meisten Tiere sind einfach
+... oh Mann ... jedenfalls gruselig. Die meisten Tiere sind einfach
 nur neutral. 
 
 Um es einfach zu machen: Dir steht es frei, das Gesinnungssystem nach
 deinem Geschmack zu nutzen. Wenn Dir wichtig ist, dass deine Figur
 rechtschaffen-neutral ist, ist das in Ordnung, Du kannst aber auch
 einfach nur zwischen chaotisch, neutral und böse unterscheiden. 
+
 
 Sprachen
 --------
@@ -806,7 +863,7 @@ Es wird angenommen, dass die meisten Menschen und Halbmenschen (also
 Zwerge, Halblinge und Elfen) die sogenannte
 "Gemeinsprache"\index{Sprache!Gemein-}
 sprechen - sich also ohne Schwierigkeiten unterhalten können.
-Elfen und Zwerg sprechen darünber hinaus die Sprache ihrer
+Elfen und Zwerg sprechen darüber hinaus die Sprache ihrer
 Völker. Viele
 Monster haben aber ihre eigenen Sprachen, und sprechen unter Umständen
 die Gemeinsprache nicht, was die Verhandlungen erschweren kann.
@@ -815,8 +872,9 @@ Daneben gibt es auch für jede Gesinnung
 eine sogenannte Gesinnungssprache\index{Sprache!Gesinnungs-}.
 Diese sollte man sich aber wohl eher wie eine Art Geheimsprache
 vorstellen, die aus besonderen Handzeichen oder Gesten besteht,
-die jeweils den Menschen und Kreaturen einer bestimmten Gesinnung
+die jeweils nur den Menschen und Kreaturen einer bestimmten Gesinnung
 bekannt sind.
+
 
 Magie
 -----
@@ -834,7 +892,7 @@ Weise erneut vorbereitet werden.  Daher können Zauberkundige der
 ersten Stufe nur einen einzigen Spruch pro Tag wirken. Einmal
 gelernte Sprüche werden aus dem Gedächtnis gewirkt. Es ist also
 nicht erforderlich, dass der Zauberkundige sein Zauberbuch -
-unter umständen ein gewichtiger Foliant - mit sich herum trägt um
+unter Umständen ein gewichtiger Foliant - mit sich herum trägt um
 vorbereitete Zauber wirken zu können. Allerdings kann er auch
 keine neuen Sprüche vorbereiten, sollte er keinen Zugriff auf
 sein Zauberbuch haben, oder dieses gar verlieren.
@@ -852,14 +910,18 @@ Liste der Klerikersprüche sie an einem bestimmten Tag vorbereiten
 wollen.\index{Zaubersprüche}
 
 Einige Sprüche, sowohl die der Kleriker, als auch der
-Zauberkundigen, können umgekehrt werden. Diese Sprüche sind in den
+Zauberkundigen, können umgekehrt werden. Diese
+Sprüche\index{Sprüche umkehren} sind in den
 Tabellen mit einem Sternchen gekennzeichnet. Kleriker können
-Sprüche die sie zuvor bereits durch ihr Gebet erhalten haben
-spontan umkehren - was allerdings ihrer Gottheit nicht gefallen
-könnte. Zauberkundige müssen den umgekehrten Spruch explizit
+Sprüche, die sie zuvor bereits durch ihr Gebet erhalten haben,
+spontan umkehren - was sie natürlich in Konflikt mir ihrer
+Gottheit bringen könnte. 
+Zauberkundige müssen den umgekehrten Spruch explizit
 vorbereiten, und können ihn dann auch nur so wirken.
 
+
 ### Spruchrollen
+\index{Spruchrollen}
 
 Es kann gut sein, dass die Abenteurer auf ihren Unternehmungen
 auf Pergamentrollen geschriebene Sprüche entdecken. Vielleicht
@@ -872,7 +934,7 @@ jedem (!) gewirkt werden können - oder um Zauberkundigen-Sprüche
 handeln. Letztere können nur von Zauberkundigen benutzt werden.
 Sprüche von einer Spruchrolle werden - unabhängig von der Stufe des
 Anwenders - durch lautes Vorlesen gewirkt. Es ist also mit Hilfe
-von Spruchrollen möglich sehr mächtige Sprüche zu wirken, zu
+von Spruchrollen möglich, sehr mächtige Sprüche zu wirken, zu
 denen sonst gar kein Zugang bestehen würde. Auch wirken sich von
 Spruchrollen gewirkte Sprüche nicht auf das Kontingent der
 vorbereiteten Sprüche aus.
@@ -887,8 +949,47 @@ einzutragen, um ihn später immer wieder vorbereiten und wirken zu
 können. Auch dann verschwinden die magischen Runen allerdings von
 der Spruchrolle.
 
-Sehr erfahrene Zauberkundige und Kleriker erwerben die Fähigkeit,
-selbst Spruchrollen herzustellen.
+Schließlich können Zauberkundige Zeit und Geld in die Herstellung
+eigener Spruchrollen investieren[^scrolls]. Die Kosten dafür betragen
+eine Woche Arbeit und 100 GM pro Spruch-Grad. Einen Spruch des dritten
+Grades auf eine Spruchrolle zu transkribieren dauert also 3 Wochen *In
+Game*-Zeit, und kostet den Zauberkundigen 300 GM. Und natürlich kann der
+Zauberkundige nur solche Sprüche auf Rollen schreiben, die er schon
+kennt und in seinem Sprüchebuch hat.
+
+[^scrolls]: Dieses ist eine besondere Regel aus der *Holmes-Edition*. 
+    In den meisten Editionen können nur Zauberkundige ab der 7. Stufe 
+    selbst Spruchrollen schreiben. Ich finde diese Regel zu
+    Spruchrollen sehr gut, da sie Charakteren niedriger Stufen mehr 
+    Möglichkeiten bietet, und ich nicht sehe, dass durch diese Regel
+    das Spielgleichgewicht ernsthaft gestört werden könnte.
+
+
+### Spruchforschung und neue Sprüche
+
+Zauberkundige können auch völlig neue Sprüche entwickeln. Dieses 
+ist allerdings sehr aufwändig und es gibt keine Garantie für Erfolg.
+
+Wenn Du eine Idee für einen neuen, genialen Zauberspruch hast,
+besprich Deine Idee in Ruhe mit dem Spielleiter. Vielleicht muss der
+Effekt noch etwas angepasst werden, um nicht zu mächtig für den
+gewünschten Spruch-Grad zu sein. Wenn ihr Euch einig seid, muss der
+Zauberkundige eine Woche Arbeit und 2.000 GM pro Spruch-Grad in die
+Forschung investieren, und dann 1W100 werfen. Bei einem Wurf von 20
+oder weniger - also mit einer Wahrscheinlichkeit von 20 % - gelingt es
+dem Zauberkundigen, seinen Spruch erfolgreich umzusetzen und in sein
+Zauberbuch einzutragen[^spells].
+
+[^spells]: Auch dieses ist eine Spezialregel aus der Holmes-Edition. 
+     Ich finde sie großartig, da sie schon Charakteren niedriger Stufen
+     ermöglicht, spannende Details zur Spielwelt beizutragen. In
+     anderen Editionen können ebenfalls erst Zauberkundige höherer
+     Stufen selbst Sprüche entwickeln, und Gary Gygax verlangte in
+     seinem *Dungeon Masters Guide* von 1979, dass der Spieler dem 
+     Spielleiter "eine mit Schreibmaschine geschriebene Beschreibung"
+     des Spruchs vorlegen müsse, damit dieser beurteilt werden
+     kann ...
+
 
 ### Magische Gegenstände
 \index{Magische Gegenstände}
@@ -903,7 +1004,7 @@ ein *Amulett der Unsichtbarkeit*. Zauberstäbe
 \index{Zauberstäbe} haben häufig eine 
 begrenzte Anzahl von "Ladungen" - ein *Feuerball Stab* wäre ein
 Beispiel. Manche Gegenstände wirken nur ein einziges Mal, wie zum
-Beipiel ein *Wunschring*.
+Beispiel ein *Wunschring*.
 
 **Magische Rüstungen** \index{Rüstung!magische}verbessern die Rüstungsklasse. Zum Beispiel
 hätte ein magisches Kettenhemd+1 eine Rüstungsklasse von 4 statt
@@ -914,7 +1015,7 @@ wirken sich magische Rüstungen weniger auf die Belastung
 **Magische Waffen** \index{Waffen!magische} geben Aufschläge auf
 Treffer- und Schadenswurf.  Ein magischer Morgenstern+2 verbessert
 also die Trefferwahrscheinlichkeit um 10%, und verursacht immer 2
-Punkte mehr Schaden es bei einem gewöhnlichen Morgenstern der
+Punkte mehr Schaden, als es bei einem gewöhnlichen Morgenstern der
 Fall wäre. 
 
 Da es Kreaturen gibt, die überhaupt nur mit magischen Waffen
@@ -924,18 +1025,20 @@ verfügt.
 
 Manche magische Waffen haben eine besonders
 ausgeprägte Wirkung gegenüber bestimmten Kreaturen. Es wäre also
-zum Beispiel ein Magisches Schwert +1, +3 gegen Drachen denkbar.
+zum Beispiel ein *magisches Schwert +1/+3 gegen Drachen* denkbar.
 
-Mit magischen Schwertern \index{Schwerter!magische} hat es überhaupt eine besondere
-Bewandnis. Häufig kann man sie an einem geheimnisvollen Glimmen
-ihrer Klinge erkennen, manchmal so hell, dass sie im Dunklen
-ausreichend Licht spenden. Schwerter mit einer besonderen Wirkung
-gegen bestimmte Kreaturen werden regelrecht aufleuchten, wenn
-sich entsprechende Kreaturen in der Nähe befinden. Schließlich
-soll es Schwerter geben, die so voller Magie sind, dass sie ihrem
-Besitzer ermöglichen bestimmte Sprüche zu wirken, sie einen
-eigenen Willen haben, vielleicht sogar selbstständig Kämpfen und
-eigene Ziele verfolgen.
+Mit magischen Schwertern \index{Schwerter!magische} hat es
+überhaupt eine besondere Bewandtnis. Häufig kann man sie an einem
+geheimnisvollen Glimmen ihrer Klinge erkennen, manchmal so hell,
+dass sie im Dunklen ausreichend Licht spenden. Schwerter mit
+einer besonderen Wirkung gegen bestimmte Kreaturen werden
+regelrecht aufleuchten, wenn sich eine entsprechende Kreatur in
+der Nähe befindet. Schließlich soll es Schwerter geben, die so
+voller Magie sind, dass sie ihrem Besitzer ermöglichen, bestimmte
+Sprüche zu wirken, und manche Schwerter haben sogar einen eigenen
+Willen und können selbstständig Kämpfen. Solche Schwerter
+verfolgen dann auch meistens ihre eigenen schwer durchschaubaren
+Ziele.
 
 
 ### Erkennen und Identifizieren magischer Gegenstände
@@ -965,7 +1068,7 @@ Genauso wie Gegenstände mit nützlichen magischen Eigenschaften
 belegt sein können, kann es auch verfluchte Gegenstände geben.
 Dabei kann es sich um eher unterhaltsame Effekte handeln, wie zum
 Beispiel, dass sich die Kleidung des Betroffenen in Luft auflöst,
-oder dessen Nase plötzlich unnatürliche Propertionen annimmt. Es
+oder dessen Nase plötzlich unnatürliche Proportionen annimmt. Es
 können aber auch dramatische Dinge geschehen. 
 
 Nicht ganz selten, kann der Fluch
@@ -982,7 +1085,7 @@ Zaubersprüche
 Die folgende Spruchauswahl orientiert sich stark an den
 ursprünglichen Regeln von 1974 bzw. an *Swords & Wizardry*. Wenn
 keine Angaben zu einem Rettungswurf oder einer
-Materialkomponenten gegeben sind, ist auch explizit kein
+Materialkomponente gegeben sind, ist auch explizit kein
 Rettungswurf vorgesehen, bzw. keine Materialkomponente
 erforderlich.
 
@@ -1057,7 +1160,7 @@ Wirkung
      möglich die Trefferpunkte über den ursprünglichen Wert
      anzuheben. Der Spruch ist umkehrbar, und *verursacht* dann 2 - 7
      Punkte schaden. Da auch dafür eine Berührung erforderlich ist,
-     muss der Keriker einen erfolgreichen Trefferwurf ausführen, bevor
+     muss der Kleriker einen erfolgreichen Trefferwurf ausführen, bevor
      er Schaden verursachen kann. Je nach Gesinnung des Klerikers wird
      seine Gottheit unter Umständen nicht damit einverstanden sein,
      dass er seine Macht nutzt um Schaden zu verursachen.
@@ -1169,11 +1272,11 @@ Tritte können sie geweckt werden. So lange sie schlafen, kann
 ihnen aber automatisch, d.h. ohne Trefferwurf Schaden zugefügt
 werden. 
 
-#### Schutz vor Bösem
+#### Schutz vor Bösem*
 \index{Schutz vor Bösem}
 
 
-Umkehrbar zu *Schuzt vor Gutem*
+Umkehrbar zu *Schutz vor Gutem*
 
 Stufe
 :    Kleriker 1, Zauberkundige 1
@@ -1217,7 +1320,7 @@ Wirkung
 und Sprachen zu entziffern. Der Spruch erlaubt nicht das
 automatische Lösen von Rätseln!
 
-#### Wasser und Nahrung reinigen
+#### Wasser und Nahrung reinigen*
 \index{Wasser und Nahrung reinigen}
 
 
@@ -1233,7 +1336,8 @@ Dauer
 Wirkung
 :    Mit diesem Spruch können Nahrung und Wasser für bis zu 12 Personen wieder genießbar gemacht werden, wenn sie
 zuvor verschmutzt, vergiftet oder auf andere Art kontaminiert
-wurden.
+wurden. Der umgekehrte Spruch vergiftet Wasser und Nahrung ...
+eine perfide Angelegenheit.
 
 #### Zauberei erkennen
 \index{Zauberei erkennen}
@@ -1288,7 +1392,7 @@ Silber und Gold
 ----------------
 
 Nachdem Du nun also einen fertigen Charakter hast, vielleicht eine
-Halbling-Diebin, ist es an der Zeit sie auszurüsten. Dazu brauchste Du
+Halbling-Diebin, ist es an der Zeit sie auszurüsten. Dazu brauchst Du
 Geld. Oder besser gesagt Gold\index{Geld}! 
 
 Das Startgeld eines Charakters wird ermittelt mit einem Wurf von 3W6,
@@ -1349,7 +1453,7 @@ Buche. Mehr dazu später unter [Belastung], Seite \pageref{belastung}.
 |------------------|-------------------|------|
 | Belastungspunkte |                   |    +1 |
 
-Damit stünde also fest, der frischgebackene Kämpfer hat eine
+Damit stünde also fest, der frisch gebackene Kämpfer hat eine
 Rüstungsklasse von 6 und er macht mit seinem Schwert 1 - 8 Punkte
 Schaden. Der Kämpfer müsste 48 GM von seinem Startgold abziehen, was
 übrig ist, kannst Du weiter unten auf dem Charakterbogen in einem Feld
@@ -1365,7 +1469,8 @@ Schilde \index{Schilde} können *einen* Treffer aufnehmen, und sind
 dann zerstört. Diese Regel ist im Internet bekannt als *shields shall
 be splintered* [^shields]
 
-[^shields]: http://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html
+[^shields]:
+<http://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html>
 
 : Kleriker Basispaket
 
@@ -1388,7 +1493,7 @@ der Lage "Untote" zu vertreiben.
 
 | Gegenstand       | Spielwert   | Preis |
 |------------------|-------------|-------:|
-| Spruchbuch       |             | 15 GM |
+| Sprüchebuch       |             | 15 GM |
 | Schreibfeder     |             | 1 SM  |
 | Tinte            |             | 8 GM  |
 | Stab             | Schaden 1W6 | 2 GM  |
@@ -1436,13 +1541,21 @@ wichtige Spielwert, nämlich die Rüstungsklasse auf dem Charakterbogen
 eingetragen werden.
 
 Ganz unten sollte noch etwas Platz eingerichtet werden, um zu
-notieren, bei wieviel Erfahrungspunkten die nächste Stufe erreicht
+notieren, bei wie viel Erfahrungspunkten die nächste Stufe erreicht
 wird, dann kann es los gehen. 
 
 Schließlich könnte es noch sein, dass Dir dein Primärattribut einen
-Bonus bei der Berechung von Erfahrungspunkten einbringt. Du erhälst
+Bonus bei der Berechnung von Erfahrungspunkten einbringt. Du erhältst
 einen Zuschlag entsprechend der folgenden Liste, wenn das
 Primärattribut deines Charakters den entsprechenden Wert hat.
+
+Um es noch einmal mit einem Beispiel zu verdeutlichen: angenommen Du
+spielst einen Dieb mit Geschicklichkeit 14, also einem guten Wert im
+Primärattribut \index{Primärattribut} der Diebe. Wenn dieser Dieb sich
+100 Erfahrungspunkte verdient hat, ermöglicht ihm der
+Prozentmodifikator von +5%, dass er sich nicht 100 EP, sondern 105 EP
+anschreiben darf. Dass heißt ein hoher Wert im Primärattribut
+ermöglicht einem Charakter schneller höhere Stufen zu erreichen.
 
 : Prozent-Modifikatoren
 
@@ -1457,14 +1570,6 @@ Primärattribut deines Charakters den entsprechenden Wert hat.
 | 18       | +15 %         |
 
 \index{Modifikator!Prozent}
-
-Um es noch einmal mit einem Beispiel zu verdeutlichen: angenommen Du
-spielst einen Dieb mit Geschicklichkeit 14, also einem guten Wert im
-Primärattribut \index{Primärattribut} der Diebe. Wenn dieser Dieb sich
-100 Erfahrungspunkte verdient hat, ermöglicht ihm der
-Prozentmodifikator von +5%, dass er sich nicht 100 EP, sondern 105 EP
-anschreiben darf. Dass heißt ein hoher Wert im Primärattribut
-ermöglicht einem Charakter schneller höhere Stufen zu erreichen.
 
 
 
@@ -1485,7 +1590,7 @@ gefährlichen Kreaturen und verborgenen Schätzen, in der sich die
 Spielerfiguren frei bewegen können. Der Spielleiter wird
 vielleicht mehr oder weniger offensichtlich 
 sogenannte "Plot-Hooks" \index{Plot-Hook}- also Aufhänger - 
-anbieten, aber was ihr
+anbieten. Was ihr
 tatsächlich unternehmt, welchem Plot-Hook ihr vielleicht folgt,
 ist ganz alleine Eure Entscheidung als Spieler. 
 
@@ -1498,7 +1603,7 @@ aber aus verschiedenen Gründen sehr wirkungsvoll um ins Spiel
 zu kommen. 
 
 Während Ihr - Du
-merkst ich spreche Dich jetzt als dein Spielcharakter an - also
+merkst ich spreche Dich jetzt als dein Spielercharakter an - also
 in der Taverne sitzt, und Euch von dem alten einbeinigen Mann
 mit der Augenklappe sagenhafte alte Geschichten erzählen lasst,
 sind wir ganz klar im ersten Spielmodus, dem Stadtabenteuer. Es
@@ -1506,12 +1611,12 @@ geht darum, sich zu orientieren, Gerüchte (höchst wahrscheinlich
 Plot-Hooks) in Erfahrung zu
 bringen, vielleicht einen Auftraggeber für einen gut bezahlten
 Job zu finden und Einkäufe zu erledigen um die Ausrüstung
-vielleicht noch zu verbessern. Vielleicht muss ein verletzter
+aufzustocken. Vielleicht muss ein verletzter
 Gefährte noch ein paar Tage rasten, bevor ihr aufbrechen könnt.
 
 In dieser Spielphase wird meistens kaum gewürfelt, sondern es ist
 die Zeit für intensives Rollenspiel. Komm' mit dem alten Mann ins
-Gspräch, bestelle großzügig eine Runde beim Wirt für deine
+Gespräch, bestelle beim Wirt großzügig eine Runde für deine
 Gefährten. Du kannst - und solltest auch versuchen mit anderen
 Personen ins Gespräch zu kommen. Gebe deinem Charakter eine
 Stimme, probiere verschiedene Stimmlagen aus, vielleicht einen
@@ -1519,7 +1624,7 @@ Akzent, eine ulkige Redensart, lass ihn oder sie persönliche
 Markenzeichen entwickeln. Und noch ein kleines Geheimnis 
 zum *Alten Mann*: er ist das geheime Sprachrohr der
 Spielleiterin. Es könnte sein, dass sie Euch - in der
-Rolle des alten Mannes - entscheidende Hinweise zuraunt. Aber
+Rolle des alten Mannes - entscheidende Hinweise zu raunt. Aber
 umgekehrt könnt ihr auch den alten Mann fragen, wenn ihr Fragen
 als an den Spielleiter habt. Insbesondere wenn Du noch nie so ein
 Rollenspiel gespielt hast, und alles ganz schön verwirrend
@@ -1531,7 +1636,7 @@ werden die Nicht-Spieler-Charaktere\index{NSC}, also die Figuren,
 die von
 der Spielleitung geführt werden, genannt). Alle NSC
 können als geheime Telegrafieleitung zum Spielleiter genutzt
-werden. Insbesondere der Aufenthalt in der Taverne dient letzlich
+werden. Insbesondere der Aufenthalt in der Taverne dient letztlich
 dazu, Euch eine Idee zu geben, was ihr unternehmen könnten, und
 so dem Spiel eine Richtung zu geben.
 
@@ -1542,21 +1647,21 @@ Nachtquartier von Straßenräubern überfallen. Und nicht selten
 findet sich der Eingang zum nächsten Dungeon gleich im Keller
 unter der Taverne. Wenn ihr's nicht glaubt könnt ihr ja mal nach
 sehen. Schließlich sind Städte und Dörfer oft die Orte wo es in
-wirklichkeit das meiste Gold gibt. Ist ja auch logisch: wenn
+Wirklichkeit das meiste Gold gibt. Ist ja auch logisch: wenn
 Heerscharen von Abenteurern in Grotten und Wildnis ausziehen um
 Gold zu finden, müssen sie es ja am Ende irgendwo hin bringen.
-Unsere Regel ist ja auch, dass nur ausgegebenes Gold für das
+Und unsere Regel ist ja auch, dass nur ausgegebenes Gold für das
 Ansammlung von Erfahrung zählt [^dieb]
 
 [^dieb]: Wenn Du ein Dieb bist, kannst Du ja an dieser Stelle mal
-    über den Pfandleiher gleich neben dem Juvelier gegenüber vom
+    über den Pfandleiher gleich neben dem Juwelier gegenüber vom
     Kontor des Stadtkämmerers nachdenken, oder zumindest über die
     Schatulle des Tavernenwirts. Da ergibt sich vielleicht ein ganz
     eigenes kleines Abenteuer für Dich!
 
 Womit wir bei einem wichtigen Aspekt des Stadtabenteuers wären:
 Aufenthalte in der Stadt kosten Geld. Tu' dem Spielleiter einen
-riesen Gefallen und führe während der Phase des Stadtabenteuers
+riesigen Gefallen und führe während der Phase des Stadtabenteuers
 selbst Buch über deine Ausgaben. Jede Übernachtung kostet ein paar
 Münzen, und auch jede Mahlzeit. Der Wirt wird Dir schon sagen,
 was Du zu zahlen hast (Sprachrohr...). Sollte Dir das Geld
@@ -1593,7 +1698,7 @@ abends eingeteilt.
 
 Sobald sich das Geschehen der Handlung aber an einen 
 gefährlichen Ort wie eben ein typische Verlies - einen *Dungeon* -
-verlagert, bekommt das Spiel einen anderen Rhyhmus.
+verlagert, bekommt das Spiel einen anderen Rhythmus.
 
 ### Spielphasen
 \index{Phase}
@@ -1616,8 +1721,8 @@ um eine Aktion handelt, die *in game* zwar sicher nicht mehr als
 Realzeit mehr als zehn Minuten braucht, um in allen Einzelheiten
 durchgespielt zu werden.
 
-Die Einteilung in Phasen ist Spielmechanisch aus verschiedenen
-Gründen wichtig. Die Geschwindikeit, mit der sich die
+Die Einteilung in Phasen ist spielmechanisch aus verschiedenen
+Gründen wichtig. Die Geschwindigkeit, mit der sich die
 Abenteurer durch einen Dungeon bewegen können, wird in *Fuß pro
 Phase* gemessen - selten auch in Meter pro Phase. Wurde also eine
 bestimmte Distanz im Dungeon zurück gelegt, ist entsprechend auch
@@ -1630,11 +1735,11 @@ natürlich zu Abzügen bei den  nächsten Würfelproben führen könnte.
 Und schließlich wird auch das Geschehen der Spielwelt durch das
 Verstreichen von Phasen angetrieben. Die Spielleitung wird
 nämlich typischerweise alle zwei bis drei Phasen würfeln um zu
-prüfen ob es zu einer zufälligen Begegnung
+prüfen ob es zu einer zufälligen Begegnung,
 \index{Zufallsbegegnung} zum Beispiel mit einem sogenannten
 "wandernden" Monster \index{Monster!wandernde} kommt.  Wandernde
 Monster - dabei kann es sich um ein oder mehrere echte Monster,
-aber auch sonstige NSC, oder auch mal um eine konkurierende, vom
+aber auch sonstige NSC, oder auch mal um eine konkurrierende, vom
 Spielleiter geführte Abenteurergruppe handeln - lassen die
 Spielwelt lebendig erscheinen. Es wäre ja ungewöhnlich wenn die
 Monster immer nur dann in Erscheinung träten, wenn sie von den
@@ -1649,22 +1754,22 @@ Abenteurern aktiv aufgesucht werden. Sicherlich haben auch
 
 ### Karten zeichnen
 
-Während Ihr ein Dungeon oder eine ähnliche unbekannte Umgebung
+Während Ihr einen Dungeon oder eine ähnliche unbekannte Umgebung
 erkundet, solltet ihr unbedingt eine Karte zeichnen. Sprecht Euch
 als Gruppe ab, wer den Job des Kartenzeichners übernimmt.
-Traditonell wird das Kartenzeichnen als *in game* Tätigkeit
+Traditionell wird das Kartenzeichnen als *in game* Tätigkeit
 aufgefasst. Das heißt, während Du als Spieler mit einem Bleistift
 in der Hand auf einem Stück Karo-Papier zeichnest, 
 schreitet Dein Charakter mit vorsichtigen
 Schritten und vielleicht einem Stück Baumrinde und einem rußigen
 Stöckchen in der Hand durch die Höhle, beobachtet, und schätzt,
-versucht alle Details zu erfassen um sie auf seiner "Karte" fest
+versucht alle Details zu erfassen, um sie auf seiner "Karte" fest
 zu halten. 
 
 Prädestiniert für diese Aufgabe sind natürlich die
 Zauberkundigen, da sie sich in gefährlichen Umgebungen ohnehin
-lieber nicht in der ersten Reihe aufhalten sollte, in der
-Regel des Schreibens mächtig sind und wahrscheinlich auch Feder,
+lieber nicht in der ersten Reihe aufhalten sollten, in der
+Regel des Schreibens mächtig sind, und wahrscheinlich auch Feder,
 Tinte und vielleicht sogar ein Stück Pergament bei sich haben - 
 schließlich haben sie studiert.
 
@@ -1701,7 +1806,7 @@ keine speziellen Angaben gemacht wurden.
 Da Du am Anfang noch nicht weißt, in welche
 Richtung euch die Gänge führen werden, fange einfach in der Mitte
 des Blattes an. Wahrscheinlich musst Du dann relativ bald irgend
-wo ein neues Blatt anbauen, aber das macht nichts.
+wo ein neues Blatt anbauen, aber das macht ja nichts.
 
 Für die Charaktere ist das Anfertigen einer Karte die
 Voraussetzung, sich überhaupt im Dungeon zu recht
@@ -1740,17 +1845,17 @@ sich herum schleppen, sind sie mehr oder weniger *belastet*.
 Charaktere mit einer höheren Belastung können sich weniger
 Schnell bewegen, als Charaktere mit weniger Belastung. Die alten
 Regeln zur Belastung waren ziemlich aufwendig, es musste das
-Gewicht jedes einzelnen Gegenstandes festgehalten festgehalten
+Gewicht jedes einzelnen Gegenstandes festgehalten
 und zusammengerechnet werden, um die Gesamtbelastung zu 
 ermitteln - eine Buchhaltungsorgie!
 
-Das folgende Belastungssystem ist aus *Lamentations of the Flame
-Princess* übernommen. Es ist mit den früheren Regeln zur Belastung
+Das folgende Belastungssystem aus *Lamentations of the Flame
+Princess* ist mit den früheren Regeln zur Belastung
 kompatibel, aber viel leichter zu handhaben. 
 Für bestimmte Gegenstände oder Gruppen von Gegenständen werden
 Belastungspunkte vergeben. Auf der Bewegungstabelle kann dann die
 unter der gegebenen Belastung noch mögliche Geschwindigkeit 
-nachgesehen werden.
+abgelesen werden.
 
 : Belastungspunkte
 
@@ -1769,7 +1874,7 @@ Kettenhemd werden nicht extra
 gezählt. Mengen von gleichen kleinen Gegenständen wie zum Beispiel
 Pfeile, Krähenfüße oder Armbrustbolzen zählen als jeweils ein
 Gegenstand. Als übergroße Gegenstände gelten zweihändige Waffen, und
-gegenerell jeder Gegenstand, der mit zwei Händen getragen werden muss,
+generell jeder Gegenstand, der mit zwei Händen getragen werden muss,
 wie zum Beispiel eine Truhe. Sehr leichte Gegenstände wie zum Beispiel
 eine Schreibfeder, oder einzelne Pergamentrollen werden gar nicht gezählt.
 
@@ -1802,29 +1907,29 @@ werden kann.
    5+            0"        0 m            0'        0'            0
 -------------------------------------------------------------------------
 
-Um es noch einfacher zu machen können auch folgende Belastungsstufen
-benutzt werden:
+Um es noch einfacher zu machen, kannst Du Dich auch an folgenden
+Belastungsstufen orientieren:
 
 : Belastungsstufen, vereinfacht
 
-------------------------------------------------------------------
- Ausrüstung/Gepäck   BW (m)    Bewegung   Bewegung    5' Kästchen
-                              pro Phase   pro Runde
--------------------  -------- ----------- ----------- -------------
-Unbelastet,           36 m     120'        40'            8
+---------------------------------------------------------------------
+Ausrüstung/Gepäck       BW (m)    Bewegung   Bewegung    5' Kästchen
+                                 pro Phase   pro Runde
+---------------------  -------- ----------- ----------- -------------
+Unbelastet,             36 m     120'        40'            8
 kein Gepäck
  
-Kettenrüstung         27 m     90'         30'            6
+Kettenrüstung           27 m     90'         30'            6
 oder Gepäck
  
-Plattenrüstung        18 m     60'         20'            4
+Plattenrüstung          18 m     60'         20'            4
 oder
 Kettenrüstung
 und Gepäck 
 
-Plattenrüstung         9 m     30'         10'            2
+Plattenrüstung           9 m     30'         10'            2
 und Gepäck
------------------------------------------------------------------- 
+--------------------------------------------------------------------- 
 
 
 Wildnisabenteuer
@@ -1840,9 +1945,9 @@ ausgespielt, sondern ihr erklärt wie, ob zu Fuß oder zu Pferd, und
 in welche Richtung ihr Euch bewegen wollt, und die Reise findet
 dann quasi im Zeitraffer statt. 
 Der Spielleiter beschreibt Euch die
-Landschaft, durch die ihr Reist, und erzählt wem ihr
+Landschaft, durch die ihr reist, und erzählt, wem ihr
 begegnet, und was sich sonst an Ereignissen auf Eurer Reise
-ergeben mögen, denn auch wenn ihr in der Wildnis unterwegs seid,
+ergeben mögen. Auch wenn ihr in der Wildnis unterwegs seid,
 würfelt der Spielleiter in bestimmten Intervallen auf
 Zufallsbegegnungen.
 
@@ -1853,7 +1958,7 @@ haben, aber abseits der Straßen könntet ihr durchaus einmal
 unerwartet einem Riesen oder einem Drachen gegenüberstehen.
 
 Natürlich kann es auch gut sein, dass ihr auf Eurer Reise durch die
-Wildnis eine Höhle oder eine alte Rouine entdeckt, dann wären wir
+Wildnis eine Höhle oder eine alte Ruine entdeckt, dann wären wir
 wieder beim Dungeon Crawl. Oder ihr erreicht eine benachbarte
 Ortschaft, so dass das Spiel wieder auf Stadtabenteuer
 umschaltet.
@@ -1903,7 +2008,7 @@ Drachen[^drache] ausweichen, der irgendwo in dem Wald sein Lager zu
 haben scheint. Abends schließlich erreicht ihr einige Hügel im
 Nordosten des Waldes, von wo aus ihr eine weitere größere Ebene
 in nordöstlicher Richtung überblicken könnt. Viele Meilen im Nordosten
-seht ihr im Dunst, von der Abendsonne angeleuchtet, die Silhuette
+seht ihr im Dunst, von der Abendsonne angeleuchtet, die Silhouette
 einer Stadt ...
 
 Aber wo wir gerade beim Thema waren: ihr solltet immer Wachen
@@ -1928,9 +2033,9 @@ Recht von erhöhten Positionen weiter gucken kann, und so auch
 Informationen über weiter entfernte Hexfelder erhalten kann.
 Befindet man sich dagegen in einem Tal zwischen zwei Bergketten,
 kann man noch gerade etwas aus dem direkt angrenzenden Hexfeld
-erkennen. Steht man im Wald (!) kann man überhaupt nichts über
+erkennen. Steht man im Wald, kann man überhaupt nichts über
 die angrenzenden Hexfelder erfahren - außer man fragt die
-freundlichen Waldbewohner wie es 6 Meilen von hier im Südwesten
+freundlichen Waldbewohner, wie es 6 Meilen von hier im Südwesten
 aussieht.
 
 ### Bewegungstempo in der Wildnis
@@ -1938,7 +2043,7 @@ aussieht.
 Wie im Dungeon wirkt sich eure Belastung auf das Bewegungstempo
 in der Wildnis aus. Meistens werden Wildniskarten in einem
 Maßstab von 6 Meilen pro Hexfeld gezeichnet. Entsprechend
-könnt ihr an einem Tag zurücklegen:
+könnt Ihr an einem Tag zurücklegen:
 
 : Bewegung in der Wildnis
 
@@ -1967,7 +2072,7 @@ Geländeart           Bewegungstempo
 Straßen                3/2
 
 Offenes Gelände,       normal
-Steppen, Pfade   
+Steppen, Pfade
 
 Wald, Hügel            2/3
 
@@ -1977,8 +2082,8 @@ Dschungel
 
 ### Verirren
 
-Schließlich kann es natürlich, abseits von Straßen, oder wenn ihr
-nicht zum Beispiel einem Flusßlauf folgt, auch dazu
+Schließlich kann es natürlich, abseits von Straßen, oder wenn Ihr
+nicht zum Beispiel einem Flusslauf folgt, auch dazu
 kommen, dass ihr Euch verirrt. Geht also nicht fest davon aus,
 dass Eure Karte immer richtig ist. Achtet darauf in welcher
 Richtung die Sonne untergeht. Vielleicht könnt ihr nachts den
@@ -1988,9 +2093,85 @@ Reisende nach dem richtigen Weg.
 
 Fertigkeiten
 ------------
+\index{Fertigkeiten}
 
-Dieses Fertigkeitssystem ist aus *Lamentations of the Flame Princess*
-entlehnt:
+Im Spiel wird es immer wieder Situationen geben, in denen die
+Charaktere eine Aktion ausführen wollen, deren Ergebnis ungewiss
+oder gar gefährlich ist. Zum Beispiel der Versuch eine Mauer zu
+erklimmen, ein Schloss zu knacken, oder eine Felsspalte zu
+überspringen. 
+
+Das Ergebnis einer solchen Aktion kann mit einer sogenannten Probe
+ermittelt werden. In den ursprünglichen Regeln von 1974 waren
+solche Proben überhaupt nicht standardisiert. Oft wurde als
+schnelle Variante eine Würfelwurf "gegen ein Attribut"
+ausgeführt -
+eine sogenannte Attributsprobe \index{Probe!Attributs-}. Um eine
+Attributsprobe zu machen, wird gewürfelt, und wenn der Wurf eine
+Zahl *kleiner oder gleich* dem in Frage kommenden Attribut ergibt,
+ist die Probe gelungen. 
+
+Ein Beispiel: ein Halbling versucht einen Graben zu überspringen.
+Seine Geschicklichkeit ist 11. Die Spielleiterin fordert einen
+Geschicklichkeitsprobe, doch leider würfelt die Spielerin des
+Halblings eine 12 ... der Halbling rutscht ab, und fällt in den
+Matsch (jedenfalls gelingt es nicht, erfolgreich über den Graben
+zu springen). Attributsproben können mit verschiedenen Würfeln
+geworfen werden. Meistens 1W20 oder 3W6, aber auch eine
+Attributsprobe mit 4W6 wäre denkbar. Die Spielleitung wird das
+je nach Schwierigkeit der jeweiligen Aktion ansagen.
+
+Es kann auch sein, dass die Spielleitung die Wahrscheinlichkeit
+für das Gelingen einer bestimmten Aktion in Prozent angibt. 
+Dann muss mit den Prozentwürfeln (W%) eine Zahl *kleiner oder 
+gleich* der angegebenen Wahrscheinlichkeit gewürfelt werden, um
+die Probe zu bestehen[^prozent].
+
+[^prozent]: Ganz ähnlich wie so eine Prozentprobe funktionierten die
+    Fertigkeiten des Diebes in den alten Regeln. Zum Beispiel konnte
+    ein Dieb der ersten Stufe die Ferigkeit "Taschendiebstahl" mit
+    30% beherrschen. Der Spieler musste also mit den Prozentwürfeln
+    eine 30 oder weniger werfen, damit sein Dieb beim
+    Taschendiebstahl erfolgreich sein konnte.
+
+Schon in den alten Regeln waren für bestimmmte Standardaktionen
+im Dungeon Wahrscheinlichkeiten als n-in-6 angegeben, 
+die dann ggf. noch
+durch einen Attributsmodifikator oder die besonderen Fähigkeiten
+eines Volkes modifiziert wurden, nämlich "Lauschen"
+\index{Lauschen} mit 1 in 6,
+und "Türen aufbrechen" \index{Türen aufbrechen} mit 2 in 6.
+
+Daneben
+ist dir vielleicht bei den *Elfen* auf Seite \pageref{elfen} die
+Angabe "Suchen 2 in 6" aufgefallen. Tabelle \ref{nin6} zeigt die
+Wahrscheinlichkeiten, die sich bei den Proben mit einem
+Sechser-Würfel ergeben.
+
+: Wahrscheinlichkeiten, n in 6\label{nin6}
+
+-----------------------------------
+ n      Wahrscheinlichkeit [%]
+----- -----------------------------
+ 1       16,7 %
+
+ 2       33,3 %
+
+ 3       50 %
+
+ 4       66,7 %
+
+ 5       83,3 %  
+
+ 6       100 %
+
+-----------------------------------
+
+
+Die Klassen in diesem Spielleiterhandbuch benutzen das 
+folgende Fertigkeitssystem ist aus 
+*Lamentations of the Flame Princess*
+welches auf den n-in-6 Proben aufbaut: 
 
 : Fertigkeiten
 
@@ -2169,31 +2350,97 @@ Realzeit entsprechen. Auch hier wird abstrahiert. Zehn Sekunden sind
 in einem wilden Schwertkampf eine lange Zeit, sicherlich Zeit für
 mehrere abwechselnde Schwerthiebe, Finten, Zwischenrufe und ähnliches.
 
+### Überraschung 
+\index{Überraschung}
+
+Gerade in einem Dungeon oder in unwegsamem Gelände kann es leicht
+vorkommen, dass ein Partei durch einen Angriff überrascht,
+man könnte auch sagen *überfallen* wird.
+
+Wird eine Partei überrascht, kann sie erst in der folgenden
+Kampfrunde selbst aktiv werden!
+
+Falls es sich nicht aus der Handlung offensichtlich ergibt,
+kann es sein, dass der Spielleiter Euch also dazu auffordert zu
+würfeln, ob ihr überrascht seid. Dazu wird ein W6 geworfen. In der
+Regel ist eine Partei mit einer Wahrscheinlichkeit von 2 in 6
+Überrascht, besonders hinterhältige oder schwer auszumachende
+Kreaturen könnten Euch aber auch schon bei 3 in 6 oder gar 4 in 6
+überraschen. 
+
+### Initiative
+\index{Initiative}
+
+Für jede Kampfrunde in der *kein* Überraschungsmoment für eine
+Seite mehr vorliegt, wird zu Beginn um die *Initiative*
+gewürfelt, also um die Reihenfolge in der die beiden Seiten
+handeln.
+
+Die Initiative wird einmal für jede Partei mit einem W6
+gewürfelt, die größere Zahl gewinnt. Haben beide Parteien die
+gleiche Zahl gewürfelt, finden die Aktionen der Runde
+*gleichzeitig* statt. Regeltechnisch bedeutet das schlicht, dass
+jeder Kombattant in dieser Kampfrunde seine geplante Aktion
+ausführen und beenden kann, gleichgültig, ob der in dieser
+Kampfrunde kampfunfähig wird oder nicht. In Runden mit
+gleichzeitiger Initiative ist es also möglich, dass sich zwei
+Gegner gegenseitig umbringen.
+
+
+: Ablauf einer Kampfrunde \index{Kampfrunde!Ablauf}
+
+----- -------------------------------------------------------
+   1. Vorhaben erklären, Zaubersprüche vorbereiten
+
+   2. Auswürfeln der Initiative
+
+   3. Ausspielen der einzelnen Aktionen:
+
+      a) Vermeiden der Begegnung (Fliehen, Türe zuwerfen
+      u.ä.), Versuch zu verhandeln
+
+      b) Bewegung, Kampfmanöver
+
+      c) Fernkampfangriffe
+
+      d) Zaubersprüche werden aktiv
+
+      e) Nahkampfangriffe
+
+   4. Die andere Partei führt ihre Aktionen a) - e) aus
+
+   5. falls der Kampf noch nicht beendet ist zurück zu Punkt 
+      1.
+----- -------------------------------------------------------
+
+
 ### Kampfmanöver
 
 Angriff von hinten
 :    Ein Angriff von hinten hat einen Trefferbonus von +2, und negiert
      einen eventuellen Rüstungsbonus durch ein Schild. Greift ein Dieb
-     von hinten an, erhält er einen Angriffsbonus von +4.
+     von hinten an, erhält er einen Angriffsbonus von +4.\index{Angriff
+     von hinten}
 
 Stürmen
 :    Charaktere können sich entscheiden in einen Kampf zu stürmen. 
      Durch diese Entscheidung gewinnen sie automatisch die Initiative
      und sie verursachen bei erfolgreichen Trefferwürfen **doppelten 
-     Schaden**. 
+     Schaden**.\index{Stürmen}
 
      Die Sache hat aber auch einen Haken: 
-     Sollten die Gegner *längere* Waffen benutzen als die der heranstürmenden
+     Sollten die Gegner *längere* Waffen benutzen als die der
+     heranstürmenden
      Helden - z.B. Lanzen gegen Schwerter - dann dürfen die Gegner 
      zuerst ihre Trefferwürfel ausführen, obwohl sie eigentlich nicht 
      die Initiative haben. 
 
-     Das gilt natürlich auch anders herum: mit "aufgesetzten" Speeren und 
-     Lanzen, kann man sich gegen einen Sturmangriff verteidigen.
+     Das gilt natürlich auch anders herum: mit "aufgesetzten" Speeren
+     und Lanzen, kann man sich gegen einen Sturmangriff verteidigen.
      
      Außerdem muss die stürmende Partei für die Kampfrunde in der 
-     gestürmt wird  
-     einen Abzug von +2 auf ihre Rüstungsklasse in Kauf nehmen.
+     gestürmt wird einen Abzug von +2 auf ihre Rüstungsklasse in Kauf
+     nehmen.
 
 Rückzugsgefecht
 :    Ein Charakter kann sich mit halber Geschwindigkeit rückwärts
@@ -2202,49 +2449,105 @@ Rückzugsgefecht
      Verbündeten an einer Verfolgung gehindert wird, kann sich der
      Charakter so relativ risikoarm aus einem Gefecht zurück ziehen.
 
-     Das Rückzugsgefecht bietet also die Möglichkeit zu einer kooperativen 
-     Strategie.
+     Das Rückzugsgefecht bietet also die Möglichkeit zu einer
+     kooperativen Strategie.\index{Rückzugsgefecht}
 
 Rückzug
 :    Entscheidet sich ein Charakter aus dem Kampf zu fliehen, kann er
      dies mit voller Geschwindigkeit tun, muss aber einen
-     Gelegenheitsangriff mit +2 durch seinen Gegner riskieren.
+     Gelegenheitsangriff\index{Gelegenheitsangriff} 
+     mit +2 durch seinen Gegner riskieren.\index{Rückzug}
 	 
 Flucht 
 :    Ein Charakter kann im Kampf mit bis zu dreifacher
      Kampfgeschwindigkeit (also 90' pro Runde bei BW 9") flüchten, und
      bekommt grundsätzlich eine Runde Vorsprung, bevor seine
-     Kontrahenten gegebenenfalls die Verfolgung aufnehmen.
+     Kontrahenten gegebenenfalls die Verfolgung aufnehmen.\index{Flucht}
+
+     Wenn Du dich entschlossen hast zu Flüchten, und es wirklich ums
+     Überleben geht, kann es hilfreich sein, teile deiner Ausrüstung, 
+     Schätze, oder auch deinen Proviant fallen zu lassen. Denn
+     erstens kannst Du dadurch schneller werden, und zweitens könnte
+     es ja sein, dass die Orks, die dir gerade hinterher rennen, mehr
+     an deinen Goldmünzen als an deiner Haut interessiert sind.
 
 Deckung
 :    Entsprechende Bedingungen vorausgesetzt, kann ein Charakter der 
      nicht gerade in einem Schwertkampf oder Handgemenge involviert ist, 
-     in Deckung gehen. Er kann dabei immer noch Fernkampfangriffe ausführen,
-     und kann durch seine Gegner nur mit einem Abzug von -2 getroffen werden.
+     in Deckung gehen. Er kann dabei immer noch Fernkampfangriffe
+     ausführen,
+     und kann durch seine Gegner nur mit einem Abzug von -2 getroffen
+     werden.\index{Deckung}
 
 
 ### Reichweite im Fernkampf
 \index{Reichweite!Fernkampf}
 
-TODO
+Fernkampfangriffe werden in drei Distanz-Kategorien eingeteilt: kurz, mittel und weit. 
+Angriffe auf nahe Distanz erhalten einen Bonus von +1, solche auf
+weite Distanz erhalten einen Abzug von -1.
 
-### Trefferpunkte 
+: Reichweiten im Fernkampf
 
-Charaktere beginnen auf Stufe 1 mit der maximal möglichen Zahl an
-Trefferpunkten, zuzüglich eventueller Konstitutions-Boni. Also Kämpfer
-und Zwerge mit 8, Elfen und Kleriker mit 6, Zauberkundige und Diebe
-mit 4 Trefferpunkten. Danach werden die Trefferpunkte ausgewürfelt wie
-üblich.
+-----------------------------------------------------------------
+Waffe                     nah (+1)     mittel         fern (-1) 
+----------------------- ------------ ------------- --------------
+Dolch, Wurfaxt, Lanze    10' (3 m)    20' (6 m)     30' (9 m)
+
+Flaschen, Flakons        10' (3 m)    30' (9 m)     50' (15 m)
+
+Speer                    20' (6 m)    40' (12 m)    80' (24 m)
+
+Kurzbogen                50' (15 m)   100' (30 m)   150' (60 m)
+
+Schleuder,                60' (18 m)   120 (37 m)    180' (55 m)
+Leichte Armbrust
+
+Langbogen                70' (21 m)   140' (42 m)   210' (64 m)
+
+Kompositbogen, Schwere   80' (24 m)   160' (48 m)   240' (73 m)
+Armbrust 
+
+-----------------------------------------------------------------
+
 
 ### Verletzung, Bewußtlosigkeit, Tod
+\index{Verletzung}\index{Bewußtlosigkeit}\index{Tod}
+Sinken die Trefferpunkte eines Charakters auf unter Null geht der
+Charakter leblos zu Boden. Vielleicht ist er sofort tot, vielleicht nur
+bewußtlos, aber dann wird er in kürze sterben\index{Sterben}, 
+wenn ihm nicht so schnell wie möglich geholfen wird.  
 
-Sinken die Trefferpunkte eines Charakters auf unter Null ist
-er bewußtlos. Danach verliert er weiter einen Trefferpunkt pro Runde
-so lange ihm nicht geholfen wird. Sinken die Trefferpunkte auf den
-negativen Betrag, welcher der Stufe des Charakters entspricht, stirbt
-der Charakter. Also ein Stufe 3 Charakter zum Beispiel bei -3
-Trefferpunkten.
+Spielmechanisch bedeuten Null oder weniger
+Trefferpunkte\index{Trefferpunkte!null oder weniger}, dass der
+Spieler die Kontrolle über seinen Charakter verliert. Es liegt
+nun am Spielleiter, zu entscheiden was geschieht. 
 
+Traditionell sind Old-School Rollenspiele hart, was diese Frage
+angeht: null Trefferpunkte bedeutet tot - mausetot. Aber es
+gibt auch viele Regeln die diese Härte etwas abmildern. Zum
+Beispiel könnte es sein, dass der Charakter erst bei einer
+bestimmten Zahl negativer Trefferpunkte stirbt, und noch eine
+Chance besteht, ihn mit geeigeneten Erste
+Hilfe-Maßnahmen\index{Erste Hilfe} zu
+stabilisieren. Oder er stirbt nicht sofort, sondern hat noch
+ein paar Momente Zeit, den Gefährten seinen letzten Willen
+mitzuteilen. Letztlich geht es ja darum, eine unterhaltsame - und
+in diesem Moment vielleicht sogar dramatische Geschichte zu
+erzählen.
+
+Außerdem bedeutet selbst der Tod nicht, dass das Spiel für den
+betreffenden Charakter beendet ist - wir befinden uns ja in einer
+Fantasy-Welt, in der Magie und göttliche Interventionen Realität
+sind. Irgendwo an den abgelegenen Orten mystischer Macht, oder in
+den Zentren arkaner Forschung der Metropolen dieser Welt, wird es
+mächtige Weise geben. Einige von ihnen haben gelernt, die Toten
+ins Leben zurück zu holen, oder die
+Reinkarnation\index{Reinkarnation} eines Verstorbenen zu
+begünstigen - wenn vielleicht auch in anderer Gestalt. Vermutlich
+sind so mächtige Weise nicht einfach zu finden, und deren Dienste
+werden ihren Preis haben, aber das ist eben das Garn aus dem
+Abenteuer gewebt sind.
 
 ### Heilungsrate
 
@@ -2254,71 +2557,526 @@ so oder so wieder vollständig geheilt.
 
 Erfahrungspunkte und Stufen
 ---------------------------
+\index{Erfahrungspunkte}
 
-Alleine für das Überleben einer Session erhält ein *Spielercharakter* 
-500 Erfahrungspunkte. Zusätzlich erhält jeder *Spieler* 200
-Erfahrungspunkte, die an andere
-Spielercharaktere verteilen werden sollen. Zum Beispiel für gutes 
-Rollenspiel.
+Wie schon gesagt werden höhere Stufen erreicht in dem Erfahrung
+gesammelt wird. Erfahrung wird durch Erfahrungspunkte (EP oder
+auch XP für *experience points*) bemessen. Wie viele
+Erfahrungspunkte zum Erreichen der nächsten Stufe angesammelt
+werden müssen geht aus den Stufentabellen ab Seite
+\pageref{tabellen} hervor.
+
+Alleine für das Überleben einer Session erhält ein
+*Spielercharakter* 500 Erfahrungspunkte. Zusätzlich erhält jeder
+*Spieler* 200 Erfahrungspunkte, die an andere Spielercharaktere
+verteilen werden sollen. Zum Beispiel für gutes Rollenspiel.
 
 Für jede Goldmünze, die im Spiel *ausgegeben* wird, erhält ein
-Spielercharkater 
-einen einen XP.
+Spielercharakter einen einen Erfahrungspunkt.
 
-Für *feindseelige Monster* die überwunden werden, erhält ein
-Spielercharakter 100
-Erfahrungspunkte pro Trefferwürfel. 
-*Überwinden* bedeutet in diesem Zusammenhang
-ausgetrickst, im Kampf besiegt, in die Flucht geschlagen, oder
-ähnliches. Ob ein Schnack mit einem Drachen über das Wetter
-Erfahrungspunkte bringt, liegt im Ermessen der Spielleitung.
+Für *feindselige Monster* die überwunden werden, erhält ein
+Spielercharakter 100 Erfahrungspunkte pro Trefferwürfel.
+*Überwinden* bedeutet in diesem Zusammenhang aus getrickst, im
+Kampf besiegt, in die Flucht geschlagen, oder ähnliches. Ob ein
+Schnack mit einem Drachen über das Wetter Erfahrungspunkte
+bringt, liegt im Ermessen der Spielleitung.
+
+Das Spiel in der Kampagne
+-------------------------
+
+Mit Kampagne ist eine Abfolge von Spielen in der gleichen
+Umgebung und mit den gleichen Charakteren über mehrere
+Spiel-Sitzungen hinweg gemeint. Die einzelnen Spielsitzungen
+können dabei kontinuierlich auf einander aufbauen, dass heißt,
+die Spieler setzten ihr Spiel dort fort, wo sie das letzte mal
+aufgehört haben. Es ist aber auch genauso möglich, dass zwar die
+Welt und die wichtigen NSCs immer die gleichen sind, die
+einzelnen Spielsitzungen aber in sich geschlossenen, von einander
+unabhängigen Abenteuern entsprechen. 
+
+Das Gegenteil zur Kampagne wäre der sogenannte
+*One-Shot*\index{One-Shot}. Ein meistens nur für eine Sitzung
+geplantes Spiel in einer eigenen Umgebung, mit eigens für diese
+Sitzung erstellten Charakteren.
+
+Während es großen Spaß machen kann, in einem One-Shot die
+Geschichte völlig eskalieren zu lassen, da man ja überhaupt keine
+Rücksicht auf das Danach nehmen muss, und es egal ist, wenn alle
+Spielercharaktere in dem Abenteuer zu Grunde gehen, ist aus
+meiner Sicht die Kampagne eigentlich die reizvollere Spielform.
+Die Kampagne bietet viel mehr Möglichkeiten Charaktere und
+Spielwelt über die Zeit auszugestalten, und ich denke auch, dass
+die Kampagne als die ursprüngliche Form des Spiels angesehen
+werden kann.
+
+
+### Megadungeons
+
+Sehr große Verlies- und Höhlenkomplexe, sogenannte *Megadungeons*
+\index{Megadungeon}
+sind sicherlich die erste Kampagnenform des Spiels gewesen. In
+*The Underworld & Wilderness Adventures*, Band III des originalen
+Spiels von 1974, schrieben Gary Gygax und
+Dave Arneson: 
+
+> A good dungeon will have no less then a dozen levels down, with
+> offshot levels in addition, and new levels under construction
+> so that players will never grow tired of it.
+
+Das ist eine Ansage, und macht deutlich, was mit Megadungeon
+gemeint ist, auch wenn der Begriff damals vielleicht noch nicht
+geprägt war. Über sein eigenes "Megadungeon" 
+schrieb Gary Gygax weiter:
+
+> "Castle Greyhawk"\index{Greyhawk!Castle}, for example, has over
+> a dozen levels in succession downwards, more than that number
+> branching from these, and not less than two levels under
+> construction at any time.
+
+Auch was einen in Castle Greyhawk erwartete wird angedeutet: 
+
+> These levels contain such things as a museum from another age,
+> an underground lake, a series of caverns filled with giant
+> fungi, a bowling alley for 30' Giants, an arena of evil,
+> crypts, and so on.
+
+In einem guten Megadungeon sollte man also ganz und gar nicht nur
+endlose Abfolgen von sich aufzweigenden Gängen mit immer wieder den
+gleichen wandernden Monstern erwarten. Viel mehr sollte man auf eine
+stark variierende Umgebungen gefasst sein.  Durch so einfache
+"Technologien" wie Portale\index{Portale}, Taschendimensionen
+\index{Taschendimensionen} und Ähnliches, sind innerhalb des
+Megadungeons Wildnisabenteuer, Dimensions- und Zeitreisen, Abenteuer mit
+Aliens und Raumschiffen, und Stadtabenteuer in unterirdischen Metropolen
+denkbar. 
+
+Für die Spielrunde ist das Megadungeon letztlich ein fester
+Rahmen für eine Abfolge von neuen und unabhängigen Abenteuern. In
+einer Spielsitzung den gesamten Megadungeon zu erforschen ist
+ohnehin völlig unmöglich und auch gar nicht gewünscht. Aber nach
+einigen Sitzungen wird es Bereiche des Megadungeons geben, die
+allgemein bekannt sind, und es werden sich Hinweise auf neue
+Gefahren und Geheimnisse ergeben habe. Vielleicht gelingt es Euch als
+Spielgruppe in einem relativ sicheren Bereich des Dungeons eine
+Art Außenposten zu etablieren, an dem ihr Verpflegung und
+Material für weitere, tiefere Expeditionen lagern könnt.
+
+In der Einleitung zu den originalen Spielregeln wird zur Anzahl
+der Spieler in einer Kampagne 4 bis 50 (!) angegeben. Sicherlich
+war damit nicht gemeint, dass ein Spielleiter und 50 Spieler
+während der selben Session um einen Tisch sitzen, sondern dass 50
+Spieler in unterschiedlichen Sitzungen, und vielleicht in
+unterschiedlichen Zusammensetzungen an der Spielwelt einer
+Kampagne teilgenommen haben. Heutzutage wird so etwas 
+*Open Table*[^opentable] genannt\index{Open Table}.
+
+
+[^opentable]:
+<https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto>
+
+
+### Zeit und Raum
+
+Eine Kampagne sollte zeitlich und örtlich konsistent verlaufen,
+damit sich glaubhafte Geschichten entwickeln können. Örtliche
+Sprünge und ungewollte Zeitschleifen können sich sehr irritierend
+auswirken, und lassen das Geschehen oder die Aktionen der
+Charaktere und deren Konsequenzen beliebig erscheinen.  Eine
+konsistenter Ablauf der Zeit wird dadurch erreicht, dass jede
+Aktion in der Spielwelt, sei es ein Kampf über wenige Minuten,
+oder eine Reise über zwei Wochen oder mehr, die Spielwelt-Zeit
+gnadenlos um den entsprechenden Zeitraum fortschreiten lässt. 
+
+Das Nachhalten der Zeit, ist klar die Aufgabe der Spielleitung,
+aber Du solltest als Spieler darauf gefasst sein, dass die
+Spielleitung bezüglich Zeit und Raum ein strenges Regime führt.
+
+Wenn also zum Beispiel in der Spielsitzung an einem Sonntag die
+Spieler der Charaktere A, B und C eine zweitägige Reise zu einer
+verlassenen Ruine unternehmen, sind zu der Spielsitzung am darauf
+folgenden Freitag auch für die Spieler-Charaktere D und E zwei
+Tage Spielweltzeit vergangen, auch wenn deren Spieler vielleicht
+am Montag nicht dabei waren.  Die Charaktere D und E befinden
+sich zu diesem Zeitpunkt weiterhin am gemeinsamen Ausgangsort,
+und müssen gegebenenfalls für zwei Tage Kost und Logis bezahlen,
+da ja die entsprechende Zeit vergangen ist.  Haben sich die
+Charaktere A, B und C schließlich auch noch entschieden bei der
+Ruine zu bleiben, oder wurden sie dort aufgehalten, ist nicht nur
+die entsprechende Zeit vergangen, sondern die Charaktere A, B und
+C befinden sich nun auch an einem zwei Tagesreisen entfernten
+Ort. 
+
+Es gäbe aus dieser Situation verschiedene Möglichkeiten, dass
+Spiel gemeinsam fortzusetzen. Dabei können die zeitlich und
+räumlich getrennten Handlungsstränge wieder zusammen geführt,
+oder auch fortan getrennt verlaufen. Die Spieler der
+Charaktere D und E könnten zum Beispiel entscheiden, für die
+Spielsitzung die Rolle von Söldnern der Charaktere A, B und C zu
+übernehmen, und am Ort der verlassenen Ruine weiter zu spielen.
+Umgekehrt könnten die Spieler der Charaktere A, B und C
+entscheiden sich am gemeinsamen Ausgangsort, an dem sich D und E
+noch aufhalten, neue Charaktere zu erstellen und von dort aus
+weiter zu spielen. Oder die Spieler der Charaktere D und E
+entscheiden sich, noch einmal zwei Tage Spielwelt-Zeit zu warten,
+bis A, B und C wieder zurück gekehrt sind, so dass sich die
+Handlungsstränge wieder treffen.  Schließlich wäre es auch
+möglich entweder in ein und der selben Spielsitzung szenenartig
+zwischen verschiedenen Orten und Zeitpunkten hin und her zu
+springen, oder die Handlung trennt sich dauerhafter auf, so dass
+fortan Spielsitzungen mit unterschiedlicher Besetzung an
+verschiedenen Tagen statt finden. 
+
+Dass sich eine Kampagne so entwickelt, ist aus meiner Sicht
+durchaus wünschenswert. Denn so wird es möglich, dass die
+Aktionen der einen Gruppe sich auf das Erleben der Spielwelt der
+anderen Gruppe auswirken können und umgekehrt - die Spielwelt
+kann sich so auf eine Art entwickelt, und an Tiefe und
+Facettenreichtum gewinnen, die für einen einzelnen Spielleiter so
+kaum zu planen wäre. Gut möglich, dass in solch einer Kampagne
+die Spieler der einen Gruppe von den Taten der anderen Gruppe
+erfahren, weil in der Taverne entsprechende Lieder gesungen
+werden.
+
+Ein weiteres Beispiel für eine interessante zeitliche Entwicklung
+durch konsequente Kontrolle der Kampagnenzeit wäre, dass sich der
+Zauberkundige *Egbert der Einsame* entscheidet, bei einem alten
+Meister an einer entfernt liegenden Magier-Akademie ein Seminar
+zu belegen. Er will dort neue Zaubersprüche lernen, nachdem er in
+seinem letzten Abenteuer das nötige Kleingeld für die Ausbildung
+verdient hat. Egberts Spieler könnte erklären, dass Egbert nach
+entsprechender Vorbereitung aufbricht, und erst in vier Wochen
+wieder zurück erwartet wird.
+
+Die Spieler könnten nun natürlich entscheiden, vier Wochen
+Spielwelt-Zeit verstreichen zu lassen, um - einige Momente später
+in der Realzeit, aber vier Wochen später in der Spielzeit - das
+Spiel mit dem nun mächtigeren Egbert fortzusetzen. Es könnte aber
+für Egberts Spieler eine viel reizvollere Möglichkeit sein, für
+die kommenden vier Wochen Spielzeit einen anderen Charakter zu
+spielen. Und so könnten viele Spielsitzungen vergehen, bis Egbert
+endlich von seiner Bildungsreise zurück kehrt.
+
+
+### Leben und Reisen im Off
+
+#### Längere Aufenthalte im Gasthaus
+Spielercharaktere (SC), welche die vorangegangene Spielrunde in einer
+Taverne beendet haben (was günstig ist, und angestrebt werden sollte),
+bleiben so lange in der Taverne ohne an weiteren Abenteuern
+teilzunehmen, bis die jeweiligen Spieler wieder an einer Runde
+teilnehmen. Dem SC wird für den Aufenthalt, jeweils 1 GM pro Tag für
+Kost und Logis berechnet. Natürlich kann das dazu führen, dass der SC
+beim Wirt Schulden anschreiben muss.
+
+#### Reisen 
+Falls der SC einer abwesenden Spielerin eine Reise unternehmen muss,
+um wieder mit dem Rest der Gruppe aufzuschließen, benötigt er eine
+Woche Reisezeit für jede angefangenen 18 bis 90 Meilen (3 bis 15
+Hexfelder), und muss pro Woche 15 GM an Reisekosten aufbringen. Falls
+die Reise länger wird, bricht eine weitere Woche an. Für jede
+Reisewoche wird auf ein Reiseereignis gewürfelt, und dem SC werden
+Erfahrungspunkte in Höhe des Würfelergebnis * 20 gutgeschrieben.
+\index{Reisen}
+
+----------------------------------------------------------------------
+ 2W6    Reiseereignis
+------- --------------------------------------------------------------
+ 2      Der reisende SC taucht nicht mehr auf und wird zum NSC. 
+        Was genau passiert, weiß nur die Spielleitung. Er kann 
+        wieder zum SC werden, falls sie oder er durch eine aktive 
+        Suche der anderen SC wiedergefunden wird.
+	  
+ 3      Es passiert etwas schreckliches, der SC wird traumatisiert 
+        und verliert eine Stufe.
+
+ 4      Der SC wird ausgeraubt und verliert sein gesamtes Hab und 
+        Gut. Er hat nun nur noch ein Bündel mit normaler Kleidung 
+        (RK 9) und einen Knüppel (1W4) bei sich.
+
+ 5      Der SC wird im Kampf verletzt und verliert eine Woche 
+        Reisezeit - also erneuter Wurf auf dieser Tabelle.
+	  
+ 6      Der SC erhält auf seiner Reise Hilfe durch einen 
+        höherstufigen NSC. Er steht nun in dessen Schuld.
+		  
+ 7      Der SC macht auf dem Weg eine Entdeckung, er konnte nicht 
+        viel herausfinden, aber es handelt sich um: 1. einen bisher 
+        unentdeckten Höhleneingang, 2. eine überwucherte Ruine, 
+	    3. ein ungeheuerliches Monster, 4. einen Übergang in eine 
+	    andere Welt (1W4) - Spieler, denk’ dir was aus!
+
+ 8      Der SC findet einen freundlichen Reisegefährten (NSC): +2 
+        für erneute Würfe auf dieser Tabelle, +2 auf Moral- und 
+        Reaktionswürfe, falls der Reisegefährte nach der Reise als 
+        “Waffenknecht” angeheuert wird.
+	  
+ 9      Der SC kann sich durch kleine Arbeiten während der Reise 
+        3W10 GM verdienen.
+  
+ 10     Der SC kommt in den Besitz einer Schatzkarte.
+   
+ 11     Der SC findet einen wertvollen Edelstein (1W10*100 GM).
+  
+ 12     Der SC findet einen magischen Gegenstand (vom DM zufällig 
+        bestimmt).
+----------------------------------------------------------------------
+
+
+#### 9-to-5 Jobs für Abenteurer
+Falls ein Charakter mehr als zwei Wochen an einem Ort bleibt ohne auf
+Abenteuer auszuziehen, kann er versuchen Arbeit\index{Arbeit}
+anzunehmen. Es wird eine Probe mit 2W6 + Charisma-Modifikator
+gewürfelt. Ist das Ergebnis 8 oder mehr, gelingt es dem SC einen Job
+zu finden, mit dem er pro Woche 2W4 * 10 GM verdient. Wird der Wurf
+verfehlt, verstreicht eine Woche ohne Einkommen, bis eine erneute
+Probe abgelegt werden kann. Bei einem kritischen Fehlwurf (also einer
+2) muss der SC zwei Wochen ohne Einkommen\index{Einkommen} hinnehmen.
+
+### Terminplanung
+\index{Terminplanung}
+
+Anfang des 21. Jahrhunderts ist es offensichtlich schwer geworden
+mit einer Gruppe von 3 bis 6 Erwachsenen regelmäßige gemeinsame
+Termin für Spielrunden zu finden. Job, Familie usw.
+gehen vor, und scheinbar hat jeder
+dauernd irgendwelche Termine.
+
+Um mit einer Kampagne erfolgreich zu sein, und die Spielleiterin
+nicht doppelt zu belasten, halte ich es für hilfreich, dass
+die Terminplanung *durch die Spieler* erfolgt. Die Spielleiterin
+wird vielleicht mögliche Termine anbieten, aber die Spieler
+sollten unter einander aushandeln, zu welchem der angebotenen
+Termine sie spielen wollen, und dann der Spielleiterin
+verbindlich zu sagen.
+
+Ich glaube ansonsten, dass es viel entspannter ist, gar nicht
+erst zu versuchen, zu jeder Spielrunde immer alle Spieler
+zusammen zu trommeln, sondern sich gleich an die Konzepte des
+*Open Tables* bzw. die *West Marches* zu halten.
+
+Vielleicht ist auch das ein Grund für die wieder zugenommene
+Popularität der Old-School Spiele, denn ich glaube, dass diese
+sich im Gegensatz zu moderneren Rollenspielsystemen besonders
+gut für offene Sandbox Kampagnen eignen.
+
+### West Marches
+\index{West Marches}
+
+2007 veröffentlichte der Blogger *Ben Robbins* einen Bericht über
+seine *West Marches*-Kampagne[^arsludi].  Dieser Bericht erhielt
+große Aufmerksamkeit und hat seit dem den Begriff *West Marches*
+für einen bestimmten Kampagnen-Stil geprägt.\index{West Marches}
+
+Die West Marches-Kampagne zeichnete sich durch ein paar besondere
+Eigenschaften aus, die offenbar in den meisten Spielgruppen
+Anfang der Nuller Jahre keine Selbstverständlichkeit war:
+
+ - Es gab keine regelmäßige Termine, alle Sessions wurden spontan
+   geplant.
+
+ - Es gab keine festgelegte Gruppe. Jede einzelne Session konnte
+   sich aus einem größeren Pool von Spielern rekrutieren.
+
+ - Es gab keinen vorgefertigten Plot, sondern nur eine
+   ausgestaltete Umgebung, eine sogenannte *Sandbox*.  Es lag
+   ganz alleine an den Spielern, was sie in der Spielwelt
+   unternehmen wollten.
+
+Die Spielwelt war so angelegt, dass es als zentralen Ausgangsort
+ein sicheres Dorf gab, in dem sich die Charaktere ausrüsten und
+erholen, und auch zu längeren Aufenthalten einquartieren konnten 
+- sprich, wenn sie nicht an Spielsessions teilnahmen.
+Westlich des Dorfes begann die unbekannte Wildnis der *West
+Marches*, die tendenziell immer gefährlicher, aber auch
+interessanter und lukrativer wurde, je weiter sie vom Dorf
+entfernt lag. Zentral im Dorf gab es natürlich die Taverne, und
+auf der Tischplatte des Abenteurer-Stammtischs eingeritzt eine
+Landkarte der West Marches. Die Abenteurer konnten nun also in
+der Taverne um die Landkarte herum sitzen, sich von ihren kühnen
+Abenteuern berichten und Pläne für die
+nächsten Abenteuer schmieden.
+
+In der Realität wurde die Taverne durch einen Email-Verteiler
+repräsentiert. Die Spieler waren aufgefordert, zwischen den
+eigentlichen Spielsitzungen von ihren Abenteuern und Entdeckungen
+zu berichten, um anderen Spielern, die bei der vorangegangen
+Session nicht dabei waren, über alle Neuigkeiten zu informieren,
+und dann die nächste Spielrunde zu planen. Die
+Landkarte der West Marches wurde von den Spielern gezeichnet und
+nach jeder neuen Entdeckung ergänzt. Wenn eine Gruppe irgendwo
+eine noch unbekannte Ruine entdeckt hatten, wurde sie in die
+Karte eingezeichnet. Wenn eine andere Gruppe das erste mal eine
+Gebirgskette in der Ferne gesichtet hatte, wurde die Karte um ein
+weiteres Blatt in der entsprechenden Richtung erweitert und
+ergänzt. Alle Spieler konnten dann ihr Spiel in den nächsten
+Runden auf den neuen Entdeckungen aufbauen.
+
+[^arsludi]:
+<http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/>
 
 
 Andere Spielerhandbücher
 ========================
 
-Spieler dürfen *jedes* OSR-kompatible Spielerhandbuch benutzen, um
-sich daraus Charakterklassen \index{Klassen} und Sprüche
-auszusuchen. 
+Ich möchte meine Spieler ermutigen *jedes* OSR-kompatible
+Spielerhandbuch zu benutzen, um sich daraus Charakterklassen
+\index{Klassen} und Sprüche auszusuchen. Um zu etwa gleich
+starken Charakteren zu kommen, sollten allerdings Trefferpunkte
+nach den hier vorgestellten Regeln ermittelt werden, und auch nur
+die hier genannten Attributs-Modifikatoren und Angriffstabellen
+genutzt werden.
 
- - OD&D "Men & Magic"
- - Basic D&D Holmes Edition
- - Basic und Expert D&D Moldvay/Cook
- - Basic und Expert D&D Mentzer 
- - AD&D 1. Edition
- - Swords & Wizardry
- - Labyrinth Lord
- - Lamentations of the Flame Princess
- - Basic Fantasy RPG
- - OSRIC
- - White Box: Fantastic Medieval Adventure Game
+Folgende Spielerhandbücher sind aus meiner Sicht OSR-Kompatibel:
 
-Für andere häufiger anzutreffende Klassen
-gelten allerdings folgende Einschränkungen:
 
-: Andere Klassen 
+### OD&D
 
-------------------------------------------------------------
-Klasse       Mindestwerte             Trefferwürfel                 
------------- ------------------------ ----------------------
-Assassine    ST 12, GE 12,            W6                            
-             IN 12
+Dungeons & Dragons I - "Men & Magic"
+:    Gary Gygax and Dave Arneson, 1974, TSR 
+     
+     Das Original mit dem alles began, auch bekannt als OD&D oder
+     0e. Originalausgaben werden als Sammlerstücke gehandelt. Um die $
+     1000 sollte man schon einplanen.
 
-Druide       WE 12, CH 14             W6                            
+     <https://www.drivethrurpg.com/product/28306/ODD-Dungeons--Dragons-Original-Edition-0e?it=1>
 
-Mönch        ST 12, GE 15,            W4 (beginnend mit 2W4)     
-             WE 15
 
-Paladin      CH 17                    W10                           
+Swords & Wizardry White Box
+:    Marv Breig, 2010, Mythmere Games
 
-Waldläufer   KO 15, IN 12,            W8 (beginnend mit 2W8)  
-             WE 12 
-------------------------------------------------------------
+     Ein Retroclon der OD&D, Gibt die Regeln der drei "little
+     brown books" (LBB) ohne die Zusatzregeln der Supplemente 
+     wieder. PDF kostenlos, als Print-on-Demand rund 20 €.
+
+     <http://www.lulu.com/shop/matthew-finch/swords-wizardry-whitebox-rules-softcover/paperback/product-15991261.html>
+
+White Box: Fantastic Medieval Adventure Game
+:    Charlie Mason, 2017, Seattle Hill Games
+
+     Ebenso ein sehr schön gestalteter OD&D Retroclon, um die 10 € als 
+     Print-on-Demand, PDF kostenlos.
+
+     <http://whiteboxgame.blogspot.com/>
+
+Swords & Wizardry Core Rules
+:    Matt Finch, 2011, Mythmere Games
+
+     Regelumfang der in etwa OD&D plus dem Greyhawk-Supplement
+     entspricht. Als PDF kostenlos, als Print-on-demand ca. 20 €.
+
+     <http://www.lulu.com/shop/matthew-finch/swords-wizardry-core-rules-pdf/ebook/product-15718826.html>
+
+
+D&D Holmes Edition
+:    Die erste Überarbeitung der ursprünglichen D&D Regeln durch 
+     Eric Holmes, TSR, Lake Geneva, 1977,
+     auch bekannt als *Blue Box* Edition.
+
+     Die Regeln entsprechen bis auf wenige Abweichungen dem
+     Umfang der LBB plus Greyhawk-Supplement, allerdings werden
+     nur die Spielerstufen 1 - 3 besprochen. Enthält das
+     legendäre Porttown-Einsteiger Dungeon.  
+
+     Eine offizielle PDF-Version ist mir nicht bekannt, aber es gibt
+     einen ganz netten Video-Review auf YouTube:
+     
+     <https://www.youtube.com/watch?v=uhug8E7s210>
+
+Blueholme
+:    Retroclon der Bluebox Edition
+
+     <https://www.drivethrurpg.com/product/109409/BLUEHOLMETM-Prentice-Rules>
+
+Swords & Wizardry Complete
+:     Matt Finch, 2012, Mythmere Games
+
+      Regelumfang von OD&D einschließlich aller Supplemente. Es
+      gibt die zusätzlichen Klassen wie Mönch, Paladin, Druide
+      und Waldläufer. Von hier aus ist es nur noch ein ganz
+      kurzer Weg zu AD&D.
+
+      Vielleicht das beste Regelwerk, das es je gab.  
+      Soll demnächst beim System-Matters Verlag auf Deutsch
+      erscheinen.
+
+
+### AD&D
+    
+AD&D Spielerhandbuch
+:    Gary Gygax, 1978, TSR, beim FSV Verlag auf deutsch
+     erschienen. Als Sammlerstück bei Ebay so um die 50 €.    
+
+     <https://www.ebay.de/sch/&_nkw=AD%26D+Spielerhandbuch+Gary+Gygax>
+
+OSRIC 2nd Edition
+:    Stuart Marshall, 2015, Usherwood Publishing 
+
+     Ein umfangreicher AD&D-Klon, knapp 400 Seiten, kostenloses PDF.
+
+     <http://www.knights-n-knaves.com/osric/>
+
+
+### Basic D&D
+
+Basic D&D Moldvay
+:    Tom Moldvay, 1981, TSR
+
+     Der erste Band der sogenannten B/X-Edition. Grundlage für
+     viele OSR-Spiele. Knapp 5 € als PDF.
+
+     <https://www.drivethrurpg.com/product/110274/DD-Basic-Set-Rulebook-B-X-ed-Basic>
+
+Labyrinth Lord
+:    Daniel Proctor, 2009, Goblinoid Games
+
+     Retro-Klon der Moldvay-Edition, antiquarisch auch noch auf
+     Deutsch erhältlich.
+
+     <https://www.ebay.de/sch/&_nkw=%22Herr+der+Labyrinthe%22>
+
+Basic D&D Mentzer 
+:    Frank Mentzer, 1983, TSR, bei FSV auch auf deutsch
+     erschienen. ISBN 3-89084-000-0
+
+     <https://www.abebooks.de/servlet/SearchResults?&isbn=3-89084-000-0> 
+
+### Weiterentwicklungen
+
+Basic Fantasy RPG
+:    Chris Gonnerman, 2016, <http://www.basicfantasy.org>
+
+     Inhaltlich noch sehr nah an der B/X-Edition, benutzt aber
+     die sogenannte *aufsteigende Rüstungsklasse* 
+
+     PDF kostenlos, Print-on-Demand zum Selbstkostenpreis (um 10
+     € mit Versand). Auf der Download-Seite von Basic Fantasy
+     gibt es auch zahlreiche kostenlose Abenteuermodule.
+
+Weird Fantasy Role-Playing, Player Core Book: Rules & Magic
+:    James E. Raggi IV, 2013, Lamentations of the Flame Princess
+    
+     Eine Weiterentwicklung von B/X mit einigen deutlichen
+     Abweichungen. Wegen der Illustrationen erst ab 18 und auch
+     nicht jedermans Sache.
+
+     PDF ohne Illustrationen kostenlos, Hardcover 22 € zzgl.
+     Versand aus Helsinki. 
+
+     <http://www.lotfp.com/RPG/>
+
+Swords & Wizardry Continual Light, Deutsche Ausgabe
+:    Zach Glazar, James M. Spahn und Erik „Tenkar“ Stiene, 2018,
+     System Matters Verlag
+
+     Mini-Rollenspiel basierend auf OD&D mit einigen modernen
+     Elementen. Kostenloses PDF:
+     
+     <https://www.system-matters.de/wp-content/uploads/2018/02/SW-Continual-Light-Download.pdf>
+
 
 Tabellen
 ==============
 \index{Tabellen}
-
 
 ## Charakterstufen
 \index{Stufen}
@@ -2330,7 +3088,7 @@ angesammelt werden müssen. "TP" bezeichnen die Trefferpunkte, und "AB"
 den Angriffsbonus, der auf höheren Stufen erlangt werden kann, und dann
 als zusätzlicher Bonus auf Angriffswürfe angewandt wird.
 
-Die Tabellen der Klassen die Magie anwenden können funden sich auf der
+Die Tabellen der Klassen die Magie anwenden können finden sich auf der
 rechten Seite nummerierte Spalten. Diese zeigen die Anzahl an
 Zaubersprüchen einer bestimmten Stufe an, die ein Charakter *pro Tag*
 wirken kann. Beim Kleriker steht zum Beispiel in der vierten Stufe in
@@ -2458,21 +3216,33 @@ des 1. Grades und einen Spruch des 2. Grades wirken kann.
 
 | Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
 |-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
-|   1-3 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
-|   4-6 | +1 |  9 | 10 | 11 | 12 | 14 | 15 | 15 | 16 | 17 | 18 | 19 | 20 |
-|   7-9 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| 10-12 | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 13-15 | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 16-18 | +5 |  5 | 6  | 7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|   1-2 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
+|   3-4 | +1 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|   5-6 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+|  7-8  | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+|    9  | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 10-11 | +5 |  5 | 6  |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|    12 | +6 |  4 | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 13-14 | +7 |  3 | 4  |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 |
+| 15-16 | +8 |  2 | 3  |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 |
+|    17 | +9 |  1 | 2  |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 |
+| 18-19 | +10|  1 | 1  |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 |
+|    20 | +11|  1 | 1  |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 | 11 | 10 |
+
 
 : Angrisstabelle Zauberkundige und Illusionisten
 
 | Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
 |-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
-|   1-4 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
-|  5-8  | +1 |  9 | 10 | 11 | 12 | 14 | 15 | 15 | 16 | 17 | 18 | 19 | 20 |
-|  9-14 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| 15-20 | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+|   1-3 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
+|  4-5  | +1 |  9 | 10 | 11 | 12 | 14 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|  6-7  | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+|  8-9  | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+|   10  | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 11-13 | +5 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 14-15 | +6 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16-19 | +7 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 |
+| 20-23 | +8 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 |
 
 
 ## Rettungswürfe
@@ -2575,6 +3345,7 @@ Preislisten
 | Wurfspeer                          |  1 GM | 1W6     |   2 Pfund |
 | Lanze                              |  7 GM | 1W6     |  10 Pfund |
 | Langbogen                          | 40 GM | -       |   3 Pfund |
+| Kompositbogen                      | 45 GM | -       |   3 Pfund |
 | Pfeile (20) im Köcher              |  5 GM | 1W8     |   3 Pfund |
 | Streitkolben                       |  5 GM | 1W6     |   3 Pfund |
 | Morgenstern                        |  5 GM | 1W6     |   6 Pfund |
@@ -2615,97 +3386,383 @@ Preislisten
 : Sonstige Ausrüstung
 \index{Ausrüstung!sonstige}
 
-: Sonstige Ausrüstung
+----------------------------------------------------------------------
+Gegenstand                                          Preis      Gewicht  
+------------------------------------------ -------------- ------------ 
+Rucksack (leer)                                      2 GM      2 Pfund  
 
-| Gegenstand                                     |    Preis |    Gewicht |
-|:-----------------------------------------------|---------:|-----------:|
-| Rucksack (leer)                                |     2 GM |    2 Pfund |
-| Schlafsack                                     |     1 SM |    5 Pfund |
-| Decke (Winter)                                 |     5 SM |    3 Pfund |
-| Flaschenzug                                    |     5 GM |    5 Pfund |
-| Flasche, (Wein-) aus Glas                      |     2 GM |          - |
-| Kerzen (10)                                    |    10 KM |          - |
-| Spruchrollenbehälter                           |     1 GM |  1/2 Pfund |
-| Kette (10 Fuß / 3 Meter)                       |    30 GM |    2 Pfund |
-| Stemmeisen                                     |     2 GM |    5 Pfund |
-| Flakon (leer)                                  |     3 KM |  1/2 Pfund |
-| Feuerstein und Stahl                           |     2 GM |          - |
-| Knoblauch (3 Knollen)                          |     5 GM |          - |
-| Enterhaken                                     |     1 GM |    4 Pfund |
-| Hammer                                         |     5 SM |    2 Pfund |
-| Heiliges Symbol (aus Holz)                     |     1 GM |          - |
-| Heiliges Symbol (aus Silber)                   |    25 GM |    1 Pfund |
-| Heiliges Wasser (Flakon)                       |    25 GM |    1 Pfund |
-| Tinte (1 Phiole)                               |     8 GM |          - |
-| Schreibfeder                                   |     1 SM |          - |
-| Leiter ( 10 Fuß = 3 Meter)                     |     5 KM |   20 Pfund |
-| Laterne                                        |     9 GM |    3 Pfund |
-| Schloss                                        |    20 GM |    1 Pfund |
-| Handfesseln                                    |    15 GM |    2 Pfund |
-| Spiegel, kleiner Stahl-                        |    10 GM |  1/2 Pfund |
-| Öl (1 Fläschchen)                              |     1 SM |    1 Pfund |
-| Papier (Blatt)                                 |     4 SM |          - |
-| Pergament (Blatt)                              |     2 SM |          - |
-| Picke, Bergmanns-                              |     3 GM |   10 Pfund |
-| Holzstab (10 Fuß = 3 Meter)                    |     2 SM |    8 Pfund |
-| Ration, frisch (pro Tag)                       |     2 SM |    1 Pfund |
-| Ration, konserviert (pro Tag)                  |     5 SM |    1 Pfund |
-| Seil, Hanf- (50 Fuß = 17 Meter)                |     1 GM |   10 Pfund |
-| Seil, Seide (50 Fuß = 17 Meter)                |    10 GM |    5 Pfund |
-| Sack, groß (leer)                              |     2 SM |  1/2 Pfund |
-| Sack, klein (leer)                             |     1 SM |  1/2 Pfund |
-| Sattel                                         |    25 GM |   25 Pfund |
-| Satteltasche                                   |     1 SM |  1/2 Pfund |
-| Spaten oder Schaufel                           |     2 GM |    8 Pfund |
-| Spruchbuch (leere Seiten)                      |    15 GM |    3 Pfund |
-| Krähenfüße, eisern (12)                        |     1 GM |    8 Pfund |
-| Fernglas                                       | 1.000 GM |    1 Pfund |
-| Pflock, Holz. (3)                              |     5 KM |    1 Pfund |
-| Diebeswerkzeug                                 |    30 GM |    1 Pfund |
-| Fackeln (6)                                    |     3 SM |    8 Pfund |
-| Phiole, für Tinte, Tränke oder Heiliges Wasser |     1 GM | 1/10 Pfund |
-| Wasserschlauch oder Weinschlauch (leer)        |     1 GM |    4 Pfund |
-| Wein (1 Liter)                                 |     1 GM |    2 Pfund |
-| Wolfsbann (1 Büschel)                          |    10 GM |          - |
+Schlafsack                                           1 SM      5 Pfund  
 
-: Vieh und Transport
-\index{Transport}\index{Tiere}
+Decke (Winter)                                       5 SM      3 Pfund  
 
-|                         | Preis  |
-|-------------------------|-------:|
-| Anhänger, einachsig     | 100 GM |
-| Hund                    | 3 SM   |
-| Hund, Wach-             | 25 GM  |
-| Esel                    | 8 GM   |
-| Futter (pro Tag)        | 5 KM   |
-| Pferd, Arbeits-         | 40 GM  |
-| Pferd, Reit-            | 75 GM  |
-| Pferd, Kriegs-          | 250 GM |
-| Maultier                | 30 GM  |
-| Pony                    | 30 GM  |
-| Unterbringung (pro Tag) | 5 SM   |
-| Wagen, zweiachsig       | 200 GM |
+Flaschenzug                                          5 GM      5 Pfund  
 
-: Wasserfahrzeuge
-\index{Wasserfahrzeuge}
-\index{Boote}\index{Schiffe}
+Flasche, (Wein-) aus Glas                            2 GM            -  
 
-|                         |                 Preis |
-|-------------------------|----------------------:|
-| Boot, Fluss             |              4.000 GM |
-| Boot, Fluss (mit Segel) |              2.000 GM |
-| Kanu                    |                 55 GM |
-| Galeere, groß           |             32.000 GM |
-| Galeere, klein          |             12.000 GM |
-| Galeere, Kriegs-        |             65.000 GM |
-| Rettungsboot            |               800  GM |
-| Langboot                |            17.000  GM |
-| Floß                    | 1 GM pro Quadratmeter |
-| Segelboot, groß         |             22.000 GM |
-| Segelboot, klein        |              7.000 GM |
-| Segelboot, Transport-   |             30.000 GM |
+Kerzen (10)                                         10 KM            -  
+
+Spruchrollenbehälter                                 1 GM    1/2 Pfund  
+
+Kette (10 Fuß / 3 Meter)                            30 GM      2 Pfund  
+
+Stemmeisen                                           2 GM      5 Pfund  
+
+Flakon (leer)                                        3 KM    1/2 Pfund  
+
+Feuerstein und Stahl                                 2 GM            -  
+
+Knoblauch (3 Knollen)                                5 GM            -  
+
+Enterhaken                                           1 GM      4 Pfund  
+
+Hammer                                               5 SM      2 Pfund  
+
+Heiliges Symbol (aus Holz)                           1 GM            -  
+
+Heiliges Symbol (aus Silber)                        25 GM      1 Pfund  
+
+Heiliges Wasser (Flakon)                            25 GM      1 Pfund  
+
+Tinte (1 Phiole)                                     8 GM            -  
+
+Schreibfeder                                         1 SM            -  
+
+Leiter ( 10 Fuß = 3 Meter)                           5 KM     20 Pfund  
+
+Laterne                                              9 GM      3 Pfund  
+
+Schloss                                             20 GM      1 Pfund  
+
+Handfesseln                                         15 GM      2 Pfund  
+
+Spiegel, kleiner Stahl-                             10 GM    1/2 Pfund  
+
+Öl (1 Fläschchen)                                    1 SM      1 Pfund  
+
+Papier (Blatt)                                       4 SM            -  
+
+Pergament (Blatt)                                    2 SM            -  
+
+Picke, Bergmanns-                                    3 GM     10 Pfund  
+
+Holzstab (10 Fuß = 3 Meter)                          2 SM      8 Pfund  
+
+Ration, frisch (pro Tag)                             2 SM      1 Pfund  
+
+Ration, konserviert (pro Tag)                        5 SM      1 Pfund  
+
+Seil, Hanf- (50 Fuß = 17 Meter)                      1 GM     10 Pfund  
+
+Seil, Seide (50 Fuß = 17 Meter)                     10 GM      5 Pfund  
+
+Sack, groß (leer)                                    2 SM    1/2 Pfund  
+
+Sack, klein (leer)                                   1 SM    1/2 Pfund  
+
+Sattel                                              25 GM     25 Pfund  
+
+Satteltasche                                         1 SM    1/2 Pfund  
+
+Spaten oder Schaufel                                 2 GM      8 Pfund  
+
+Spruchbuch (leere Seiten)                           15 GM      3 Pfund  
+
+Krähenfüße, eisern (12)                              1 GM      8 Pfund  
+
+Fernglas                                         1.000 GM      1 Pfund  
+
+Pflock, Holz. (3)                                    5 KM      1 Pfund  
+
+Diebeswerkzeug                                      30 GM      1 Pfund  
+
+Fackeln (6)                                          3 SM      8 Pfund  
+
+Phiole, für Tinte, Tränke oder                       1 GM   1/10 Pfund  
+Heiliges Wasser
+
+Wasserschlauch oder Weinschlauch (leer)              1 GM      4 Pfund  
+
+Wein (1 Liter)                                       1 GM      2 Pfund  
+
+Wolfsbann (1 Büschel)                               10 GM            -  
+----------------------------------------------------------------------
 
 
+: Haus-, Reittiere und Vieh
+\index{Tiere}
+
+-----------------------------------------------------------
+Tier                   Preis   Tier                   Preis   
+----------------- ----------   ----------------- ----------   
+Hund                    1 GM   Jagdhund               17 GM
+
+Wachhund               25 GM   Schaf/Ziege             1 GM
+
+Esel                    8 GM   Pony                   15 GM   
+
+Maultier               20 GM   Reitpferd              40 GM   
+
+Schlachtroß           225 GM   Kuh                    10 GM
+
+Ochse                  15 GM   Taube                   2 KM
+
+Huhn                    3 KM   Singvogel               4 KM
+
+Falke                  18 GM   Habicht                40 GM
+
+Ferkel                  1 GM   Schwein                 3 GM
+-----------------------------------------------------------   
+ 
+
+: Speisen und Getränke\index{Speisen und Getränke}
+
+  ------------------ -------
+  Bier                  1 SM
+  Starkbier             1 GM
+  Met                   2 SM
+  Traubenwein           2 GM
+  Krug Wasser           1 KM
+  Käsestulle            2 KM
+  Brotsuppe             5 KM
+  Griesbrei             2 KM
+  Braten                1 GM
+  Bankett pro Gast     10 GM
+  ------------------ -------
+
+: Logis\index{Logis}
+
+  ----------------------------------------- ------
+  Übernachtung im Schlafsaal pro Person       1 SM
+  Übernachtung im Doppelzimmer pro Person     2 GM
+  Übernachtung im Einzelzimmer                3 GM
+  Hafer für 1 Pferd pro Tag                   1 SM
+  ----------------------------------------- ------
+
+
+: Beförderungsmittel
+\index{Wagen}\index{Wasserfahrzeuge}
+\index{Transport}\index{Boote}\index{Schiffe}
+
+-----------------------------------------------
+                                          Preis  
+--------------------------------- ------------- 
+Handkarren                                10 GM
+
+Fuhrwerk, einachsig                      100 GM  
+
+Fuhrwerk, zweiachsig                     200 GM  
+
+Floß, pro Quadratmeter                     1 GM  
+
+Ruderboot (Prahm)                         20 GM
+
+Kanu                                      55 GM  
+
+Rettungsboot (Gig)                     1.000 GM
+
+Segelboot                              2.000 GM
+
+Flussboot                              4.000 GM
+
+Segelschiff, klein (Kogge)             7.000 GM  
+
+Galeere, klein                        12.000 GM  
+
+Langschiff                            17.000 GM  
+
+Segelschiff, groß (Karacke)           22.000 GM  
+
+Frachtsegelschiff                     30.000 GM  
+
+Galeere, groß (Trireme)               32.000 GM  
+
+Galeasse                              65.000 GM  
+
+-----------------------------------------------
+
+
+: Handwerker
+\index{Handwerker}
+
+----------------------------------------------------------
+Beruf                     Täglicher Lohn  Monatlicher Lohn 
+------------------------ --------------- -----------------
+Träger / Diener                   1 SM                1 GM 
+
+Zimmermann                        3 SM                2 GM 
+
+Lederarbeiter                     2 SM               30 SM 
+
+Maler                            10 SM               10 GM 
+
+Fackelträger                      4 SM                1 GM 
+
+Steinmetz                         4 SM                3 GM 
+
+Viehhändler                       2 SM               30 SM 
+
+Schneider                         2 SM               30 SM 
+
+Fuhrknecht                        5 SM                5 GM 
+
+Waffenschmied                      -                100 GM 
+
+Hufschmied                         -                 30 GM 
+
+Goldschmied/                       -                100 GM 
+Edelsteinschleifer
+
+Bergarbeiter                       -                150 GM
+----------------------------------------------------------
+
+: Gelehrte
+\index{Gelehrte}
+
+----------------------------------------------------------
+Beruf                                     Monatlicher Lohn
+---------------------------------- -----------------------
+Alchimist                                     300 GM
+
+Architekt                                     150 GM
+
+Pionier-Artillerist                           150 GM
+
+Seher                                    bis etwa 1200 GM    
+
+Schriftgelehrter                           150 - 300 GM
+
+Verwalter/Kastellan                       200 GM / Stufe
+
+Spione                                  Verhandlungssache
+
+----------------------------------------------------------
+
+
+: Seeleute \index{Seeleute}
+
+-------------------------------------------------------
+Dienstgrad                             Monatliche Heuer
+-------------------------------- ----------------------
+Deckscrew                                          2 GM
+
+Ruderer                                            5 GM
+
+Maat (1. Stufe)                              30 GM + 1%
+
+Offizier (2.-3. Stufe)                      100 GM + 5%
+
+Schiffsführer (4.-7. Stufe)                100 GM + 25% 
+
+-------------------------------------------------------
+
+Die Prozentangabe bei der monatlichen Heuer bezieht sich auf
+einen entsprechenden Anteil an der Prise bzw. dem Gewinn des
+Unternehmens zur See. Die Crew erwartet einen Anteil von 5 %, den
+sie unter sich aufteilt.
+
+Seeleute haben 1-6 Trefferpunkte, und kämpfen wenn es sein muss
+ungerüstet (RK 9) mit Säbeln und Entermessern (S:1-6).
+Marine-Infrantristen haben die gleichen Werte wie die *schwere
+Infantrie* in der folgenden Tabelle.
+
+Die höheren Dienstgrade Maat, Offizier und Schiffsführer 
+sind NSC der entsprechenden Stufen -
+meistens Kämpfer - und haben die entsprechenden Spielwerte.
+
+
+: Söldner, Sold pro Monat in GM \index{Söldner}
+
+--------------------------------------------------------------------
+Söldnertyp                      Zwerg   Elf   Goblin   Mensch   Ork
+------------------------------ ------- ----- -------- -------- -----
+**Bauer**,                        -      -       -       1       -
+normale Kleidung,
+Kurzschwert
+TP 1-6, RK 9, S: 1-6, BW 12"
+
+**Schwere Infantrie**,            5      7       -       4       2
+Kettenhemd, Schild,
+Schwert
+TP 1-8, RK 4, S: 1-8, BW 6"
+
+**Armbrustschütze**,              7      -       -       5       3
+Kettenhemd, schwere
+Armbrust
+TP 1-8, RK 5, S: 1-6, BW 6"
+
+**Armbrustschütze,               20      -       -       -       -
+beritten**, Armbrust,
+TP 1-8, RK 9, S: 1-6, BW 12"
+
+**Bogenschütze**, Lederrüstung,   -     12       4       7       5
+Kurzbogen, Schwert,
+TP 1-6, RK 7, S: 1-6, BW 9"
+
+**Bogenschütze, beritten**,       -     35       -      15       -
+Kurzbogen, TP 1-6, RK 9,
+S: 1-6, BW 18"
+
+**Langbogenschütze**,             -     25       -      10       -
+Langbogen, Kettenhemd,
+TP 1-6, RK 5, S: 1-8, BW 9"
+
+**Leichte Kavallerie**,           -     25       -      10       -
+Lederrüstung, Lanze,
+TP 1-6, RK 7, S: 1-10, BW 24"
+
+**Mittelschwere Kavallerie**,     -      -       -      15       -
+Kettenhemd, Lanze,
+TP 1-8, RK 5, S: 1-10, BW 18"
+
+**Schwere Kavallerie**,           -      -       -      20       -
+Plattenrüstung, Lanze,
+Schwert, TP 1-8, RK 3,
+S: 1-10, BW 18"
+
+**Wolfsreiter**,                  -      -       6       -       -
+Lederrüstung, Speer,
+TP 1-4, RK 6, S: 1-6, BW 18"
+
+--------------------------------------------------------------------
+
+
+: Baukosten\index{Baukosten}
+
+--------------------------------------------------------------------
+Struktur                                                      Kosten
+---------------------------------------------------- ---------------
+Holzgebäude, 30 Quadratfuß                                  2.500 GM
+
+Steingebäude,  30 Quadratfuß                                4.000 GM
+
+Burgmauer 20' hoch, 100' Länge                              5.000 GM
+
+Bastion (halbrunder Turm), 30' hoch                         7.000 GM
+30' Durchmesser
+
+Torhaus, 20' hoch, 30' x 20'                                7.500 GM
+
+Turm, mittelgroß , 30' hoch,                               17.500 GM 
+20' Durchmesser
+
+Turm, groß, 30' hoch,                                      30.000 GM
+30' Durchmesser
+
+Vorwerk (Torhaus,                                          38.000 GM
+2 mittelgroße Türme, Zugbrücke)
+
+Burgfried, quadratisch, 80' hoch,                          76.000 GM
+60 Quadratfuß
+
+Burggraben, 100' x 20' x 10' Tiefe                            400 GM
+
+Verliesgang, Steinboden,                                      450 GM
+10' x 10' x 10' 
+--------------------------------------------------------------------
+
+Die Kosten von Türmen verdoppeln sich für Türme die höher als 
+als ihr Durchmesser sind. Türme dürfen maximal doppelt so 
+hoch sein wie ihr Durchmesser.
 
 
 Appendix N
@@ -2714,15 +3771,32 @@ Appendix N
 Bücher
 ------
 
-Filme
------
+Der kleine Hobbit
+:    John Ronald Reuel Tolkien, 1937, 
+     <https://de.wikipedia.org/wiki/Der_Hobbit>
 
-Internet
---------
+Die Sterbende Erde 
+:    Jack Vance, 1950, <https://tinyurl.com/ya9q4727>
+
+Dreiherz
+:    Poul Anderson, 1961, <https://tinyurl.com/y7bhk6x4>
+
+Schwerter und Teufelei
+:    Fritz Leiber, 1970, sowie diverse andere Titel aus der Reihe 
+     um "Fafhrd und den Grauen Mausling",
+<https://tinyurl.com/y8y3hq55>
+
+Der Hexenmeister vom Flammenden Berg
+:    Steve Jackson und Ian Livingstone, 1982,
+<https://tinyurl.com/y9qfoejm>
+
+
 
 
 
 # OPEN GAME LICENSE Version 1.0a
+
+\small
 
 The following text is the property of Wizards of the Coast, Inc. and is
 Copyright 2000 Wizards of the Coast, Inc (‘Wizards’).  All Rights Reserved.
@@ -2902,4 +3976,5 @@ Open Content: All text and tables of *Menschen & Magie*
 
 END OF LICENCE
 
+\normalsize
 \printindex
