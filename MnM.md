@@ -398,6 +398,7 @@ Charisma \index{Charisma}
 	  - Reaktionswürfe \index{Reaktionswürfe}
 	  - die Anzahl an Gefolgsleuten, die einen Charakter begleiten 
 	    werden.
+          - die Loyalität der Gefolgsleute
 
 	Mit Reaktionswürfen stellt der Spielleiter fest, 
 	ob es zum
@@ -1685,6 +1686,8 @@ dem Papagei auf der Schulter wird stolz auf Dich sein!
     *Axt der vielfachen Zerteilung* und durch 
     die *Ogerkraft-Handschuhe* ...
 
+
+TODO: Gefolgsleute und Mietlinge
 
 Der Dungeon Crawl
 -------------------
@@ -3790,7 +3793,7 @@ Der Hexenmeister vom Flammenden Berg
 :    Steve Jackson und Ian Livingstone, 1982,
 <https://tinyurl.com/y9qfoejm>
 
-
+TODO
 
 
 

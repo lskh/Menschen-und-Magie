@@ -1,54 +1,146 @@
-\documentclass{article}
+\documentclass[a5paper,12pt]{article}
+\usepackage[top=1.5cm,bottom=3cm,inner=1.8cm,outer=2cm]{geometry}
+\usepackage[osf]{coelacanth}
 \usepackage[ngerman]{babel}
 \usepackage[utf8]{inputenc}
+\usepackage{tikz}
 \begin{document}
 
-\begin{minipage}{.5\textwidth}
+\begin{minipage}{.65\textwidth}
 
-Name: \hrulefill
+\vspace{.5cm}
 
-Klasse: \hrulefill
+
+\tikz\draw (0,0) -- (4,0);\linebreak
+Name des Spielers
+
+\begin{tabular}{ll}
+\tikz\draw (0,0) -- (3,0);\linebreak
+Name des Charakters
+&
+\tikz\draw (0,0) -- (3,0);\linebreak
+Gesinnung \\
+
+\tikz\draw (0,0) -- (3,0);\linebreak
+Klasse
+&
+\tikz\draw (0,0) -- (3,0);\linebreak
+Klasse \\
+\end{tabular}
+
+\begin{tabular}{cc}
+% Trefferpunkte
+\tikz [baseline = 0.6ex]
+\draw [scale=0.7] (-1,0.3) .. controls (-1,1) and (-0.2,1) .. (0,0.5)
+      (0,0.5) .. controls (0.2,1) and (1,1) .. (1,0.3)
+      (1,0.3) .. controls (1,-0.4) and (0.5,-0.8) .. (0,-1)
+      (0,-1) .. controls (-0.5,-0.8) and (-1,-0.4) .. (-1,0.3);
+&
+%Rüstungsklasse
+\tikz [baseline = 0.6ex]
+\draw [scale=0.7] (-1,1) -- (1,1) 
+      (1,1) .. controls (1,-0.5) .. (0,-1)
+      (0,-1) .. controls (-1,-0.5) .. (-1,1);
+\\
+Trefferpunkte & Rüstungsklasse \\
+\end{tabular}
 
 \end{minipage}
-\begin{minipage}{.5\textwidth}
+\begin{minipage}{.35\textwidth}
 
-Stufe: \hrulefill
+\vspace{.5cm}
+\tikz\draw (0,0) -- (3,0);\linebreak
+Dungeon Master
 
-Gesinnung: \hrulefill
+\tikz\draw (0,0) rectangle (4cm,4cm);\linebreak
+Portrait oder Symbol des Charakters
 
 \end{minipage}
 
-\vspace{2cm}
 
-\begin{minipage}{.5\textwidth}
+\vspace{.5cm}
 
-ST \hrulefill
+\begin{minipage}{.6\textwidth}
+
+\tikz[baseline=0.6ex]\draw (0,0) rectangle (5ex,5ex); Stärke
  
-IN \hrulefill
+\tikz[baseline=0.6ex]\draw (0,0) rectangle (5ex,5ex); Intelligenz
 
-WE \hrulefill
+\tikz[baseline=0.6ex]\draw (0,0) rectangle (5ex,5ex); Weisheit
 
-GE \hrulefill
+\tikz[baseline=0.6ex]\draw (0,0) rectangle (5ex,5ex);
+Geschicklichkeit
 
-KO \hrulefill
+\tikz[baseline=0.6ex]\draw (0,0) rectangle (5ex,5ex); Konstitution
 
-CH \hrulefill
-
+\tikz[baseline=0.6ex]\draw (0,0) rectangle (5ex,5ex); Charisma 
+ 
 \end{minipage}
-\begin{minipage}{.5\textwidth}
+\begin{minipage}{.4\textwidth}
 
 \textbf{Rettungswürfe}
 
-Todesstrahlen \hrulefill
+\begin{tabular}{cp{3.5cm}}
+\tikz[baseline=0.6ex]\draw (0,0) circle (2.5ex); & Gift oder
+Todesstrahlen \\ 
 
-Stäbe \hrulefill
+\tikz[baseline=0.6ex]\draw (0,0) circle (2.5ex); & Zauberstäbe \\
 
-Lähmung \hrulefill
+\tikz[baseline=0.6ex]\draw (0,0) circle (2.5ex); & Zu Stein erstarren
+oder Lähmung \\
 
-Odem \hrulefill
+\tikz[baseline=0.6ex]\draw (0,0) circle (2.5ex); & Drachenodem \\
 
-Sprüche \hrulefill
+\tikz[baseline=0.6ex]\draw (0,0) circle (2.5ex); & Zaubersprüche,
+-stecken oder -ruten \\
+
+\end{tabular}
 
 \end{minipage}
+
+\textbf{Nahkampf}
+
+\begin{tabular}{|l|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+RK & 9 & 8 & 7 & 6 & 5 & 4 & 3 & 2 & 1 & 0 & -1 & -2 \\
+\hline
+1W20 & & & & & & & & & & & & \\ 
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+\textbf{Fernkampf}
+
+\begin{tabular}{|l|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+RK & 9 & 8 & 7 & 6 & 5 & 4 & 3 & 2 & 1 & 0 & -1 & -2 \\
+\hline
+1W20 & & & & & & & & & & & & \\ 
+\hline
+\end{tabular}
+
+\textbf{Mitgeführte Ausrüstung}
+
+\textbf{Allgemeine Notizen}
+
+\begin{minipage}{0.5\textwidth}
+
+\textbf{Geld und Schätze}
+
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+
+\textbf{Erfahrung}
+
+\vspace{3cm}
+Gutschrift/Abzug: \hrulefill
+
+\vspace{1cm}
+Nächste Stufe wird erreicht bei: \hrulefill
+
+\end{minipage}
+
+
+
 
 \end{document}
