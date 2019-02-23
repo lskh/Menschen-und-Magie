@@ -165,16 +165,22 @@ sondern
 Und wenn Du dabei auch noch sprichst wie ein
 Zwerg, um so besser!
 
-Ziel des Spiels - aus Sicht der Spieler und der Spielleitung - ist,
-gemeinsam eine unterhaltsame Geschichte zu erzählen. Dabei können
-grandiose Erfolge genauso spannend und unterhaltsam sein, wie
-dramatische Niederlagen, oder auch völliges Scheitern. Am besten ist
-wahrscheinlich eine Mischung daraus.[^2] 
-
-Aus Sicht der Charaktere ist das Ziel des Spiels, möglichst viel Gold
-zu bekommen. Denn Gold ist auch die Währung in der in diesem Spiel
-*Erfahrung* bemessen wird. Und Erfahrung ermöglicht einem Charakter
-höhere Stufen, und damit bessere Fähigkeiten, mehr
+Ziel des Spiels - aus Sicht der Spieler und der Spielleitung -
+ist, gemeinsam eine unterhaltsame Geschichte zu erzählen. Dabei
+können grandiose Erfolge genauso spannend und unterhaltsam sein,
+wie dramatische Niederlagen, oder auch völliges Scheitern. Die
+literarischen Vorbilder folgen oft dem Muster der
+klassischen Heldenreise: also dem mutigen Aufbruch in die Fremde,
+dem Erleben von Abenteuern, dem Entscheiden Müssen in
+Schicksalsfragen, schließlich die krisenhafte Auseinandersetzung
+mit Scheitern, Untergang und Tod, um dann, vielleicht
+transformiert, und hoffentlich geläutert und bereichert zurück zu
+kehren.
+    
+Aus Sicht der Charaktere ist das Ziel des Spiels, möglichst viel
+Gold zu bekommen. Denn Gold ist auch die Währung in der in diesem
+Spiel *Erfahrung* bemessen wird. Und Erfahrung ermöglicht einem
+Charakter höhere Stufen, und damit bessere Fähigkeiten, mehr
 Widerstandskraft, höhere Magie und ähnliches zu erlangen. 
 
 Eine der wichtigsten Regeln des Spiels überhaupt ist, dass Du deinen
@@ -193,10 +199,15 @@ Dir eines Tages deine eigene Burg, kein Problem!
 
 Allerdings kann es sehr gut passieren, dass der Spielleiter von Dir
 verlangt zu würfeln, um zu sehen ob Dir dein kühnes Vorhaben gelingt.
-Tendenziell bedeutet die Aufforderung des Spielleiters zu würfeln in
+Nun hängt das Schicksal von den Würfeln ab, und die können
+gnadenlos sein. Die Wahrscheinlichkeit für eine erfolgreiche
+Würfelprobe liegt bei Old-School Rollenspielen oft in einer
+Größenordnung von 25 bis 50 %, vielleicht etwas besser, wenn
+die Figur gute Spielwerte hat.
+Tendenziell bedeutet also die Aufforderung des Spielleiters zu würfeln in
 etwa: "was Du hier vor hast funktioniert mit großer Wahrscheinlichkeit
 **nicht**, oder ist super **gefährlich**, dieser Würfelwurf ist Deine
-letzte Chance damit irgendwie davon zukommen" [^3]. Das Gleiche gilt,
+letzte Chance damit irgendwie davon zukommen". Das Gleiche gilt,
 wenn gewürfelt wird um in den Kampf zu ziehen. Kämpfe sind gefährlich! -
 meistens tödlich! - aber das wusstest Du wahrscheinlich schon.
 
@@ -225,34 +236,6 @@ kommen. In alten Regelheften und Abenteuermodulen wurde anstelle
 von 1W4+3 oft auch nur 4 - 7 angegeben. Der Leser musste dann
 selbst austüfteln, mit welcher Kombination von Würfel und Bonus
 der entsprechende Wertebereich abgedeckt werden konnte. 
-
-[^2]: Ich glaube, dass es in diesem Spiel im Grunde um das 
-    Durchspielen, oder
-    Miterleben der klassischen Heldenreise geht, also den mutigen
-    Aufbruch in die Fremde, das Erleben von Abenteuern, entscheiden
-    müssen in Schicksalsfragen, schließlich die krisenhafte
-    Auseinandersetzung mit Scheitern, Untergang und Tod, um dann,
-    vielleicht transformiert, und hoffentlich geläutert und bereichert
-    zurück zu kehren.
-
-[^3]: Diese Haltung bezüglich der Würfel ist in der ursprünglichen
-    Version des Spiels und den davon abgeleiteten Old-School
-    Rollenspielen - um genau die geht es hier - anderes als in
-    moderneren Regelwerken. Eine der wichtigsten, und ältesten
-    Würfelmechaniken ist zum Beispiel der *Rettungswurf*. Er hat bei
-    einem durchschnittlichen Anfänger-Charakter eine
-    Erfolgswahrscheinlichkeit von ungefähr 25%. Er wird also mit
-    größerer Wahrscheinlichkeit *nicht* gelingen. Rettungswürfe sind
-    dafür da, in Situationen die sich ohnehin schon unschön entwickelt
-    haben das Schlimmste zu verhindern. Moderne Rollenspiele haben
-    *Fertigkeiten* und entsprechende *Fertigkeitswürfe*. Zum Beispiel
-    könnte ein Charakter ein guter Angler sein, und einen Wert in
-    Angeln haben, der einer Erfolgschance von 75% entspricht. Er wird
-    also mit seinem Angeln-Wurf meistens Erfolg haben. Bei Old-School
-    Rollenspielen musst Du nicht würfeln um zu Angeln, es muss auch
-    nirgendwo
-    stehen, dass Du angeln kannst - Du tust es einfach.
-
 
 	
 Charaktererschaffung
@@ -286,7 +269,7 @@ Am linken Rand des Blattes schreibst Du unter einander die Worte:
 und "Charisma". Das sind die Attribute deines Charakters. Du kannst auch
 Abkürzungen benutzen um Platz zu sparen: ST, IN, WE, GE, KO, CH
 (*Stinwegekoch*, kann man sich gut merken).  Nun nimmst Du drei
-Sechser-Würfel[^12] (3W6), und würfelst von oben nach unten, also für
+Sechser-Würfel (3W6), und würfelst von oben nach unten, also für
 ein Attribut nach dem anderen einen Wert zwischen 3 und 18 aus, und
 schreibst ihn hinter das jeweilige Attribut, je höher der Wert, desto
 besser.  Nun kannst Du schon ein bisschen erahnen, welche Art von
@@ -294,18 +277,15 @@ Abenteurer Du hier vor Dir hast. Einen dümmlichen Kraftprotz?
 einen
 gewitzten Hänfling? jemanden der klug und charismatisch ist?
 
-[^12]: Beginnend mit der ersten Edition bis zur heutigen 5. Edition werden
-	die Attribute mit vier Sechser- Würfeln ausgewürfelt, wobei der
-	niedrigste Wert verworfen wird - *4W6 drop lowest*. Dabei ergeben
-	sich auch Werte zwischen 3 und 18, aber mit einer deutlichen
-	Betonung der höheren Werte.  Aus meiner Sicht ist das nicht mehr
-	Old-School, und "moderne" Old-School Regelwerke wie *Basic Fantasy
-	RPG*, *Swords & Wizardry* oder *Lamentations of the Flame
-	Princess* nutzen weiterhin einhellig die alte 3W6 Methode.
 
-Auf Wunsch
-des Spielers darf einmalig der höchste mit dem niedrigsten Wert
-getauscht werden.
+----------
+
+Hausregel
+:    Auf Wunsch des Spielers darf einmalig der höchste mit dem  niedrigsten Wert getauscht werden.
+
+----------
+
+TODO: Modifikatoren an OD&D anpassen!
 
 : Attributs-Modifikatoren\label{atr-mod}
 
@@ -412,14 +392,15 @@ Klassen
 -------
 
 Nun ist es an der Zeit eine Klasse für Deinen Charakter zu
-wählen. *Menschen & Magie* bietet die üblichen vier
-Standard-Klassen "Kämpfer", "Kleriker", "Zauberkundiger" und
-"Dieb"[^klassen]. Eine wichtige Rolle spielt bei der Wahl der Klasse das
-sogenannte Primärattribut\index{Primärattribut}. Zum Beispiel ist das Primärattribut
-der Kämpfer-Klasse die Stärke. Ein Kämpfer profitiert von einem hohen Wert in Stärke mehr als andere
+wählen. *Menschen & Magie* bietet die ursprünglichen drei Klassen
+"Kämpfer", "Kleriker" und "Zauberkundiger". Eine wichtige Rolle
+spielt bei der Wahl der Klasse das sogenannte
+Primärattribut\index{Primärattribut}. Zum Beispiel ist das
+Primärattribut der Kämpfer-Klasse die Stärke. Ein Kämpfer
+profitiert von einem hohen Wert in Stärke mehr als andere
 Charakterklassen, deshalb ist es taktisch günstig einen Kämpfer
 zu wählen, wenn die Würfel einen hohen Wert in Stärke ergeben
-haben. Tabelle \ref{pri-atr} gibt eine Übersicht über die vier 
+haben. Tabelle \ref{pri-atr} gibt eine Übersicht über die vier
 Klassen und ihre Primärattribute.
 
 
@@ -430,14 +411,6 @@ Klassen und ihre Primärattribute.
 | Kämpfer        | Stärke           |
 | Zauberkundiger | Intelligenz      |
 | Kleriker       | Weisheit         |
-| Dieb           | Geschicklichkeit |
-
-
-[^klassen]: Kämpfer, Zauberkundiger und Kleriker waren die einzigen
-	Klassen, die es 1974 in der ersten Ausgabe des Spiels gab.  
-        Wenn Du
-	also sehr old-schoolig sein willst, spiele einen Kämpfer,
-	Zauberkundigen oder Kleriker.
 
 
 Wenn Du eine Klasse ausgewählt hast, kannst Du anhand der Angaben
@@ -467,7 +440,7 @@ Primärattribut
 :    Stärke
 
 Trefferpunkte
-:    1W10[^6], mindesten 6 
+:    1W10, mindesten 6 
 
 Klassenfähigkeiten
 :    Parieren: Kämpfer können sich im Kampf defensiv verhalten, so 
@@ -481,17 +454,6 @@ Rettungswürfe
 :    Gift: 12, Stäbe: 13, Lähmung: 14, Odem: 15,\newline
      Sprüche: 16
 
-[^6]: in der Ursprünglichen Version des Spiels hatte der Kämpfer 1W6+1
-    Trefferpunkte. In *Basic* wurde ein W8 für den Kämpfer
-    benutzt, und in *Advanced* schließlich
-    ein W10. Die meisten Spieler finden es gut, wenn ein Kämpfer
-    tüchtig was aushalten kann, und da die erste Edition immer
-    noch als Old-School
-    zählt, wird hier deshalb der W10
-    vorgeschlagen. Wenn Du aber Lust auf Old-School im Survival Modus
-    hast, gib dem Kämpfer den guten alten Sechser-Würfel plus eins!
-
-
 
 ### Kleriker
 
@@ -499,7 +461,7 @@ Primärattribut
 :    Weisheit
 
 Trefferpunkte
-:    1W8[^7], mindestens 4 
+:    1W8, mindestens 4 
 
 Klassenfähigkeiten
 :    Kleriker können "Untote" beherrschen, und ab der zweiten Stufe 
@@ -537,27 +499,14 @@ Rettungswürfe
      Sprüche 15
 
 
-[^7]: In Original von 1974 und auch im späteren *Basic*
-	benutzte der Kleriker einen W6 als Trefferwürfel. In der
-        ersten Edition gab es
-	dann das Upgrade auf den W8, der hier vorgeschlagen wird, mit der
-	gleichen Begründung wie beim Kämpfer. Puristen würfeln für ihren
-	Stufe eins Kleriker einen W6.
-
-
-
 ### Zauberkundiger
 
 Primärattribut
 :    Intelligenz
 
 Trefferpunkte
-:    1W4[^8], mindestens 3 
+:    1W4, mindestens 3 
 
-[^8]: Der Ursprüngliche Zauberkundige hatte 1W6-1 Trefferpunkte. In
-    allen späteren Old-School-Varianten hat der Zauberkundige immer
-    einen W4 als Trefferwürfel. Als Old School Purist kannst Du also 
-    auch 1W6-1 werfen um die Trefferpunkte deines Magiers zu ermitteln.
 
 Klassenfähigkeiten
 :    Zauberkundige können Zauberkundigensprüche wirken. Um sie
@@ -569,21 +518,19 @@ Klassenfähigkeiten
      erneuter Vorbereitung wieder gewirkt werden. Zauberkundige der
      ersten Stufe können nur einen Spruch des ersten Grades pro Tag
      wirken.
-	 
-	 Zauberkundige der ersten Stufe haben zu Beginn 4
-     Sprüche in ihrem Zauberbuch, und zwar *Magie lesen*, einen
-     nach Wunsch des Spielers ausgewählten Spruch, und zwei zufällig
-     ermittelte Sprüche. Alle weiteren Sprüche müssen im Spiel
-     gefunden bzw. erlernt werden[^sprüche].
-	 
-[^sprüche]: das ist eine an die erste Edition angelehnte Hausregel. 
-    Die Regeln zum
-    erlernen neuer Sprüche sind in den verschiedenen Editionen recht
-    unterschiedlich. Mit gefällt diese Regel am besten, da sie
-    einerseits mit der Auswahl von 4 Sprüchen ein bisschen Abwechslung
-    ermöglicht, und andererseits Zauberkundige damit ein handfestes
-    Motiv haben, ins Abenteuer zu ziehen: nämlich um neue Sprüche zu
-    entdecken.
+	
+     * * * * 
+     
+     Hausregel
+
+	 ~  Zauberkundige der ersten Stufe haben zu Beginn 4
+	    Sprüche in ihrem Zauberbuch, und zwar *Magie lesen*,
+	    einen nach Wunsch des Spielers ausgewählten Spruch,
+	    und zwei zufällig ermittelte Sprüche. Alle weiteren
+	    Sprüche müssen im Spiel gefunden bzw. erlernt
+	    werden.
+	
+    * * * * 
 
 Klassenbeschränkungen
 :    Zauberkundige dürfen keine Waffen außer Dolchen, Kampfstäben und
@@ -595,48 +542,6 @@ Rettungswürfe
      Sprüche 15
 
 
-### Dieb
-
-Primärattribut
-:    Geschicklichkeit
-
-Trefferpunkte
-:    1W6[^9], mindestens 4 
-
-Klassenfähigkeiten
-:    Der Dieb hat bessere Möglichkeiten bestimmte Fertigkeiten zu
-     erlernen. Hierzu bekommt er in jeder Stufe eine bestimmte Anzahl
-     an Fertigkeitspunkten, mit denen er die Grundstufen der
-     Fertigkeiten verbessern kann. Näheres dazu unter
-     *Fertigkeiten*[^10]. Ein Dieb der ersten Stufe startet mit 4
-     Fertigkeitspunkten.
-	 
-	 Eine besondere Fertigkeit des Diebes ist der *Hinterhältige
-     Angriff*, sofern es dem Dieb gelingt unbeobachtet zu bleiben,
-     kann er seinen Kontrahenten mit einem Aufschlag von +4 angreifen,
-     und verursacht dabei auch noch den doppelten Schaden.
-
-Klassenbeschränkungen
-:    Diebe dürfen nur Lederrüstungen, und keine Schilde tragen. Sie
-     dürfen keine zweihändigen Waffen benutzen.
-	 
-Rettungswürfe
-:    Gift 13, Stäbe 14, Lähmung 13, Odem 16, Sprüche 15
-
-[^9]: In der Ausgabe von 1974 gab es noch keinen Dieb. Der Dieb tauchte das
-    erste mal im Supplement I "Greyhawk" auf, und bekam einen W4 als
-    Trefferwürfel. Genau so war es auch in *Basic*.  In
-    *Advanced*
-    schließlich bekam der Dieb dann den W6 als Trefferwürfel. Der
-    *Specialist* eine moderne Version des Diebes aus *Lamentations of
-    the Flame Princess* hat ebenfalls einen W6.
-
-[^10]: Das Greyhawk-Supplement, *Basic* und *Advanced* benutzten für
-    die Fertigkeiten des Diebes eine riesige Tabelle mit
-    Prozentangaben. Das erscheint mir zu kompliziert. Das System mit
-    Sechser-Würfeln aus *Lamentations of the Flame Princess* erscheint
-    mir logischer und wesentlich einfacher.
-
 
 Von der Wahl der Klasse hängt auch unmittelbar die Anzahl der
 Trefferpunkte \index{Trefferpunkte} ab, die Dein Charakter hat, 
@@ -644,9 +549,13 @@ wenn er das erste Mal ins
 Abenteuer zieht, denn die verschiedenen Klassen benutzen zum Teil
 verschiedene Würfel um die Menge an Trefferpunkten zu ermitteln.
 
+* * * * 
+
+TODO: ggf. durch andere Hausregel ersetzen
+
 Die Trefferpunkte werden bei der Charaktererschaffung
 ausgewürfelt. Unterschreiten die Trefferpunkte allerdings einen
-bestimmten Mindestwert, kann nochmal gewürfelt werden[^5].
+bestimmten Mindestwert, kann nochmal gewürfelt werden.
 
 : Minimale Trefferpunkte 
 
@@ -657,13 +566,15 @@ bestimmten Mindestwert, kann nochmal gewürfelt werden[^5].
 | Zauberkundige | 3 |
 | Diebe | 4 |
 
-[^5]: Das ist eine an *Lamentations of the Flame Princess*
- angelehnte  Hausregel. Traditionell werden die
- Trefferpunkte ohne Mindestwert ausgewürfelt.
- Es macht aber vielen Spielern keinen
- Spaß einen Kämpfer mit 2 Trefferpunkten zu spielen.  Andererseits,
- wenn Du besonders old-schoolig sein willst, 
- vergiss die Mindestwerte!
+Das ist eine an *Lamentations of the Flame Princess*
+angelehnte  Hausregel. Traditionell werden die
+Trefferpunkte ohne Mindestwert ausgewürfelt.
+Es macht aber vielen Spielern keinen
+Spaß einen Kämpfer mit 2 Trefferpunkten zu spielen.  Andererseits,
+wenn Du besonders old-schoolig sein willst, 
+vergiss die Mindestwerte!
+
+* * * *
 
 Unter bestimmten Voraussetzungen kann es auch möglich sein die
 Klasse eines Charakters zu wechseln. So etwas ist sicher nicht
@@ -705,110 +616,6 @@ sehen, dass die Hintergrundgeschichte Deines Charakters während
 der ersten drei Stufen erspielt wird.
 
 
-Völker
-------
-
-Neben den verschiedenen Klassen können Charaktere auch einem
-bestimmten Volk[^volk]\index{Volk} der Fantasy-Welt angehören. Andere
-Spezies\index{Spezies} wie zum Beispiel Elfen haben bestimmte
-vorteilhafte Fähigkeiten, müssen dafür aber auch Einschränkungen
-in Kauf nehmen. Zum Beispiel kann es sein, dass Ihnen nur
-kleinere Trefferwürfel zur Verfügung stehen, oder dass sie in
-einer bestimmten Klasse nur bis zu einem bestimmten Level
-aufsteigen können. 
-
-Manche Völker können gleichzeitig mehreren Klassen angehören, und
-deren Eigenschaften kombinieren. Zum Beispiel kann man einen elfischen
-zauberkundigen Kämpfer spielen. Dann müssen allerdings die erworbenen
-Erfahrungspunkte auf die zwei oder drei Klassen aufgeteilt werden, so
-dass der Stufenaufstieg entsprechend langsamer vonstatten geht. 
-
-[^volk]: Traditionell wird in Fantasy-Rollenspielen hier der
-Begriff "Rasse" benutzt. Dieser Begriff ist natürlich aus
-historischen Gründen sehr problematisch, und ja auch noch nicht
-einmal richtig. Im naturwissenschaftlichen Sinne wäre wahrscheinlich 
-*Spezies* oder *Art* richtiger, vielleicht auch *Familie* oder
-*Gattung*. Der Begriff "Volk" ist auch nicht ganz
-unproblematisch, aber ich finde, dass er gut in die Fantasy-Welt
-passt: "Volk der Zwerge", "Elfenvolk", das ist schon ganz o.k., finde
-ich.
-
-### Menschen
-
-Menschen haben keine besonderen Vor- oder Nachteile, und keine
-Klassen- oder Stufenbeschränkungen, außer dass sie nur immer
-jeweils einer Klasse angehören können.\index{Menschen}
-
-### Elfen
-\index{Elfen}
-
-Voraussetzungen
-:    Intelligenz mindestens 9, Konstitution maximal 17
-
-Klassen
-:    Kämpfer bis Stufe 7, Zauberkundiger bis Stufe 11, Kleriker bis
-	 Stufe 7, Dieb unbegrenzt. Elfen können mehrere Klassen
-	 kombinieren.
-
-Vorteile
-:    Trefferwurf +1 mit Schwertern und Bögen, Infravision,
-     Geheimtüren entdecken/Fertigkeit *Suchen* 2 in 6 (im Vorbeigehen 
-     immer noch
-     1 in 6), Immunität gegen magische Lähmung, Elfen sprechen neben der
-     Gemeinsprache auch Elfisch und Orkisch.
-     Rettungswürfe gegen Versteinerung und Lähmung +2.
- 
-Nachteile
-:    Elfen benutzen maximal einen W8 als Trefferwürfel
-
-
-### Halblinge
-\index{Halblinge}
-
-Voraussetzungen
-:    Geschicklichkeit mindestens 9, Stärke maximal 17
-
-Klassen
-:    Kämpfer bis Stufe 6, Dieb unbegrenzt
-
-Vorteile
-:    +1 auf Fernkampfangriffe, Rüstungsklasse um 2 verbessert im Kampf
-     gegen
-     Kreaturen die größer als Menschen sind, Initiative +1 (falls die
-     Initiative individuell ausgewürfelt wird), Verstecken in der Natur
-     9 in 10, Verstecken im Dungeon 3 in 10. Fertigkeit *Wildnisleben*
-     3 in 6\index{Wildnisleben}. Rettungswürfe gegen Gift und
-     Todesstrahlen +2.
-
-Nachteile
-:    Halblinge benutzen maximal einen W6 als Trefferwürfel, sie können
-     keine zweihändigen Waffen benutzen, und müssen normal große
-     Waffen zweihändig führen.
-
-### Zwerge
-\index{Zwerge}
-
-Voraussetzungen
-:    Konstitution mindestens 9, Charisma höchstens 17
-
-Klassen
-:    Kämpfer bis Stufe 9, Kleriker bis Stufe 8, Dieb unbegrenzt.
-
-Vorteile
-:    Infravision, *Architektur* 3 in 6 (damit ist das entdecken von
-     Veränderungen im Mauerwerk, das Wahrnehmen von Gefällen und
-     ähnliches gemeint). Zwerge sprechen neben der Gemeinsprache auch
-     Zwergisch, Goblinsch und Gnomisch.
-     Rettungswürfe gegen Zaubersprüche +2.
-	 
-Nachteile
-:    Zwerge dürfen keine Zweihandschwerter, Stangenwaffen oder
-     Langbögen benutzen[^11].
-	 
-[^11]: In den alten Regeln dürfen Zwerge auch keine zweihändigen Äxte
-    oder Kriegshämmer benutzen... das habe ich nie verstanden. In
-    allen Romanen und Filmen hat doch *jeder* Zwerg eine zweihändige
-    Axt ...
 
 Gesinnung
 ---------
@@ -1466,9 +1273,10 @@ Trefferwahrscheinlichkeit durch den Bonus von +1 um 5% besser,
 und er würde immer einen Punkt mehr, also 2 - 9 Punkte Schaden 
 anrichten.
 
-Schilde \index{Schilde} können *einen* Treffer aufnehmen, und sind
-dann zerstört. Diese Regel ist im Internet bekannt als *shields shall
-be splintered* [^shields]
+Hausregel
+    ~ Schilde \index{Schilde} können *einen* Treffer aufnehmen, und sind
+      dann zerstört. Diese Regel ist im Internet bekannt als
+      *shields shall be splintered* [^shields]
 
 [^shields]:
 <http://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html>
@@ -1652,13 +1460,11 @@ Wirklichkeit das meiste Gold gibt. Ist ja auch logisch: wenn
 Heerscharen von Abenteurern in Grotten und Wildnis ausziehen um
 Gold zu finden, müssen sie es ja am Ende irgendwo hin bringen.
 Und unsere Regel ist ja auch, dass nur ausgegebenes Gold für das
-Ansammlung von Erfahrung zählt [^dieb]
-
-[^dieb]: Wenn Du ein Dieb bist, kannst Du ja an dieser Stelle mal
-    über den Pfandleiher gleich neben dem Juwelier gegenüber vom
-    Kontor des Stadtkämmerers nachdenken, oder zumindest über die
-    Schatulle des Tavernenwirts. Da ergibt sich vielleicht ein ganz
-    eigenes kleines Abenteuer für Dich!
+Ansammlung von Erfahrung zählt. Je nach dem wie Deine Gesinnung
+ist, könntest Du ja an dieser Stelle mal
+über den Pfandleiher gleich neben dem Juwelier gegenüber vom
+Kontor des Stadtkämmerers nachdenken, oder zumindest über die
+Schatulle des Tavernenwirts.
 
 Womit wir bei einem wichtigen Aspekt des Stadtabenteuers wären:
 Aufenthalte in der Stadt kosten Geld. Tu' dem Spielleiter einen
@@ -2917,6 +2723,203 @@ Runden auf den neuen Entdeckungen aufbauen.
 [^arsludi]:
 <http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/>
 
+Charakteroptionen
+=================
+
+Attribute
+---------
+
+Beginnend mit der ersten Edition bis zur heutigen 5. Edition werden
+die Attribute mit vier Sechser- Würfeln ausgewürfelt, wobei der
+niedrigste Wert verworfen wird - *4W6 drop lowest*. Dabei ergeben
+sich auch Werte zwischen 3 und 18, aber mit einer deutlichen
+Betonung der höheren Werte.  Aus meiner Sicht ist das nicht mehr
+Old-School, und "moderne" Old-School Regelwerke wie *Basic Fantasy
+RPG*, *Swords & Wizardry* oder *Lamentations of the Flame
+Princess* nutzen weiterhin einhellig die alte 3W6 Methode.
+
+
+Optionale Klassen
+-----------------
+
+In der Ausgabe von 1974 gab es noch keinen Dieb. Der Dieb tauchte das
+erste mal im Supplement I "Greyhawk" auf, und bekam einen W4 als
+Trefferwürfel. Genau so war es auch in *Basic*.  In
+*Advanced*
+schließlich bekam der Dieb dann den W6 als Trefferwürfel. Der
+*Specialist* eine moderne Version des Diebes aus *Lamentations of
+the Flame Princess* hat ebenfalls einen W6.
+
+Das Greyhawk-Supplement, *Basic* und *Advanced* benutzten für
+die Fertigkeiten des Diebes eine riesige Tabelle mit
+Prozentangaben. Das erscheint mir zu kompliziert. Das System mit
+Sechser-Würfeln aus *Lamentations of the Flame Princess* erscheint
+mir logischer und wesentlich einfacher.
+
+### Dieb
+
+Primärattribut
+:    Geschicklichkeit
+
+Trefferpunkte
+:    1W6, mindestens 4 
+
+Klassenfähigkeiten
+:    Der Dieb hat bessere Möglichkeiten bestimmte Fertigkeiten zu
+     erlernen. Hierzu bekommt er in jeder Stufe eine bestimmte Anzahl
+     an Fertigkeitspunkten, mit denen er die Grundstufen der
+     Fertigkeiten verbessern kann. Näheres dazu unter
+     *Fertigkeiten*. Ein Dieb der ersten Stufe startet mit 4
+     Fertigkeitspunkten.
+	 
+	 Eine besondere Fertigkeit des Diebes ist der *Hinterhältige
+     Angriff*, sofern es dem Dieb gelingt unbeobachtet zu bleiben,
+     kann er seinen Kontrahenten mit einem Aufschlag von +4 angreifen,
+     und verursacht dabei auch noch den doppelten Schaden.
+
+Klassenbeschränkungen
+:    Diebe dürfen nur Lederrüstungen, und keine Schilde tragen. Sie
+     dürfen keine zweihändigen Waffen benutzen.
+	 
+Rettungswürfe
+:    Gift 13, Stäbe 14, Lähmung 13, Odem 16, Sprüche 15
+
+
+Trefferwürfel
+-------------
+
+### Kämpfer 
+
+In der Ursprünglichen Version des Spiels hatte der Kämpfer 1W6+1
+Trefferpunkte. In *Basic* wurde ein W8 für den Kämpfer
+benutzt, und in *Advanced* schließlich
+ein W10. Die meisten Spieler finden es gut, wenn ein Kämpfer
+tüchtig was aushalten kann, und da die erste Edition immer
+noch als Old-School
+zählt, wird hier deshalb der W10
+vorgeschlagen. Wenn Du aber Lust auf Old-School im Survival Modus
+hast, gib dem Kämpfer den guten alten Sechser-Würfel plus eins!
+
+### Kleriker
+In Original von 1974 und auch im späteren *Basic*
+benutzte der Kleriker einen W6 als Trefferwürfel. In der
+ersten Edition gab es
+dann das Upgrade auf den W8, der hier vorgeschlagen wird, mit der
+gleichen Begründung wie beim Kämpfer. Puristen würfeln für ihren
+Stufe eins Kleriker einen W6.
+
+### Zauberkundiger
+Der Ursprüngliche Zauberkundige hatte 1W6-1 Trefferpunkte. In
+allen späteren Old-School-Varianten hat der Zauberkundige immer
+einen W4 als Trefferwürfel. Als Old School Purist kannst Du also 
+auch 1W6-1 werfen um die Trefferpunkte deines Magiers zu ermitteln.
+
+
+Völker
+------
+
+Neben den verschiedenen Klassen können Charaktere auch einem
+bestimmten Volk\index{Volk} der Fantasy-Welt angehören.
+Traditionell wird in Fantasy-Rollenspielen hier der Begriff
+"Rasse" benutzt. Dieser Begriff ist natürlich aus historischen
+Gründen sehr problematisch, und ja auch noch nicht einmal
+richtig. Im naturwissenschaftlichen Sinne wäre wahrscheinlich
+*Spezies* oder *Art* richtiger, vielleicht auch *Familie* oder
+*Gattung*. Der Begriff "Volk" ist auch nicht ganz
+unproblematisch, aber ich finde, dass er gut in die Fantasy-Welt
+passt: "Volk der Zwerge", "Elfenvolk", das ist schon ganz o.k.,
+finde ich.  Andere Spezies\index{Spezies} wie zum Beispiel Elfen
+haben bestimmte vorteilhafte Fähigkeiten, müssen dafür aber auch
+Einschränkungen in Kauf nehmen. Zum Beispiel kann es sein, dass
+Ihnen nur kleinere Trefferwürfel zur Verfügung stehen, oder dass
+sie in einer bestimmten Klasse nur bis zu einem bestimmten Level
+aufsteigen können. 
+
+Manche Völker können gleichzeitig mehreren Klassen angehören, und
+deren Eigenschaften kombinieren. Zum Beispiel kann man einen
+elfischen zauberkundigen Kämpfer spielen. Dann müssen allerdings
+die erworbenen Erfahrungspunkte auf die zwei oder drei Klassen
+aufgeteilt werden, so dass der Stufenaufstieg entsprechend
+langsamer vonstatten geht. 
+
+
+### Menschen
+
+Menschen haben keine besonderen Vor- oder Nachteile, und keine
+Klassen- oder Stufenbeschränkungen, außer dass sie nur immer
+jeweils einer Klasse angehören können.\index{Menschen}
+
+### Elfen
+\index{Elfen}
+
+Voraussetzungen
+:    Intelligenz mindestens 9, Konstitution maximal 17
+
+Klassen
+:    Kämpfer bis Stufe 7, Zauberkundiger bis Stufe 11, Kleriker bis
+	 Stufe 7, Dieb unbegrenzt. Elfen können mehrere Klassen
+	 kombinieren.
+
+Vorteile
+:    Trefferwurf +1 mit Schwertern und Bögen, Infravision,
+     Geheimtüren entdecken/Fertigkeit *Suchen* 2 in 6 (im Vorbeigehen 
+     immer noch
+     1 in 6), Immunität gegen magische Lähmung, Elfen sprechen neben der
+     Gemeinsprache auch Elfisch und Orkisch.
+     Rettungswürfe gegen Versteinerung und Lähmung +2.
+ 
+Nachteile
+:    Elfen benutzen maximal einen W8 als Trefferwürfel
+
+
+### Halblinge
+\index{Halblinge}
+
+Voraussetzungen
+:    Geschicklichkeit mindestens 9, Stärke maximal 17
+
+Klassen
+:    Kämpfer bis Stufe 6, Dieb unbegrenzt
+
+Vorteile
+:    +1 auf Fernkampfangriffe, Rüstungsklasse um 2 verbessert im Kampf
+     gegen
+     Kreaturen die größer als Menschen sind, Initiative +1 (falls die
+     Initiative individuell ausgewürfelt wird), Verstecken in der Natur
+     9 in 10, Verstecken im Dungeon 3 in 10. Fertigkeit *Wildnisleben*
+     3 in 6\index{Wildnisleben}. Rettungswürfe gegen Gift und
+     Todesstrahlen +2.
+
+Nachteile
+:    Halblinge benutzen maximal einen W6 als Trefferwürfel, sie können
+     keine zweihändigen Waffen benutzen, und müssen normal große
+     Waffen zweihändig führen.
+
+### Zwerge
+\index{Zwerge}
+
+Voraussetzungen
+:    Konstitution mindestens 9, Charisma höchstens 17
+
+Klassen
+:    Kämpfer bis Stufe 9, Kleriker bis Stufe 8, Dieb unbegrenzt.
+
+Vorteile
+:    Infravision, *Architektur* 3 in 6 (damit ist das entdecken von
+     Veränderungen im Mauerwerk, das Wahrnehmen von Gefällen und
+     ähnliches gemeint). Zwerge sprechen neben der Gemeinsprache auch
+     Zwergisch, Goblinsch und Gnomisch.
+     Rettungswürfe gegen Zaubersprüche +2.
+	 
+Nachteile
+:    Zwerge dürfen keine Zweihandschwerter, Stangenwaffen oder
+     Langbögen benutzen[^11].
+	 
+[^11]: In den alten Regeln dürfen Zwerge auch keine zweihändigen Äxte
+    oder Kriegshämmer benutzen... das habe ich nie verstanden. In
+    allen Romanen und Filmen hat doch *jeder* Zwerg eine zweihändige
+    Axt ...
+
 
 Andere Spielerhandbücher
 ========================
@@ -3075,6 +3078,7 @@ Swords & Wizardry Continual Light, Deutsche Ausgabe
      Elementen. Kostenloses PDF:
      
      <https://www.system-matters.de/wp-content/uploads/2018/02/SW-Continual-Light-Download.pdf>
+
 
 
 Tabellen
