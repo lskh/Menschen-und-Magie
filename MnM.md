@@ -285,85 +285,44 @@ Hausregel
 
 ----------
 
-TODO: Modifikatoren an OD&D anpassen!
-
-: Attributs-Modifikatoren\label{atr-mod}
-
-| Attribut | Modifikator |
-|:--------:|:-----------:|
-| 3        | -3          |
-| 4-5      | -2          |
-| 6-8      | -1          |
-| 9-12     | 0           |
-| 13-15    | +1          |
-| 16-17    | +2          |
-| 18       | +3          |
-
-Rechts neben den Wert jedes Attributs schreibst Du nun noch einen
-*Modifikator* für jedes Attribut dessen Wert über 12 oder unter 9
-liegt. Die Modifikatoren \index{Modifikator} haben jeweils einen 
-Wert zwischen -3, also ein Malus, und +3, also ein Bonus[^boni].
-Tabelle \ref{atr-mod} zeigt welcher
-Modifikator dem jeweiligen Attributswert zugeordnet wird.
-
-[^boni]: Die Spanne von -3 bis +3 ist in den meisten Old
-    School-Editionen Standard. Im original Spiel von 1974 und auch in
-    der Holmes-Edition, gab es noch wesentlich weniger, und auch
-    kleinere Boni. Bei einer Geschicklichkeit über 12 einen Aufschlag
-    von +1 auf Fernkampfangriffe, und bei einer Konstitution über 14
-    einen Aufschlag von +1 auf jeden Trefferwürfel.
-
-
 
 Attribute
 ---------
 
 Stärke \index{Stärke}
-:    steht für die Körperkraft eines Wesens. Der
-     Stärkemodifikator wird bei folgenden Aktionen angerechnet:
-	 
-	  - Angriffswürfe im Nahkampf
-	  - Schadenswürfe im Nahkampf
-	  - Aufbrechen von Türen.
-	  
-      Das heißt, ein besonders starker Charakter trifft leichter mit
-      seinem Schwert, und verursacht dabei größeren Schaden.
+:    steht für die Körperkraft eines Wesens. Kämpfer mit 
+     einer Stärke von 
+     15 oder mehr erhalten einen Aufschlag von 5% auf ihre
+     gesammelten Erfahrungspunkte.
 	  
 Intelligenz \index{Intelligenz}
 :    stellt quasi das Buchwissen eines Charakters
-     dar. Der Intelligenzmodifikator wird angewendet als:
-	 
-	  - Modifikator für die Fertigkeit
-	    *Sprachen*\index{Sprachen}
+     dar. Für jeden Punkt über 10 spricht der Charakter eine
+     zusätzliche Sprache. Zauberkundige mit einer Intelligenz
+     von 15 oder mehr erhalten einen Aufschlag von 5% auf ihre
+     gesammelten Erfahrungspunkte.
 
 Weisheit \index{Weisheit}
-:    stellt die Intuition, den Instinkt eines Charakters
-     dar. Der Weisheitsmodifikator hilft bei:
-	 
-	  - Rettungswürfen gegen magische Effekte.
-	  
-     Das heißt zum Beispiel, dass ein besonders weiser Charakter nicht
-     so leicht magisch beeinflusst werden kann.
+:    stellt die Intuition, den Instinkt und das gute
+     Urteilsvermögen eines Charakters
+     dar. Alle Charaktere mit einer Weisheit von 15 oder mehr
+     erhalten einen Aufschlag von 5% auf ihre Erfahrungspunkte.
+     Da Weisheit das Primärattribut der Kleriker ist, erhalten
+     Kleriker mit einer Weisheit von 15 oder mehr 10% Aufschlag
+     auf ihre Erfahrungspunkte.
 	  
 Geschicklichkeit \index{Geschicklichkeit}
-:    ist eigentlich selbst erklärend. Der
-     Geschicklichkeitsmodifikator wird angewendet auf:
-	 
-	  - Angriffswürfe im Fernkampf
-	  - die Rüstungsklasse \index{Rüstungsklasse}
-
-     Das heißt, ein besonders geschickter Charakter trifft leichter
-     mit Pfeil und Bogen, und ist im Kampf schwerer zu treffen, weil
-     er geschickter ausweicht.
+:    ist das Resultat aus Koordination und Schnelligkeit. Ein
+     hoher Geschicklichkeitswert (15+) gibt einen Bonus von +1 auf
+     Angriffswürfe im Fernkampf, also zum Beispiel mit Pfeil und
+     Bogen. Ein niedriger Wert (8-) gibt einen Abzug von -1 auf
+     entsprechende Angriffswürfe.
 
 Konstitution \index{Konstitution}
 :    beschreibt die Zähigkeit eines Charakters.
-     Der Konstitutionsmodifikator wird angewendet auf:
-	 
-	  - die Trefferpunkte \index{Trefferpunkte} eines Charakters.
-	  - die Wahrscheinlichkeit eines Charakters eine Verwandlung oder
-        auch eine magische Wiederbelebung\index{Wiederbelebung}
-	zu überstehen.
+     Ein hoher Konstitutionswert (15+) gibt dem Charakter einen
+     Bonus von +1 auf seine Trefferpunkte, ein Wert von 6 oder
+     weniger ergibt einen Abzug von -1 auf die Trefferpunkte.
 	  
      Trefferpunkte stehen für die Menge an Schaden, Verletzungen,
      Prellungen aber auch zum Beispiel Rückschlag und Frustration, die
@@ -372,21 +331,26 @@ Konstitution \index{Konstitution}
 
 Charisma \index{Charisma}
 :    kann am besten als Ausdruck für das diplomatische Talent
-     und die Führungsfähigkeiten eines Charakters verstanden werden. 
-	 Dem entsprechend wird der Charisma-Modifikator angewendet auf:
-	 
-	  - Reaktionswürfe \index{Reaktionswürfe}
-	  - die Anzahl an Gefolgsleuten, die einen Charakter begleiten 
-	    werden.
-          - die Loyalität der Gefolgsleute
+     und die Führungsfähigkeiten eines Charakters verstanden werden.     
+     Charaktere mit einem Charismawert von 15 oder mehr erhalten
+     einen Bonus von 5% auf ihre Erfahrungspunkte.
 
-	Mit Reaktionswürfen stellt der Spielleiter fest, 
-	ob es zum
-    Beispiel gelungen ist, die Wachen am Palasteingang zu überreden
-    dieses mal eine kleine Ausnahme zu machen (wobei vielleicht auch
-    noch ein kleines Säckchen mit Silbermünzen eine Rolle spielen
-    könnte). Ein Charakter mit hohem Charisma hat dabei eine größere
-    Erfolgschance. 
+     Charisma wirkt sich auch auf die Anzahl und die
+     Loyalität von Gefolgsleuten aus, die ein Charakter in 
+     seinen Dienst nehmen kann.
+
+     : Charisma Bonus Tabelle
+
+     | Charisma | Gefolgsleute (max. Anzahl) | Loyalität |
+     |:--------:|:--------------------------:|:---------:|
+     | 3 - 4    |       1                    | -2        |
+     | 5 - 6    |       2                    | -2        |
+     | 7 - 8    |       3                    | -1        |
+     | 9 - 12   |       4                    |  0        |
+     | 13 - 15  |       5                    |  +1       |
+     | 16 - 17  |       6                    |  +2       |
+     | 18       |       7                    |  +2       |
+
 
 Klassen
 -------
@@ -620,6 +584,8 @@ der ersten drei Stufen erspielt wird.
 Gesinnung
 ---------
 \index{Gesinnung}
+
+TODO einfaches Gesinnungssystem
 
 In Old-School-Rollenspielen findet man zwei verschiedene
 Gesinnungssysteme. Das ursprüngliche, einfachere System unterscheidet
@@ -1365,20 +1331,6 @@ Primärattribut \index{Primärattribut} der Diebe. Wenn dieser Dieb sich
 Prozentmodifikator von +5%, dass er sich nicht 100 EP, sondern 105 EP
 anschreiben darf. Dass heißt ein hoher Wert im Primärattribut
 ermöglicht einem Charakter schneller höhere Stufen zu erreichen.
-
-: Prozent-Modifikatoren
-
-| Attribut |  %-Modifikator |
-|:--------:|:-------------:|
-| 3        | -15 %         |
-| 4-5      | -10 %         |
-| 6-8      | -5 %          |
-| 9-12     | 0             |
-| 13-15    | +5 %          |
-| 16-17    | +10 %         |
-| 18       | +15 %         |
-
-\index{Modifikator!Prozent}
 
 
 
@@ -3116,7 +3068,7 @@ des 1. Grades und einen Spruch des 2. Grades wirken kann.
 | 7     |         64.000 | +1W10       | +2 |
 | 8     |        128.000 | +1W10       | +2 |
 | 9     |        256.000 | +1W10       | +2 |
-| 10    |        350.000 | +1W10       | +3 |
+| 10    |        350.000 | +2 TP       | +3 |
 | 11+   | +100.000/Stufe | +2 TP/Stufe | +3 |
 
 \index{Kämpfer!Stufen}
@@ -3129,7 +3081,7 @@ des 1. Grades und einen Spruch des 2. Grades wirken kann.
 | 2     |       1.500 | +1W8  | 0  | 1 | - | - | - | - | - | - |
 | 3     |       3.000 | +1W8  | 0  | 2 | - | - | - | - | - | - |
 | 4     |       6.000 | +1W8  | 0  | 2 | 1 | - | - | - | - | - |
-| 5     |      1.2000 | +1W8  | +1 | 2 | 2 | - | - | - | - | - |
+| 5     |      12.000 | +1W8  | +1 | 2 | 2 | - | - | - | - | - |
 | 6     |      24.000 | +1W8  | +1 | 2 | 2 | 1 | 1 | - | - | - |
 | 7     |      48.000 | +1W8  | +1 | 2 | 2 | 2 | 1 | 1 | - | - |
 | 8     |     100.000 | +1W8  | +1 | 2 | 2 | 2 | 2 | 2 | - | - |
@@ -3175,7 +3127,7 @@ des 1. Grades und einen Spruch des 2. Grades wirken kann.
 | 18    |   1.000.000 | +1    | +3 | 6 | 6 | 6 | 6 | 6 | 5 | 2 | 2 | 1 |
 | 19    |   1.100.000 | +1    | +3 | 7 | 7 | 7 | 6 | 6 | 6 | 3 | 2 | 2 |
 | 20    |   1.200.000 | +1    | +3 | 7 | 7 | 7 | 7 | 7 | 7 | 3 | 3 | 2 |
-| 21+   | +100.000/St | +1/St | +4 | 8 | 8 | 8 | 7 | 7 | 7 | 4 | 3 | 3 |
+| 21+   | +100.000/St | +1/St | +3 | 8 | 8 | 8 | 7 | 7 | 7 | 4 | 3 | 3 |
 
 : Diebe Stufen
 \index{Diebe!Stufen}
@@ -3191,8 +3143,8 @@ des 1. Grades und einen Spruch des 2. Grades wirken kann.
 | 7     |        40.000 | +1W6     | +1 | +1                |
 | 8     |        60.000 | +1W6     | +1 | +1                |
 | 9     |        90.000 | +1W6     | +2 | +1                |
-| 10    |       120.000 | +1W6     | +2 | +1                |
-| 11    |       240.000 | +1W6     | +2 | +1                |
+| 10    |       120.000 | +2       | +2 | +1                |
+| 11    |       240.000 | +2       | +2 | +1                |
 | 12+   |   +130.000/St | +2/St    | +2 | +1/St             |
 
 
@@ -3237,7 +3189,7 @@ des 1. Grades und einen Spruch des 2. Grades wirken kann.
 |    20 | +11|  1 | 1  |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 | 11 | 10 |
 
 
-: Angrisstabelle Zauberkundige und Illusionisten
+: Angriffstabelle Zauberkundige und Illusionisten
 
 | Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
 |-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
