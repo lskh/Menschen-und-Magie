@@ -18,7 +18,7 @@ Text und Satz: © Laurens Kils-Hütten, 2019 \newline
 
 Titelbild: LadyofHats, CC 0, public domain 
 
-OSR-Logo: Stuart Robertson, CC BY 3.0
+OSR-Logo: [Matt S. Jackson, public domain](http://www.msjx.org/2018/11/vintage-logos-2.html)
 
 *Dungeons & Dragons*, *D&D* und *AD&D* sind eingetragene
 Warenzeichen von *Wizards of the Coast*
@@ -272,18 +272,11 @@ Abkürzungen benutzen um Platz zu sparen: ST, IN, WE, GE, KO, CH
 Sechser-Würfel (3W6), und würfelst von oben nach unten, also für
 ein Attribut nach dem anderen einen Wert zwischen 3 und 18 aus, und
 schreibst ihn hinter das jeweilige Attribut, je höher der Wert, desto
-besser.  Nun kannst Du schon ein bisschen erahnen, welche Art von
-Abenteurer Du hier vor Dir hast. Einen dümmlichen Kraftprotz?
-einen
-gewitzten Hänfling? jemanden der klug und charismatisch ist?
-
-
-----------
-
-Hausregel
-:    Auf Wunsch des Spielers darf einmalig der höchste mit dem  niedrigsten Wert getauscht werden.
-
-----------
+besser. Wenn Du möchtest, kannst Du einmalig den höchsten mit dem
+niedrigsten Wert vertauschen. Nun kannst Du schon ein bisschen
+erahnen, welche Art von Abenteurer Du hier vor Dir hast. Einen
+dümmlichen Kraftprotz?  einen gewitzten Hänfling? jemanden der klug
+und charismatisch ist?
 
 
 Attribute
@@ -293,7 +286,9 @@ Stärke \index{Stärke}
 :    steht für die Körperkraft eines Wesens. Kämpfer mit 
      einer Stärke von 
      15 oder mehr erhalten einen Aufschlag von 5% auf ihre
-     gesammelten Erfahrungspunkte.
+     gesammelten Erfahrungspunkte. Außerdem erhalten sie einen
+     Aufschlag von +1 auf ihren Trefferwurf im Nahkampf sowie auf
+     Schadenswürfe im Nah- und Fernkampf.\label{stbonus}
 	  
 Intelligenz \index{Intelligenz}
 :    stellt quasi das Buchwissen eines Charakters
@@ -319,19 +314,24 @@ Geschicklichkeit \index{Geschicklichkeit}
      entsprechende Angriffswürfe.
 
 Konstitution \index{Konstitution}
-:    beschreibt die Zähigkeit eines Charakters.
-     Ein hoher Konstitutionswert (15+) gibt dem Charakter einen
-     Bonus von +1 auf seine Trefferpunkte, ein Wert von 6 oder
-     weniger ergibt einen Abzug von -1 auf die Trefferpunkte.
-	  
-     Trefferpunkte stehen für die Menge an Schaden, Verletzungen,
+:    beschreibt die Zähigkeit eines Charakters, denn sie entscheidet
+     mit welchem Würfel die Trefferpunkte des Charakters ermittelt
+     werden. Trefferpunkte stehen für die Menge an Schaden, Verletzungen,
      Prellungen aber auch zum Beispiel Rückschlag und Frustration, die
      ein Charakter im Kampf erleiden kann. Sinken die Trefferpunkte
      auf Null geht ein Charakter leblos zu Boden.
+	 
+     | Konstitution | Trefferwürfel |
+     |:------------:|:-------------:|
+     |  18          |   W12         |
+     |  16 - 17     |   W10         |
+     |  13 - 15     |   W8          |
+     |  8 - 12      |   W6          |
+     |  3 - 7       |   W4          |
 
 Charisma \index{Charisma}
 :    kann am besten als Ausdruck für das diplomatische Talent
-     und die Führungsfähigkeiten eines Charakters verstanden werden.     
+     und die Führungsfähigkeiten eines Charakters verstanden werden.
      Charaktere mit einem Charismawert von 15 oder mehr erhalten
      einen Bonus von 5% auf ihre Erfahrungspunkte.
 
@@ -387,6 +387,28 @@ den Attributen und Modifikatoren, solltest Du Dir nun Felder für
 Trefferpunkte (TP), Angriffsbonus (AB) und Rüstungsklasse (RK)
 einrichten. 
 
+Von der Wahl der Klasse hängt auch unmittelbar die Anzahl der
+Trefferpunkte \index{Trefferpunkte} ab, die Dein Charakter hat, 
+wenn er das erste Mal ins
+Abenteuer zieht.
+ 
+* * * * 
+
+Hausregel
+:    Die Trefferpunkte werden bei der Charaktererschaffung
+     ausgewürfelt. Unterschreiten die Trefferpunkte allerdings einen
+     bestimmten Mindestwert, kann nochmal gewürfelt werden.
+
+     : Minimale Trefferpunkte 
+
+     | Klasse | Trefferpunkte |
+     |:--------|:-------:|
+     | Kämpfer | 5 | 
+     | Kleriker | 4 |
+     | Zauberkundige | 3 |
+
+* * * *
+
 Unter dem Feld für die Rüstungsklasse kannst Du als nächstes eine 
 kleine Tabelle
 mit deinen fünf Rettungswürfen \index{Rettungswürfe} anlegen.  Die
@@ -404,7 +426,7 @@ Primärattribut
 :    Stärke
 
 Trefferpunkte
-:    1W10, mindesten 6 
+:    1W6+1 
 
 Klassenfähigkeiten
 :    Parieren: Kämpfer können sich im Kampf defensiv verhalten, so 
@@ -425,7 +447,7 @@ Primärattribut
 :    Weisheit
 
 Trefferpunkte
-:    1W8, mindestens 4 
+:    1W6 
 
 Klassenfähigkeiten
 :    Kleriker können "Untote" beherrschen, und ab der zweiten Stufe 
@@ -469,7 +491,7 @@ Primärattribut
 :    Intelligenz
 
 Trefferpunkte
-:    1W4, mindestens 3 
+:    1W6 
 
 
 Klassenfähigkeiten
@@ -494,7 +516,7 @@ Klassenfähigkeiten
 	    Sprüche müssen im Spiel gefunden bzw. erlernt
 	    werden.
 	
-    * * * * 
+     * * * * 
 
 Klassenbeschränkungen
 :    Zauberkundige dürfen keine Waffen außer Dolchen, Kampfstäben und
@@ -505,40 +527,6 @@ Rettungswürfe
 :    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16,\newline
      Sprüche 15
 
-
-
-Von der Wahl der Klasse hängt auch unmittelbar die Anzahl der
-Trefferpunkte \index{Trefferpunkte} ab, die Dein Charakter hat, 
-wenn er das erste Mal ins
-Abenteuer zieht, denn die verschiedenen Klassen benutzen zum Teil
-verschiedene Würfel um die Menge an Trefferpunkten zu ermitteln.
-
-* * * * 
-
-TODO: ggf. durch andere Hausregel ersetzen
-
-Die Trefferpunkte werden bei der Charaktererschaffung
-ausgewürfelt. Unterschreiten die Trefferpunkte allerdings einen
-bestimmten Mindestwert, kann nochmal gewürfelt werden.
-
-: Minimale Trefferpunkte 
-
-| Klasse | Trefferpunkte |
-|:--------|:-------:|
-| Kämpfer | 6 | 
-| Kleriker | 4 |
-| Zauberkundige | 3 |
-| Diebe | 4 |
-
-Das ist eine an *Lamentations of the Flame Princess*
-angelehnte  Hausregel. Traditionell werden die
-Trefferpunkte ohne Mindestwert ausgewürfelt.
-Es macht aber vielen Spielern keinen
-Spaß einen Kämpfer mit 2 Trefferpunkten zu spielen.  Andererseits,
-wenn Du besonders old-schoolig sein willst, 
-vergiss die Mindestwerte!
-
-* * * *
 
 Unter bestimmten Voraussetzungen kann es auch möglich sein die
 Klasse eines Charakters zu wechseln. So etwas ist sicher nicht
@@ -1165,79 +1153,221 @@ gelesen werden.
 Silber und Gold
 ----------------
 
-Nachdem Du nun also einen fertigen Charakter hast, vielleicht eine
-Halbling-Diebin, ist es an der Zeit sie auszurüsten. Dazu brauchst Du
-Geld. Oder besser gesagt Gold\index{Geld}! 
+Nachdem Du nun also einen fertigen Charakter hast, ist es an der
+Zeit sie auszurüsten. Dazu brauchst Du Geld. Oder besser gesagt
+Gold\index{Geld}! 
 
 Das Startgeld eines Charakters wird ermittelt mit einem Wurf von 3W6,
 dessen Ergebnis mit 10 multipliziert wird. Charaktere starten also mit
 30 - 180 GM.
-
-Eine Goldmünze (GM) entspricht 10 Silbermünzen (SM), 
-oder auch 100 Kupfermünzen (KM).
 
 
 Basisausrüstung
 ----------------
 \index{Ausrüstung!Pakete}
 
-Damit Du möglichst schnell und ohne viel Rechnerei einen spielfertig
-ausgerüsteten Charakter hast, habe ich Ausrüstungspakete vorbereitet.
 
-Die Pakete sind so zusammengestellt, dass sie vom üblichen Startgold
-gekauft werden können, und Du ohne zusätzliche Einkäufe ins Abenteuer
-ziehen kannst.
+: Ausrüstungstabelle Kleriker
 
-Richte auf deinem Charakterbogen eine Rubrik für *Ausrüstung* ein, und
-trage alle Gegenstände die du kaufst und mit dir führst dort ein. 
+----------------------------------------------------------------------------------
+ 3d6    Ausrüstung
+------- --------------------------------------------------------------------------
+ 3      Knüppel, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen 
+        für 7 Tage, 3 m Holzstange, hölzernes heiliges Symbol, 4 GM 
 
-Wenn Du andere Sachen einkaufen willst, oder Du dich fragst, was eine
-deftige Mahlzeit im Dorfkrug kostet, findest Du weiter hinten
-umfangreiche Einkaufslisten.
+ 4      Knüppel, Schild, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne 
+        Rationen für 7 Tage, 15 m Seil, hölzernes heiliges Symbol, 4 GM 
 
-Im laufenden Spiel kann natürlich nur etwas gekauft werden, wenn auch
-ein entsprechendes Geschäft aufgesucht wurde!
+ 5      Steitkolben, Lederrüstung, 6 Fackeln, Rucksack, Wasserschlauch, 
+        Eiserne Rationen für 7 Tage, 3 m Holzstange, hölzernes heiliges 
+        Symbol, 5 GM 
 
-: Dungeon Abenteurer Basispaket
+ 6      Kampfstab, Lederrüstung, 6 Fackeln, Rucksack, Wasserschlauch, 
+        Eiserne Rationen für 7 Tage, 15 m Seil, 12 Eisennägel, hölzernes 
+        heiliges Symbol, 3 Pflöcke & Hammer, Stahlspiegel, 10 GM 
 
-| Gegenstand       | Preis |
-|------------------|------:|
-| Rucksack         |  2 GM |
-| Wasserschlauch   |  1 GM |
-| Rationen 7 Tage  |  3 GM |
-| Kleiner Sack     |  1 SM |
-| Stahl und Zunder |  2 GM |
-| 6 Fackeln        |  3 SM |
-| Wolldecke        |  5 SM |
-|------------------|------|
-| zusammen         |  8 GM |
+ 7      Kettenrüstung, Kriegshammer, 6 Fackeln, Rucksack,  
+        Wasserschlauch, Eiserne Rationen für 7 Tage, 3 m Holzstange,    
+        hölzernes heiliges Symbol, 2 kleine Säcke, 8 GM 
+ 
+ 8      Kettenrüstung, Schild, Steitkolben, 6 Fackeln,
+        Rucksack, Wasserschlauch, Eiserne Rationen für 7 Tage, 15 m Seil,
+        hölzernes heiliges Symbol, 2 kleine Säcke, 8 GM 
+ 
+ 9      Kettenrüstung, Schild, Kriegshammer, 6 Fackeln, Rucksack, 
+        Wasserschlauch, Eiserne Rationen für 7 Tage, 3 m Holzstange, 
+        hölzernes heiliges Symbol, 2 kleine Säcke, 3 Pflöcke & Hammer, 
+        Stahlspiegel, 10 GM
 
-Das Basispaket schlägt gewichtsmäßig mit **einem Belastungspunkt** zu
-Buche. Mehr dazu später unter [Belastung], Seite \pageref{belastung}.
+ 10     Plattenrüstung, Schild, Steitkolben, 6 Fackeln, Rucksack, 
+        Wasserschlauch, Eiserne Rationen für 7 Tage, 15 m Seil, 
+        hölzernes heiliges Symbol, 10 GM
 
-: Kämpfer Basispaket
+ 11     Plattenrüstung, Schild, Kriegshammer, Rucksack, Wasserschlauch,
+        Laterne, 4 Ölfläschchen, Eiserne Rationen für 7 Tage, 3 m 
+        Holzstange, hölzernes heiliges Symbol, 1 kleiner Sack, 2 GM 
+ 
+ 12     Plattenrüstung, Kampfstab, Rucksack, Wasserschlauch, Laterne, 
+        4 Ölfläschchen, Eiserne Rationen für 7 Tage, 15 m Seil, 
+        silbernes heiliges Symbol, 4 GM 
 
-| Gegenstand       | Spielwert         | Preis |
-|------------------|-------------------|------:|
-| Schwert          | 1W8 Schaden       | 10 GM |
-| Lederrüstung     | Rüstungsklasse 7  | 20 GM |
-| Schild           | Rüstungsklasse -1 | 10 GM |
-|------------------|-------------------|------|
-| zusammen         |                   | 40 GM |
-|------------------|-------------------|------|
-| Belastungspunkte |                   |    +1 |
+ 13     Knüppel, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen 
+        für 7 Tage, 3 m Holzstange, hölzernes heiliges Symbol, 
+        Spruchrolle, 4 GM 
 
-Damit stünde also fest, der frisch gebackene Kämpfer hat eine
-Rüstungsklasse von 6 und er macht mit seinem Schwert 1 - 8 Punkte
-Schaden. Der Kämpfer müsste 48 GM von seinem Startgold abziehen, was
-übrig ist, kannst Du weiter unten auf dem Charakterbogen in einem Feld
-für *Guthaben* notieren. 
+ 14     Plattenrüstung, Schild, Steitkolben, Rucksack, Wasserschlauch, 
+        Laterne, 4 Ölfläschchen, Eiserne Rationen für 7 Tage, 15 m Seil, 
+        silbernes heiliges Symbol, 10 GM
 
-Falls er eine hohe Stärke hat, zum Beispiel 14, was zu einem
-Stärkemodifikator von +1 führen würde, wäre seine
-Trefferwahrscheinlichkeit durch den Bonus von +1 um 5% besser, 
-und er würde immer einen Punkt mehr, also 2 - 9 Punkte Schaden 
-anrichten.
+ 15     Lederrüstung, Steitkolben, 6 Fackeln, Rucksack, Wasserschlauch, 
+        Eiserne Rationen für 7 Tage, 3 m Holzstange, hölzernes heiliges 
+        Symbol, Spruchrolle, 2 Ölfläschchen, 1 GM 
+
+ 16     Plattenrüstung, Schild, Helm, Kriegshammer, Rucksack, 
+        Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne Rationen für 
+        7 Tage, 15 m Seil, silbernes heiliges Symbol, 3 Pflöcke & 
+        Hammer, Stahlspiegel, 12 GM 
+
+ 17     Kettenrüstung, Kriegshammer, 6 Fackeln, Rucksack, 
+        Wasserschlauch, Eiserne Rationen für 7 Tage, 3 m Holzstange,     
+        hölzernes heiliges Symbol, Spruchrolle, 10 GM 
+
+ 18     Plattenrüstung, Schild, Helm, Steitkolben, Rucksack, 
+        Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne Rationen für 
+        7 Tage, 15 m Seil, silbernes heiliges Symbol, Phiole heiliges 
+        Wasser, 12 Eisennägel, 3 Pflöcke & Hammer, 1 kleiner Sack,
+        10 GM
+
+----------------------------------------------------------------------------------
+
+
+
+: Ausrüstungstabelle Kämpfer
+
+----------------------------------------------------------------------------------
+ 3W6    Ausrüstung Kämpfer
+------- --------------------------------------------------------------------------
+ 3      Speer, Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne 
+        Rationen für 7 Tage, 15 m Seil, 3 GM    
+
+ 4      Knüppel, Lederrüstung, 6 Fackeln, Rucksack, Wasserschlauch, 
+        Eiserne Rationen für 7 Tage, 3 m Holzstange, 1 GM        
+
+ 5      Lederrüstung, Morgenstern, Dolch, 6 Fackeln, Rucksack, 
+        Wasserschlauch, Eiserne Rationen für 7 Tage, 15 m  Seil, 3 GM                 
+
+ 6      Lederrüstung, Streitaxt, Wurfbeil, Dolch, Schleuder, Tasche mit 
+        20 Steinen, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen 
+        für 7 Tage, 3 m Holzstange, 7 GM           
+
+ 7      Kettenrüstung, Speer, Dolch, Schleuder, Tasche  mit 20 Steinen, 
+        6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 7 Tage, 
+        15 m Seil, 11 GM    
+
+  8     Kettenrüstung, Schild, Schwert, Dolch, 6 Fackeln, Rucksack, 
+        Wasserschlauch, Eiserne Rationen für 7 Tage, 3 m Holzstange, 4 GM
+
+  9     Kettenrüstung, Speer, leichte Armbrust, Kasten mit 30 Bolzen, 6 
+        Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 7 Tage, 
+        15 m Seil, 11 GM              
+
+ 10     Plattenrüstung, Schild, Schwert, Dolch, 6 Fackeln, Rucksack, 
+        Wasserschlauch, Eiserne Rationen für 7 Tage, 3 m Holzstange, 4 GM 
+ 
+ 11     Plattenrüstung, Zweihänder, 3 Dolche, 6 Fackeln, Rucksack, 
+        Wasserschlauch, Eiserne Rationen für 7 Tage, 15 m Seil, 
+        2 Ölfläschchen, 9 GM
+
+  12    Plattenrüstung, Schild, Schwert, leichte Armbrust, Kasten mit 
+        30 Bolzen, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen 
+        für 7 Tage, 3 m Holzstange, 2 GM
+                                         
+  13    Plattenrüstung, Flegel, Dolch, Kurzbogen, Köcher mit 20 Pfeilen, 
+        6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 7 Tage, 
+        15 m Seil, 1 kleiner Sack, 10 GM                                                  
+
+  14    Plattenrüstung, Schild, Schwert, leichte Armbrust, Kasten mit 
+        30 Bolzen, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 
+        Eiserne Rationen für 7 Tage, 3 m Holzstange, 5 GM                                                
+
+  15    Plattenrüstung, Helm, 2 Streitäxte, Dolch, leichte Armbrust, 
+        Kasten mit 30 Bolzen, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne 
+        Rationen für 7 Tage, 15 m Seil, 5 Ölfläschchen, 15 GM                             
+
+  16    Plattenrüstung, Zweihänder, Dolch, Kurzbogen, Köcher mit 20 
+        Pfeilen, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 
+        Eiserne Rationen für 7 Tage, 3 m Holzstange, 2 kleine Säcke, 15 GM                            
+
+  17    Plattenrüstung, Helebarde, Dolch, Langbogen, Köcher mit 20 
+        Pfeilen, 2 Pfeile mit Silberspitze, Rucksack, Wasserschlauch, 
+        Laterne, 4 Ölfläschchen, Eiserne Rationen für 7 Tage, 15 m Seil, 
+        10 GM                             
+
+  18    Plattenrüstung, Schild, Helm, Schwert, 2 Dolche, leichte Armbrust, 
+        Kasten mit 30 Bolzen, 4 Bolzen mit Silberspitze, Rucksack, 
+        Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne Rationen für 7 
+        Tage, 3 m Holzstange, 9 GM   
+
+----------------------------------------------------------------------------------
+
+
+: Ausrüstungstabelle Zauberkundiger
+
+----------------------------------------------------------------------------------
+ 3W6    Ausrüstung Zauberkundiger
+------- --------------------------------------------------------------------------
+  3     Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 
+        7 Tage, 3 m Holzstange, 4 GM 
+
+  4     2 Dolche, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen 
+        für 7 Tage, 2 Ölfläschchen, 15 m Seil, 7 GM 
+
+  5     Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne 
+        Rationen für 7 Tage, 3 m Holzstange, 7 GM 
+
+  6     Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 
+        7 Tage, 15 m Seil, 1 Phiole Weihwasser, 9 GM 
+
+  7     Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 
+        7 Tage, 3 m Holzstange, 5 Ölfläschchen, Silberspiegel, Belladona, 
+        9 GM 
+
+  8     Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 
+        7 Tage, 15 m Seil, 2 Phiolen Weihwasser, 4 GM 
+
+  9     3 Dolche, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 
+        Eiserne Rationen für 7 Tage, 3 m Holzstange, 1 Phiole Weihwasser, 
+        16 GM 
+
+ 10     Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 
+        7 Tage, 15 m Seil, 2 Phiolen Weihwasser, 24 GM 
+
+ 11     Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 
+        Eiserne Rationen für 7 Tage, 3 m Holzstange, 67 GM 
+
+ 12     Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 
+        Eiserne Rationen für 7 Tage, 15 m Seil, 77 GM 
+
+ 13     Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 
+        7 Tage, Spruchrolle, 3 m Holzstange, 4 GM
+
+  14    2 Dolche, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen 
+        für 7 Tage, Spruchrolle, 15 m Seil, 11 GM
+  
+  15    Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne 
+        Rationen für 7 Tage, Spruchrolle, 3 m Holzstange, 7 GM
+ 
+  16    Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne 
+        Rationen für 7 Tage, Spruchrolle, 15 m Seil, 17 GM
+  
+  17    Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne 
+        Rationen für 7 Tage, Spruchrolle, 3 m Holzstange, 27 GM
+  
+  18    Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne 
+        Rationen für 7 Tage, Spruchrolle, 15 m Seil, 37 GM
+
+----------------------------------------------------------------------------------
+
 
 Hausregel
     ~ Schilde \index{Schilde} können *einen* Treffer aufnehmen, und sind
@@ -1246,61 +1376,6 @@ Hausregel
 
 [^shields]:
 <http://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html>
-
-: Kleriker Basispaket
-
-| Gegenstand               | Spielwert         | Preis |
-|--------------------------|-------------------|------:|
-| Streitkolben             | 1W6 Schaden       |  5 GM |
-| Lederrüstung             | Rüstungsklasse 7  | 20 GM |
-| Schild                   | Rüstungsklasse -1 | 10 GM |
-| Heiliges Symbol aus Holz |                   |  1 GM |
-|--------------------------|-------------------|------|
-| zusammen                 |                   | 36 GM |
-|--------------------------|-------------------|------|
-| Belastungspunkte         |                   |    +1 |
-
-Die komplette Basisausrüstung für den Kleriker kostet also 44 GM.
-Die Rüstungsklasse ist 6, und dank seines heiligen Symbols ist er in
-der Lage "Untote" zu vertreiben.
-
-: Zauberkundigen Basispaket
-
-| Gegenstand       | Spielwert   | Preis |
-|------------------|-------------|-------:|
-| Sprüchebuch       |             | 15 GM |
-| Schreibfeder     |             | 1 SM  |
-| Tinte            |             | 8 GM  |
-| Stab             | Schaden 1W6 | 2 GM  |
-|------------------|-------------|-------|
-| zusammen         |             | 26 GM |
-|------------------|-------------|-------|
-| Belastungspunkte |             | +1    |
-
-Die Basisausrüstung für den Zauberkundigen kostet insgesamt 34 GM. Da
-der Zauberkundige keine Rüstung trägt, ist seine Rüstungsklasse 9.
-
-: Basispaket für Diebe
-
-| Gegenstand           | Spielwert        | Preis |
-|----------------------|------------------|-------:|
-| Dolch                | Schaden 1W4      | 3 GM  |
-| Kurzbogen und Pfeile | Schaden 1W6      | 30 GM |
-| Lederrüstung         | Rüstungsklasse 7 | 20 GM |
-| Diebeswerkzeug       |                  | 25 GM |
-| Seil                 |                  | 1 GM  |
-| Kletterhaken         |                  | 1 GM  |
-|----------------------|------------------|-------|
-| zusammen             |                  | 80 GM |
-|----------------------|------------------|-------|
-| Belastungspunkte     |                  | +1    |
-
-Die Basisausrüstung für den Dieb kostet also insgesamt 88 GM. Falls er
-nicht so viel hat, muss er irgend etwas weg lassen. Oder sich seine
-Ausrüstung sonst irgendwo besorgen. Dafür ist er schließlich ein Dieb.
-
-Der Dieb hat damit eine Rüstungsklasse von 7 und macht im Fernkampf
-1 - 6 Punkte Schaden.
 
 
 
@@ -1321,16 +1396,17 @@ wird, dann kann es los gehen.
 
 Schließlich könnte es noch sein, dass Dir dein Primärattribut einen
 Bonus bei der Berechnung von Erfahrungspunkten einbringt. Du erhältst
-einen Zuschlag entsprechend der folgenden Liste, wenn das
-Primärattribut deines Charakters den entsprechenden Wert hat.
+einen Zuschlag entsprechend der Beschreibung der einzelnen
+Attribute. 
 
-Um es noch einmal mit einem Beispiel zu verdeutlichen: angenommen Du
-spielst einen Dieb mit Geschicklichkeit 14, also einem guten Wert im
-Primärattribut \index{Primärattribut} der Diebe. Wenn dieser Dieb sich
-100 Erfahrungspunkte verdient hat, ermöglicht ihm der
-Prozentmodifikator von +5%, dass er sich nicht 100 EP, sondern 105 EP
-anschreiben darf. Dass heißt ein hoher Wert im Primärattribut
-ermöglicht einem Charakter schneller höhere Stufen zu erreichen.
+Um es noch einmal mit einem Beispiel zu verdeutlichen: angenommen
+Du spielst einen Kämpfer mit Stärke 15, also einem guten Wert im
+Primärattribut \index{Primärattribut} der Kämpfer. Wenn dieser
+Kämpfer sich 100 Erfahrungspunkte verdient hat, ermöglicht das
+hohe Primärattribut einen Aufschlag von 5%. Er darf sich also
+statt 100 Erfahrungspunkten 105 Erfahrungspunkte anschreiben.
+Ein hoher Wert im Primärattribut ermöglicht einem Charakter
+schneller höhere Stufen zu erreichen.
 
 
 
@@ -1354,6 +1430,60 @@ sogenannte "Plot-Hooks" \index{Plot-Hook}- also Aufhänger -
 anbieten. Was ihr
 tatsächlich unternehmt, welchem Plot-Hook ihr vielleicht folgt,
 ist ganz alleine Eure Entscheidung als Spieler. 
+
+
+Würfelproben
+------------
+\index{Proben}
+
+In Old-School Rollenspielen wird in erster Linie durch die
+Spieler beschrieben und erzählt was die Charaktere unternehmen
+und die Spielleiterin wird dann, mal spontan, mal anhand einer
+verdeckten Würfelprobe entscheiden was passiert.
+
+Wie aber bereits in der Einleitung erwähnt, kann die Spielleiterin
+gelegentlich auch Würfelproben durch die Spieler verlangen, 
+um festzustellen, ob eine Aktion gelingt. Dabei kann es sich um
+eine Attributsprobe handeln, oder einen Rettungswurf.
+Typischerweise kommen Attributsproben zum Tragen, wenn die
+Initiative vom Spielercharakter ausgeht - also nichts passieren
+würde, wenn der Charakter einfach nur still stehen bliebe.
+Rettungswürfe spielen dagegen eine Rolle, bei Ereignissen denen der
+Charakter passiv ausgesetzt ist, und auf deren
+Ausgang er nur geringen Einfluss hat.
+
+### Attributsproben
+\index{Proben!W20 basiert}\index{Proben!Attributs-}
+
+Attributsproben werden "gegen" ein Attribut gewürfelt - also
+gegen Stärke, Intelligenz, Weisheit, Geschicklichkeit,
+Konstitution oder Charisma - je nach dem, welches Attribut in der
+jeweiligen Situation relevant ist. Für eine
+erfolgreiche Probe muss auf dem W20 eine Zahl **kleiner oder
+gleich** dem jeweiligen Attributswert gewürfelt werden.
+
+Versucht beispielsweise ein Charakter mit Geschicklichkeit 12 auf 
+einen Baum zu klettern,
+kann die Spieleiterin eine *Probe gegen Geschicklichkeit*
+verlangen. Würfelt der Spieler eine 8 gelingt es dem Charakter
+den Baum zu erklettern. Ergibt der Wurf dagegen eine 13 scheitert
+der Charakter - vielleicht war seine Rüstung zu sperrig, oder ein
+Ast ist abgebrochen.
+
+### Rettungswürfe
+\index{Rettungswürfe}
+
+Rettungswürfe beziehen sich auf den Wert, den ein Charakter in
+einer bestimmten Rettungswurf-Kategorie hat. Also in "Gift und
+Todesstrahlen", "Stäbe", "Lähmung und Versteinerung",
+"Drachenodem" und "Zaubersprüche". Ein Rettungswurf gelingt, wenn
+der Würfel eine Zahl **größer oder gleich** dem Zielwert ergibt.
+
+Angenommen ein Stufe 1 Kämpfer mit einem Wert von 12 in "Gift und
+Todesstrahlen" wird von einer giftigen Schlange gebissen. Würfelt
+er eine 12, hat er Glück und überlebt die Wirkung des Giftes, bei
+einer 11 jedoch hätte sein letztes Stündlein geschlagen.
+
 
 Stadtabenteuer
 --------------
@@ -1851,207 +1981,6 @@ Richtung die Sonne untergeht. Vielleicht könnt ihr nachts den
 Nordstern erkennen. Achtet auf Landmarken oder fragt andere
 Reisende nach dem richtigen Weg.
 
-
-Fertigkeiten
-------------
-\index{Fertigkeiten}
-
-Im Spiel wird es immer wieder Situationen geben, in denen die
-Charaktere eine Aktion ausführen wollen, deren Ergebnis ungewiss
-oder gar gefährlich ist. Zum Beispiel der Versuch eine Mauer zu
-erklimmen, ein Schloss zu knacken, oder eine Felsspalte zu
-überspringen. 
-
-Das Ergebnis einer solchen Aktion kann mit einer sogenannten Probe
-ermittelt werden. In den ursprünglichen Regeln von 1974 waren
-solche Proben überhaupt nicht standardisiert. Oft wurde als
-schnelle Variante eine Würfelwurf "gegen ein Attribut"
-ausgeführt -
-eine sogenannte Attributsprobe \index{Probe!Attributs-}. Um eine
-Attributsprobe zu machen, wird gewürfelt, und wenn der Wurf eine
-Zahl *kleiner oder gleich* dem in Frage kommenden Attribut ergibt,
-ist die Probe gelungen. 
-
-Ein Beispiel: ein Halbling versucht einen Graben zu überspringen.
-Seine Geschicklichkeit ist 11. Die Spielleiterin fordert einen
-Geschicklichkeitsprobe, doch leider würfelt die Spielerin des
-Halblings eine 12 ... der Halbling rutscht ab, und fällt in den
-Matsch (jedenfalls gelingt es nicht, erfolgreich über den Graben
-zu springen). Attributsproben können mit verschiedenen Würfeln
-geworfen werden. Meistens 1W20 oder 3W6, aber auch eine
-Attributsprobe mit 4W6 wäre denkbar. Die Spielleitung wird das
-je nach Schwierigkeit der jeweiligen Aktion ansagen.
-
-Es kann auch sein, dass die Spielleitung die Wahrscheinlichkeit
-für das Gelingen einer bestimmten Aktion in Prozent angibt. 
-Dann muss mit den Prozentwürfeln (W%) eine Zahl *kleiner oder 
-gleich* der angegebenen Wahrscheinlichkeit gewürfelt werden, um
-die Probe zu bestehen[^prozent].
-
-[^prozent]: Ganz ähnlich wie so eine Prozentprobe funktionierten die
-    Fertigkeiten des Diebes in den alten Regeln. Zum Beispiel konnte
-    ein Dieb der ersten Stufe die Ferigkeit "Taschendiebstahl" mit
-    30% beherrschen. Der Spieler musste also mit den Prozentwürfeln
-    eine 30 oder weniger werfen, damit sein Dieb beim
-    Taschendiebstahl erfolgreich sein konnte.
-
-Schon in den alten Regeln waren für bestimmmte Standardaktionen
-im Dungeon Wahrscheinlichkeiten als n-in-6 angegeben, 
-die dann ggf. noch
-durch einen Attributsmodifikator oder die besonderen Fähigkeiten
-eines Volkes modifiziert wurden, nämlich "Lauschen"
-\index{Lauschen} mit 1 in 6,
-und "Türen aufbrechen" \index{Türen aufbrechen} mit 2 in 6.
-
-Daneben
-ist dir vielleicht bei den *Elfen* auf Seite \pageref{elfen} die
-Angabe "Suchen 2 in 6" aufgefallen. Tabelle \ref{nin6} zeigt die
-Wahrscheinlichkeiten, die sich bei den Proben mit einem
-Sechser-Würfel ergeben.
-
-: Wahrscheinlichkeiten, n in 6\label{nin6}
-
------------------------------------
- n      Wahrscheinlichkeit [%]
------ -----------------------------
- 1       16,7 %
-
- 2       33,3 %
-
- 3       50 %
-
- 4       66,7 %
-
- 5       83,3 %  
-
- 6       100 %
-
------------------------------------
-
-
-Die Klassen in diesem Spielleiterhandbuch benutzen das 
-folgende Fertigkeitssystem ist aus 
-*Lamentations of the Flame Princess*
-welches auf den n-in-6 Proben aufbaut: 
-
-: Fertigkeiten
-
-| Fertigkeit             | Grundwert      |
-|------------------------|----------------|
-| Architektur            | 1 in 6         |
-| Wildnisleben           | 1 in 6         |
-| Klettern               | 1 in 6         |
-| Sprachen               | 1 in 6         |
-| Suchen                 | 1 in 6         |
-| Taschendiebstahl       | 1 in 6         |
-| Heimlichkeit           | 1 in 6         |
-| Tüfteln                | 1 in 6         |
-
-Die Grundwerte gelten für alle Charakterklassen. Diebe
-können ihre zusätzlichen Fertigkeitspunkte in eine
-Steigerung der Grundwerte investieren.
-
-Eine Probe gilt als gelungen, wenn auf einem W6 der jeweilige 
-Fertigkeitswert oder weniger gewürfelt wird. Sollte ein Charakter
-eine Fertigkeit von 6 in 6 haben, muss die Probe mit zwei Würfeln
-gewürfelt werden. Sie scheitert nur dann, wenn auf beiden Würfeln 
-eine 6 erscheint.
-
-### Architektur
-\index{Architektur}
-
-Mit dieser Fertigkeit können besondere Eigenschaften von Gebäuden erkannt
-werden, z.B. minimale Gefälle von Gängen, neue Einbauten, Hinweise auf
-Schiebetüren oder Fallen. Eine Eigenschaft die Traditionell in besonderem Maße
-den Zwergen zugeschrieben wird.
-
-### Wildnisleben
-\index{Wildnisleben}
-
-Wenn in der Wildnis nach Wasser und Nahrung gesucht werden muss, kann eine
-Probe auf diese Fertigkeit gewürfelt werden.  Günstige Bedingungen können Boni
-ergeben wie z.B. Jagen im Wald oder im Dschungel +2, auf offenen Ebenen +1.
-Andererseits könnte es zum Beispiel in der Wüste schwierig werden, also -1. Um
-in einer Wüste Wasser zu finden ist ein Wildnisleben-Wurf auf einem W12,
-anstelle eines W6 erforderlich.
-
-### Klettern
-\index{Klettern}
-
-Alle Abenteurer können klettern. Hiermit ist eher so etwas die
-*Freeclimbing* gemeine. Diese Fertigkeit dient dazu, 
-mit entsprechender Ausrüstung
-völlig glatte Wände hoch zu klettern. Charaktere dürfen höchstens 2
-Belastungspunkte haben um diese Fertigkeit erfolgreich anwenden
-zu können. Um mit zwei freien Händen eine Leiter hoch zu klettern
-ist natürlich kein Wurf erforderlich.
-
-### Sprachen
-\index{Sprachen}
-
-Charaktere sprechen zu Beginn die sogenannte Gemeinsprache, 
-ggf. die Sprache ihres Volkes, und manchmal auch zusätzliche
-Sprachen wie es bei Zwergen und Elfen der Fall ist.
-
-Kommt ein Charakter später im Spiel mit einer bestimmten Sprache
-in Berührung, wird mit dieser Fertigkeit einmalig festgestellt, ob
-er die fragliche Sprache versteht und spricht.
-
-Auf diesen Wurf werden der Intelligenzmodifikator und ein
-Modifikator für die Schwierigkeit der Sprache angewendet:
-ähnliche Sprachen (z.B. Gnomisch für einen Zwerg, Französisch 
-für einen Spanier) -1, exotische Sprachen -2, mystische Sprachen 
-wie zum Beispiel die Drachensprache, oder die Sprache eines lange
-ausgestorbenen Volkes -3. 
-
-Magische Sprachen können nur mit entsprechenden magischen
-Fähigkeiten verstanden werden.
-
-### Suchen
-\index{Suchen}
-
-Selbsterklärend, diese Fertigkeit dient dazu verborgene Dinge zu
-entdecken. Allerdings, dass sei an dieser Stelle noch einmal
-gesagt, ist der Würfelwurf nur der Backup-Mechanismus für gutes
-Rollenspiel. Ein
-Spieler sollte immer genau beschreiben wonach, wo und wie er
-etwas sucht, dann ist wahrscheinlich kein Würfelwurf
-erforderlich, und das Spiel erfolgreicher.
-
-### Taschendiebstahl
-\index{Taschendiebstahl}
-
-Auch diese Fertigkeit ist Selbsterklärend. Es gilt prinzipiell
-das gleiche wie fürs *Suchen*.
-
-### Heimlichkeit
-\index{Heimlichkeit}
-
-Mit dieser Fertigkeit kann ein Charakter sich verstecken und
-umher schleichen. Ein Erfolgreicher Wurf in Heimlichkeit ist
-meistens die Voraussetzung für den *Hinterhältigen Angriff* des
-Diebes.
-
-### Tüfteln
-\index{Tüfteln}
-
-Diese Fertigkeit kann für alles Mögliche zum Einsatz kommen,
-dient aber vor allem dazu Schlösser zu knacken, diffizile Fallen
-zu entschärfen, oder selbst mechanische Fallen herzustellen.
-
-Achtung: Fallen können nur entschärft werden, wenn sie durch
-gutes Rollenspiel oder einen glücklichen *Suchen* Wurf vorher
-gefunden wurden.
-
-### Fertigkeiten verbessern
-\index{Fertigkeiten!verbessern}
-
-Alle vier Stufen, also bei Aufstieg zur 4., 8., 12. Stufe usw.
-erhalten alle Charaktere einen zusätzlichen Fertigkeitspunkt. 
-
-Und wenn das Rollenspiel episch war und die Gestirne günstig stehen,
-wird es vielleicht auch mal außer der Reihe einen Fertigkeitspunkt 
-extra geben. 
 
 
 Kampf
@@ -2694,8 +2623,13 @@ Princess* nutzen weiterhin einhellig die alte 3W6 Methode.
 Optionale Klassen
 -----------------
 
-In der Ausgabe von 1974 gab es noch keinen Dieb. Der Dieb tauchte das
-erste mal im Supplement I "Greyhawk" auf, und bekam einen W4 als
+In der Ausgabe von 1974 gab es nur die drei bisher beschriebenen
+Klassen. Im Supplement I "Greyhawk" tauchte dann als erste neue
+Klasse der *Dieb* auf. 
+
+TODO: %-Fertigkeiten beschreiben. 
+
+und bekam einen W4 als
 Trefferwürfel. Genau so war es auch in *Basic*.  In
 *Advanced*
 schließlich bekam der Dieb dann den W6 als Trefferwürfel. Der
@@ -2708,7 +2642,7 @@ Prozentangaben. Das erscheint mir zu kompliziert. Das System mit
 Sechser-Würfeln aus *Lamentations of the Flame Princess* erscheint
 mir logischer und wesentlich einfacher.
 
-### Dieb
+### Spezialist
 
 Primärattribut
 :    Geschicklichkeit
@@ -2717,54 +2651,227 @@ Trefferpunkte
 :    1W6, mindestens 4 
 
 Klassenfähigkeiten
-:    Der Dieb hat bessere Möglichkeiten bestimmte Fertigkeiten zu
+:    Der Spezialist hat bessere Möglichkeiten bestimmte Fertigkeiten zu
      erlernen. Hierzu bekommt er in jeder Stufe eine bestimmte Anzahl
      an Fertigkeitspunkten, mit denen er die Grundstufen der
      Fertigkeiten verbessern kann. Näheres dazu unter
      *Fertigkeiten*. Ein Dieb der ersten Stufe startet mit 4
      Fertigkeitspunkten.
 	 
-	 Eine besondere Fertigkeit des Diebes ist der *Hinterhältige
+     Eine besondere Fertigkeit des Spezialisten ist der *Hinterhältige
      Angriff*, sofern es dem Dieb gelingt unbeobachtet zu bleiben,
      kann er seinen Kontrahenten mit einem Aufschlag von +4 angreifen,
      und verursacht dabei auch noch den doppelten Schaden.
 
 Klassenbeschränkungen
-:    Diebe dürfen nur Lederrüstungen, und keine Schilde tragen. Sie
-     dürfen keine zweihändigen Waffen benutzen.
+:    Spezialisten dürfen nur Lederrüstungen, und keine Schilde tragen.
+     Sie dürfen keine zweihändigen Waffen benutzen.
 	 
 Rettungswürfe
 :    Gift 13, Stäbe 14, Lähmung 13, Odem 16, Sprüche 15
 
+Fertigkeiten
+------------
+\index{Fertigkeiten}
 
-Trefferwürfel
--------------
+Im Spiel wird es immer wieder Situationen geben, in denen die
+Charaktere eine Aktion ausführen wollen, deren Ergebnis ungewiss
+oder gar gefährlich ist. Zum Beispiel der Versuch eine Mauer zu
+erklimmen, ein Schloss zu knacken, oder eine Felsspalte zu
+überspringen. 
 
-### Kämpfer 
+Das Ergebnis einer solchen Aktion kann mit einer sogenannten Probe
+ermittelt werden. In den ursprünglichen Regeln von 1974 waren
+solche Proben überhaupt nicht standardisiert. Oft wurde als
+schnelle Variante eine Würfelwurf "gegen ein Attribut"
+ausgeführt -
+eine sogenannte Attributsprobe \index{Probe!Attributs-}. Um eine
+Attributsprobe zu machen, wird gewürfelt, und wenn der Wurf eine
+Zahl *kleiner oder gleich* dem in Frage kommenden Attribut ergibt,
+ist die Probe gelungen. 
 
-In der Ursprünglichen Version des Spiels hatte der Kämpfer 1W6+1
-Trefferpunkte. In *Basic* wurde ein W8 für den Kämpfer
-benutzt, und in *Advanced* schließlich
-ein W10. Die meisten Spieler finden es gut, wenn ein Kämpfer
-tüchtig was aushalten kann, und da die erste Edition immer
-noch als Old-School
-zählt, wird hier deshalb der W10
-vorgeschlagen. Wenn Du aber Lust auf Old-School im Survival Modus
-hast, gib dem Kämpfer den guten alten Sechser-Würfel plus eins!
+Ein Beispiel: ein Halbling versucht einen Graben zu überspringen.
+Seine Geschicklichkeit ist 11. Die Spielleiterin fordert einen
+Geschicklichkeitsprobe, doch leider würfelt die Spielerin des
+Halblings eine 12 ... der Halbling rutscht ab, und fällt in den
+Matsch (jedenfalls gelingt es nicht, erfolgreich über den Graben
+zu springen). Attributsproben können mit verschiedenen Würfeln
+geworfen werden. Meistens 1W20 oder 3W6, aber auch eine
+Attributsprobe mit 4W6 wäre denkbar. Die Spielleitung wird das
+je nach Schwierigkeit der jeweiligen Aktion ansagen.
 
-### Kleriker
-In Original von 1974 und auch im späteren *Basic*
-benutzte der Kleriker einen W6 als Trefferwürfel. In der
-ersten Edition gab es
-dann das Upgrade auf den W8, der hier vorgeschlagen wird, mit der
-gleichen Begründung wie beim Kämpfer. Puristen würfeln für ihren
-Stufe eins Kleriker einen W6.
+Es kann auch sein, dass die Spielleitung die Wahrscheinlichkeit
+für das Gelingen einer bestimmten Aktion in Prozent angibt. 
+Dann muss mit den Prozentwürfeln (W%) eine Zahl *kleiner oder 
+gleich* der angegebenen Wahrscheinlichkeit gewürfelt werden, um
+die Probe zu bestehen[^prozent].
 
-### Zauberkundiger
-Der Ursprüngliche Zauberkundige hatte 1W6-1 Trefferpunkte. In
-allen späteren Old-School-Varianten hat der Zauberkundige immer
-einen W4 als Trefferwürfel. Als Old School Purist kannst Du also 
-auch 1W6-1 werfen um die Trefferpunkte deines Magiers zu ermitteln.
+[^prozent]: Ganz ähnlich wie so eine Prozentprobe funktionierten die
+    Fertigkeiten des Diebes in den alten Regeln. Zum Beispiel konnte
+    ein Dieb der ersten Stufe die Ferigkeit "Taschendiebstahl" mit
+    30% beherrschen. Der Spieler musste also mit den Prozentwürfeln
+    eine 30 oder weniger werfen, damit sein Dieb beim
+    Taschendiebstahl erfolgreich sein konnte.
+
+Schon in den alten Regeln waren für bestimmmte Standardaktionen
+im Dungeon Wahrscheinlichkeiten als n-in-6 angegeben, 
+die dann ggf. noch
+durch einen Attributsmodifikator oder die besonderen Fähigkeiten
+eines Volkes modifiziert wurden, nämlich "Lauschen"
+\index{Lauschen} mit 1 in 6,
+und "Türen aufbrechen" \index{Türen aufbrechen} mit 2 in 6.
+
+Daneben
+ist dir vielleicht bei den *Elfen* auf Seite \pageref{elfen} die
+Angabe "Suchen 2 in 6" aufgefallen. Tabelle \ref{nin6} zeigt die
+Wahrscheinlichkeiten, die sich bei den Proben mit einem
+Sechser-Würfel ergeben.
+
+: Wahrscheinlichkeiten, n in 6\label{nin6}
+
+-----------------------------------
+ n      Wahrscheinlichkeit [%]
+----- -----------------------------
+ 1       16,7 %
+
+ 2       33,3 %
+
+ 3       50 %
+
+ 4       66,7 %
+
+ 5       83,3 %  
+
+ 6       100 %
+
+-----------------------------------
+
+
+Die Klassen in diesem Spielleiterhandbuch benutzen das 
+folgende Fertigkeitssystem ist aus 
+*Lamentations of the Flame Princess*
+welches auf den n-in-6 Proben aufbaut: 
+
+: Fertigkeiten
+
+| Fertigkeit             | Grundwert      |
+|------------------------|----------------|
+| Architektur            | 1 in 6         |
+| Wildnisleben           | 1 in 6         |
+| Klettern               | 1 in 6         |
+| Sprachen               | 1 in 6         |
+| Suchen                 | 1 in 6         |
+| Taschendiebstahl       | 1 in 6         |
+| Heimlichkeit           | 1 in 6         |
+| Tüfteln                | 1 in 6         |
+
+Die Grundwerte gelten für alle Charakterklassen. Diebe
+können ihre zusätzlichen Fertigkeitspunkte in eine
+Steigerung der Grundwerte investieren.
+
+Eine Probe gilt als gelungen, wenn auf einem W6 der jeweilige 
+Fertigkeitswert oder weniger gewürfelt wird. Sollte ein Charakter
+eine Fertigkeit von 6 in 6 haben, muss die Probe mit zwei Würfeln
+gewürfelt werden. Sie scheitert nur dann, wenn auf beiden Würfeln 
+eine 6 erscheint.
+
+### Architektur
+\index{Architektur}
+
+Mit dieser Fertigkeit können besondere Eigenschaften von Gebäuden erkannt
+werden, z.B. minimale Gefälle von Gängen, neue Einbauten, Hinweise auf
+Schiebetüren oder Fallen. Eine Eigenschaft die Traditionell in besonderem Maße
+den Zwergen zugeschrieben wird.
+
+### Wildnisleben
+\index{Wildnisleben}
+
+Wenn in der Wildnis nach Wasser und Nahrung gesucht werden muss, kann eine
+Probe auf diese Fertigkeit gewürfelt werden.  Günstige Bedingungen können Boni
+ergeben wie z.B. Jagen im Wald oder im Dschungel +2, auf offenen Ebenen +1.
+Andererseits könnte es zum Beispiel in der Wüste schwierig werden, also -1. Um
+in einer Wüste Wasser zu finden ist ein Wildnisleben-Wurf auf einem W12,
+anstelle eines W6 erforderlich.
+
+### Klettern
+\index{Klettern}
+
+Alle Abenteurer können klettern. Hiermit ist eher so etwas die
+*Freeclimbing* gemeine. Diese Fertigkeit dient dazu, 
+mit entsprechender Ausrüstung
+völlig glatte Wände hoch zu klettern. Charaktere dürfen höchstens 2
+Belastungspunkte haben um diese Fertigkeit erfolgreich anwenden
+zu können. Um mit zwei freien Händen eine Leiter hoch zu klettern
+ist natürlich kein Wurf erforderlich.
+
+### Sprachen
+\index{Sprachen}
+
+Charaktere sprechen zu Beginn die sogenannte Gemeinsprache, 
+ggf. die Sprache ihres Volkes, und manchmal auch zusätzliche
+Sprachen wie es bei Zwergen und Elfen der Fall ist.
+
+Kommt ein Charakter später im Spiel mit einer bestimmten Sprache
+in Berührung, wird mit dieser Fertigkeit einmalig festgestellt, ob
+er die fragliche Sprache versteht und spricht.
+
+Auf diesen Wurf werden der Intelligenzmodifikator und ein
+Modifikator für die Schwierigkeit der Sprache angewendet:
+ähnliche Sprachen (z.B. Gnomisch für einen Zwerg, Französisch 
+für einen Spanier) -1, exotische Sprachen -2, mystische Sprachen 
+wie zum Beispiel die Drachensprache, oder die Sprache eines lange
+ausgestorbenen Volkes -3. 
+
+Magische Sprachen können nur mit entsprechenden magischen
+Fähigkeiten verstanden werden.
+
+### Suchen
+\index{Suchen}
+
+Selbsterklärend, diese Fertigkeit dient dazu verborgene Dinge zu
+entdecken. Allerdings, dass sei an dieser Stelle noch einmal
+gesagt, ist der Würfelwurf nur der Backup-Mechanismus für gutes
+Rollenspiel. Ein
+Spieler sollte immer genau beschreiben wonach, wo und wie er
+etwas sucht, dann ist wahrscheinlich kein Würfelwurf
+erforderlich, und das Spiel erfolgreicher.
+
+### Taschendiebstahl
+\index{Taschendiebstahl}
+
+Auch diese Fertigkeit ist Selbsterklärend. Es gilt prinzipiell
+das gleiche wie fürs *Suchen*.
+
+### Heimlichkeit
+\index{Heimlichkeit}
+
+Mit dieser Fertigkeit kann ein Charakter sich verstecken und
+umher schleichen. Ein Erfolgreicher Wurf in Heimlichkeit ist
+meistens die Voraussetzung für den *Hinterhältigen Angriff* des
+Diebes.
+
+### Tüfteln
+\index{Tüfteln}
+
+Diese Fertigkeit kann für alles Mögliche zum Einsatz kommen,
+dient aber vor allem dazu Schlösser zu knacken, diffizile Fallen
+zu entschärfen, oder selbst mechanische Fallen herzustellen.
+
+Achtung: Fallen können nur entschärft werden, wenn sie durch
+gutes Rollenspiel oder einen glücklichen *Suchen* Wurf vorher
+gefunden wurden.
+
+### Fertigkeiten verbessern
+\index{Fertigkeiten!verbessern}
+
+Alle vier Stufen, also bei Aufstieg zur 4., 8., 12. Stufe usw.
+erhalten Charaktere die dieses Fertigkeitssystem nutzen einen
+zusätzlichen Fertigkeitspunkt. 
+
+Und wenn das Rollenspiel episch war und die Gestirne günstig stehen,
+wird es vielleicht auch mal außer der Reihe einen Fertigkeitspunkt 
+extra geben. 
+
 
 
 Völker
@@ -2788,7 +2895,8 @@ sie in einer bestimmten Klasse nur bis zu einem bestimmten Level
 aufsteigen können. 
 
 Manche Völker können gleichzeitig mehreren Klassen angehören, und
-deren Eigenschaften kombinieren. Zum Beispiel kann man einen
+deren Eigenschaften kombinieren - *multiclassing*
+genannt\index{multiclassing}. Zum Beispiel kann man einen
 elfischen zauberkundigen Kämpfer spielen. Dann müssen allerdings
 die erworbenen Erfahrungspunkte auf die zwei oder drei Klassen
 aufgeteilt werden, so dass der Stufenaufstieg entsprechend
@@ -2916,6 +3024,14 @@ White Box: Fantastic Medieval Adventure Game
 
      <http://whiteboxgame.blogspot.com/>
 
+Delving Deeper
+:    Simon J. Bull, 2015, Immersive Ink
+
+     Ein weiterer OD&D Retroclon mit hervorragend indexiertem
+     Online-Regelwerk. Daneben auch als Print-on-Demand erhältlich.
+
+     <http://ddo.immersiveink.com/>
+
 Swords & Wizardry Core Rules
 :    Matt Finch, 2011, Mythmere Games
 
@@ -2969,6 +3085,8 @@ AD&D Spielerhandbuch
 OSRIC 2nd Edition
 :    Stuart Marshall, 2015, Usherwood Publishing 
 
+     Der erste Retro-Klon überhaupt und damit sowas wie ein Anfang der 
+     OSR-Bewegung. OSRIC steht für "Old School Rules and Index Compilation".
      Ein umfangreicher AD&D-Klon, knapp 400 Seiten, kostenloses PDF.
 
      <http://www.knights-n-knaves.com/osric/>
@@ -3015,7 +3133,7 @@ Weird Fantasy Role-Playing, Player Core Book: Rules & Magic
     
      Eine Weiterentwicklung von B/X mit einigen deutlichen
      Abweichungen. Wegen der Illustrationen erst ab 18 und auch
-     nicht jedermans Sache.
+     nicht jedermanns Sache.
 
      PDF ohne Illustrationen kostenlos, Hardcover 22 € zzgl.
      Versand aus Helsinki. 
@@ -3057,17 +3175,17 @@ des 1. Grades und einen Spruch des 2. Grades wirken kann.
 
 : Kämpfer Stufen
 
-| Stufe |             EP | TP          | AB |
+| Stufe |             EP | TW          | AB |
 |:-----:|---------------:|:-----------:|:--:|
-| 1     |              0 | 1W10        | 0  |
-| 2     |          2.000 | +1W10       | 0  |
-| 3     |          4.000 | +1W10       | 0  |
-| 4     |          8.000 | +1W10       | +1 |
-| 5     |         16.000 | +1W10       | +1 |
-| 6     |         32.000 | +1W10       | +1 |
-| 7     |         64.000 | +1W10       | +2 |
-| 8     |        128.000 | +1W10       | +2 |
-| 9     |        256.000 | +1W10       | +2 |
+| 1     |              0 | 1+1 TP      | 0  |
+| 2     |          2.000 | 2           | 0  |
+| 3     |          4.000 | 3           | 0  |
+| 4     |          8.000 | 4           | +1 |
+| 5     |         16.000 | 5           | +1 |
+| 6     |         32.000 | 6           | +1 |
+| 7     |         64.000 | 7           | +2 |
+| 8     |        128.000 | 8           | +2 |
+| 9     |        256.000 | 9           | +2 |
 | 10    |        350.000 | +2 TP       | +3 |
 | 11+   | +100.000/Stufe | +2 TP/Stufe | +3 |
 
@@ -3075,28 +3193,28 @@ des 1. Grades und einen Spruch des 2. Grades wirken kann.
 
 : Kleriker Stufen
 
-| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| Stufe |          EP | TW    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|---|
-| 1     |           0 | 1W8   | 0  | - | - | - | - | - | - | - |
-| 2     |       1.500 | +1W8  | 0  | 1 | - | - | - | - | - | - |
-| 3     |       3.000 | +1W8  | 0  | 2 | - | - | - | - | - | - |
-| 4     |       6.000 | +1W8  | 0  | 2 | 1 | - | - | - | - | - |
-| 5     |      12.000 | +1W8  | +1 | 2 | 2 | - | - | - | - | - |
-| 6     |      24.000 | +1W8  | +1 | 2 | 2 | 1 | 1 | - | - | - |
-| 7     |      48.000 | +1W8  | +1 | 2 | 2 | 2 | 1 | 1 | - | - |
-| 8     |     100.000 | +1W8  | +1 | 2 | 2 | 2 | 2 | 2 | - | - |
-| 9     |     170.000 | +1W8  | +2 | 3 | 3 | 3 | 2 | 2 | - | - |
-| 10    |     240.000 | +1    | +2 | 3 | 3 | 3 | 3 | 3 | - | - |
-| 11    |     310.000 | +1    | +2 | 4 | 4 | 4 | 3 | 3 | - | - |
-| 12    |     380.000 | +1    | +2 | 4 | 4 | 4 | 4 | 4 | 1 | - |
-| 13    |     450.000 | +1    | +3 | 5 | 5 | 5 | 4 | 4 | 1 | - |
-| 14    |     520.000 | +1    | +3 | 5 | 5 | 5 | 5 | 5 | 2 | - |
-| 15    |     590.000 | +1    | +3 | 6 | 6 | 6 | 5 | 5 | 2 | - |
-| 16    |     660.000 | +1    | +3 | 6 | 6 | 6 | 6 | 6 | 3 | - |
-| 17    |     730.000 | +1    | +4 | 7 | 7 | 7 | 6 | 6 | 3 | 1 |
-| 18    |     800.000 | +1    | +4 | 7 | 7 | 7 | 7 | 7 | 4 | 1 |
-| 19    |     870.000 | +1    | +4 | 8 | 8 | 8 | 7 | 7 | 4 | 2 |
-| 20    |     940.000 | +1    | +4 | 8 | 8 | 8 | 8 | 8 | 5 | 2 |
+| 1     |           0 | 1     | 0  | - | - | - | - | - | - | - |
+| 2     |       1.500 | 2     | 0  | 1 | - | - | - | - | - | - |
+| 3     |       3.000 | 3     | 0  | 2 | - | - | - | - | - | - |
+| 4     |       6.000 | 3+1 TP| 0  | 2 | 1 | - | - | - | - | - |
+| 5     |      12.000 | 4     | +1 | 2 | 2 | - | - | - | - | - |
+| 6     |      24.000 | 5     | +1 | 2 | 2 | 1 | 1 | - | - | - |
+| 7     |      48.000 | 6     | +1 | 2 | 2 | 2 | 1 | 1 | - | - |
+| 8     |     100.000 | 6+1 TP| +1 | 2 | 2 | 2 | 2 | 2 | - | - |
+| 9     |     170.000 | 7     | +2 | 3 | 3 | 3 | 2 | 2 | - | - |
+| 10    |     240.000 | +1 TP | +2 | 3 | 3 | 3 | 3 | 3 | - | - |
+| 11    |     310.000 | +1 TP | +2 | 4 | 4 | 4 | 3 | 3 | - | - |
+| 12    |     380.000 | +1 TP | +2 | 4 | 4 | 4 | 4 | 4 | 1 | - |
+| 13    |     450.000 | +1 TP | +3 | 5 | 5 | 5 | 4 | 4 | 1 | - |
+| 14    |     520.000 | +1 TP | +3 | 5 | 5 | 5 | 5 | 5 | 2 | - |
+| 15    |     590.000 | +1 TP | +3 | 6 | 6 | 6 | 5 | 5 | 2 | - |
+| 16    |     660.000 | +1 TP | +3 | 6 | 6 | 6 | 6 | 6 | 3 | - |
+| 17    |     730.000 | +1 TP | +4 | 7 | 7 | 7 | 6 | 6 | 3 | 1 |
+| 18    |     800.000 | +1 TP | +4 | 7 | 7 | 7 | 7 | 7 | 4 | 1 |
+| 19    |     870.000 | +1 TP | +4 | 8 | 8 | 8 | 7 | 7 | 4 | 2 |
+| 20    |     940.000 | +1 TP | +4 | 8 | 8 | 8 | 8 | 8 | 5 | 2 |
 | 21+   |  +70.000/St | +1/St | +5 | 9 | 9 | 9 | 8 | 8 | 5 | 3 |
 
 \index{Kleriker!Stufen}
@@ -3105,46 +3223,46 @@ des 1. Grades und einen Spruch des 2. Grades wirken kann.
 : Zauberkundige Stufen
 \index{Zauberkundige!Stufen}
 
-| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| Stufe |          EP | TW    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|---|---|---|
-| 1     |           0 | 1W4   | 0  | 1 | - | - | - | - | - | - | - | - |
-| 2     |       2.500 | +1W4  | 0  | 2 | - | - | - | - | - | - | - | - |
-| 3     |       5.000 | +1W4  | 0  | 3 | 1 | - | - | - | - | - | - | - |
-| 4     |      10.000 | +1W4  | 0  | 3 | 2 | - | - | - | - | - | - | - |
-| 5     |      20.000 | +1W4  | 0  | 4 | 2 | 1 | - | - | - | - | - | - |
-| 6     |      35.000 | +1W4  | +1 | 4 | 2 | 2 | - | - | - | - | - | - |
-| 7     |      50.000 | +1W4  | +1 | 4 | 3 | 2 | 1 | - | - | - | - | - |
-| 8     |      75.000 | +1W4  | +1 | 4 | 3 | 3 | 2 | - | - | - | - | - |
-| 9     |     100.000 | +1W4  | +1 | 4 | 3 | 3 | 2 | 1 | - | - | - | - |
-| 10    |     200.000 | +1    | +1 | 4 | 4 | 3 | 2 | 2 | - | - | - | - |
-| 11    |     300.000 | +1    | +2 | 4 | 4 | 4 | 3 | 3 | - | - | - | - |
-| 12    |     400.000 | +1    | +2 | 4 | 4 | 4 | 4 | 4 | 1 | - | - | - |
-| 13    |     500.000 | +1    | +2 | 5 | 5 | 5 | 4 | 4 | 2 | - | - | - |
-| 14    |     600.000 | +1    | +2 | 5 | 5 | 5 | 4 | 4 | 3 | 1 | - | - |
-| 15    |     700.000 | +1    | +2 | 5 | 5 | 5 | 5 | 4 | 4 | 2 | - | - |
-| 16    |     800.000 | +1    | +3 | 5 | 5 | 5 | 5 | 5 | 5 | 1 | 1 | - |
-| 17    |     900.000 | +1    | +3 | 6 | 6 | 6 | 5 | 5 | 5 | 2 | 2 | - |
-| 18    |   1.000.000 | +1    | +3 | 6 | 6 | 6 | 6 | 6 | 5 | 2 | 2 | 1 |
-| 19    |   1.100.000 | +1    | +3 | 7 | 7 | 7 | 6 | 6 | 6 | 3 | 2 | 2 |
-| 20    |   1.200.000 | +1    | +3 | 7 | 7 | 7 | 7 | 7 | 7 | 3 | 3 | 2 |
+| 1     |           0 | 1     | 0  | 1 | - | - | - | - | - | - | - | - |
+| 2     |       2.500 | 1+1 TP| 0  | 2 | - | - | - | - | - | - | - | - |
+| 3     |       5.000 | 2     | 0  | 3 | 1 | - | - | - | - | - | - | - |
+| 4     |      10.000 | 2+1 TP| 0  | 3 | 2 | - | - | - | - | - | - | - |
+| 5     |      20.000 | 3     | 0  | 4 | 2 | 1 | - | - | - | - | - | - |
+| 6     |      35.000 | 3+1 TP| +1 | 4 | 2 | 2 | - | - | - | - | - | - |
+| 7     |      50.000 | 4     | +1 | 4 | 3 | 2 | 1 | - | - | - | - | - |
+| 8     |      75.000 | 4+1 TP| +1 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9     |     100.000 | 5     | +1 | 4 | 3 | 3 | 2 | 1 | - | - | - | - |
+| 10    |     200.000 | +1 TP | +1 | 4 | 4 | 3 | 2 | 2 | - | - | - | - |
+| 11    |     300.000 | +1 TP | +2 | 4 | 4 | 4 | 3 | 3 | - | - | - | - |
+| 12    |     400.000 | +1 TP | +2 | 4 | 4 | 4 | 4 | 4 | 1 | - | - | - |
+| 13    |     500.000 | +1 TP | +2 | 5 | 5 | 5 | 4 | 4 | 2 | - | - | - |
+| 14    |     600.000 | +1 TP | +2 | 5 | 5 | 5 | 4 | 4 | 3 | 1 | - | - |
+| 15    |     700.000 | +1 TP | +2 | 5 | 5 | 5 | 5 | 4 | 4 | 2 | - | - |
+| 16    |     800.000 | +1 TP | +3 | 5 | 5 | 5 | 5 | 5 | 5 | 1 | 1 | - |
+| 17    |     900.000 | +1 TP | +3 | 6 | 6 | 6 | 5 | 5 | 5 | 2 | 2 | - |
+| 18    |   1.000.000 | +1 TP | +3 | 6 | 6 | 6 | 6 | 6 | 5 | 2 | 2 | 1 |
+| 19    |   1.100.000 | +1 TP | +3 | 7 | 7 | 7 | 6 | 6 | 6 | 3 | 2 | 2 |
+| 20    |   1.200.000 | +1 TP | +3 | 7 | 7 | 7 | 7 | 7 | 7 | 3 | 3 | 2 |
 | 21+   | +100.000/St | +1/St | +3 | 8 | 8 | 8 | 7 | 7 | 7 | 4 | 3 | 3 |
 
-: Diebe Stufen
-\index{Diebe!Stufen}
+: Spezialist Stufen
+\index{Spezialist!Stufen}
 
-| Stufe |            EP | TP       | AB | Fertigkeitspunkte |
+| Stufe |            EP | TW       | AB | Fertigkeitspunkte |
 |:-----:|--------------:|:--------:|:--:|:-----------------:|
-| 1     |             0 | 1W6      | +0 | 4                 |
-| 2     |         1.250 | +1W6     | +0 | +2                |
-| 3     |         2.500 | +1W6     | +0 | +1                |
-| 4     |         5.000 | +1W6     | +0 | +1                |
-| 5     |        10.000 | +1W6     | +1 | +1                |
-| 6     |        20.000 | +1W6     | +1 | +1                |
-| 7     |        40.000 | +1W6     | +1 | +1                |
-| 8     |        60.000 | +1W6     | +1 | +1                |
-| 9     |        90.000 | +1W6     | +2 | +1                |
-| 10    |       120.000 | +2       | +2 | +1                |
-| 11    |       240.000 | +2       | +2 | +1                |
+| 1     |             0 | 1        | +0 | 4                 |
+| 2     |         1.250 | 2        | +0 | +2                |
+| 3     |         2.500 | 3        | +0 | +1                |
+| 4     |         5.000 | 4        | +0 | +1                |
+| 5     |        10.000 | 5        | +1 | +1                |
+| 6     |        20.000 | 6        | +1 | +1                |
+| 7     |        40.000 | 7        | +1 | +1                |
+| 8     |        60.000 | 8        | +1 | +1                |
+| 9     |        90.000 | 9        | +2 | +1                |
+| 10    |       120.000 | +2 TP    | +2 | +1                |
+| 11    |       240.000 | +2 TP    | +2 | +1                |
 | 12+   |   +130.000/St | +2/St    | +2 | +1/St             |
 
 
@@ -3281,6 +3399,9 @@ zerstört werden.
 
 Preislisten
 ------------
+
+Eine Goldmünze (GM) entspricht 10 Silbermünzen (SM), 
+oder auch 100 Kupfermünzen (KM).
 
 : Waffen
 \index{Waffen}
@@ -3722,6 +3843,17 @@ Verliesgang, Steinboden,                                      450 GM
 Die Kosten von Türmen verdoppeln sich für Türme die höher als 
 als ihr Durchmesser sind. Türme dürfen maximal doppelt so 
 hoch sein wie ihr Durchmesser.
+
+
+Abweichungen von den 1974er Regeln
+==================================
+
+Folgende Regeln weichen von den ursprünglichen Regeln des Spiels ab: 
+
+1. Eine Stärke von 15+ erbringt nur einen Bonus für
+   Erfahrungspunkte, jedoch keinen Aufschlag auf Treffer- oder
+   Schadenswürfe wie auf Seite \pageref{stbonus} dargestellt.
+
 
 
 Appendix N
