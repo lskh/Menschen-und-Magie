@@ -1,6 +1,8 @@
 ---
 title: Menschen & Magie
 subtitle: Ein Spielerhandbuch für Old-School Rollenspiele
+titlegraphic: img/DnD-Dragon.png
+logo: img/OSR-logo2.png
 rights: © 2019 Laurens Kils-Hütten <lskh3004@gmail.com>, OGL 1.0a
 lang: de
 ---

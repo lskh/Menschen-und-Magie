@@ -2,10 +2,10 @@ DATE:=$(shell date +%d\\.%m\\.%Y\ \\/%H\\:%M\\:%S)
 
 all: MnM.pdf 
 
-MnM.pdf: Makefile MnM.md header.tex
+MnM.pdf: Makefile MnM.md template.tex
 	sed "s/^Datum:.*/Datum: $(DATE)/" MnM.md > tmp1.md
 	rm -f tmp1.tex
-	pandoc -s -t latex -H header.tex \
+	pandoc -s -t latex --template template.tex \
 	--variable lang=de \
 	--variable documentclass=article \
 	--variable classoption="titlepage,twoside,a5paper,12pt" \
