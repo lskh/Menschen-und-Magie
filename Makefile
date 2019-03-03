@@ -5,7 +5,7 @@ all: MnM.pdf
 MnM.pdf: Makefile MnM.md license.md template.tex
 	sed "s/^Datum:.*/Datum: $(DATE)/" MnM.md > tmp1.md
 	rm -f tmp1.tex
-	pandoc -s -t latex --template template.tex \
+	pandoc -s -t latex+raw_attribute --template template.tex \
 	--variable lang=de \
 	--variable documentclass=article \
 	--variable classoption="titlepage,twoside,a5paper,12pt" \
