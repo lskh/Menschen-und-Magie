@@ -1178,46 +1178,46 @@ Basisausrüstung
         Rucksack, Schlafsack, Wasserschlauch, Eiserne Rationen 
         für 7 Tage, Weinschlauch, 1 l Wein, hölzernes heiliges Symbol,  
         eine Ziege, 1 Phiole Tinte, 1 Schreibfeder, 3 Blatt Papier, 
-        2 GM, 3 SM
+        2 GM, 3 SM, BW 9"
 
  4      Streitkolben (1W6), Schleuder (1W4), Waffenrock (RK 8), 
         Schild (RK -1), 
         Stahl und Zunder, 6 Fackeln, Rucksack, Schlafsack, 
         Wasserschlauch, Eiserne 
         Rationen für 7 Tage, 15 m Hanfseil, hölzernes heiliges Symbol, 
-        Knoblauch (3 Knollen), 7 GM, 9 SM, 7 KM
+        Knoblauch (3 Knollen), 7 GM, 9 SM, 7 KM, BW 9"
 
  5      Steitkolben (1W6), Lederrüstung (RK 7), Schild (RK -1), Helm,
         Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 
         6 Fackeln, Eiserne Rationen für 7 Tage,
         hölzernes Heiliges Symbol, Hammer, 3 Holzpflöcke,
-        9 GM, 8 SM, 5 KM
+        9 GM, 8 SM, 5 KM, BW 9"
 
  6      Kampfstab (1W6), Lederrüstung (RK 7), 
         Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 
         6 Fackeln, Eiserne Rationen für 7 Tage,
         15 m Seil, 12 Eisennägel, hölzernes 
         heiliges Symbol, 3 Pflöcke & Hammer, Stahlspiegel,
-        1 Büschel Wolfsbann, 10 GM, 8 SM, 5 KM 
+        1 Büschel Wolfsbann, 10 GM, 8 SM, 5 KM, BW 9"
 
  7      Verstärkte Lederrüstung (RK 6), Schild (RK -1), 
-        Helm, schwerer Kriegshammer (1W6), 
+        Helm, schwerer Kriegshammer (1W6+1), 
         Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 
         6 Fackeln, Eiserne Rationen für 7 Tage,
-        hölzernes heiliges Symbol, 10 GM, 2 SM
+        hölzernes heiliges Symbol, 10 GM, 2 SM, BW 6"
  
  8      Lederrüstung (RK 8), Schild (RK -1), Steitkolben (1W6),
         Rucksack, Schlafsack, 1 Laterne, 3 Ölfläschchen,
         Stahl und Zunder, Wasserschlauch
         hölzernes heiliges Symbol, 1 Phiole Weihwasser, 
-        3 m Holzstab, 15 m Seil, 15 GM, 2 SM
+        3 m Holzstab, 15 m Seil, 15 GM, 2 SM, BW 9"
  
  9      Verstärkte Lederrüstung (RK 6), Schild (RK -1), Helm,
-        schwerer Kriegshammer (1W6),  
+        schwerer Kriegshammer (1W6+1),  
         Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 
         6 Fackeln, Eiserne Rationen für 7 Tage,
         Handfesseln, Hammer und 3 Holzpflöcke, 12 Eisennägel,
-        1 Büschel Wolfsbann, 1 GM, 8 SM
+        1 Büschel Wolfsbann, 1 GM, 8 SM, BW 6"
 
  10     Verstärkte Lederrüstung (RK 6), Schild (RK -1), 
         Helm, schwerer Kriegshammer (1W6), 
@@ -1226,33 +1226,33 @@ Basisausrüstung
         6 Fackeln, 1 Laterne, 4 Ölfläschchen,
         Eiserne Rationen für 7 Tage, 2 kleine Säcke,
         hölzernes heiliges Symbol, 1 Phiole Weihwasser, 
-        ein Hund, 3 GM, 6 SM
+        ein Hund, 3 GM, 6 SM, BW 6"
 
  11     Verstärkte Lederrüstung (RK 6), schwerer Flegel (1W8), 
         Rucksack, Schlafsack, 1 Laterne, 3 Ölfläschchen,
         Stahl und Zunder, Wasserschlauch,
         hölzernes Heiliges Symbol, Stahlspiegel, 
         1 Phiole Weihwasser, Hammer und 3 Holzpflöcke, 
-        15 m Hanfseil, 7 GM, 2 SM, 5 KM
+        15 m Hanfseil, 7 GM, 2 SM, 5 KM, BW 6"
  
  12     Kettenhemd (RK 5), Schild (RK -1), Helm, Kriegshammer (1W6), 
         Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 
         6 Fackeln, Eiserne Rationen für 7 Tage,
         hölzernes heiliges Symbol, 3 m Holzstab, 2 große Säcke,
-        9 GM, 4 SM
+        9 GM, 4 SM, BW 6"
 
  13     Normale Kleidung (RK 9), Schleuder (1W4), Rucksack, 
         Wasserschlauch, Schlafsack, Stahl und Zunder, 
         6 Fackeln, Eiserne Rationen für 7 Tage,
         hölzernes heiliges Symbol, 1 Phiole Tinte, Schreibfeder,
         3 Blatt Papier, Spruchrollenbehälter,
-        Spruchrolle (!), 8 GM, 7 SM
+        Spruchrolle (!), 8 GM, 7 SM, BW 9"
 
  14     Bänderpanzer (RK 4), Schild (RK -1), Schwerer 
-        Kriegshammer (1W6), 
+        Kriegshammer (1W6+1), 
         Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 
         6 Fackeln, Eiserne Rationen für 7 Tage,
-        hölzernes heiliges Symbol, 13 GM, 4 SM
+        hölzernes heiliges Symbol, 13 GM, 4 SM, BW 6"
 
  15     Lederrüstung (RK 7), Kampfstab (1W6), Schleuder (1W4), 
         Rucksack, 
@@ -1260,14 +1260,14 @@ Basisausrüstung
         6 Fackeln, Eiserne Rationen für 7 Tage,
         hölzernes heiliges Symbol, 1 Phiole Tinte, Schreibfeder,
         3 Blatt Papier, Spruchrollenbehälter,
-        Spruchrolle (!), ein Maultier, 2 große Säcke, 1 GM, 6 SM 
+        Spruchrolle (!), ein Maultier, 2 große Säcke, 1 GM, 6 SM, BW
+	12" (weil das Maultier das Gepäck tragen kann)
 
- 16     Schienenpanzer (RK 4), Schild (RK -1), Helm, Kriegshammer,  
-        Rucksack, 
-        Rucksack, Schlafsack, 1 Laterne, 3 Ölfläschchen,
-        Stahl und Zunder, Wasserschlauch,
-        hölzernes heiliges Symbol, Hammer, 12 Eisennägel,
-        1 Phiole Weihwasser, 7 GM, 9 SM
+ 16     Schienenpanzer (RK 4), Schild (RK -1), Helm, Kriegshammer
+	(1W6),  Rucksack, Rucksack, Schlafsack, 1 Laterne, 3
+	Ölfläschchen, Stahl und Zunder, Wasserschlauch, hölzernes
+	heiliges Symbol, Hammer, 12 Eisennägel, 1 Phiole Weihwasser, 7
+	GM, 9 SM, BW 3"
 
  17     Lederrüstung (RK 7), Kampfstab (1W6), Schleuder (1W4), 
         Rucksack, 
@@ -1275,13 +1275,13 @@ Basisausrüstung
         6 Fackeln, Eiserne Rationen für 7 Tage,
         hölzernes heiliges Symbol, 1 Phiole Tinte, Schreibfeder,
         3 Blatt Papier, Spruchrollenbehälter,
-        Spruchrolle (!), 1 Phiole Weihwasser, 16 GM, 6 SM 
+        Spruchrolle (!), 1 Phiole Weihwasser, 16 GM, 6 SM, BW 9"
 
  18     Bänderpanzer (RK 4), Schild (RK -1), Helm,   
-        schwerer Kriegshammer (1W6),
+        schwerer Kriegshammer (1W6+1),
         Wasserschlauch, Schlafsack, Stahl und Zunder, 
         6 Fackeln, Eiserne Rationen für 7 Tage,
-        1 Phiole Weihwasser, silbernes heiliges Symbol, 4 GM
+        1 Phiole Weihwasser, silbernes heiliges Symbol, 4 GM, BW 6"
 
 ----------------------------------------------------------------------------------
 
@@ -1292,66 +1292,86 @@ Basisausrüstung
 ----------------------------------------------------------------------------------
  3W6    Ausrüstung Kämpfer
 ------- --------------------------------------------------------------------------
- 3      Speer, Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne 
-        Rationen für 7 Tage, 15 m Seil, 3 GM    
+ 3      Handaxt (1W6), Lederrüstung (RK 7), Schild (RK -1),
+        Rucksack, Schlafsack, Wasserschlauch, 7 eiserne Rationen,
+	Stahl und Zunder, 6 Fackeln, 10 SM, BW 9"   
 
- 4      Knüppel, Lederrüstung, 6 Fackeln, Rucksack, Wasserschlauch, 
-        Eiserne Rationen für 7 Tage, 3 m Holzstange, 1 GM        
+ 4      Langschwert (1W8), Schleuder (1W4), Lederrüstung (RK 7), 
+	Schild (RK -1), Rucksack, Schlafsack, Wasserschlauch, 7
+	eiserne Rationen, Stahl und Zunder, 6 Fackeln, 5 GM, BW 9"
 
- 5      Lederrüstung, Morgenstern, Dolch, 6 Fackeln, Rucksack, 
-        Wasserschlauch, Eiserne Rationen für 7 Tage, 15 m  Seil, 3 GM                 
+ 5      Morgenstern (1W6+1), Schleuder (1W4), Lederrüstung
+        (RK 7), Schild (RK -1), Rucksack, Schlafsack,
+	Wasserschlauch, 7 eiserne Rationen, Stahl und
+	Zunder, 6 Fackeln, 15 m Hanfseil, 3 m Holzstab, 1
+	Paar Würfel, 3 Krähenfüße, 14 GM, 6 SM, BW 9"
 
- 6      Lederrüstung, Streitaxt, Wurfbeil, Dolch, Schleuder, Tasche mit 
-        20 Steinen, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen 
-        für 7 Tage, 3 m Holzstange, 7 GM           
+ 6      Streitaxt (1W8), 2 Dolche (1W4), verstärkte Lederrüstung (RK 6), 
+	Helm, Rucksack, Schlafsack, Wasserschlauch, 7 eiserne
+	Rationen, Stahl und Zunder, 6 Fackeln, 15 m Seil, Enterhaken,
+	2 große Säcke, 9 GM, 6 SM, BW 6"
 
- 7      Kettenrüstung, Speer, Dolch, Schleuder, Tasche  mit 20 Steinen, 
-        6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 7 Tage, 
-        15 m Seil, 11 GM    
+ 7      Langschwert (1W8), verstärkte Lederrüstung (RK 6), Schild (RK
+        -1), Helm, Rucksack, Schlafsack, Wasserschlauch, 7 eiserne
+	Rationen, Stahl und Zunder, 1 Laterne, 3 Ölfläschchen, 3 GM,
+	BW 6"
 
-  8     Kettenrüstung, Schild, Schwert, Dolch, 6 Fackeln, Rucksack, 
-        Wasserschlauch, Eiserne Rationen für 7 Tage, 3 m Holzstange, 4 GM
+  8     Bastardschwert (2W4), verstärkte Lederrüstung (RK 6), Helm, 
+	Rucksack, Schlafsack, Wasserschlauch, 7 eiserne Rationen,
+	Stahl und Zunder, 6 Fackeln, 15 m Seil, 1 kleiner Sack, 1
+	großer Sack, 5 GM, 5 SM, BW 6"
 
-  9     Kettenrüstung, Speer, leichte Armbrust, Kasten mit 30 Bolzen, 6 
-        Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 7 Tage, 
-        15 m Seil, 11 GM              
+  9     Kettenrüstung (RK 5), Schild (RK -1), Helm, Langschwert (1W8), 
+	leichte Armbrust (1W6), Kasten mit 10 Bolzen, 6 Fackeln,
+	Rucksack, Wasserschlauch, Eiserne Rationen für 7 Tage, 15 m
+	Seil, 3 GM, BW 6"              
 
- 10     Plattenrüstung, Schild, Schwert, Dolch, 6 Fackeln, Rucksack, 
-        Wasserschlauch, Eiserne Rationen für 7 Tage, 3 m Holzstange, 4 GM 
+ 10     Lederrüstung (RK 7), Kompositbogen (1W8), 20 Pfeile, 3 Dolche
+        (1W4), Rucksack, Schlafsack, Wasserschlauch, 7 eiserne
+	Rationen, Stahl und Zunder, 6 Fackeln, 2 kleine Säcke,
+	15 m seidenes Seil, Enterhaken, Stemmeisen, Hammer und 12
+	Eisennägel, 11 GM, 3 SM, BW 9"
  
- 11     Plattenrüstung, Zweihänder, 3 Dolche, 6 Fackeln, Rucksack, 
-        Wasserschlauch, Eiserne Rationen für 7 Tage, 15 m Seil, 
-        2 Ölfläschchen, 9 GM
+ 11     Kettenhemd (RK 5), Schild (RK -1), Morgenstern (1W6+1),
+	Rucksack, Schlafsack, Wasserschlauch, 7 eiserne Rationen,
+	Stahl und Zunder, 6 Fackeln, 11 GM, BW 6"
 
-  12    Plattenrüstung, Schild, Schwert, leichte Armbrust, Kasten mit 
-        30 Bolzen, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen 
-        für 7 Tage, 3 m Holzstange, 2 GM
+  12    Lederrüstung (RK 7), Kurzschwert (1W6), Kurzbogen (1W6), 
+        20 Pfeile, Reitpferd, Sattel, Rucksack, Schlafsack,
+	Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 6
+	Fackeln, 9 GM, BW 9"  
                                          
-  13    Plattenrüstung, Flegel, Dolch, Kurzbogen, Köcher mit 20 Pfeilen, 
-        6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 7 Tage, 
-        15 m Seil, 1 kleiner Sack, 10 GM                                                  
+  13    Kettenhemd (RK 5), Helm, Zweihänder (1W10), Rucksack,
+	Schlafsack, Wasserschlauch, 7 eiserne Rationen, Stahl und
+	Zunder, 6 Fackeln, 7 GM, BW 6"
 
-  14    Plattenrüstung, Schild, Schwert, leichte Armbrust, Kasten mit 
-        30 Bolzen, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 
-        Eiserne Rationen für 7 Tage, 3 m Holzstange, 5 GM                                                
+  14    Verstärkte Lederrüstung (RK 6), Schild (RK -1), Langschwert 
+        (1W8), Langbogen (1W8), 20 Pfeile, Rucksack, Schlafsack,
+	Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
+	Laterne, 3 Ölfläschchen, 15 m Hanfseil, 1 kleiner Sack, 1
+	großer Sack, 1 Maultier, 6 GM, 7 SM, BW 6"
 
-  15    Plattenrüstung, Helm, 2 Streitäxte, Dolch, leichte Armbrust, 
-        Kasten mit 30 Bolzen, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne 
-        Rationen für 7 Tage, 15 m Seil, 5 Ölfläschchen, 15 GM                             
+  15    Bänderpanzer (RK 4), Helm, Schild (RK -1), schwerer
+        Kriegshammer (1W6+1), leichte Armbrust (1W6), 10 Bolzen,
+	Rucksack, Schlafsack, Wasserschlauch, 7 eiserne Rationen,
+	Stahl und Zunder, 6 Fackeln, 6 GM, BW 6"
 
-  16    Plattenrüstung, Zweihänder, Dolch, Kurzbogen, Köcher mit 20 
-        Pfeilen, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 
-        Eiserne Rationen für 7 Tage, 3 m Holzstange, 2 kleine Säcke, 15 GM                            
+  16    Verstärkte Lederrüstung (RK 6), Langbogen (1W8), 20 Pfeile, 
+        2 Dolche (1W4), 1 Kurzschwert (1W6), Rucksack, Schlafsack,
+	Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 6
+	Fackeln, 2 kleine Säcke, 1 Büschel Wolfsbann, 1 Habicht, 14
+	GM, 8 SM, BW 6"
 
-  17    Plattenrüstung, Helebarde, Dolch, Langbogen, Köcher mit 20 
-        Pfeilen, 2 Pfeile mit Silberspitze, Rucksack, Wasserschlauch, 
-        Laterne, 4 Ölfläschchen, Eiserne Rationen für 7 Tage, 15 m Seil, 
-        10 GM                             
+  17    Bänderpanzer (RK 4), Helm, Schild (RK -1), Langschwert (1W8), 
+        Kurzbogen (1W6), 20 Pfeile, Rucksack, Schlafsack,
+	Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 6
+	Fackeln, 12 GM, BW 6"
 
-  18    Plattenrüstung, Schild, Helm, Schwert, 2 Dolche, leichte Armbrust, 
-        Kasten mit 30 Bolzen, 4 Bolzen mit Silberspitze, Rucksack, 
-        Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne Rationen für 7 
-        Tage, 3 m Holzstange, 9 GM   
+  18    Kettenhemd (RK 5), Schild (RK -1), Helm, Bastardschwert (2W4), 
+	Langbogen (1W8), 20 Pfeile, Rucksack, Schlafsack,
+	Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 6
+	Fackeln, Tinte und Schreibfeder, 3 Blatt Pergament, 5 GM, BW
+	6"
 
 ----------------------------------------------------------------------------------
 
@@ -1361,55 +1381,92 @@ Basisausrüstung
 ----------------------------------------------------------------------------------
  3W6    Ausrüstung Zauberkundiger
 ------- --------------------------------------------------------------------------
-  3     Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 
-        7 Tage, 3 m Holzstange, 4 GM 
+  3     Normale Kleidung (RK 9), 1 Dolch (1W4), 1 kleiner
+        Sack, Wasserschlauch, 7 frische Rationen, 3 m
+	Holzstab, Zauberbuch, 3 SM, BW 9"
 
-  4     2 Dolche, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen 
-        für 7 Tage, 2 Ölfläschchen, 15 m Seil, 7 GM 
+  4     Normale Kleidung (RK 9), 1 Dolch (1W4), Rucksack, Schlafsack, 
+        Wasserschlauch, 7 frische Rationen, Zauberbuch, 8 GM, 4 SM, BW
+	9"
 
-  5     Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne 
-        Rationen für 7 Tage, 3 m Holzstange, 7 GM 
+  5     Normale Kleidung (RK 9), Kampfstab (1W6), Dolch (1W4), Rucksack, 
+	Schlafsack, Wasserschlauch, 7 eiserne Rationen, Stahl und
+	Zunder, 6 Fackeln, Zauberbuch, Tinte, Schreibfeder, 3 Blatt
+	Papier, 1 leere Phiole, 1 kleiner Sack, 10 GM, 2 SM, BW 9"
 
-  6     Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 
-        7 Tage, 15 m Seil, 1 Phiole Weihwasser, 9 GM 
+  6     Normale Kleidung (RK 9), Kampfstab (1W6), Dolch (1W4), Rucksack, 
+	Schlafsack, Wasserschlauch, 7 eiserne Rationen, Stahl und
+	Zunder, 6 Fackeln, Zauberbuch, Tinte, Schreibfeder, 3 Blatt
+	Pergament, 1 Büschel Wolfsbann, 11 GM, BW 9"
 
-  7     Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 
-        7 Tage, 3 m Holzstange, 5 Ölfläschchen, Silberspiegel, Belladona, 
-        9 GM 
+  7     Normale Kleidung (RK 9), 2 Dolche (1W4), Rucksack, Schlafsack, 
+	Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
+	Laterne, 3 Ölfläschchen, Zauberbuch, Tinte, Schreibfeder, 3
+	Blatt Pergament, 2 kleine Säcke, 1 Pony, 6 GM, 8 SM, BW 12"
 
-  8     Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 
-        7 Tage, 15 m Seil, 2 Phiolen Weihwasser, 4 GM 
+  8     Normale Kleidung (RK 9), 1 Dolch (1W4), Rucksack, Schlafsack, 
+	Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
+	Laterne, 3 Ölfläschchen, Zauberbuch, 15 m Hanfseil, Hammer und
+	6 Holzpflöcke, 1 Büschel Wolfsbann, 1 Stahlspiegel, 4 GM, 4
+	SM, BW 9"
 
-  9     3 Dolche, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 
-        Eiserne Rationen für 7 Tage, 3 m Holzstange, 1 Phiole Weihwasser, 
-        16 GM 
+  9     Normale Kleidung (RK 9), 1 Dolch (1W4), Rucksack, Schlafsack, 
+        Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
+	Laterne, 3 Ölfläschchen, Tinte, Schreibfeder und 3
+	Blatt Pergament, 2 kleine Säcke, Pony, Sattel, 17 GM, 8 SM, BW
+	12"
 
- 10     Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 
-        7 Tage, 15 m Seil, 2 Phiolen Weihwasser, 24 GM 
+ 10     Normale Kleidung (RK 9), Kampfstab (1W6), Silberdolch (1W4),
+	Zauberbuch, Rucksack, Schlafsack, Wasserschlauch, 7 eiserne
+	Rationen, Stahl und Zunder, 1 Laterne, 3 Ölfläschchen, Tinte,
+	Schreibfeder und 3 Blatt Pergament, 1 Stahlspiegel, gefüllter
+	Weinschlauch, 2 GM, BW 9"
 
- 11     Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 
-        Eiserne Rationen für 7 Tage, 3 m Holzstange, 67 GM 
+ 11     Normale Kleidung (RK 9), Kampfstab (1W6), Silberdolch (1W4), 
+	4 Wurfpfeile (1W4), Zauberbuch, Rucksack, Schlafsack,
+	Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
+	Laterne, 3 Ölfläschchen, Tinte, Schreibfeder und 3 Blatt
+	Pergament, 1 leerer Behälter für Spruchrollen oder Karten, 2
+	leere Phiolen, 1 Stahlspiegel, 9 GM
+       
+ 12     Normale Kleidung (RK 9), Silberdolch (1W4), 4 Wurfpfeile
+	(1W4), Rucksack, Schlafsack, Wasserschlauch, 7 eiserne
+	Rationen, Stahl und Zunder, 1 Laterne, 3 Ölfläschchen, Tinte,
+	Schreibfeder und 3 Blatt Pergament, 1 leerer
+	Spruchrollen-Behälter, 2 leere Phiolen, 1 Büschel Wolfsbann, 1
+	gefüllter Weinschlauch, 2 kleine Säcke, 1 paar Würfel, 1 Esel,
+	9 GM, 6 SM, BW 9"
 
- 12     Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 
-        Eiserne Rationen für 7 Tage, 15 m Seil, 77 GM 
+  13    Normale Kleidung (RK 9), 1 Dolch (1W4), 1 kleiner
+        Sack, Wasserschlauch, 7 frische Rationen, 3 m
+	Holzstab, Zauberbuch, 1 Spruchrolle,  3 SM, BW 9"
 
- 13     Dolch, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen für 
-        7 Tage, Spruchrolle, 3 m Holzstange, 4 GM
+  14    Normale Kleidung (RK 9), 1 Dolch (1W4), Rucksack, Schlafsack, 
+        Wasserschlauch, 7 frische Rationen, Zauberbuch, 1
+	Spruchrolle, 8 GM, 4 SM, BW 9"
 
-  14    2 Dolche, 6 Fackeln, Rucksack, Wasserschlauch, Eiserne Rationen 
-        für 7 Tage, Spruchrolle, 15 m Seil, 11 GM
-  
-  15    Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne 
-        Rationen für 7 Tage, Spruchrolle, 3 m Holzstange, 7 GM
- 
-  16    Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne 
-        Rationen für 7 Tage, Spruchrolle, 15 m Seil, 17 GM
-  
-  17    Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne 
-        Rationen für 7 Tage, Spruchrolle, 3 m Holzstange, 27 GM
-  
-  18    Dolch, Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, Eiserne 
-        Rationen für 7 Tage, Spruchrolle, 15 m Seil, 37 GM
+  15    Normale Kleidung (RK 9), Kampfstab (1W6), Dolch (1W4), Rucksack, 
+	Schlafsack, Wasserschlauch, 7 eiserne Rationen, Stahl und
+	Zunder, 6 Fackeln, Zauberbuch, Tinte, Schreibfeder, 3 Blatt
+	Papier, 1 leere Phiole, 1 kleiner Sack, 1 Spruchrolle,
+	10 GM, 2 SM, BW 9"
+
+  16    Normale Kleidung (RK 9), Kampfstab (1W6), Dolch (1W4), Rucksack, 
+	Schlafsack, Wasserschlauch, 7 eiserne Rationen, Stahl und
+	Zunder, 6 Fackeln, Zauberbuch, Tinte, Schreibfeder, 3 Blatt
+	Pergament, 1 Büschel Wolfsbann, 1 Spruchrolle, 11 GM, BW 9"
+
+  17    Normale Kleidung (RK 9), 2 Dolche (1W4), Rucksack, Schlafsack, 
+	Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
+	Laterne, 3 Ölfläschchen, Zauberbuch, Tinte, Schreibfeder, 3
+	Blatt Pergament, 2 kleine Säcke, 1 Pony, 1 Spruchrolle, 6 GM,
+	8 SM, BW 12"
+
+  18    Normale Kleidung (RK 9), 1 Dolch (1W4), Rucksack, Schlafsack, 
+	Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
+	Laterne, 3 Ölfläschchen, Zauberbuch, 15 m Hanfseil, Hammer und
+	6 Holzpflöcke, 1 Büschel Wolfsbann, 1 Stahlspiegel, 1
+	Spruchrolle, 4 GM, 4 SM, BW 9"
 
 ----------------------------------------------------------------------------------
 
@@ -1866,6 +1923,15 @@ und Gepäck
 Plattenrüstung           9 m     30'         10'            2
 und Gepäck
 --------------------------------------------------------------------- 
+
+TODO: AUSARBEITEN: Das heißt, 3 Dinge können die Belastungsstufe
+beeinflussen: die jeweilige Rüstung bestimmt die Grundbelastungsstufe,
+"Gepäck" erhöht die Belastungsstufe um eins und "Schätze" erhöhen die
+Belastungsstufe nochmals um eins. Das heißt ein ungerüsteter Mensch
+(BW 12"), kann Gepäck (BW 9") und auch noch einen Schatz (BW 6")
+tragen. Auch einem Character wäre dieses noch möglich (dann BW 3") ein
+in Bänderpanzer gerüsteter Kämpfer, kann jedoch nur noch sein Gepäck
+tragen. Sonst sinkt seine Belastungsstufe auf eine Bewegung von 0"!
 
 
 Wildnisabenteuer
@@ -3470,7 +3536,7 @@ oder auch 100 Kupfermünzen (KM).
 | Wurfspeer                          |  1 GM | 1W6     |   2 Pfund |
 | Lanze                              |  7 GM | 2W6     |  15 Pfund |
 | Langbogen                          | 40 GM | -       |   3 Pfund |
-| Kompositbogen                      | 45 GM | -       |   3 Pfund |
+| Kompositbogen                      | 50 GM | -       |   3 Pfund |
 | Pfeile (20) im Köcher              |  5 GM | 1W8     |   3 Pfund |
 | Streitkolben                       |  5 GM | 1W6     |   4 Pfund |
 | Morgenstern                        |  6 GM | 1W6+1   |   6 Pfund |
@@ -3483,10 +3549,10 @@ oder auch 100 Kupfermünzen (KM).
 | Pfeile (20) im Köcher              |  5 GM | 1W6     |   3 Pfund |
 | Schleuder                          |   2GM | -       |   0 Pfund |
 | Schleudersteine (10)               |     - | 1W4     |   5 Pfund |
-| Speer                              |  3 GM | 1W6     |   6 Pfund |
+| Speer                              |  1 GM | 1W6     |   6 Pfund |
 | Schwert, Lang-                     | 10 GM | 1W8     |   4 Pfund |
 | Schwert, Bastard-                  | 25 GM | 2W4     |   6 Pfund |
-| Schwert, Kurz-                     |  7 GM | 1W6     |   2 Pfund |
+| Schwert, Kurz-                     |  8 GM | 1W6     |   2 Pfund |
 | Schwert, Zweihänder-               | 30 GM | 1W10    |  15 Pfund |
 | Dreizack                           |  4 GM | 1W6+1   |   4 Pfund |
 
@@ -3515,33 +3581,27 @@ oder auch 100 Kupfermünzen (KM).
 ----------------------------------------------------------------------
 Gegenstand                                          Preis      Gewicht  
 ------------------------------------------ -------------- ------------ 
-Rucksack (leer)                                      2 GM     10 Pfund  
+Diebeswerkzeug                                      30 GM      1 Pfund  
 
-Schlafsack                                           2 SM      5 Pfund  
+Eisennägel, 1 Dutzend                                1 GM      5 Pfund  
 
-Wolldecke                                            5 KM      2 Pfund  
+Enterhaken                                           1 GM      4 Pfund  
+
+Fackeln (6)                                          3 SM      8 Pfund  
+
+Zunderkästchen                                       1 GM            -  
+
+Fischernetz                                          5 GM      1 Pfund
+
+Flakon (leer)                                        1 SM    1/2 Pfund  
 
 Flaschenzug                                          5 GM      5 Pfund  
 
 Flasche, (Wein-) aus Glas                            2 GM      1 Pfund  
 
-Kerzen (10)                                         10 KM            -  
-
-Spruchrollenbehälter                                 1 GM    1/2 Pfund  
-
-Kette (10 Fuß / 3 Meter)                            30 GM     10 Pfund  
-
-Stemmeisen                                           2 GM      5 Pfund  
-
-Flakon (leer)                                        1 SM    1/2 Pfund  
-
-Feuerstein und Stahl                                 1 GM            -  
-
-Knoblauch (3 Knollen)                                3 KM            -  
-
-Enterhaken                                           1 GM      4 Pfund  
-
 Hammer                                               5 SM      2 Pfund  
+
+Handfesseln                                         15 GM      2 Pfund  
 
 Heiliges Symbol (aus Holz)                           6 SM            -  
 
@@ -3549,19 +3609,21 @@ Heiliges Symbol (aus Silber)                        25 GM      1 Pfund
 
 Heiliges Wasser (Flakon)                            25 GM    1/2 Pfund  
 
-Tinte (1 Phiole)                                     8 GM            -  
+Holzstab (10 Fuß = 3 Meter)                          2 SM      8 Pfund  
 
-Schreibfeder                                         1 SM            -  
+Kerzen (10)                                         10 KM            -  
 
-Leiter ( 10 Fuß = 3 Meter)                           5 SM     20 Pfund  
+Kette (10 Fuß / 3 Meter)                            30 GM     10 Pfund  
+
+Knoblauch (3 Knollen)                                3 KM            -  
+
+Krähenfuß                                            1 GM      1 Pfund
+
+Kreide (1 Stück)                                     5 KM            -
 
 Laterne                                              9 GM      3 Pfund  
 
-Schloss                                             20 GM      1 Pfund  
-
-Handfesseln                                         15 GM      2 Pfund  
-
-Spiegel, kleiner Stahl-                             20 GM    1/2 Pfund  
+Leiter ( 10 Fuß = 3 Meter)                           5 SM     20 Pfund  
 
 Öl (1 Fläschchen)                                    1 SM      1 Pfund  
 
@@ -3569,17 +3631,15 @@ Papier (Blatt)                                       2 SM            -
 
 Pergament (Blatt)                                    3 SM            -  
 
-Picke, Bergmanns-                                    3 GM     10 Pfund  
+Pflock, Holz. (3)                                    5 KM      1 Pfund  
 
-Holzstab (10 Fuß = 3 Meter)                          2 SM      8 Pfund  
+Phiole (für Tinte, Tränke, heiliges Wasser)          1 GM   1/10 Pfund  
 
 Ration, frisch (pro Tag)                             2 SM      1 Pfund  
 
 Ration, konserviert (pro Tag)                        5 SM    1/2 Pfund  
 
-Seil, Hanf- (50 Fuß = 17 Meter)                      1 GM     10 Pfund  
-
-Seil, Seide (50 Fuß = 17 Meter)                     10 GM      5 Pfund  
+Rucksack (leer)                                      2 GM     10 Pfund  
 
 Sack, groß (leer)                                    2 SM    1/2 Pfund  
 
@@ -3589,26 +3649,35 @@ Sattel                                              10 GM     20 Pfund
 
 Satteltasche                                         1 SM    1/2 Pfund  
 
+Schlafsack                                           2 SM      5 Pfund  
+
+Schloss                                             20 GM      1 Pfund  
+
+Schreibfeder                                         1 SM            -  
+
+Seil, Hanf- (50 Fuß = 17 Meter)                      1 GM     10 Pfund  
+
+Seil, Seide (50 Fuß = 17 Meter)                     10 GM      5 Pfund  
+
 Spaten oder Schaufel                                 2 GM      8 Pfund  
+
+Spiegel, kleiner Stahl-                             20 GM    1/2 Pfund  
 
 Spruchbuch (leere Seiten)                           25 GM      3 Pfund  
 
-Eisennägel, 1 Dutzend                                1 GM      5 Pfund  
+Spruchrollenbehälter                                 1 GM    1/2 Pfund  
 
-Pflock, Holz. (3)                                    5 KM      1 Pfund  
+Stemmeisen                                           2 GM      5 Pfund  
 
-Diebeswerkzeug                                      30 GM      1 Pfund  
-
-Fackeln (6)                                          3 SM      8 Pfund  
-
-Phiole, für Tinte, Tränke oder                       1 GM   1/10 Pfund  
-Heiliges Wasser
+Tinte (1 Phiole)                                     8 GM            -  
 
 Wasserschlauch oder Weinschlauch (leer)              1 GM      4 Pfund  
 
 Wein (1 Liter)                                       1 GM      2 Pfund  
 
 Wolfsbann (1 Büschel)                               10 GM            -  
+
+Wolldecke                                            5 KM      2 Pfund  
 
 Würfel, 1 Paar                                       2 SM            -
 
