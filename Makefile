@@ -2,7 +2,7 @@ DATE:=$(shell date +%d\\.%m\\.%Y\ \\/%H\\:%M\\:%S)
 
 all: MnM.pdf 
 
-MnM.pdf: Makefile MnM.md license.md template.tex
+MnM.pdf: Makefile MnM.md 20Q.md license.md template.tex
 	sed "s/^Datum:.*/Datum: $(DATE)/" MnM.md > tmp1.md
 	rm -f tmp1.tex
 	pandoc -s -t latex --template template.tex \
@@ -10,7 +10,7 @@ MnM.pdf: Makefile MnM.md license.md template.tex
 	--variable documentclass=article \
 	--variable classoption="titlepage,twoside,a5paper,12pt" \
 	--variable subparagraph \
-	-o tmp1.tex tmp1.md license.md
+	-o tmp1.tex tmp1.md 20Q.md license.md
 	pdflatex tmp1.tex
 	makeindex tmp1.idx
 	pdflatex tmp1.tex
