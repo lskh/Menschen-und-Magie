@@ -177,7 +177,10 @@ Book: Rules & Magic © 2013 LotFP, author James Edward Raggi IV
 
 Menschen & Magie, © 2019, Laurens Kils-Hütten
 
-Open Content: All text and tables of *Menschen & Magie*
+Open Content: All text and tables of *Menschen & Magie*, except for
+the equipment tables on pages \pageref{eqtab} through
+\pageref{eqtabend}, which are based on an idea by Brendan S. a.k.a 
+*necropraxis* and used here with kind permission.
 
 END OF LICENCE
 

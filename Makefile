@@ -1,21 +1,46 @@
 DATE:=$(shell date +%d\\.%m\\.%Y\ \\/%H\\:%M\\:%S)
 
-all: MnM.pdf 
+md=intro.md Charaktererschaffung.md Abenteuer.md Tabellen.md Anhang.md 20Q.md license.md
 
-MnM.pdf: Makefile MnM.md 20Q.md license.md template.tex
-	sed "s/^Datum:.*/Datum: $(DATE)/" MnM.md > tmp1.md
-	rm -f tmp1.tex
+pdf=MnM.pdf
+
+all: $(pdf)
+
+$(pdf): Makefile template.tex $(md)
 	pandoc -s -t latex --template template.tex \
 	--variable lang=de \
 	--variable documentclass=article \
 	--variable classoption="titlepage,twoside,a5paper,12pt" \
 	--variable subparagraph \
-	-o tmp1.tex tmp1.md 20Q.md license.md
+	$(md) | sed -e "s/^Datum:.*/Datum: $(DATE)/" \
+	-e "s/\\\{/\{/" -e "s/\\\}/\}/" > tmp1.tex
 	pdflatex tmp1.tex
 	makeindex tmp1.idx
 	pdflatex tmp1.tex
-	mv tmp1.pdf MnM.pdf
-	rm tmp*.*
+	mv tmp1.pdf $@
+
+Charaktererschaffung.pdf: Makefile Charaktererschaffung.md
+	sed 's/lettrine//g' Charaktererschaffung.md |\
+	pandoc -s -t latex --variable classoption="12pt" \
+	--variable "title:Menschen \& Magie: Charaktererschaffung" \
+	--variable fontfamily=coelacanth \
+	--variable fontfamilyoptions=osf \
+	--variable toc \
+	--variable geometry="margin=1.8cm" \
+	--variable papersize="a5" \
+	--variable lang=de \
+	-o Charaktererschaffung.pdf 
+
+Tabellen.pdf: Makefile Tabellen.md
+	pandoc -s -t latex --variable classoption="12pt" \
+	--variable "title:Menschen \& Magie: Tabellen" \
+	--variable fontfamily=coelacanth \
+	--variable fontfamilyoptions=osf \
+	--variable lot \
+	--variable geometry="margin=1.5cm" \
+	--variable papersize="a5" \
+	--variable lang=de \
+	-o Tabellen.pdf Tabellen.md
 
 clean:
 	rm -f tmp*.* 
