@@ -193,7 +193,7 @@ Folgende Regeln weichen von den ursprünglichen Regeln des Spiels ab:
 1. Zwerge dürfen nur Kämpfer sein, und bis maximal Stufe 6 aufsteigen.
 
 4. In den Originalregeln ist nicht genau fest gelegt, wie viele
-   Sprüche Zauberkundige zu beginn beherrschen. In vielen
+   Sprüche Zauberkundige zu Beginn beherrschen. In vielen
    Regelvarianten haben sie zu Beginn einen oder zwei Sprüche.
 
 4. Zauberkundige dürfen als Waffen nur Dolche benutzen.
@@ -201,9 +201,11 @@ Folgende Regeln weichen von den ursprünglichen Regeln des Spiels ab:
 4. Zauberkundige können Spruchrollen erst ab der 7. Stufe herstellen.
 
 5. Die Originalregeln machen keine Angaben zu Attributsproben oder
-   ähnlichem. Allerdings kann man wohl vermuten, dass die Autoren
+   ähnlichem. Allerdings darf man wohl vermuten, dass die Autoren
    davon ausgingen, dass die Spieler solche Proben aus den *Wargames*
    kannten, die als Vorläufer der Fantasy-Rollenspiele gelten. 
+
+TODO: die folgenden Regeländerungen fallen wohl weg:
 
 6. Das Original-Spiel benutzte eine etwas andere Einteilung für Phasen
    und Bewegung. Das hier angegebene System entspricht den weit
@@ -212,4 +214,4 @@ Folgende Regeln weichen von den ursprünglichen Regeln des Spiels ab:
 7. Das Original-Spiel benutzte für alle Waffen gleichermaßen 1W6 als
    Schadenswürfel. Der variable Waffenschaden wurde mit dem
    Greyhawk-Supplement von 1976 eingeführt, war aber bis in die Basic D&D
-   Version von Frank Mentzer, 1983 explizit eine optionale Regel.
+   Version von Frank Mentzer von 1983 explizit eine optionale Regel.

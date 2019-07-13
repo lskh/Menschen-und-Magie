@@ -202,7 +202,7 @@ Den Platz für die Klasse, oben in der Mitte, hattest Du Dir ja
 schon frei gehalten. Unter den Feldern für Klasse und
 Gesinnung, also rechts neben
 den Attributen, solltest Du Dir nun Felder für
-Trefferpunkte (TP), Angriffsbonus (AB) und Rüstungsklasse (RK)
+Trefferpunkte (TP) und Rüstungsklasse (RK)
 einrichten. 
 
 Von der Wahl der Klasse hängt auch unmittelbar die Anzahl der
@@ -239,7 +239,7 @@ Primärattribut
 :    Stärke
 
 Trefferpunkte
-:    1W6+1 
+:    1 Trefferwürfel +1, mindestens 5 
 
 Klassenfähigkeiten
 :    Kämpfer haben keine besonderen Klassenfähigkeiten. Magie ist
@@ -260,7 +260,7 @@ Primärattribut
 :    Weisheit
 
 Trefferpunkte
-:    1W6 
+:    1 Trefferwürfel, mindestens 4 
 
 Klassenfähigkeiten
 :    Kleriker können "Untote" beherrschen, und ab der zweiten Stufe 
@@ -304,7 +304,7 @@ Primärattribut
 :    Intelligenz
 
 Trefferpunkte
-:    1W6 
+:    1 Trefferwürfel, mindestens 3 
 
 
 Klassenfähigkeiten
@@ -326,8 +326,8 @@ Klassenfähigkeiten
 	
 
 Klassenbeschränkungen
-:    Zauberkundige dürfen keine Waffen außer Dolchen, Kampfstäben und
-     Wurfpfeilen benutzen. Zauberkundige dürfen keine Rüstungen und
+:    Zauberkundige dürfen keine Waffen außer Dolchen
+     benutzen. Zauberkundige dürfen keine Rüstungen und
      keine Schilde tragen.
 
 Rettungswürfe
@@ -692,7 +692,7 @@ erforderlich.
 #### Böses erkennen*
 \index{Böses erkennen}
 
-Zaubergrad
+Stufe
 :    Kleriker 1, Zauberkundiger 2
 
 Reichweite
@@ -701,9 +701,6 @@ Reichweite
 Dauer
 :    Kleriker: 1 Phase + 1/2 Phase pro Stufe, Zauberkundiger 5 Runden
      pro Stufe
-
-Materialkompenenten
-:    Der Kleriker muss sein heiliges Symbol vor sich halten
 
 Wirkung
 :    In einem 10' (3 m) breiten Korridor in Blickrichtung des
@@ -719,9 +716,6 @@ Wirkung
 
 Stufe
 :    Kleriker 1
-
-Sprechzeit
-:    1 Runde
 
 Reichweite
 :    Berührung
@@ -746,20 +740,14 @@ Wirkung
 Stufe
 :    Kleriker 1, Zauberkundige 1
 
-Sprechzeit
-:    1 Runde
-
 Reichweite
-:    120'
+:    120' (36 m)
 
 Dauer
-:    12 Runden
+:    Zauberkundige Stufe + 6 Runden, Kleriker Stufe + 12 Runden
 
 Rettungswurf
 :    Sprüche	
-
-Materialkompenenten
-:    keine
 
 Wirkung
 :    Mit diesem Spruch kann magisches Licht von der Helligkeit einer Fackel erzeugt werden.
@@ -777,9 +765,6 @@ Auch bekannt als *Hält Türen* \index{Hält Türen}\index{Magischer Riegel}.
 
 Stufe
 :    Zauberkundige 1
-
-Sprechzeit
-:    1 Runde
 
 Reichweite
 :    20' (6 m) / Stufe
@@ -799,9 +784,6 @@ zerstören* beendet die Spruchwirkung.
 
 Stufe
 :    Zauberkundige 1
-
-Sprechzeit
-:    1 Runde
 
 Reichweite
 :    120' (36 m)
@@ -828,17 +810,11 @@ den Untergang stürzen.
 Stufe
 :    Zauberkundige 1
 
-Sprechzeit
-:    1 Runde
-
 Reichweite
 :    240' (80 m)
 
 Dauer
 :    5 Runden pro Stufe
-
-Materialkompenenten
-:    Eine Prise feiner Sand, Rosenblätter oder eine lebende Grille
 
 Wirkung
 :    Der Zauber lässt 2W8 Trefferwürfel an lebenden Wesen für die
@@ -862,11 +838,6 @@ Reichweite
 Dauer
 :    Kleriker 3 Runden pro Stufe, Zauberkundige 2 Runden pro Stufe
 
-Materialkompenenten
-:    Um den Empfänger muss mit Weihwasser (oder Blut im Falle des
-umgekehrten Zaubers) ein 1 m
-durchmessender Kreis auf den Boden gezeichnet werden.
-
 Wirkung
 :    Der Zauber gibt den Angriffswürfen von bösen Kreaturen einen
 Abzug von -2 und den Rettungswürfen des Empfängers +2. Durch eine
@@ -886,9 +857,6 @@ Reichweite
 
 Dauer
 :    2 Phasen
-
-Materialkompenenten
-:    Eine Prise Ruß und etwas Salz
 
 Wirkung
 :    Der Spruch erlaubt dem Spruchwirker, ihm unbekannte Zeichen
@@ -917,43 +885,29 @@ eine perfide Angelegenheit.
 #### Zauberei erkennen
 \index{Zauberei erkennen}
 
-
 Stufe
 :    Zauberkundige 1, Kleriker 1
 
 Reichweite
-:    Zauberkundige 60' (18 m), Kleriker 30' (9 m)
+:    kurz
 
 Dauer
-:    Zauberkundige 2 Runden pro Stufe, Kleriker 
-
-Materialkomponente
-:    Zauberkundige keine, Kleriker müssen ihre heiliges Symbol
-benutzen.
+:    kurz
 
 Wirkung
-:    in einem 10' (3 m) breiten Bereich in 
-Blickrichtung werden magische Gegenstände und magische
-Ausstrahlungen erkannt. Der Spruch wird durch dicke Steinwände,
-Metall von mehr als 2 cm, und Holz von mehr als 90 cm Dicke
-blockiert.
+:    mit diesem Zauber kann festgestellt werden, ob eine Person, ein
+     Ort oder ein Gegenstand mit einem Zauber belegt wurde. Also zum
+     Beispiel eine magischer Gegenstand oder eine mit Magie
+     verschlossene Tür.
 
 #### Zauber lesen
 \index{Zauber lesen}
-
 
 Stufe
 :    Zauberkundige 1
 
 Reichweite
 :    nur der Zauberkundige selbst
-
-Dauer
-:    2 Schriftrollen oder andere einzelne Absätze magischer
-Schriftzeichen
-
-Materialkomponente
-:    ein Kristallprisma
 
 Wirkung
 :    Lässt die Zauberkundige magische Runen entziffern. Wenn sie
@@ -998,285 +952,232 @@ Magie* zu verwenden.
 ### Ausrüstung für Kleriker
 \label{eqtab}
 
- 3.  Kampfstab (1W6), Waffenrock (RK 8), Stahl und Zunder, 6 Fackeln, 
-    Rucksack, Schlafsack, Wasserschlauch, Eiserne Rationen 
-    für 7 Tage, Weinschlauch, 1 l Wein, hölzernes heiliges Symbol, 
-    eine Ziege, 1 Phiole Tinte, 1 Schreibfeder, 3 Blatt Papier, 
-    2 GM, 3 SM, BW 9"
+ 3.  Normale Kleidung (RK 9), Knüppel, 
+     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
+     3 m Holzstab, hölzernes heiliges Symbol,   
+     4 GM, BW 12"
 
- 4.  Streitkolben (1W6), Schleuder (1W4), Waffenrock (RK 8), 
-    Schild (RK -1), 
-    Stahl und Zunder, 6 Fackeln, Rucksack, Schlafsack, 
-    Wasserschlauch, Eiserne 
-    Rationen für 7 Tage, 15 m Hanfseil, hölzernes heiliges Symbol, 
-    Knoblauch (3 Knollen), 7 GM, 9 SM, 7 KM, BW 9"
+ 4.  Normale Kleidung (RK 9), Schild (RK -1), Knüppel, 
+     6 Fackeln, Rucksack,
+     Wasserschlauch, 7 eiserne Rationen, 15 m Seil,
+     hölzernes Heiliges Symbol, 4 GM, BW 12"
 
- 5.  Steitkolben (1W6), Lederrüstung (RK 7), Schild (RK -1), Helm,
-    Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 
-    6 Fackeln, Eiserne Rationen für 7 Tage,
-    hölzernes Heiliges Symbol, Hammer, 3 Holzpflöcke,
-    9 GM, 8 SM, 5 KM, BW 9"
+ 5.  Lederrüstung (RK 7), Steitkolben, 
+     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
+     Holzstab, hölzernes Heiliges Symbol, 5 GM, BW 9"
 
- 6.  Kampfstab (1W6), Lederrüstung (RK 7), 
-    Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 
-    6 Fackeln, Eiserne Rationen für 7 Tage,
-    15 m Seil, 12 Eisennägel, hölzernes 
-    heiliges Symbol, 3 Pflöcke & Hammer, Stahlspiegel,
-    1 Büschel Wolfsbann, 10 GM, 8 SM, 5 KM, BW 9"
+ 6.  Lederrüstung (RK 7), Kampfstab, 
+     Rucksack, Wasserschlauch,  
+     6 Fackeln, 7 eiserne Rationen,
+     15 m Seil, 12 Eisennägel, hölzernes 
+     heiliges Symbol, 3 Pflöcke & Hammer, Stahlspiegel,
+     10 GM, BW 9"
 
- 7.  Verstärkte Lederrüstung (RK 6), Schild (RK -1), 
-    Helm, schwerer Kriegshammer (1W6+1), 
-    Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 
-    6 Fackeln, Eiserne Rationen für 7 Tage,
-    hölzernes heiliges Symbol, 10 GM, 2 SM, BW 6"
+ 7.  Kettenrüstung (RK 5), Kriegshammer, 
+     Rucksack, Wasserschlauch, 
+     6 Fackeln, 7 eiserne Rationen, 3 m Holzstab, 
+     hölzernes heiliges Symbol, 2 kleine Säcke, 8 GM, BW 6"
 
- 8.  Lederrüstung (RK 8), Schild (RK -1), Steitkolben (1W6),
-    Rucksack, Schlafsack, 1 Laterne, 3 Ölfläschchen,
-    Stahl und Zunder, Wasserschlauch
-    hölzernes heiliges Symbol, 1 Phiole Weihwasser, 
-    3 m Holzstab, 15 m Seil, 15 GM, 2 SM, BW 9"
+ 8.  Kettenrüstung (RK 5), Schild (RK -1), Streitkolben, 
+     7 eiserne Rationen, 
+     Rucksack, Wasserschlauch, 6 Fackeln, hölzernes heiliges Symbol, 
+     15 m Seil, 2 kleine Säcke, 8 GM, BW 6"
 
- 9.  Verstärkte Lederrüstung (RK 6), Schild (RK -1), Helm,
-    schwerer Kriegshammer (1W6+1),  
-    Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 
-    6 Fackeln, Eiserne Rationen für 7 Tage,
-    Handfesseln, Hammer und 3 Holzpflöcke, 12 Eisennägel,
-    1 Büschel Wolfsbann, 1 GM, 8 SM, BW 6"
+ 9.  Kettenrüstung (RK 5), Schild (RK -1), Kriegshammer, 
+     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3
+     m Holzstab, hölzernes heiliges Symbol, 2 kleine Säcke, 3
+     Pflöcke und Hammer, Stahlspiegel, 10 GM, BW 6"
 
- 10. Verstärkte Lederrüstung (RK 6), Schild (RK -1), 
-    Helm, schwerer Kriegshammer (1W6), 
-    Rucksack, Wasserschlauch, Weinschlauch mit 1 l Wein, 
-    Schlafsack, Stahl und Zunder, 
-    6 Fackeln, 1 Laterne, 4 Ölfläschchen,
-    Eiserne Rationen für 7 Tage, 2 kleine Säcke,
-    hölzernes heiliges Symbol, 1 Phiole Weihwasser, 
-    ein Hund, 3 GM, 6 SM, BW 6"
+ 10. Plattenrüstung (RK 3), Schild (RK -1), 
+     Streitkolben, 
+     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,   
+     15 m Seil, 
+     hölzernes heiliges Symbol, 10 GM, BW 6"
 
- 11. Verstärkte Lederrüstung (RK 6), schwerer Flegel (1W8), 
-    Rucksack, Schlafsack, 1 Laterne, 3 Ölfläschchen,
-    Stahl und Zunder, Wasserschlauch,
-    hölzernes Heiliges Symbol, Stahlspiegel, 
-    1 Phiole Weihwasser, Hammer und 3 Holzpflöcke, 
-    15 m Hanfseil, 7 GM, 2 SM, 5 KM, BW 6"
+ 11. Plattenrüstung (RK 3), Schild (RK -1), Kriegshammer, 
+     Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 7 eiserne
+     Rationen, 3 m Holzstab, hölzernes Heiliges Symbol, kleiner Sack, 
+     2 GM, BW 6"
 
- 12. Kettenhemd (RK 5), Schild (RK -1), Helm, Kriegshammer (1W6), 
-    Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 
-    6 Fackeln, Eiserne Rationen für 7 Tage,
-    hölzernes heiliges Symbol, 3 m Holzstab, 2 große Säcke,
-    9 GM, 4 SM, BW 6"
+ 12. Plattenrüstung (RK 3), Kampfstab, 
+     Rucksack, Wasserschlauch, 
+     Laterne, 4 Ölfläschchen, 7 eiserne Rationen,
+     15 m Seil, silbernes heiliges Symbol, 
+     4 GM, BW 6"
 
- 13. Normale Kleidung (RK 9), Schleuder (1W4), Rucksack, 
-    Wasserschlauch, Schlafsack, Stahl und Zunder, 
-    6 Fackeln, Eiserne Rationen für 7 Tage,
-    hölzernes heiliges Symbol, 1 Phiole Tinte, Schreibfeder,
-    3 Blatt Papier, Spruchrollenbehälter,
-    Spruchrolle (!), 8 GM, 7 SM, BW 9"
+ 13. Normale Kleidung (RK 9), Knüppel, Rucksack, 
+     Wasserschlauch, 3 m Holzstab, 
+     6 Fackeln, 7 eiserne Rationen,
+     hölzernes heiliges Symbol,
+     Spruchrolle (!), 4 GM, BW 12"
 
- 14. Bänderpanzer (RK 4), Schild (RK -1), Schwerer 
-    Kriegshammer (1W6+1), Rucksack, Wasserschlauch, Schlafsack,
-    Stahl und Zunder, 6 Fackeln, Eiserne Rationen für 7 Tage,
-    hölzernes heiliges Symbol, 13 GM, 4 SM, BW 6"
+ 14. Plattenrüstung (RK 3), Schild (RK -1), 
+     Streitkolben, Rucksack, Wasserschlauch, 
+     Laterne, 4 Ölfläschchen, 7 eiserne Rationen, 
+     silbernes heiliges Symbol, 15 m Seil, 
+     10 GM, BW 6"
 
- 15. Lederrüstung (RK 7), Kampfstab (1W6), Schleuder (1W4), 
-    Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 6
-    Fackeln, Eiserne Rationen für 7 Tage, hölzernes heiliges
-    Symbol, 1 Phiole Tinte, Schreibfeder, 3 Blatt Papier,
-    Spruchrollenbehälter, Spruchrolle (!), ein Maultier, 2 große
-    Säcke, 1 GM, 6 SM, BW 12" (weil das Maultier das Gepäck tragen
-    kann)
+ 15. Lederrüstung (RK 7), Streitkolben,
+     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,
+     hölzernes heiliges Symbol, 3 m Holzstab, Spruchrolle (!), 2
+     Ölfläschchen, 1 GM 
 
- 16. Schienenpanzer (RK 4), Schild (RK -1), Helm, Kriegshammer
-    (1W6),  Rucksack, Rucksack, Schlafsack, 1 Laterne, 3
-    Ölfläschchen, Stahl und Zunder, Wasserschlauch, hölzernes
-    heiliges Symbol, Hammer, 12 Eisennägel, 1 Phiole Weihwasser, 7
-    GM, 9 SM, BW 3"
+ 16. Plattenrüstung (RK 3), Schild (RK -1), Helm, Kriegshammer, 
+     Rucksack, Wasserschlauch, Laterne, 4
+     Ölfläschchen, 7 eiserne Rationen, 15 m Seil, silbernes
+     heiliges Symbol, 3 Pflöcke und Hammer, 
+     Stahlspiegel, 12 GM, BW 6"
 
- 17. Lederrüstung (RK 7), Kampfstab (1W6), Schleuder (1W4), 
-    Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 6
-    Fackeln, Eiserne Rationen für 7 Tage, hölzernes heiliges
-    Symbol, 1 Phiole Tinte, Schreibfeder, 3 Blatt Papier,
-    Spruchrollenbehälter, Spruchrolle (!), 1 Phiole Weihwasser, 16
-    GM, 6 SM, BW 9"
+ 17. Kettenrüstung (RK 5), Kriegshammer, 
+     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,
+     hölzernes heiliges Symbol, 
+     Spruchrolle (!), 10 GM, BW 9"
 
- 18. Bänderpanzer (RK 4), Schild (RK -1), Helm,   
-    schwerer Kriegshammer (1W6+1),
-    Wasserschlauch, Schlafsack, Stahl und Zunder, 
-    6 Fackeln, Eiserne Rationen für 7 Tage,
-    1 Phiole Weihwasser, silbernes heiliges Symbol, 4 GM, BW 6"
+ 18. Plattenrüstung (RK 3), Schild (RK -1), Helm,   
+     Streitkolben, Rucksack, Wasserschlauch, Laterne, 4
+     Ölfläschchen, 7 eiserne Rationen, 15 m Seil, 1 Phiole Weihwasser,
+     silbernes heiliges Symbol, 12 Eisennägel, 3 Pflöcke und Hammer,
+     kleiner Sack, 10 GM, BW 6"
 
 
 ### Ausrüstung für Kämpfer
 
- 3.  Handaxt (1W6), Lederrüstung (RK 7), Schild (RK -1),
-     Rucksack, Schlafsack, Wasserschlauch, 7 eiserne Rationen,
-     Stahl und Zunder, 6 Fackeln, 10 SM, BW 9"
+ 3.  Normale Kleidung (RK 9), Speer, 6 Fackeln, Rucksack,
+     Wasserschlauch, 7 eiserne Rationen, 15 m Seil, 4 GM, BW 12"
 
- 4.  Langschwert (1W8), Schleuder (1W4), Lederrüstung (RK 7), 
-     Schild (RK -1), Rucksack, Schlafsack, Wasserschlauch, 7
-     eiserne Rationen, Stahl und Zunder, 6 Fackeln, 5 GM, BW 9"
+ 4.  Lederrüstung (RK 7), Knüppel, 
+     Rucksack, Schlafsack, Wasserschlauch, 7
+     eiserne Rationen, 6 Fackeln, 3 m Holzstab, 1 GM, BW 12"
 
- 5.  Morgenstern (1W6+1), Schleuder (1W4), Lederrüstung
-     (RK 7), Schild (RK -1), Rucksack, Schlafsack,
-     Wasserschlauch, 7 eiserne Rationen, Stahl und
-     Zunder, 6 Fackeln, 15 m Hanfseil, 3 m Holzstab, 1
-     Paar Würfel, 3 Krähenfüße, 14 GM, 6 SM, BW 9"
+ 5.  Lederrüstung (RK 7), Morgenstern, Dolch, 
+     Rucksack, Wasserschlauch, 7 eiserne Rationen, 6 Fackeln, 15 m
+     Seil, 3 GM, BW 12"
 
- 6.  Streitaxt (1W8), 2 Dolche (1W4), verstärkte Lederrüstung (RK 6), 
-     Helm, Rucksack, Schlafsack, Wasserschlauch, 7 eiserne
-     Rationen, Stahl und Zunder, 6 Fackeln, 15 m Seil, Enterhaken,
-     2 große Säcke, 9 GM, 6 SM, BW 6"
+ 6.  Lederrüstung (RK 7), Streitaxt, Handaxt, 
+     Dolch , Schleuder mit 20 Steinen, 
+     Rucksack, Wasserschlauch, 7 eiserne
+     Rationen, 6 Fackeln, 3 m Holzstab 9 GM, BW 9"
 
- 7.  Langschwert (1W8), verstärkte Lederrüstung (RK 6), Schild (RK
-     -1), Helm, Rucksack, Schlafsack, Wasserschlauch, 7 eiserne
-     Rationen, Stahl und Zunder, 1 Laterne, 3 Ölfläschchen, 3 GM,
-     BW 6"
+ 7.  Kettenrüstung (RK 5), Speer, Dolch, Schleuder mit 20
+     Steinen, 6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne
+     Rationen, 15 m Seil, 11 GM, BW 6"
 
- 8.  Bastardschwert (2W4), verstärkte Lederrüstung (RK 6), Helm, 
-     Rucksack, Schlafsack, Wasserschlauch, 7 eiserne Rationen,
-     Stahl und Zunder, 6 Fackeln, 15 m Seil, 1 kleiner Sack, 1
-     großer Sack, 5 GM, 5 SM, BW 6"
+ 8.  Kettenrüstung (RK 5), Schild (RK -1), Schwert, Dolch,     
+     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen,
+     3 m Holzstab,  4 GM, BW 6"
 
- 9.  Kettenrüstung (RK 5), Schild (RK -1), Helm, Langschwert (1W8), 
-     leichte Armbrust (1W6), Kasten mit 10 Bolzen, 6 Fackeln,
-     Rucksack, Wasserschlauch, Eiserne Rationen für 7 Tage, 15 m
-     Seil, 3 GM, BW 6"              
+ 9.  Kettenrüstung (RK 5), Speer, leichte Armbrust, 30 Bolzen,
+     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen,
+     15 m Seil, 11 GM, BW 6"              
 
- 10. Lederrüstung (RK 7), Kompositbogen (1W8), 20 Pfeile, 3 Dolche
-     (1W4), Rucksack, Schlafsack, Wasserschlauch, 7 eiserne
-     Rationen, Stahl und Zunder, 6 Fackeln, 2 kleine Säcke,
-     15 m seidenes Seil, Enterhaken, Stemmeisen, Hammer und 12
-     Eisennägel, 11 GM, 3 SM, BW 9"
+ 10. Plattenrüstung (RK 3), Schild (RK -1), Schwert, Dolch, 
+     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
+     Holzstab, 4 GM, BW 6"
  
- 11. Kettenhemd (RK 5), Schild (RK -1), Morgenstern (1W6+1),
-     Rucksack, Schlafsack, Wasserschlauch, 7 eiserne Rationen,
-     Stahl und Zunder, 6 Fackeln, 11 GM, BW 6"
+ 11. Plattenrüstung (RK 3), Zweihandschwert, 3 Dolche, 6 Fackeln,
+     Rucksack, Wasserschlauch, 7 eiserne Rationen,
+     15 m Seil, 2 Ölfläschchen, 9 GM, BW 6"
 
- 12. Lederrüstung (RK 7), Kurzschwert (1W6), Kurzbogen (1W6), 
-     20 Pfeile, Reitpferd, Sattel, Rucksack, Schlafsack,
-     Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 6
-     Fackeln, 9 GM, BW 9"  
+ 12. Plattenrüstung (RK 3), Schild (RK -1), Schwert, leichte Armbrust,
+     30 Bolzen, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
+     6 Fackeln, 3 m Holzstab, 2 GM, BW 6"  
                                       
- 13. Kettenhemd (RK 5), Helm, Zweihänder (1W10), Rucksack,
-     Schlafsack, Wasserschlauch, 7 eiserne Rationen, Stahl und
-     Zunder, 6 Fackeln, 7 GM, BW 6"
+ 13. Plattenrüstung (RK 3), Flegel, Dolch, Kurzbogen, 20 Pfeile, 
+     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen,
+     15 m Seil, kleiner Sack, 10 GM, BW 6"
 
- 14. Verstärkte Lederrüstung (RK 6), Schild (RK -1), Langschwert 
-     (1W8), Langbogen (1W8), 20 Pfeile, Rucksack, Schlafsack,
-     Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
-     Laterne, 3 Ölfläschchen, 15 m Hanfseil, 1 kleiner Sack, 1
-     großer Sack, 1 Maultier, 6 GM, 7 SM, BW 6"
+ 14. Plattenrüstung (RK 3), Schild (RK -1), Schwert, leichte Armbrust, 
+     30 Bolzen, Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne,
+     4 Ölfläschchen, 3 m Holzstab, 5 GM, BW 6"
 
- 15. Bänderpanzer (RK 4), Helm, Schild (RK -1), schwerer
-     Kriegshammer (1W6+1), leichte Armbrust (1W6), 10 Bolzen,
-     Rucksack, Schlafsack, Wasserschlauch, 7 eiserne Rationen,
-     Stahl und Zunder, 6 Fackeln, 6 GM, BW 6"
+ 15. Plattenrüstung (RK 3), Helm, zwei Streitäxte, Dolch, leichte
+     Armbrust, 30 Bolzen, 6 Fackeln, Rucksack, Wasserschlauch, 7
+     eiserne Rationen, 15 m Seil, 5 Ölfläschchen, 15 GM, BW 6"
 
- 16. Verstärkte Lederrüstung (RK 6), Langbogen (1W8), 20 Pfeile, 
-     2 Dolche (1W4), 1 Kurzschwert (1W6), Rucksack, Schlafsack,
-     Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 6
-     Fackeln, 2 kleine Säcke, 1 Büschel Wolfsbann, 1 Habicht, 14
-     GM, 8 SM, BW 6"
+ 16. Plattenrüstung (RK 3), Zweihandschwert, Dolch, Kurzbogen, 20
+     Pfeile, Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne, 4
+     Ölfläschchen, 3 m Holzstab, 2 kleine Säcke, 15 GM, BW 6"
 
- 17. Bänderpanzer (RK 4), Helm, Schild (RK -1), Langschwert (1W8), 
-     Kurzbogen (1W6), 20 Pfeile, Rucksack, Schlafsack,
-     Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 6
-     Fackeln, 12 GM, BW 6"
+ 17. Plattenrüstung (RK 3), Hellebarde, Dolch, Langbogen, 
+     20 normale Pfeile, 2 Pfeile
+     mit Silberspitzen, Rucksack, Wasserschlauch, Laterne, 4
+     Ölfläschchen, 7 eiserne Rationen, 15 m Seil, 10 GM, BW 6"
 
- 18. Kettenhemd (RK 5), Schild (RK -1), Helm, Bastardschwert (2W4), 
-     Langbogen (1W8), 20 Pfeile, Rucksack, Schlafsack,
-     Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 6
-	Fackeln, Tinte und Schreibfeder, 3 Blatt Pergament, 5 GM, BW
-	6"
+ 18. Plattenrüstung (RK 3), Schild (RK -1), Helm, Schwert, 2 Dolche,
+     leichte Armbrust, 30 normale Bolzen, 4 Bolzen mit Silberspitzen,
+     Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne, 4
+     Ölfläschchen, 3 m Holzstab, 9 GM, BW 6"
 
 
 ### Ausrüstung Zauberkundiger
 
-  3. Normale Kleidung (RK 9), 1 Dolch (1W4), 1 kleiner
-    Sack, Wasserschlauch, 7 frische Rationen, 3 m
-    Holzstab, Zauberbuch, 3 SM, BW 9"
+  3. Normale Kleidung (RK 9), Dolch, Rucksack, Wasserschlauch, 
+     7 eiserne Rationen, 3 m Holzstab, Zauberbuch, 4GM, BW 9"
 
-  4. Normale Kleidung (RK 9), 1 Dolch (1W4), Rucksack, Schlafsack, 
-    Wasserschlauch, 7 frische Rationen, Zauberbuch, 8 GM, 4 SM, BW
-    9"
+  4. Normale Kleidung (RK 9), 2 Dolche, Rucksack, Wasserschlauch, 
+     7 eiserne Rationen, 2 Ölfläschchen, 15 m Seil, Zauberbuch, 
+     7 GM, BW 9"
 
-  5. Normale Kleidung (RK 9), Kampfstab (1W6), Dolch (1W4), Rucksack, 
-    Schlafsack, Wasserschlauch, 7 eiserne Rationen, Stahl und
-    Zunder, 6 Fackeln, Zauberbuch, Tinte, Schreibfeder, 3 Blatt
-    Papier, 1 leere Phiole, 1 kleiner Sack, 10 GM, 2 SM, BW 9"
+  5. Normale Kleidung (RK 9), Dolch, Rucksack, 
+     Wasserschlauch, 7 eiserne Rationen, Laterne, 4 Ölfläschchen,
+     Zauberbuch, 3 m Holzstab, 7 GM, BW 9"
 
-  6. Normale Kleidung (RK 9), Kampfstab (1W6), Dolch (1W4), Rucksack, 
-    Schlafsack, Wasserschlauch, 7 eiserne Rationen, Stahl und
-    Zunder, 6 Fackeln, Zauberbuch, Tinte, Schreibfeder, 3 Blatt
-    Pergament, 1 Büschel Wolfsbann, 11 GM, BW 9"
+  6. Normale Kleidung (RK 9), Dolch, Rucksack, 
+     Wasserschlauch,  6 Fackeln, 7 eiserne Rationen, 15 m Seil, 
+     Zauberbuch, 1 Phiole Weihwasser, 9 GM, BW 9"
 
-  7. Normale Kleidung (RK 9), 2 Dolche (1W4), Rucksack, Schlafsack, 
-    Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
-    Laterne, 3 Ölfläschchen, Zauberbuch, Tinte, Schreibfeder, 3
-    Blatt Pergament, 2 kleine Säcke, 1 Pony, 6 GM, 8 SM, BW 12"
+  7. Normale Kleidung (RK 9), Dolch, 6 Fackeln, Rucksack,
+     Wasserschlauch, 7 eiserne Rationen, 3 m Holzstab, 5 Ölfläschchen,
+     Silberspiegel, ein Bund Belladonna, Zauberbuch, 9 GM, BW 9"
 
-  8. Normale Kleidung (RK 9), 1 Dolch (1W4), Rucksack, Schlafsack, 
-    Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
-    Laterne, 3 Ölfläschchen, Zauberbuch, 15 m Hanfseil, Hammer und
-    6 Holzpflöcke, 1 Büschel Wolfsbann, 1 Stahlspiegel, 4 GM, 4
-    SM, BW 9"
+  8. Normale Kleidung (RK 9), Dolch, Rucksack, 
+     Wasserschlauch, 7 eiserne Rationen, 15 m Seil, 2 Phiolen
+     Weihwasser, Zauberbuch, 4 GM, BW 9"
 
-  9. Normale Kleidung (RK 9), 1 Dolch (1W4), Rucksack, Schlafsack, 
-    Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
-    Laterne, 3 Ölfläschchen, Tinte, Schreibfeder und 3
-    Blatt Pergament, 2 kleine Säcke, Pony, Sattel, 17 GM, 8 SM, BW
-    12"
+  9. Normale Kleidung (RK 9), 3 Dolche, Rucksack, 
+    Wasserschlauch, 7 eiserne Rationen, 
+    Laterne, 4 Ölfläschchen, 3 m Holzstab, Phiole Weihwasser,
+    Zauberbuch, 16 GM, 
+    BW 9"
 
- 10. Normale Kleidung (RK 9), Kampfstab (1W6), Silberdolch (1W4),
-    Zauberbuch, Rucksack, Schlafsack, Wasserschlauch, 7 eiserne
-    Rationen, Stahl und Zunder, 1 Laterne, 3 Ölfläschchen, Tinte,
-    Schreibfeder und 3 Blatt Pergament, 1 Stahlspiegel, gefüllter
-    Weinschlauch, 2 GM, BW 9"
+ 10. Normale Kleidung (RK 9), Dolch, 6 Fackeln, 
+    Zauberbuch, Rucksack, Wasserschlauch, 7 eiserne
+    Rationen, 15 m Seil, 2 Phiolen Weihwasser, 24 GM, BW 9"
 
- 11. Normale Kleidung (RK 9), Kampfstab (1W6), Silberdolch (1W4), 
-    4 Wurfpfeile (1W4), Zauberbuch, Rucksack, Schlafsack,
-    Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
-    Laterne, 3 Ölfläschchen, Tinte, Schreibfeder und 3 Blatt
-    Pergament, 1 leerer Behälter für Spruchrollen oder Karten, 2
-    leere Phiolen, 1 Stahlspiegel, 9 GM
+ 11. Normale Kleidung (RK 9), Dolch, 
+     Zauberbuch, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
+    Laterne, 4 Ölfläschchen, 3 m Holzstab, Bund Wolfsbann, 57 GM, BW 9"
     
- 12. Normale Kleidung (RK 9), Silberdolch (1W4), 4 Wurfpfeile
-    (1W4), Rucksack, Schlafsack, Wasserschlauch, 7 eiserne
-    Rationen, Stahl und Zunder, 1 Laterne, 3 Ölfläschchen, Tinte,
-    Schreibfeder und 3 Blatt Pergament, 1 leerer
-    Spruchrollen-Behälter, 2 leere Phiolen, 1 Büschel Wolfsbann, 1
-    gefüllter Weinschlauch, 2 kleine Säcke, 1 paar Würfel, 1 Esel,
-    9 GM, 6 SM, BW 9"
+ 12. Normale Kleidung (RK 9), Dolch, Zauberbuch, 
+     Rucksack, Wasserschlauch, 7 eiserne
+    Rationen, 1 Laterne, 4 Ölfläschchen,
+     15 m Seil, Bund Belladonna, Bund Wolfsbann 57 GM, BW 9"
 
-  13. Normale Kleidung (RK 9), 1 Dolch (1W4), 1 kleiner
-    Sack, Wasserschlauch, 7 frische Rationen, 3 m
-    Holzstab, Zauberbuch, 1 Spruchrolle,  3 SM, BW 9"
+  13. Normale Kleidung (RK 9),  Dolch, 6 Fackeln, 
+      Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
+      Holzstab, Zauberbuch, Spruchrolle, 4 GM, BW 9"
 
-  14. Normale Kleidung (RK 9), 1 Dolch (1W4), Rucksack, Schlafsack, 
-    Wasserschlauch, 7 frische Rationen, Zauberbuch, 1
-    Spruchrolle, 8 GM, 4 SM, BW 9"
+  14. Normale Kleidung (RK 9), 2 Dolche, 6 Fackeln, 
+    Rucksack, Wasserschlauch, 7 eiserne Rationen, Zauberbuch, 
+    Spruchrolle, 15 m Seil,  11 GM, BW 9"
 
-  15. Normale Kleidung (RK 9), Kampfstab (1W6), Dolch (1W4), Rucksack, 
-    Schlafsack, Wasserschlauch, 7 eiserne Rationen, Stahl und
-    Zunder, 6 Fackeln, Zauberbuch, Tinte, Schreibfeder, 3 Blatt
-    Papier, 1 leere Phiole, 1 kleiner Sack, 1 Spruchrolle,
-    10 GM, 2 SM, BW 9"
+  15. Normale Kleidung (RK 9), Dolch, Rucksack, 
+    Wasserschlauch, 7 eiserne Rationen, Zauberbuch, Laterne, 4
+    Ölfläschchen, Spruchrolle, 3 m Holzstab, 7 GM, BW 9"
 
-  16. Normale Kleidung (RK 9), Kampfstab (1W6), Dolch (1W4), Rucksack, 
-    Schlafsack, Wasserschlauch, 7 eiserne Rationen, Stahl und
-    Zunder, 6 Fackeln, Zauberbuch, Tinte, Schreibfeder, 3 Blatt
-    Pergament, 1 Büschel Wolfsbann, 1 Spruchrolle, 11 GM, BW 9"
+  16. Normale Kleidung (RK 9), Dolch, Rucksack, Zauberbuch, 
+      Wasserschlauch, 7 eiserne Rationen, Laterne, 4 Ölfläschchen,
+      Spruchrolle, 15 m Seil, 17 GM, BW 9"
 
-  17. Normale Kleidung (RK 9), 2 Dolche (1W4), Rucksack, Schlafsack, 
-    Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
-    Laterne, 3 Ölfläschchen, Zauberbuch, Tinte, Schreibfeder, 3
-    Blatt Pergament, 2 kleine Säcke, 1 Pony, 1 Spruchrolle, 6 GM,
-    8 SM, BW 12"
+  17. Normale Kleidung (RK 9), Dolch, Rucksack,
+    Wasserschlauch, 7 eiserne Rationen, 
+    Laterne, 4 Ölfläschchen, Zauberbuch, 
+    Spruchrolle, 3 m Holzstab, Bund Wolfsbann, 17 GM
 
-  18. Normale Kleidung (RK 9), 1 Dolch (1W4), Rucksack, Schlafsack, 
-    Wasserschlauch, 7 eiserne Rationen, Stahl und Zunder, 1
-    Laterne, 3 Ölfläschchen, Zauberbuch, 15 m Hanfseil, Hammer und
-    6 Holzpflöcke, 1 Büschel Wolfsbann, 1 Stahlspiegel, 1
-    Spruchrolle, 4 GM, 4 SM, BW 9" \label{eqtabend}
+  18. Normale Kleidung (RK 9), Dolch, Rucksack,
+    Wasserschlauch, 7 eiserne Rationen, 
+    Laterne, 4 Ölfläschchen, Zauberbuch, 15 m Seil, 
+    Spruchrolle, Phiole Weihwasser, 12 GM, BW 9" \label{eqtabend}
 
 
 
