@@ -72,6 +72,163 @@ Todesstrahlen" wird von einer giftigen Schlange gebissen. Würfelt
 er eine 12, hat er Glück und überlebt die Wirkung des Giftes, bei
 einer 11 jedoch hätte sein letztes Stündlein geschlagen.
 
+Magie
+-----
+
+### Spruchrollen
+\index{Spruchrollen}
+
+Es kann gut sein, dass die Abenteurer auf ihren Unternehmungen
+auf Pergamentrollen geschriebene Sprüche entdecken. Vielleicht
+als Bestandteil eines Schatzes, oder man bietet ihnen 
+eine Spruchrolle zum Kauf, oder als Lohn für eine besondere
+Aufgabe an.
+
+Bei diesen Spruchrollen kann es sich um Klerikersprüche - die von
+jedem (!) gewirkt werden können - oder um Zauberkundigen-Sprüche
+handeln. Letztere können nur von Zauberkundigen benutzt werden.
+Sprüche von einer Spruchrolle werden - unabhängig von der Stufe des
+Anwenders - durch lautes Vorlesen gewirkt. Es ist also mit Hilfe
+von Spruchrollen möglich, sehr mächtige Sprüche zu wirken, zu
+denen sonst gar kein Zugang bestehen würde. Auch wirken sich von
+Spruchrollen gewirkte Sprüche nicht auf das Kontingent der
+vorbereiteten Sprüche aus.
+
+Allerdings verschwindet die magische Schrift der Spruchrollen von
+dem Pergament, sobald der Spruch einmal gewirkt wurde. Sprüche
+von Spruchrollen können also nur ein einziges mal gewirkt werden.
+
+Zauberkundigen steht es frei, den Spruch - nachdem er
+mit *Magie lesen* einmalig entziffert wurde - in ihr Buch
+einzutragen, um ihn später immer wieder vorbereiten und wirken zu
+können. Auch dann verschwinden die magischen Runen allerdings von
+der Spruchrolle.
+
+Schließlich können Zauberkundige Zeit und Geld in die Herstellung
+eigener Spruchrollen investieren[^scrolls]. Die Kosten dafür betragen
+eine Woche Arbeit und 100 GM pro Spruch-Grad. Einen Spruch des dritten
+Grades auf eine Spruchrolle zu transkribieren dauert also 3 Wochen *In
+Game*-Zeit, und kostet den Zauberkundigen 300 GM. Und natürlich kann der
+Zauberkundige nur solche Sprüche auf Rollen schreiben, die er schon
+kennt und in seinem Sprüchebuch hat.
+
+[^scrolls]: Dieses ist eine besondere Regel aus der *Holmes-Edition*. 
+    In den meisten Editionen können nur Zauberkundige ab der 7. Stufe 
+    selbst Spruchrollen schreiben. Ich finde diese Regel zu
+    Spruchrollen sehr gut, da sie Charakteren niedriger Stufen mehr 
+    Möglichkeiten bietet, und ich nicht sehe, dass durch diese Regel
+    das Spielgleichgewicht ernsthaft gestört werden könnte.
+
+
+### Spruchforschung und neue Sprüche
+
+Zauberkundige können auch völlig neue Sprüche entwickeln. Dieses 
+ist allerdings sehr aufwändig und es gibt keine Garantie für Erfolg.
+
+Wenn Du eine Idee für einen neuen, genialen Zauberspruch hast,
+besprich Deine Idee in Ruhe mit dem Spielleiter[^spells]. Vielleicht
+muss der Effekt noch etwas angepasst werden, um nicht zu mächtig für
+den gewünschten Spruch-Grad zu sein. Wenn ihr Euch einig seid, muss
+der Zauberkundige eine Woche Arbeit und 2.000 GM pro Spruch-Grad in
+die Forschung investieren. Selbst entwickelte Sprüche haben allerdings
+auch einen gewisse Chance fehlerhaft zu sein, die in der Regel von der
+Spielleiterin verdeckt ermittelt wird. Dem Zauberkundigen bleibt also
+nichts anderes übrig, als den neu entwickelten Spruch zu
+testen.
+
+[^spells]: Gary Gygax verlangte hierzu in
+     seinem *Dungeon Masters Guide* von 1979, dass der Spieler dem 
+     Spielleiter "eine mit Schreibmaschine geschriebene Beschreibung"
+     des Spruchs vorlegen müsse, damit dieser beurteilt werden
+     kann ...
+
+
+### Magische Gegenstände
+\index{Magische Gegenstände}
+
+In der Spielwelt gibt es unzählige verschiedene magische
+Gegenstände. Dabei kann es sich um Tränke und Elixiere, Ringe,
+Schmuckstücke, Zauberstäbe, magische Rüstungen, Waffen oder
+sonstige Gegenstände handeln. 
+
+Viele Gegenstände haben spruchähnliche Wirkungen wie zum Beispiel
+ein *Amulett der Unsichtbarkeit*. Zauberstäbe
+\index{Zauberstäbe} haben häufig eine 
+begrenzte Anzahl von "Ladungen" - ein *Feuerball Stab* wäre ein
+Beispiel. Manche Gegenstände wirken nur ein einziges Mal, wie zum
+Beispiel ein *Wunschring*.
+
+**Magische Rüstungen** \index{Rüstung!magische}verbessern die Rüstungsklasse. Zum Beispiel
+hätte ein magisches Kettenhemd+1 eine Rüstungsklasse von 4 statt
+5 (niedrige Rüstungsklassen sind besser als hohe). Gleichzeitig
+wirken sich magische Rüstungen weniger auf die Belastung
+\index{Belastung!Magische Rüstungen} aus.
+
+**Magische Waffen** \index{Waffen!magische} geben Aufschläge auf
+Treffer- und Schadenswurf.  Ein magischer Morgenstern+2 verbessert
+also die Trefferwahrscheinlichkeit um 10%, und verursacht immer 2
+Punkte mehr Schaden, als es bei einem gewöhnlichen Morgenstern der
+Fall wäre. 
+
+Da es Kreaturen gibt, die überhaupt nur mit magischen Waffen
+verletzt werden können, werden manche Unternehmungen hoffnungslos
+sein, wenn keiner der Abenteurer über eine magische Waffe
+verfügt.
+
+Manche magische Waffen haben eine besonders
+ausgeprägte Wirkung gegenüber bestimmten Kreaturen. Es wäre also
+zum Beispiel ein *magisches Schwert +1/+3 gegen Drachen* denkbar.
+
+Mit magischen Schwertern \index{Schwerter!magische} hat es
+überhaupt eine besondere Bewandtnis. Häufig kann man sie an einem
+geheimnisvollen Glimmen ihrer Klinge erkennen, manchmal so hell,
+dass sie im Dunklen ausreichend Licht spenden. Schwerter mit
+einer besonderen Wirkung gegen bestimmte Kreaturen werden
+regelrecht aufleuchten, wenn sich eine entsprechende Kreatur in
+der Nähe befindet. Schließlich soll es Schwerter geben, die so
+voller Magie sind, dass sie ihrem Besitzer ermöglichen, bestimmte
+Sprüche zu wirken, und manche Schwerter haben sogar einen eigenen
+Willen und können selbstständig Kämpfen. Solche Schwerter
+verfolgen dann auch meistens ihre eigenen schwer durchschaubaren
+Ziele.
+
+
+### Erkennen und Identifizieren magischer Gegenstände
+
+Die meisten magischen Gegenstände sehen aus wie ganz gewöhnliche
+Gegenstände. Einige mögen mit geheimnisvollen Runen oder Symbolen
+verziert sein. 
+
+Mit einem *Magie entdecken* Spruch, kann auch ein unerfahrener
+Magier feststellen, *dass* ein Gegenstand magische Eigenschaften
+hat. Er kann jedoch nicht erkennen, genau welche!
+
+Die Wirkung magischer Gegenstände kann meistens
+durch schlichtes ausprobieren festgestellt werden, was aber auch
+Risiken birgt. Zum Beispiel könnte es passieren, dass ein
+magischer Helm nach einmaligem aufsetzen erst einmal nicht mehr
+abgenommen werden kann.
+
+Erfahrene Zauberkundige, die einen Spruch wie *Identifizieren*
+oder ein entsprechendes Ritual beherrschen, können einen
+Gegenstand genau analysieren, und dessen magischen Eigenschaften
+und Wirkungen vorhersagen.
+
+### Verfluchte Gegenstände
+
+Genauso wie Gegenstände mit nützlichen magischen Eigenschaften
+belegt sein können, kann es auch verfluchte Gegenstände geben.
+Dabei kann es sich um eher unterhaltsame Effekte handeln, wie zum
+Beispiel, dass sich die Kleidung des Betroffenen in Luft auflöst,
+oder dessen Nase plötzlich unnatürliche Proportionen annimmt. Es
+können aber auch dramatische Dinge geschehen. 
+
+Nicht ganz selten, kann der Fluch
+der auf einem magischen Gegenstand liegt, seinen Träger auf eine
+bestimmte Queste zwingen, und ihn ansonsten mit immer schlimmer
+werdenden Albträumen heimsuchen, falls er nicht alles daran setzt
+das Ziel der verfluchten Mission zu erreichen.
+
 
 Stadtabenteuer
 --------------

@@ -1,6 +1,6 @@
 DATE:=$(shell date +%d\\.%m\\.%Y\ \\/%H\\:%M\\:%S)
 
-md=intro.md Charaktererschaffung.md Abenteuer.md Tabellen.md Anhang.md 20Q.md license.md
+md=intro.md Charaktererschaffung.md Abenteuer.md Hausregeln.md Tabellen.md Anhang.md 20Q.md license.md
 
 pdf=MnM.pdf
 
@@ -12,7 +12,7 @@ $(pdf): Makefile template.tex $(md)
 	--variable documentclass=article \
 	--variable classoption="titlepage,twoside,a5paper,12pt" \
 	--variable subparagraph \
-	$(md) | sed -e "s/^Datum:.*/Datum: $(DATE)/" \
+	$(md) | sed -e "s/, Datum: /, Datum: $(DATE)/" \
 	-e "s/\\\{/\{/" -e "s/\\\}/\}/" > tmp1.tex
 	pdflatex tmp1.tex
 	makeindex tmp1.idx
@@ -31,7 +31,7 @@ Charaktererschaffung.pdf: Makefile Charaktererschaffung.md
 	--variable lang=de \
 	-o Charaktererschaffung.pdf 
 
-Tabellen.pdf: Makefile Tabellen.md
+Tabellen.pdf: Makefile Tabellen.md Hausregeln.md
 	pandoc -s -t latex --variable classoption="12pt" \
 	--variable "title:Menschen \& Magie: Tabellen" \
 	--variable fontfamily=coelacanth \
@@ -40,7 +40,7 @@ Tabellen.pdf: Makefile Tabellen.md
 	--variable geometry="margin=1.5cm" \
 	--variable papersize="a5" \
 	--variable lang=de \
-	-o Tabellen.pdf Tabellen.md
+	-o Tabellen.pdf Tabellen.md Hausregeln.md
 
 clean:
 	rm -f tmp*.* 
