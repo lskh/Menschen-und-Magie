@@ -1,6 +1,6 @@
 DATE:=$(shell date +%d\\.%m\\.%Y\ \\/%H\\:%M\\:%S)
 
-md=intro.md Charaktererschaffung.md Abenteuer.md Hausregeln.md Tabellen.md Anhang.md 20Q.md license.md
+md=intro.md Charaktererschaffung.md Abenteuer.md Tabellen.md Hausregeln.md Anhang.md 20Q.md license.md
 
 pdf=MnM.pdf
 
