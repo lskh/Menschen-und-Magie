@@ -1,0 +1,14 @@
+#### Verwandelt Andere
+Andere verwandeln, Polymorph Other
+Zauberkundige 4
+240' (72 m)
+Permanent, bis der Zauber gebannt wird.
+Andere Wesen verwandeln mit Rettungswurf.
+Durch diesen Zauberspruch wird ein lebendes Wesen in ein
+beliebiges anderes Lebewesen verwandelt. Dem Wesen steht
+ein Rettungswurf zu, wobei es auf diesen verzichten kann, so
+dass der Zauberspruch automatisch wirkt. Das
+verwandelte Wesen behält seine ursprünglichen Trefferpunkte
+und sein eigenes Bewußtsein. Alle anderen Eigenschaften entsprechen
+der neuen Form.
+

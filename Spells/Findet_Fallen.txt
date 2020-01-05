@@ -1,0 +1,14 @@
+Findet Fallen
+Fallen finden, Find Traps
+Men & Magic
+Kleriker 2
+30' (9 m)
+2 Runden
+Dieser Zauber ist auf den Spruchwirker zentriert. Sobald ein
+mit einer Falle versehenes Objekt oder eine mit einer Falle
+versehene Fläche in Reichweite gelangt, umgibt diese ein
+blaues, magisches Leuchten. Sowohl mechanische als auch
+magische Fallen werden von dies em Zauber erfasst. Allerdings
+gewährt er kein Wissen darüber, wie die Falle funktioniert oder
+wie man sie deaktiviert.
+§

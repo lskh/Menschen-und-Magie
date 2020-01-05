@@ -1,0 +1,16 @@
+Kälte trotzen
+Kälte widerstehen, Widersteht Kälte, Resist Cold
+Holmes Basic
+Kleriker 1
+30' (27 m) 
+6 Phasen
+Schutz vor normalem und magischem Kälteschaden.
+Solange das Ziel unter der Wirkung dieses Zaubers steht,
+widersteht es sämtlichen Auswirkungen von nicht magischer,
+eisiger Kälte und erhält einen +2 Bonus auf sämtliche
+Rettungswürfe gegen kältebasierende magische Attacken oder
+Odemwaffen. Weiterhin wird ein Punkt Schaden von jedem
+Würfel Schaden, der durch Kälteangriffe hervorgerufen wird,
+absorbiert Jeder Würfel macht nichtsdestotrotz mindestens
+einen Trefferpunkt Schaden.
+§

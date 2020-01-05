@@ -1,0 +1,12 @@
+Flammenschlag
+Flame Strike
+Players Handbook
+Kleriker 5
+60' (18 m) 
+sofort
+Der Zauber Flammenschlag ruft eine göttliche Feuersäule von
+30' (9 m) Höhe und 10' (3 m)  Durchmesser hervor, die auf das
+Ziel niederfährt. Der Spruch verursacht 6W8 Trefferpunkte
+Schaden. Ein erfolgreicher Rettungswurf gegen Zauber
+reduziert den Schaden auf 3W8.
+§

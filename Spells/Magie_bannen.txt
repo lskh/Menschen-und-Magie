@@ -1,0 +1,26 @@
+Magie bannen
+Zauber bannen, Zerstört Magie, Dispel Magic
+Men & Magic
+Zauberkundige 3, Druiden 4
+120' (36 m)
+permanent, magische Gegenstände für 1 Phase
+Wirkung von Zaubersprüchen aufheben.
+Mit diesem Zauber kann eine andauernde Spruchwirkung auf eine 
+Kreatur oder einen Gegenstand innerhalb der Reichweite gebrochen
+werden. Der Spruch ist allerdings nicht stark genug um magische Gegenstände wie z.B. ein magisches Schwert *dauerhaft* zu entzaubern. Bei diesen Gegenständen wird die magische Wirkung lediglich für eine Phase unterdrückt.
+
+Sämtliche Zauber anderer Magie wirkender Klassen werden
+automatisch gebannt, sofern diese eine gleich hohe oder
+niedrigere Stufe als der Wirker von Magie bannen besitzen.
+Für jede Stufe, die ein Gegner über dem Spruchwirker steht,
+besteht eine Chance von 5%, dass Magie bannen nicht
+funktioniert (diese 5% addieren sich). Wirkt zum Beispiel ein
+Stufe 7 Charakter Magie bannen, um einen Zauber zu bannen,
+der von einem Magier der 10. Stufe g ewirkt wurde, besteht
+eine Chance von 15%, dass Magie bannen fehlschlägt.
+
+Alternativ kann die Chance für das Brechen eines Spruches als der 
+Verhältnis der Stufen beider Zauberwirker ausgerechnet werden. 
+Will ein Zauberer der Stufe 6 einen Spruch eines Zauberkundigen der
+Stufe 9 brechen, beträgt die Erfolgschance 67%.
+§

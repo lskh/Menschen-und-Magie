@@ -1,0 +1,11 @@
+#### Zeitstopp
+Zaubergrad: 9
+Dauer: 2 Runden
+Reichweite: 0
+Dieser Zeit lässt die Zeit für jeden außer den Zaubernden, der
+in einer Kugel mit 30' Durchmesser ist, langsam verlaufen.
+Der Zaubernde kann zwei Runden lang handeln, während für
+alle anderen Kreaturen die Zeit stillsteht. Wenn der Zaubernde
+die Kugel verlässt, endet der Spruch. Wenn Monster die Kugel
+von außen betreten, werden sie eingefroren.
+

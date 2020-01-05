@@ -1,0 +1,11 @@
+#### Zeitweise Stasis
+Zaubergrad: 9
+Dauer: dauerhaft
+Reichweite: 10'
+Der Zauberanwender muss einen erfolgreichen Angriffswurf
+schaffen. Das Ziel wird dadurch in einen Zustand völliger
+Lähmung gebracht. Für diese Kreatur verrinnt die Zeit
+langsam. Der Zustand hält an, bis die Spruchwirkung (etwa
+durch Magie bannen) aufgehoben wird. Es gibt keinen
+Rettungswurf.
+

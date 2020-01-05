@@ -1,0 +1,17 @@
+Machtwort Betäuben
+Machtwort Betäubung, Wort der Macht: Betäubung, Power Word: Stun
+Greyhawk
+Zauberkundige 7
+120' (36 m)
+1W6 bis 2W6 Runden
+Mit einem Wort betäuben, kein Rettungswurf.
+Der Zaubernde murmelt ein einzelnes Wort der Macht, durch
+das sein Ziel unabhängig davon betäubt wird,
+ob es das Wort hören kann oder nicht. Die Dauer des Spruchs
+hängt von der augenblicklichen Trefferpunktzahl des Ziels ab.
+Jede Kreatur mit mehr als 70 Trefferpunkten wird von dem
+Zauber nicht beeinträchtigt. 
+ - 35 oder weniger Trefferpunkt: 1W6 Runden
+ - 36-70 Trefferpunkte: 2W6 Runden
+Es ist kein Rettungswurf erlaubt.
+§

@@ -1,0 +1,14 @@
+Antimagische Hülle
+Antimagische Schutzhülle, Anti-Magic Shell
+Men & Magic
+Zauberkundige 6
+selbst
+12 Phasen
+Schutz vor Zaubersprüchen, 10' (3 m) Radius.
+Eine antimagische Barriere mit 10' (3 m) Radius wird um den
+Spruchanwender aufgebaut. Keine Zaubersprüche können diese Barriere
+durchdringen, weder von innen nach außen noch von außen nach innen.
+Deshalb kann der Zauberanwender selbst nur die Sprüche anwenden, die sich
+auf ihn persönlich auswirken. Der Zauberanwender kann den Zauberspruch
+innerhalb der maximalen Wirkungszeit jederzeit beenden.
+§

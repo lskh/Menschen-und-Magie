@@ -1,0 +1,9 @@
+#### Schild
+Zaubergrad: 1
+Dauer: 2 Phasen
+Reichweite: 0
+Schild erschafft ein unsichtbares Energiefeld, das den
+Zaubernden schützt. Gegen Geschosse erhöht der Spruch die
+RK um 2. Gegen jeden anderen Angriff hat der Zaubernde
+eine effektive RK von 4.
+

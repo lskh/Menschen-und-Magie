@@ -1,0 +1,67 @@
+#### Zauberkruke
+\index{Zauberkruke}
+
+Stufe
+:    Zauberkundige 5
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Magisches Gefäß
+Zaubergrad: 5
+Dauer: speziell
+Reichweite: 30'
+Indem der Zauberanwender diesen Spruch wirkt, wird seine
+Seel e in einen Edelstein oder einen groß en Kristall übertragen,
+wodurch sein Körper leblos zurückbleibt. Danach kann er
+versuchen, einen beliebigen Körper innerhalb von 120' unter
+seine Kontrolle zu bringen, wodurch dessen Seel e in das
+magische Gefäß gezogen wird. Der Zauberanwender kann
+wieder zurück in das magische Gefäß, wodurch die gefangene
+Seele wied er in ihren ursprünglichen Körper zurückkehrt. Der
+Spruch endet, wenn der Zauberwirker seinen eigenen Körper
+wieder einnimmt, wodurch das Gefäß leer bleibt. Um den
+Zauberspruch anwenden zu können, muss das Gefäß in der
+Reichweite des Spruchs sein. Während er in dem Gefäß ist,
+spürt er jedes Lebewes en und kann eines davon angreifen.
+Um einen Körper zu übernehmen, benötigt der Zaubernde
+eine vollständige Kampfrunde. Der Zauberwirker besitzt den
+neuen Körper und zwingt so die Seele des Übernommenen in
+das magische Gefäß, es sei denn, dem Opfer gelingt ein
+Rettungswurf gegen Sprüche. Wenn der Zaubernde deshalb
+den anderen Körper nicht übernehmen kann, bleibt seine
+Lebensenergie im magischen Gefäß. Damit widersteht das Ziel
+automatisch jedem weiteren Übernahmeversuch. Wenn der
+Zaubernde aber erfolgreich ist, wird die Lebensenergie des
+Ziels im magischen Gefäß gefangen genommen. Der
+Zaubernde behält seine Werte auf Intelligenz, Weisheit,
+Charisma, Erfahrungsstufe, Klasse und Gesinnung. Der
+Körper behält seine ursprüngliche Stärke, Geschicklichkeit,
+Konstitution, Trefferpunkte, natürlichen und automatischen
+Fähigkeiten. Zaubersprüche und zauberspruchähnliche
+Eigenschaften entfallen nach der Übernahme. Wenn Böses
+bannen auf den übernommenen Körper gewirkt wird, wird die
+Seele des Zaubernden aus dem Körper vertrieben. Der
+Zauberspruch endet, wenn der Zauberwirker in seinen eigenen
+Körper zurückkehrt. Wenn der übernommene Körper getötet
+wird, kehrt die Seele des Zaubernden in das magische Gefäß
+zurück, sofern es in Reichweit e ist und die Lebensenergie des
+Opfers tot ist. Wenn der Körper außerhalb der Reichweit e des
+magischen Gefäßes getötet wird, dann sterben sowohl das
+Opfer als auch der Zaubernde. Wenn der Körper des
+Zaubernden vernichtet wird, bleibt der Zaubernde in dem
+magischen Gefäß solange gefangen, bis er erfolgreich einen
+anderen Körper einnehmen kann. Wird das magische Gefäß
+zerstört, während der Zaubernde einen fremden Körper
+besitzt, so ist er für immer in diesem Körper gehalten. Die
+Seele, die sich in dem magischen Gefäß befand, stirbt und gilt
+als zerstört, da sie nirgends einen Körper einnehmen konnte.
+Wird das Behältnis zerstört, endet der Zauberspruch und jede
+Lebensenergie in ihr wird vernichtet.
+

@@ -1,0 +1,38 @@
+#### Selbst verwandeln
+\index{Selbst verwandeln}
+
+Stufe
+:
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+
+#### Selbstverwandlung
+Zaubergrad: 4
+Dauer: siehe unten
+Reichweite: 0
+Für 6 + Anzahl der Erfahrungsstufen des Zauberwirkers in
+Phasen kann sich dieser in ein beliebiges Wesen verwandeln.
+Er kann nicht die Gestalt eines bestimmten Individuums
+sondern nur ein typisches Abbild der gewünschten Art
+annehmen. Der Körper d er gewünschten Form darf nicht
+mehr TW haben, als der Zaubernde Erfahrungsstufen hat. Der
+Zaubernde behält seine Intelligenz, Trefferpunkte,
+Rettungswürfe, Angriffseigenschaften und erhält zusätzlich
+physische Eigenschaften der neuen Form wie erhöhte Stärke
+oder auf Stärke basierende Angriffsformen. Magische
+Fähigkeiten oder spezielle Eig enschaften werden nicht
+übertragen. Wenn sich der Zaubernde in einen Mantikor
+verwandelt, so kann er fliegen. Wenn er sich in eine Medusa
+verwandelt, wird sein Blick nicht versteinern. In der
+verwandelten Form kann der Zauberanwender nicht zaubern.
+Magie bannen hebt die Wirkung auf. Stirbt der Zauberwirker,
+so verwandelt er sich zurück in seine ursprüngliche Form.
+

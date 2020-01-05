@@ -1,0 +1,28 @@
+Feuerball
+Fireball
+Men & Magic
+Zauberkundige 3
+240' (72 m)
+Sofort
+Explodierendes Geschoss, Schaden 1W6 pro Stufe, Rettungswurf halbiert
+Der Feuerball explodiert mit einem dunklen Grollen und
+richtet 1W6 Schaden pro Erfahrungsstufe des Anwenders
+gegen jede Kreatur in einem Radius von 20' an. Der
+Anwender deutet mit seinen Finger auf den Punkt innerhalb
+der Reichweite, wo der Feuerball zünden soll. Eine glühende,
+erbsengroße Kugel springt von d em Finger des Anwenders zu
+dem Punkt, wo sie sich im Feuerball entfaltet, sollte sie auf
+dem Weg dahin nicht durch einen festen Widerstand
+aufgehalten werden. Trifft sie vorher auf einen Widerstand,
+detoniert der Feuerball an dieser Stelle. Brennbare Materialien
+fangen sofort Feuer und werden durch den Feuerball
+beschädigt. Metalle mit einem niedrigen Schmelzpunkt wie
+Blei, Gold, Silber und Bronze können durch den Feuerball
+geschmolzen werden. Wenn der Schaden des Feuerballs
+ausreicht, ein Hindernis zu zerstören, kann er sich abhängig
+von der Umgebung über das Hindernis hinweg ausdehnen.
+Andernfalls endet er an der Stelle wie jeder andere Zauber
+auch. Alle Wesen innerhalb des Wirkungsbereichs erhalten
+einen Rettungswurf gegen Sprüche. Ein erfolgreicher
+Rettungswurf halbiert den erlittenen Schaden.
+§

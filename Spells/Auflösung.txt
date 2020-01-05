@@ -1,0 +1,17 @@
+Auflösung
+Disintegrate
+Men & Magic
+Zauberkundige 6
+60' (18 m)
+Dauerhaft
+Dinge zu Staub zerfallen lassen.
+Ein dünner, grüner Strahl schießt aus dem Finger des
+Zauberanwenders. Es ist kein Angriffswurf notwendig. Jede
+nichtmagische Kreatur jeder beliebigen Größe wird
+augenblicklich aufgelöst. Gegen einen Gegenstand gerichtet
+wird ein Volumen eines 10' Würf els aufgelöst. Somit wird von
+großen Objekten oder Konstruktionen nur ein Teil aufgelöst.
+Der Zauberspruch wirkt auch auf Gegenstände, die auf
+Energie basieren, z.B. Zerquetschende Hand, er wirkt aber
+nicht gegen magische Effekte wie Antimagischer Schild.
+§

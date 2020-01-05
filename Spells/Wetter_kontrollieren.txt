@@ -1,0 +1,67 @@
+#### Wetter kontrollieren
+\index{Wetter kontrollieren}
+
+Stufe
+:    Zauberkundige 6
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Wetter kontrollieren
+Stufe: 7
+Dauer: 4W12 Stunden
+Reichweite: 0
+Der Spruchwirker kann das Wetter in seiner Umgebung
+ändern. Es dauert 1 Runde, den Spruch zu wirken, sowie
+weitere 1W4 Runden, damit die Änderung eintritt.
+Der Spruchwirker kann nur Wetter hervorrufen, das für die
+Gegend und Jahreszeit angemessen ist.
+Passendes Wetter nach Jahreszeiten:
+Frühjahr: Tornado, Gewitter, Graupelschauer, Hitze
+Sommer: Wolkenbruch, Hitzewelle, Hagelsturm
+Herbst : Hitze oder kaltes Wetter, Nebel oder Graupel
+Winter: Frost, Schneesturm oder Tauwetter
+Spätwinter: Orkane oder aber Frühlingswetter (Küstenregion)
+
+Der Spruchwirker kontrolliert die generellen Tendenzen des
+Wetters wie etwa Stärke und Richtung des Windes, hat aber
+keine Kontrolle über spezielle Wettereigenheiten. Er kann
+weder bestimmen wo ein Blitz einschlägt, noch welchen
+exakten Weg ein Tornado nimmt. Gegenläufige
+Wettersituationen sind gleichzeitig nicht möglich. Mit Wetter
+kontrollieren können atmosphärische Phänomene (natürlich
+wie auch magische) beseitigt oder auch erzeugt werden.
+
+#### Wetter kontrollieren
+Zaubergrad: 6
+Dauer: Siehe unten.
+Reichweite: 0
+Dieser Zauber unterscheidet sich von dem gleichnamigen
+Spruch des Klerikers. Der Wirkungsbereich ist auf einen
+festgelegten, 240 Yards weiten Ort im Freien beschränkt. Der
+Zauberspruch dauert so lange, wie sich der Zaubernde darauf
+konzentriert. Die möglichen Wetterauswirkungen sind diese:
+Ruhig - hebt schlechtes Wetter auf
+Heiß - nasses Wetter wird trocken, Bewegung wird halbiert
+Kalt - Wasser und Schlamm gefriert, Bewegung wird halbiert
+Sturm - Bewegung wird halbiert, Fliegen ist nicht möglich,
+Geschosswaffen können nicht verwendet werden, Segelschiffe
+fahren mit halber oder doppelter Fahrt abhängig von der
+Windrichtung, bei sandigem Grund wird die Sichtweite auf 20'
+verkleinert
+Tornado - der Zauberanwender lenkt den Tornado, der sich
+mit 120' bewegt; der Tornado kann zum Angriff verwendet
+werden und hat die Merkmale eines 12 TW Luftelementars.
+Schiffe erhalten mit 75%iger Wahrscheinlichkeit 8+1W4
+Strukturschaden.
+Neblig - Sichtweite fällt auf 20', Bewegung wird halbiert
+Regnerisch - Geschosswaffen erhalten -2 auf den Angriff, nach
+drei Phasen bildet sich Schlamm, der die Bewegung halbiert
+Verschneit - Sicht fällt auf 20', Bewegung wird halbiert.
+

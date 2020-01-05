@@ -1,0 +1,56 @@
+#### Unsichtbarkeit
+\index{Unsichtbarkeit}
+
+Stufe
+:
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Unsichtbarkeit
+Zaubergrad: 2
+Dauer: siehe unten
+Reichweite: 240'
+Die berührte Kreatur oder der berührte Gegenstand wird
+unsichtbar und ist für normale Sicht und Infravision nicht
+erkennbar. Wenn das Ziel des Spruchs eine Kreatur ist, so
+werden ihre mit sich geführten Gegenstände ebenfalls
+unsichtbar. Wenn der Zauberspruch auf jemand anderes
+gewirkt wird, können weder der Zaubernde noch andere
+denjenigen sehen, sofern sie sich nicht besonderer Hilfsmittel
+bedienen oder natürlicherweise Unsichtbares sehen können.
+Gegenstände, die der Verzauberte ablegt, werden sichtbar;
+Gegenstände, die er aufnimmt, werden unsichtbar, wenn er sie
+unter seiner Kleidung oder in Taschen verstaut. Licht wird
+durch Unsichtbarkeit nie verschluckt, so dass das Licht eines
+Gegenstandes ohne erkennbare Quelle aus dem Bereich der
+Unsichtbarkeit heraus leuchtet. Bei Gegenständen mit einer
+Länge von mindestens 10' werden die T eile über 10' Länge
+sichtbar. Natürlich verursacht eine unsichtbare Kreatur
+weiterhin ihre normalen Geräusche, und besondere Ereignisse
+wie zum Beispiel das Betreten von Pfützen können den
+Unsichtbaren auffindbar werden lassen. Sobald der
+Unsichtbare jemanden angreift, verliert der Spruch seine
+Wirkung. Für die Zwecke dieses Spruches umfasst ein Angriff
+auch Zaubersprüche oder Wirkungsbereiche von
+Zaubersprüchen, die sich gegen Feind e richten. Wer ein Feind
+ist, das hängt von der Wahrnehmung des unsichtbaren
+Charakters ab. Aktionen gegen Gegenstände, die nicht
+verwendet oder gehalten werden, heben die Wirkung des
+Spruchs nicht auf. Somit kann ein unsichtbares Wesen Türen
+öffnen, Sprechen, Essen, Treppen steigen, Monster
+Herbeirufen und diese angreifen lassen, Seile einer
+Hängebrücke durchschneiden, auf der sich Feinde aufhalten,
+Fallen auslösen, Gatter öffnen, um Hunde angreifen zu lassen,
+uvm. Wenn sie direkt angreift, wird die Kreatur mit ihrer
+Ausrüstung sichtbar. Zaubersprüche wie Segen, die
+Verbündete und nicht Feinde betreffen, werden nicht als
+Angriffe gewertet, auch wenn sich Feinde im Wirkungsbereich
+des Spruchs aufhalten.
+

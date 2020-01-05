@@ -1,0 +1,27 @@
+#### Todesspruch
+\index{Todesspruch}
+
+Stufe
+:    Zauberkundige 6
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Todesspruch
+Zaubergrad: 6
+Dauer: 1 Runde
+Reichweite: 240'
+Dieser gefürchtete Zauberspruch tötet alle Kreaturen mit 8
+oder weniger TW in einem Würfel mit 60' Kantenlänge. Es
+können Kreaturen mit einer Gesamtzahl von 4W8 TW getötet
+werden, wobei den Opfern ein Rettungswurf gegen Tod
+zusteht. Wenn zum Beispiel insgesamt 20 TW erwürfelt
+werden und fünf 4 TW Kreaturen in dem Wirkungsbereich
+sind, haben sie alle die gleiche Chance zu sterben. Ein
+erfolgreicher Rettungswurf hebt die Wirkung auf.

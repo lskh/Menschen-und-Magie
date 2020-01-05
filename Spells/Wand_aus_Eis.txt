@@ -1,0 +1,16 @@
+#### Wand aus Eis
+Eiswand, Wall of Ice
+Zauberkundige 4
+60' (18 m)
+so lange sich der Spruchwirker konzentrieren kann
+Aus dem Nichts eine Wand aus Eis erschaffen.
+Eine feststehende, durchsichtige Eiswand entsteht für die Dauer des
+Spruchs. Die Wand kann 60' (18 m) lang und 20' (6 m) hoch sein, oder als
+Ring mit einem Radius von 15' (4,5 m) und 20' (6 m) Höhe gewirkt werden.
+Die Eiswand kann von Kreaturen mit weniger als 4 Trefferwürfeln nicht
+überwunden werden. Kreaturen mit mehr als 4 Trefferwürfeln erleiden 1W6
+Schaden, wenn sie durch die Wand brechen wollen. Die Wand richtet
+doppelten Schaden gegen Kreaturen an, die Feuer nutzen oder an heiße
+Umgebungen gewohnt sind. Die Wand kann nicht dort hervorgerufen werden,
+wo sich bereits Gegenstände befinden, des Weiteren muss sie auf festem
+Untergrund errichtet werden.

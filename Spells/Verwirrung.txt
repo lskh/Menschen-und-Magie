@@ -1,0 +1,32 @@
+#### Verwirrung
+\index{Verwirrung}
+
+Stufe
+:    Zauberkundige 4
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Verwirrung
+Zaubergrad: 4
+Dauer: 12 Runden
+Reichweite: 120'
+Dieser Zauberspruch verwirrt 3W6 Ziel e, wodurch sie nicht
+mehr in der Lage sind, selbst bestimmte Handlungen zu
+unternehmen. Würfle auf der nachstehenden Tabelle für jedes
+Ziel zum Beginn einer neu en Runde, was diese unternehmen
+werden:
+Würfle 1W10 für das Verhalten
+1-4 Ziel greift die Gruppe des Zauberanwenders an
+5-6 Ziel spricht Unsinniges und unternimmt nichts
+7-10 Ziel greift die eigenen Mitstreiter an
+Ist ein verzaubertes Ziel nicht in der Lage, einen Angriff
+durchzuführen, erzählt es nur sinnloses Zeug und gibt
+merkwürdige Laute von sich.
+

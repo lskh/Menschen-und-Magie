@@ -1,0 +1,17 @@
+Feuerwand
+Wall of Fire
+Men & Magic
+Zauberkundige 4, Druiden 5
+60' (18 m)
+Konzentration
+Eine Barriere aus Feuer errichten, 1W6 Schaden, Untote doppelt soviel
+Eine feststehende, undurchsichtige und blendende Wand aus rotviolettem
+Feuer schießt hervor und besteht, solange sich der Zauberanwender auf sie
+konzentriert und keine andere Aktion durchführt. Die Wand kann eine
+beliebige Form haben, bis zu 60' (18 m) lang und 20' (6 m) hoch, oder
+kreisförmig mit einem Durchmesser von 30' (9 m) und 20' (6 m) Höhe. Die
+Feuerwand kann von Kreaturen mit weniger als 3 TW nicht überwunden
+werden. Kreaturen mit mehr als 3 TW erleiden 1W6 Schaden, Untote oder
+Kreaturen, die an Kälte gewohnt sind, sogar 2W6, wenn sie durch die Wand
+hindurch treten.
+§

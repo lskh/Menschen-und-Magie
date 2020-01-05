@@ -1,0 +1,51 @@
+#### Reinkarnation
+\index{Reinkarnation}
+
+Stufe
+:    Zauberkundige 6
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+
+#### Reinkarnation
+Zaubergrad: 6
+Dauer: dauerhaft
+Reichweite: 0
+Mit diesem Zauberspruch holt der Zauberwirker das Leb en
+eines Charakters wieder zurück, indem er einen anderen
+Körper schafft. Dadurch, dass der Charakter in einen neuen
+Körper zurückkehrt, sind alle körperlichen Gebrechen und
+Verletzungen geheilt. Der Zustand des toten Körpers ist
+unerheblich. Solange ein kleiner Teil des originalen Körpers
+existiert, kann er reinkarniert werden. Die Magie des Spruches
+erschafft einen völlig neu en, jungen erwachsenen Körper.
+Wenn das Ergebnis auf der unten stehenden Tabelle ergibt,
+dass die Reinkarnation in eine Klasse erfolgt, dann wird die
+Erfahrungsstufe mit 1W6 bestimmt. Wenn das Ergebnis aus
+der Tabelle ergibt, dass die Reinkarnation eine bestimmte
+Kreatur ist, dann wird auf die Spalte mit der Gesinnung des
+Charakters gewürfelt. Zusätzliche Kreaturen können der
+Tabelle beigefügt werden. Es darf aber keine Kreatur mit mehr
+als 6 TW sein, und sie sollte wenigstens semi-intelligent sein.
+Wird ein Charakter als Kreatur reinkarniert, wird er in der
+neuen Form weitergespielt. Andernfalls muss der Spieler den
+Charakter abgeben. Monster sammeln keine Erfahrung und
+erhalten keine Erfahrungsstufen.
+Inkarnation Chaotisch Neutral Rechtschaffen
+1 Kleriker Grottenschrat Affe Blinzelhund
+2 Zwerg Gnoll Schimpanse Gnom
+3 Elf Goblin Zentaur Neandertaler
+4 Kämpfer Hobgoblin EchsenmenschPegasus
+5 Halbling Kobold Pixie Rock (klein)
+6 Magier Minotaur Werbär Einhorn
+7 Dieb Oger
+8 Kreatur Ork
+9-10 Selbe Klasse
+

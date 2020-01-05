@@ -1,0 +1,34 @@
+Monster bezaubern
+Bezaubert Monster, Charm Monsters
+Men & Magic
+Zauberkundige 4
+60' (18 m)
+siehe Beschreibung
+Ein mächtiges, oder 3W6 weniger mächtige Monster bezaubern.
+Monster bezaubern wirkt identisch dem Spruch Personen
+bezaubern (weiter unten beschrieben), wobei es nicht auf
+Humanoide oder Kreaturen von der Größe eines Ogers oder
+kleiner beschränkt ist. Es wird nur ein Monster verzaubert,
+wenn es 4 oder mehr TW hat. Bei einer Gruppe von
+Monstern, die jeweils nicht mehr als 3 TW haben, wird mit
+3W6 bestimmt, wie viele Monster betroffen sind.
+
+Einmal pro Woche wird gewürfelt, ob es dem Monster gelingt sich von der
+Bezauberung zu befreien: 
+
+----------------------------------------------------------------
+ Trefferwürfel           Chance die Bezauberung abzuschütteln
+-------------------- -------------------------------------------
+ 2-                     5 %
+
+ 2-4                    10 %
+
+ 5-7                    20 %
+
+ 8-10                   40 %
+
+ 11+                    80 %
+
+----------------------------------------------------------------
+
+§

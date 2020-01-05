@@ -1,0 +1,24 @@
+Greifende Hand
+Grasping Hand
+Players Handbook
+Zauberkundige 7
+1 Runde pro Erfahrungsstufe
+10' (3 m) pro Erfahrungsstufe
+Magische Hand, die Dinge tragen, und Wesen festhalten kann
+Dieser Zauberspruch formt eine geisterhafte und körperlose
+Hand, die als Barriere zwischen den Zaubernden und einem
+anderen Wesen steht oder das Wesen an seinem Platz
+festhalten kann. Die Hand kann von der Größe zwischen einer
+normalen Menschenhand bis zu 10' Länge variieren und kann
+Kreaturen mit bis zu 1.000 Pfund Gewicht halten. Die Hand
+kann zusätzlich eingesetzt werden, eine Wesen mit bis zu
+4.000 Pfund Gewicht mit Stößen zu bremsen, wodurch es
+sich nur 10' pro Runde bewegen kann. Die
+Bewegungsgeschwindigkeit von Wesen mit bis zu 16.000
+Pfund Gewicht kann durch solche Stöße halbiert werden. Ein
+Gegner kann die Hand angreifen. Sie hat eine RK von 9 und
+so viele Trefferpunkte wie der Zauberwirker.
+
+\index{Bigby}Die greifende Hand wird traditionell mit dem Zauberer
+*Bigby* in Verbindung gebracht.
+§

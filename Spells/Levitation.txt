@@ -1,0 +1,16 @@
+Levitation
+Schweben, Levitate
+Chainmail
+Zauberkundige 2
+Selbst
+6 + Erfahrungsstufe Runden
+Auf und ab schweben.
+Für 6 + Erfahrungsstufe des Spruchanwenders Kampfrunden kann
+sich der Spruchanwender nach seinen Wünschen hoch- und
+runter bewegen. Er lenkt seinen Auf- oder Abstieg geistig und
+hat dabei eine Geschwindigkeit von bis zu 20' pro Runde. Er
+kann sich nicht horizontal bewegen, wobei er sich entlang
+einer Klippe ziehen kann oder sich von einer Decke so
+abstoßen kann, dass er sich seitlich bewegt (grundsätzlich mit
+halber Landgeschwindigkeit).
+§

@@ -1,0 +1,36 @@
+#### Wasser teilen
+\index{Wasser teilen}
+
+Stufe
+:    Zauberkundige 6
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Wasser teilen
+Stufe: 6
+Dauer: 1 Runde pro Charakterstufe
+Reichweite: 20 Fuß pro Runde
+Für die Dauer dieses Spruchs kann der Wirker eine
+Wassermasse teilen. Pro Charakterstufe beträgt die
+entstandene geteilte Fläche 1 Fuß Breite auf 20 Fuß Länge
+und 3 Fuß Tiefe. Der Spruchwirker kann die Wirkung auch
+vorzeitig aufheben, bevor der Spruch end et.
+
+#### Wasser teilen
+Zaubergrad: 6
+Dauer: 6 Phasen
+Reichweite: 120'
+Der Zauberwirker schafft einen Pfad von 3' Breite und bis zu
+120' Länge durch Wasser, wie zum Beispiel einen See, einen
+Teich oder ein anderes Gewässer. Der Sprucheffekt kann auf
+Wunsch des Anwenders gestoppt werden, bevor der Spruch
+von allein endet, wodurch er unerwünschte Verfolge in den
+Wassermassen untergehen lassen kann.
+

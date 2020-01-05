@@ -1,0 +1,21 @@
+Magisches Schwert
+Schwert, Mage's Sword
+Players Handbook
+Zauberkundige 7
+30' (9 m)
+1 Runde pro Erfahrungsstufe
+Ein Magisches Schwert mit 4-24 (4W6) Schaden beschwören.
+Der Zauberwirker beschwört eine glühende Energieklinge, die
+wie ein Schwert geführt wird. Die Angriffsstärke entspricht der
+eines Kämpfers mit der halben Erfahrungsstufe wie der
+Zaubernde. Ein Angriffswurf von 19 oder mehr trifft immer.
+Das Energieschwert kann jede Kreatur normal schädigen, die
+nur mit magischen Waffen angegriffen werden kann, sowie
+Kreaturen, die sich nicht in derselben Phase befinden, oder
+sich auf der ätherischen oder astralen Ebene aufhalten. Das
+Schwert fügt 4W6 Trefferpunkte Schaden zu. Magie bannen
+lässt das magische Schwert verschwinden.
+Das magische Schwert wird traditionell mit dem Magier 
+*Mordenkainen*
+\index{Mordenkainen} in Verbindung gebracht.
+§

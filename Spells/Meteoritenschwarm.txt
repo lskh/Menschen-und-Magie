@@ -1,0 +1,12 @@
+Meteoritenschwarm
+Meteorschwarm, Meteor Swarm
+Greyhawk
+Zauberkundige 9
+240' (72 m)
+sofort
+Vier 10W6 oder acht 5W6 Feuerbälle schleudern.
+Der Zauberkundige schleudert kleine Meteoriten aus seinen Händen, die an
+einem beliebigen Ort innerhalb der Reichweite zu Feuerbällen explodieren.
+Es können 4 Feuerbälle mit 10W6 Schaden, oder 8 Feuerbälle mit 5W6 Schaden
+erzeugt werden. Ein erfolgreicher Rettungswurf halbiert den Schaden.
+§

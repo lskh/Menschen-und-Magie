@@ -1,0 +1,53 @@
+#### Teleportieren
+\index{Teleportieren}
+
+Stufe
+:    Zauberkundige 5
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Teleportation
+Zaubergrad: 5
+Dauer: sofort
+Reichweite: 10'
+Dieser Spruch transportiert den Zaubernden oder einen
+anderen sofort an einen bestimmten Ort, welcher beliebig weit
+entfernt sein kann. Eine Teleportation in andere Ebenen ist
+nicht möglich. Wenn eine andere Kreatur teleportiert werden
+soll, steht ihr ein Rettungswurf gegen Sprüche zu. Der
+Zaubernde braucht klare Vorstellungen von dem Zielort und
+seinem Aufbau. Je klarer die Vorstellung ist, desto
+wahrscheinlich gelingt die Teleportation. Um festzustellen, ob
+die Teleportation gelingt, wird das Ergebnis anhand der unten
+stehenden Tabelle mit 1W100 ermittelt. Die nachstehenden
+Informationen erklären die Bedeutungen der Tabelle.
+Vertrautheit : ıSehr vertraut„ ist ein Ort, wenn der Zaubernde
+sehr viel Zeit dort verbracht hat. ıAufmerksam studiert„ ist ein
+Ort, weil der Zaubernde ihn kürzlich gesehen hat, ihn häufig
+besucht hat oder ihn durch andere Mittel wie ıHells eherei„ für
+wenigstens eine Stunde beobachtet hat. ıGelegentlich
+gesehen„ ist ein Ort, den der Zaubernde zwar mehr als einmal
+besucht hat, der ihm aber nicht vertraut ist. ıEinmal gesehen„
+ist ein Ort, den der Zaubernde nur einmal gesehen hat, und
+sei es mit magischen Hilfsmitteln.
+Zielgenau: Der Zaubernde oder die Kreatur landet am
+gewünschten Zielort.
+Hoch: der Zaubernde oder die Kreatur erscheint 1W10 x 10'
+über dem Zielpunkt. Sollte der Ort durch etwas Festes
+eingenommen sein, stirbt der Zaubernde oder die Kreatur
+sofort.
+Niedrig: Der Zaubernde oder die Kreatur erscheint in der Erd e
+unter dem Zielpunkt und wird sofort getötet.
+Vertrautheit Zielgenau Hoch Niedrig
+Sehr vertraut 01-95 96-99 00
+Aufmerksam studiert 01-80 81-90 91-00
+Gelegentlich gesehen 01-50 51-75 76-00
+Einmal gesehen 01-30 31-65 66-00
+

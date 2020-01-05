@@ -1,0 +1,23 @@
+#### Unsichtbares entdecken
+\index{Unsichtbares entdecken}
+
+Stufe
+:
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Unsichtbarkeit entdecken
+Zaubergrad: 2
+Dauer: 5 Runden pro Erfahrungsstufe
+Reichweite: 10' pro Erfahrungsstufe
+Der Zauberanwender kann unsichtbare, verborgene,
+ätherische oder astrale Kreaturen und Gegenstände sehen,
+wenn sie in seinem direkten 10' Sichtbereich vor ihm sind.
+

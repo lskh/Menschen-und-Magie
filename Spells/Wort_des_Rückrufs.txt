@@ -1,0 +1,13 @@
+#### Wort des Rückrufs
+Stufe: 6
+Dauer: sofort
+Reichweite: 0
+Sobald es ausgesprochen wird, teleportiert Wort d es Rückrufs
+den Spruchwirker augenblicklich zurück in sein Heiligtum. Der
+Spruchwirker muss das Heiligtum bezeichnen, wenn er den
+Spruch vorbereitet, und es muss sich dabei um einen ihm
+wohlbekannten Ort handeln. Jede Entfernung kann dabei
+zurückgelegt werden, ohne dass eine Chance auf Fehlschlag
+besteht. Zusätzlich zu sich selbst kann der Spruchwirker
+weitere 25 Pfund pro Charakterstufe mitnehmen.
+

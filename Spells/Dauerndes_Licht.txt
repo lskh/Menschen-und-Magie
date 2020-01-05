@@ -1,0 +1,27 @@
+Dauerndes Licht*
+Dauerhaftes Licht, Continual Light
+Men & Magic
+Zauberkundige 2, Kleriker 3
+120' (36 m)
+Dauer: Dauerhaft
+Dauerhaftes Licht als Lichtquelle oder zum Blenden mit Rettungswurf.
+Wird dieser Spruch gewirkt, entsteht Licht mit einem Radius von 120' (36
+m).  Das Licht ist so hell wie Sonnenlicht und sämtliche Kreaturen, die
+Abzüge durch Sonn enlicht erhalten (mit Ausnahme von Schaden durch
+Sonnenlicht), sind durch diesen Spruch betroffen. Der Spruch kann auf
+einen Gegenstand gewirkt werden, so dass dieser Gegenstand unter der
+Wirkung des Spruchs umhergetragen werden kann. Wird der Spruch auf eine
+Kreatur gewirkt, steht dieser ein Rettungswurf zu. Der Spruch kann auf
+die Augen einer Kreatur gewirkt werden, was Blindheit zur Folge hat.
+Dieser Spruch ist permanent, solange er nicht gebannt wird.
+
+Dauerhafte Dunkelheit (Umkehrung von Dauerhaftes Licht)
+produziert Dunkelheit im selben Ausmaß und auf dieselbe Art
+wie Dauerhaftes Licht. Man kann Dauerhafter Dunkelheit mit
+Dauerhaftem Licht oder Magie bannen entgegenwirken.
+Ebenso wie Dauerhaftes Licht kann auch Dauerhafte
+Dunkelheit mit denselben Folgen auf die Augen einer Kreatur
+gewirkt werden. Normale Sicht, inklusive Infravision, kann die
+so entstandene Dunkelheit nicht durchdringen, genauso wenig
+wird sie durch Lampen, Fackeln oder den Spruch Licht, erhellt.
+§

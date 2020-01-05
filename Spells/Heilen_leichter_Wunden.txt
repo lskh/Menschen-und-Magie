@@ -1,0 +1,16 @@
+Heilen leichter Wunden*
+Heilt leichte Wunden, Cure Light Wounds
+Men & Magic
+Kleriker 1, Druiden 2
+Berührung
+dauerhaft
+1W6+1 Trefferpunkte heilen
+Mit diesem Spruch kann der Kleriker sich selbst oder einem anderen Wesen
+2 - 7 (1W6+1) Trefferpunkte heilen. Es ist nicht möglich die
+Trefferpunkte über den ursprünglichen Wert anzuheben. Der Spruch ist
+umkehrbar, und *verursacht* dann 2 - 7 Punkte schaden. Da auch dafür eine
+Berührung erforderlich ist, muss der Kleriker einen erfolgreichen
+Trefferwurf ausführen, bevor er Schaden verursachen kann. Je nach
+Gesinnung des Klerikers wird seine Gottheit unter Umständen nicht damit
+einverstanden sein, dass er seine Macht nutzt um Schaden zu verursachen.
+§

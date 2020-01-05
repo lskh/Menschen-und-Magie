@@ -1,0 +1,17 @@
+#### Tiere beschwören
+Stufe: 6
+Dauer: 2 Runden pro Charakterstufe
+Reichweite: 30 Fuß
+Der Spruchwirker kann normale Säugetiere beschwören, die
+von ihm benannte Gegner attackieren. Die Anzahl der
+erscheinenden Tiere steht in direktem Verhältnis zur
+Charakterstufe. ıDer Spruchwirker kann eine Anzahl an
+Trefferwürfeln gemäß seiner Stufe an Tieren beschwören. Die
+Gesamttrefferwürfel pro Tier steigen dabei mit. Hierbei gilt
+jedes zusätzliche +1 bei den Trefferwürfeln des Tieres als ein
+viertel Trefferwürfel. Zum Beispiel kann ein Kleriker d er 9.
+Stufe neun Tiere mit einem Trefferwürfel oder drei Tiere mit
+drei Trefferwürfeln oder aber zwei Tiere mit vier
+Trefferwürfeln +2 beschwören. Beschworene Tiere kämpfen
+bis zum Tod oder bis der Spruch endet.
+

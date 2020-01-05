@@ -1,0 +1,26 @@
+Labyrinth
+Irrgarten, Maze
+Greyhawk
+Zauberkundige 9
+60' (18 m)
+Abhängig von der Intelligenz
+Ein Opfer wird ein einen extradimensionalen Irrgarten verbannt.
+Der Zauberwirker verbannt das Opfer in ein
+extradimensionales Labyrinth aus Energieebenen. Die Anzahl
+der Kampfrunden, wie lange es im Labyrinth irrt, 
+richtet sich nach seiner Intelligenz:
+
+----------------------------------------------------------
+ Intelligenz       Zeit im Labyrinth
+----------------   ---------------------------------------
+ 6 oder weniger	   6W4 Runden
+
+ 7-11              2W4 Runden
+
+ 12 oder mehr      1W4 Runden
+
+----------------------------------------------------------
+
+Kein Rettungswurf, jedoch sind Minotauren von dem Zauber 
+nicht betroffen.
+§

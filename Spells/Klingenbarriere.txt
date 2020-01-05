@@ -1,0 +1,12 @@
+Klingenbarriere
+Barriere, Blade Barrier
+Greyhawk
+Kleriker 6
+60' (18 m)
+12 Runden
+Ein unbeweglicher, vertikaler Vorhang aus wirbelnden Klingen
+mit einem Durchmesser von bis zu 30' (9 m) wird hervor gerufen. Jede
+Kreatur, welche die Klingenbarriere passiert, erleidet 7W10
+Punkte Schaden. Mit diesem Zauber können Passagen blockiert werden, 
+oder Gegner in einer kreisförmigen Barriere eingefangen werden.
+§

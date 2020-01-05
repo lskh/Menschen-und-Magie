@@ -1,0 +1,12 @@
+Fürchterliche Waffe
+Zuschlagen, Striking
+B/X
+Kleriker 3
+30' (9 m) 
+1 Phase
+Einer Waffe 1W6 zusätzlichen Schaden verleihen.
+Der Spruchwirker verzaubert eine Waffe, so dass sie 1W6
+Punkte Extraschaden anrichtet und man damit Monster
+angreifen kann, die normalerweise nur mit magischen Waffen
+angegriffen werden können.
+§

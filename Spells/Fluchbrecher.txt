@@ -1,0 +1,10 @@
+Fluchbrecher
+Behebt Fluch, Remove Curse
+Men & Magic
+Kleriker 3, Zauberkundige 4
+Nahbereich
+permanent
+Bricht einen Fluch
+Fluch brechen nimmt sofort einen Fluch vom Ziel. Verfluchte Waffen werden
+durch den Spruch zu normalen Waffen (Men & Magic).
+§

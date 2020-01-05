@@ -1,0 +1,24 @@
+Heiliges Wort*
+Holy Word
+Greyhawk
+Kleriker 7
+40' (12 m)
+sofort
+Der Macht des heiligen Wortes aussetzen
+Durch das Aussprechen des (Un-)heiligen Wortes erleidet jede
+böse (gute) Kreatur innerhalb der
+Spruchwirkung folgende Schäden:
+
+------------------------------------------------------------
+ TW              Effekt
+---------------- -------------------------------------------
+ 4 oder weniger	 sofortiger Tod
+
+ 5-8             benommen für 2W10 Phasen
+
+ 9-12            taub für 1W6 Phasen 
+
+ 13+             kein Schaden, aber beeindruckt
+
+------------------------------------------------------------
+§

@@ -1,0 +1,15 @@
+Hitze trotzen
+Feuer Widerstehen, Resist Fire
+Players Handbook
+Kleriker 2
+30 Fuß
+6 Runden
+Nicht-magischem Feuer und Hitze widerstehen
+Solange das Ziel unter der Wirkung dieses Zaubers steht,
+widersteht es sämtlichen Auswirkungen von nicht magischer
+Hitze und erhält einen +2 Bonus auf sämtliche Rettungswürfe
+gegen hitzebasierende magische Attacken oder Odemwaffen.
+Weiterhin wird ein Punkt Schaden von jedem Würfel Schaden,
+der durch Hitzeangriffe hervorgerufen wird, absorbiert. Jeder
+Würfel aber macht mindestens einen Trefferpunkt Schaden.
+§

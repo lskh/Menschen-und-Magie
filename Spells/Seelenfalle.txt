@@ -1,0 +1,32 @@
+#### Seelenfalle
+Zaubergrad: 8
+Dauer: dauerhaft
+Reichweite: 10'
+Seelenfalle zwingt die Seele und den Körper einer Kreatur in
+einen Edelstein. Der Edelstein hält das Opfer auf unbestimmte
+Zeit oder bis der Edelstein zerstört wird und die Lebensenergie
+wieder befreit ist, wodurch sich der Körper wieder formt.
+Bevor der Spruch angewandt wird, muss sich der
+Spruchwirker einen Edelstein in Wert von mindestens 1.000
+GM für jeden Trefferwürfel der einzufangenden Kreatur
+verschaffen. Der Spruch wird auf eine von zwei Möglichkeiten
+ausgelöst:
+Entweder wird der Zauberspruch abgeschlossen, indem die
+letzten Wort e der Formel als Standardaktion wie ein regulärer
+Spruch geg en das Opfer gesprochen wird. Das erlaubt dem
+Opfer einen Rettungswurf gegen Sprüche, um sich der
+Wirkung zu entziehen. Gelingt dieser, zerbricht der Edelstein.
+Oder die andere Methode, die bei weitem hinterhältiger ist,
+kommt zur Anwendung. Hier akzeptiert das Opfer es, selbst
+die Magie auszulösen, indem es selbst die magischen Worte,
+die auf einen Gegenstand eingraviert sind, liest und somit die
+Wirkung des Spruches auslöst. Um diese Methode anwenden
+zu können, müssen der Name des Opfers und das
+Aktivierungswort auf einen Gegenstand eingraviert s ein, wenn
+der Edelstein verzaubert wird. Ein Sympathie Spruch kann auf
+den Aktivierungsgegenstand gewirkt werden. Sobald das
+Opfer den Gegenstand aufnimmt oder den
+Aktivierungsgegenstand akzeptiert, wird seine Lebensenergie
+automatisch in den Edelstein gezogen, ohne einen
+Rettungswurf zuzulassen.
+

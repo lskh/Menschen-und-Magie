@@ -1,0 +1,11 @@
+Bauchreden
+Ventriloquism
+Greyhawk
+Zauberkundige 1
+60' (20 m)
+2 Phasen
+Stimme von woanders ertönen lassen.
+Für die Dauer des Zauberspruchs kann der Zauberkundige
+seine Stimme an einem anderen Ort erklingen lassen, der sich
+innerhalb der Spruchreichweite befindet.
+§

@@ -1,0 +1,64 @@
+Prismenkugel
+Prismenwand, Regenbogensphäre, Prismatic Sphere, Prismatic Wall
+Greyhawk
+Zauberkundige 9
+selbst
+6 Phasen
+Eine magische Schutzkugel mit mehreren mächtigen Farbschichten.
+Der Zaubernde beschwört eine feststehende, undurchsichtige Kugel aus
+schimmerndem, vielfarbigem Licht, mit einem Radius von 10' (3 m), das
+ihn umgibt und ihn gegen alle Angriffsformen schützt. Die Kugel blitzt
+in allen Farben des sichtbaren Spektrums auf. Kreaturen mit weniger
+als 8 TW werden für 1-6 Phasen geblendet. Der Zauberwirker kann die
+Kugel nach Belieben betreten oder verlassen und wird in ihrer
+unmittelbaren Nähe von ihr nicht verletzt. Hält er sich jedoch in ihr
+auf, wird alles, inklusive Zaubersprüche, was er aus ihr
+rausschleudern will, geblockt.  Kreaturen, welche die Kugel betreten
+wollen, erleiden die Schäden aller Farben nacheinander. Typischerweise
+ist nur die obere Hälfte der Kugel sichtbar, da der Zauberanwender
+ihre Mitte darstellt, so dass die untere Hälfte üblicherweise im
+Erdreich verschwunden ist.
+
+---------------------------------------------------------------------
+ Schicht  Farbe    Wirkung der Farbe      Aufgehoben durch 
+--------- -------- ---------------------- ---------------------------
+  1       Rot      Stoppt                 Eissturm oder andere
+                   Fernkampfwaffen,       kälte-basierte 
+                   verursacht 12 TP       Angriffe
+                   Schaden
+
+  2       Orange   Stoppt magische und    Blitz oder andere
+                   nicht-magische         auf Elektrizität 
+                   Fernkampfwaffen,       basierende Angriffe
+                   24 Punkte Schaden 
+                   wenn berührt
+
+  3       Gelb     Stoppt alle Odem-      Magische Pfeile oder
+                   Waffen, 48 Punkte      *Magisches Geschoss*
+                   Schaden wenn berührt  
+
+  4       Grün     Verhindert jegliche    *Passwall* oder andere
+                   Wahrnehmungssprüche    erd-bewegende Magie
+                   in das innere zu 
+                   wirken, bei Berührung
+                   Rettungswurf gegen 
+                   Todesstrahlen oder 
+                   sofortiger Tod
+
+  5       Blau     Blockiert jegliche     *Auflösung* 
+                   Kleriker-Magie. 
+                   Versteinert bei 
+                   Berührung 
+                   (Rettungswurf)
+
+  6       Indigo   Tötet auf der Stelle   Magie brechen
+                   und unwiderruflich
+
+  7       Violet   Wer die violette       Dauerndes Licht
+                   Sphäre berührt
+                   verliert permanent
+                   den Verstand, blockt
+                   jegliche arkane Magie
+
+---------------------------------------------------------------------
+§

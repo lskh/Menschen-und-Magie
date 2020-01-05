@@ -1,0 +1,11 @@
+#### Verzögerter Feuerball
+Zaubergrad: 7
+Dauer: Siehe unten.
+Reichweite: 100' + 10' pro Erfahrungsstufe
+Im Wesentlichen gleicht dieser Zauberspruch dem normalen
+Feuerball . Jedoch erhält dieser Zauberspruch für jed en
+Schadenswürfel einen extra +1 Bonus auf den Schaden. Der
+Zauberanwender kann überdies bestimmen, dass der
+Zauberspruch erst in 1 bis 5 Runden, nachdem er gesprochen
+worden ist, zündet.
+

@@ -1,0 +1,18 @@
+#### Schwebende Scheibe
+Zaubergrad: 1
+Dauer: 6 Phasen
+Reichweite: 6'
+Der Zauberwirker erschafft ein leicht konkaves, rundes,
+scheibenförmiges Kraftfeld, das ihm folgt und Lasten tragen
+kann. Die Scheibe durchmisst 3' und ist in der Mitte etwa 1
+Zoll dick. Sie kann 500 Pfund tragen. Wenn es Flüssigkeiten
+transportieren soll, kann es bis zu 2 Gallonen (1 Gallone
+entspricht knapp 4,5 Liter) fassen. Die Scheibe schwebt 3'
+über dem Boden und behält seine Höhe immer bei. Sie
+bewegt sich stets horizontal mit der Geschwindigkeit des
+Magiers. Sofern es nicht anders bestimmt wird, behält sie
+immer einen Abstand von 6' zum Zauberanwender und folgt
+in diesem Abstand. Wenn die Wirkung nachlässt und der
+Zauber endet, fällt alles, was auf der Scheibe transportiert
+wird, unvermittelt auf den Untergrund.
+

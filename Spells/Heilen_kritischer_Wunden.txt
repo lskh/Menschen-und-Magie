@@ -1,0 +1,17 @@
+Heilen kritischer Wunden
+Heilt kritische Wunden, Kritische Wunden heilen, Cure critical wounds
+Players Handbook
+Kleriker 5, Druiden 6
+Berührung
+permanent
+3W8+3 Trefferpunkte heilen.
+Während er diesen Spruch wirkt, berührt der Kleriker eine
+Person oder Kreatur (oder sich selbst) und heilt damit 3W8+3
+Trefferpunkte Schaden. Dieser Spruch kann nicht mehr
+Trefferpunkte wiederherstellen als die Zielkreatur
+normalerweise besitzt. Kritische Wunden heilen heilt weiterhin
+alle Zustände, die unter Leichte Wunden heilen aufgeführt
+sind. Kritische Wunden verursachen (Umkehrung von Kritische
+Wunden heilen) erzeugt beim Ziel 3W8+3 Trefferpunkte
+Schaden, sofern der Spruchwirker das Ziel berühren kann.
+§

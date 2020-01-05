@@ -1,0 +1,29 @@
+Queste*
+Auftrag, Quest
+Men & Magic
+Kleriker 5
+Hörweite
+bis abgeschlossen
+Einen "göttlichen" Auftrag erteilen.
+Wird dieser Spruch auf eine Person gewirkt, so steht dieser
+ein Rettungswurf gegen Zauber zu. Ein Erfolg bedeutet, dass
+der Spruch nicht gewirkt hat. Schlägt der Rettungswurf fehl,
+so kann der Spruchwirker das Ziel dazu bringen, sich auf eine
+Queste zu begeben. Diese Queste kann durchaus gefährlich
+sein, jedoch kann das Ziel nicht dazu gebracht werden, sich
+vorsätzlich selbst zu verletzen. Weigert sich das Ziel sich auf
+die ihm gestellte Queste zu begeben, erleidet es die
+Auswirkungen eines Fluches. Die genauen Auswirkungen des
+Fluches sollten dabei mit der Formulierung der Queste festgelegt
+werden, und benötigen das Einverständnis der Spielleitung.
+Die einzige Möglichkeit, den Fluch zu beenden ist es, die
+Queste doch anzunehmen.
+
+Alternativ kann auch die Umkehrung von Queste, Queste
+entfernen, genutzt werden, um den Fluch zu beenden und eine
+bestehende Questverpflichtung von dem Ziel zu nehmen.
+Genau wie bei Magie bannen sinkt die Chance auf ein
+erfolgreiches Fluch brechen und Questverpflichtung um 5%
+pro Charakterstufe, die der Wirker von Queste entfernen
+unterhalb des Wirkers von Queste ist.
+§

@@ -1,0 +1,44 @@
+#### Tote beleben
+\index{Tote beleben}
+
+Stufe
+:    Zauberkundige 5
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Tote beleben
+Stufe: 3
+Dauer: permanent
+Reichweite: 60 Fuß
+Dieser Spruch verwandelt die Knochen oder die Leichen von
+toten Kreaturen in untote Skelette oder Zombies, die den
+gesprochenen Kommandos des Zauberwirkers gehorchen. Die
+Untoten können dem Zauberwirker folgen, oder bleiben in
+einer b estimmten Zone und attackieren sämtliche Wesen (oder
+nur eine bestimmte Art von Wesen), die diese Zone betreten.
+Die Untoten bleiben solange belebt, bis sie zerstört werden
+oder ıMagie bannen„ auf sie gewirkt wird.
+Der Spruchwirker kann eine Anzahl an Trefferwürfeln gemäß
+seiner Stufe als Zombies oder Skelette beleben. Zum Beispiel
+kann ein Stufe 7 Kl eriker sieben Skel ette bel eben, aber nur
+drei Zombies. Diese Untoten sind nicht intelligent und
+verlieren sämtliche Fähigkeiten, die sie im Leben besaßen. Alle
+Skelette besitzen eine Rüstungsklasse (RK) von sieben. Ihre
+Trefferwürfel (TW) entsprechen der Anzahl, die sie als
+lebendige Kreatur besaßen. Zombies besitzen eine
+Rüstungsklasse (RK) von 8. Ihre Trefferwürfeln (TW)
+entsprechen denen der l ebendigen Kreatur plus eins.
+Es ist wichtig, zu erwähnen, dass ein Charakter, der auf diese
+Weise belebt wird, keine Trefferwürfel entsprechend seiner
+Klassenstufe hat. Stattdessen besitzt er eine Anzahl an
+Trefferwürfeln wie ein Standardskelett oder Zombie. Ein
+rechtschaffener Charakter, der diesen Spruch wirkt, kann das
+Missfallen seiner Gottheit erregen.
+

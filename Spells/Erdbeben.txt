@@ -1,0 +1,43 @@
+Erdbeben
+Earthquake
+Greyhawk
+Kleriker 7
+120' (36 m) 
+1 Runde
+In einem begrenzten Gebiet ein verheerendes Erdbeben erzeugen.
+Wird Erdbeben gewirkt, erschüttert ein mächtiges aber örtlich gebundenes
+Zittern den Erdboden in einem 5' (1,5 m) Umkreis pro Charakterstufe. Das
+Beben zerstört Bauten, öffnet Risse in der Erde und so weiter. Der Effekt
+hält eine Runde an, währenddessen sich Kreaturen am Boden nicht bewegen,
+angreifen oder zaubern können. Das Erdbeben betrifft sämtliches Gelände,
+Bewuchs, Gebäude und Kreaturen im Gebiet. Der genaue Effekt des Zaubers
+Erdb eben hängt von der jeweiligen Umgebung ab, in der er gewirkt wird.
+Höhle, Hohlraum oder Tunnel: Der Spruch bringt die Decke zum Einsturz,
+was bei sämtlichen Kreaturen, die unter der Decke stehen, 7W6
+Trefferpunkte Schaden verursacht. Wird Erbeben auf der Decke einer sehr
+großen Höhle gewirkt, kann es auch zu einer Gefahr für Kreaturen werden,
+die außerhalb des eigentlichen Wirkradius, aber unterhalb der
+einstürzenden Decke sind.
+
+**Klippen:** Erdbeben bringt Klippen zum Zerbrechen, was in
+einem Erdrutsch resultiert, der sich ebenso horizontal bewegt
+wie vertikal. Jede Kreatur, die von dem Erdrutsch erfasst wird,
+nimmt 7W6 Trefferpunkte Schaden.
+
+**Offene Fläche:** Risse tun sich auf und 1W6 Kreaturen, die sich
+auf dem Boden befinden, stürzen in diese Risse und sterben.
+
+**Bauwerke:** Jedes Bauwerk auf offener Fläche nimmt 5W12
+Punke Strukturschaden. Das reicht aus, um typische
+Holzbauten und Gemäuer einstürzen zu lassen, jedoch nicht
+zusätzlich verstärkte Gemäuer und Steinbauten. Jede Kreatur
+innerhalb eines einstürzenden Bauwerks nimmt 7W6
+Trefferpunkte Schaden.
+
+**Fluss, See oder Sumpf:** Es öffnen sich Risse am Grund des
+Gewässers, wodurch das Wasser versickert und sich
+schlammig es Gelände bildet. Morastige Feuchtgebiete und
+Sumpfland werden für die Dauer des Spruchs zu Treibsand.
+Bauwerke zerfallen und werden hinabgezogen, ebenso werden
+1W6 Kreaturen hinabgezogen und sterben.
+§

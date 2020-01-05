@@ -1,0 +1,80 @@
+#### Symbol
+Stufe: 7
+Dauer: 10 min pro Charakterstufe
+Reichweite: Berührung
+Dieser Spruch erlaubt es dem Spruchwirker, eine mächtige
+Rune auf einer Oberfläche oder in der Luft zu erschaffen. Das
+Symbol glüht und hält für 10 Minuten pro Charakterstufe an.
+Die drei untenstehenden verschied enen Varianten von Symbol
+sind für einen Kleriker verfügbar. Das jeweils gewünschte
+Symbol muss festgelegt werden, wenn der Spruch g ewirkt
+wird. Einem von d em Symbol betroffenen Charakter steht ein
+Rettungswurf gegen Zauber zu, um die Effekte zu ignorieren.
+Symbol des Schmerzes: Betroffene Kreaturen leiden unter
+unaussprechlichen Schmerz en, die sich in einem –4 Malus auf
+Angriffswürfe und einen –2 Malus auf Geschicklichkeit für eine
+Dauer von 2W10 x 10 min. ausdrücken.
+Symbol der Überzeugung : Kreaturen, die dies es Symbol
+sehen, werden durch den Spruchwirker betört und nehmen
+seine Gesinnung für 1W20 x 10 min an.
+Symbol der Hoffnungslosigkeit : Kreaturen, die dieses Symbol
+erblicken, erg eben sich und geben sämtliche Kämpfe für 3W4
+x 10 min auf.
+
+#### Symbol
+Zaubergrad: 8
+Dauer: siehe unten
+Reichweite: Berührung
+Dieser Zauberspruch erlaubt es dem Zauberwirker, eine starke
+Rune der Macht auf eine Oberfläche zu schreiben. Es gibt acht
+verschiedene Symbole, von denen jedes s eine eigene Wirkung
+erzielt. Symbole werd en ausgelöst, indem sie geles en oder
+berührt werden. Manchmal werden sie nur dadurch aktiviert,
+dass eine Kreatur durch eine Tür geht, auf der diese Rune
+geschrieben steht. Eine Rune kann nur so identifiziert werden,
+indem sie gelesen wird, was ihren Effekt automatisch auslöst.
+Die Arten der Symbole sind im Weiteren beschrieben:
+Symbol des Streits
+Wenn sie ausgelöst wird, fangen alle Kreaturen im
+Wirkungsbereich an, sich für 5W4 Runden zu streiten. Sind
+Kreaturen darunter mit unterschiedlichen Gesinnungen,
+besteht eine 50% Chance, dass sich diese für 2W4 Runden
+bekämpfen.
+Symbol des Todes
+Wenn dies es Symbol ausgelöst wird, werden ein oder mehrere
+Kreaturen sofort getötet, wenn ihre Gesamttrefferpunktzahl
+nicht über 80 liegt.
+Symbol der Verzweiflung
+Jede Kreatur im Wirkungsbereich, der ein Rettungswurf gegen
+Sprüche nicht gelingt, verlässt den Bereich in völliger
+Hoffnungslosigkeit. Dieses Gefühl überdauert 3W4 Phasen,
+während der sich die betroffenen Kreaturen feige
+zurückziehen, aufgeben und jeden Enthusiasmus verlieren. Nur
+75% der betroffenen Kreaturen können in einer Runde
+handeln, während die übrigen den Bereich verlassen oder
+einfach nichts unternehmen.
+Symbol der Furcht
+Alle Kreaturen müssen einen Rettungswurf gegen Sprüche mit
+einem Abzug von -4 bestehen. Andernfalls stehen sie unter
+dem Einfluss von Furcht.
+Symbol des Wahnsinns
+Wenn dieses Symbol ausgelöst wird, verfallen alle betroffenen
+Kreaturen mit insgesamt bis zu 120 Trefferpunkte dem
+Wahnsinns (so als stünden Sie unter dem Effekt von
+Verwirrung ). Diese Wirkung kann mit Heilung oder mit
+Wunsch aufgehoben werden.
+Symbol des Schmerzes
+Jede Kreatur erleidet unglaubliche Schmerzen, durch die sie -4
+auf Angriffe und -2 auf die Geschicklichkeitsmodifikation
+erhalten. Die Wirkung hält 2W10 Phasen an.
+Symbol des Schlafes
+Alle Kreaturen mit 8 oder wenig er TW fallen in einen tiefen
+Schlaf für 1W12 + 4 Phasen. Anders als mit dem Zauber
+Schlaf können die Kreaturen durch nichtmagische Mittel nicht
+geweckt werden, solange die Wirkung nicht von allein erlischt.
+Symbol der Betäubung
+Wenn dieses Symbol ausgelöst wird, werden alle nahe
+stehenden Kreaturen, deren Gesamttrefferpunktzahl nicht über
+160 liegt, für 3W4 Runden betäubt, wodurch sie nicht handeln
+können. Jeder gehaltene Gegenstand wird fallengelassen.
+

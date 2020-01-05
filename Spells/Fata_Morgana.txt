@@ -1,0 +1,12 @@
+Fata Morgana
+Scheingelände, Geländehalluzination, Hallucinatory Terrain
+Chainmail
+Zauberkundige 4
+240' (73 m)
+bis von einem Gegner berührt oder gebannt
+Eine Fata Morgana erzeugen.
+Der Zauberanwender verändert das Aussehen, die Geräusche
+und den Geruch einer Landschaft so, dass sie wie eine andere aussieht.
+Zum Beispiel könnte ein Hügel verschwinden und durch einen Wald ersetzt
+werden.
+§

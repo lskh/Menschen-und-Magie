@@ -1,0 +1,25 @@
+#### Wasseratmen
+\index{Wasseratmen}
+
+Stufe
+:
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Wasseratmen
+Zaubergrad: 3
+Dauer: 1 Tag
+Reichweite: 30'
+Durch diesen Zauberspruch kann der Zauberwirker oder ein
+anderes Lebewesen im Wasser ohne Schwierigkeit atmen. Er
+behält die Fähigkeit, normale Luft zu atmen. Kreaturen unter
+der Wirkung dieses Spruches erhalten nicht automatisch die
+Fertigkeit Schwimmen.
+

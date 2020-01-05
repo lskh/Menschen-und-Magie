@@ -1,0 +1,19 @@
+Insektenplage
+Insect Plague
+Men & Magic
+Kleriker 5, Druiden 4
+480' (146 m)
+1 Tag
+Einen Insektenschwarm beschwören
+Der Spruchwirker beschwört einen 60 m Durchmesser
+umfassenden Schwarm Insekten. Alle Kreaturen
+in diesem Areal mit 2 TW oder weniger fliehen vor dem
+Schwarm. Dieser Spruch funktioniert nicht, wenn er
+unterirdisch gewirkt wird. Der Spruchwirker kann den
+Schwarm 20' (6 m) pro Runde lenken. Während der gesamten
+Dauer des Spruchs muss sich der Wirker darauf konzentrieren,
+die Kontrolle über den Schwarm aufrecht zu erhalten. Wird
+der Spruchwirker erfolgreich angegriffen oder verlässt der
+Schwarm die Reichweite des Spruchs, verliert der Wirker die
+Kontrolle darüber.
+§

@@ -1,0 +1,21 @@
+#### Sofortige Herbeirufung
+Zaubergrad: 7
+Dauer: sofort
+Reichweite: unbeschränkt
+Der Zauberanwender kann jeden beliebigen, leblosen
+Gegenstand von jedem beliebigen Ort in seine Hand
+herbeirufen. Der Gegenstand darf nicht länger als 3' und nicht
+schwerer als acht Pfund sein. Wenn der Zauberspruch
+angewandt wird, wird der Name des Gegenstands magisch
+und unsichtbar in einen Edelstein mit einem Mindestwert von
+5.000 GM eingraviert. Danach kann der Zauberanwender
+jederzeit den Gegenstand herbeirufen, indem er ein spezielles
+Wort, das er beim Zaubern festlegt, spricht und d en Edelstein
+zerschmettert. Sofort taucht der Gegenstand in der Hand des
+Zaubernden auf. Nur der Zauberanwender kann den
+verzauberten Edelstein eins etzen. Ist der Edelstein im Besitz
+einer anderen Kreatur, so kann diese die Magie nicht
+auslösen. Der Gegenstand kann auch von einer anderen
+Ebene herbeigerufen werden, solang nicht eine andere Kreatur
+diese zu ihrem Eigentum gemacht hat.
+

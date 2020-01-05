@@ -1,0 +1,14 @@
+Gesinnung erkennen
+Erkennt Gesinnung, Know Alignment
+Players Handbook
+Kleriker 2
+10' (3 m)
+1 Phase
+Gesinnung eines Wesens, Ortes oder Gegenstands feststellen
+Der Wirker dieses Zaubers ist sich sofort der Gesinnung von
+Personen innerhalb der Reichweite bewusst. Weiterhin wird
+auch die Gesinnung von magischen Objekten sowie die Natur
+von (un-)heiligen Orten erkannt. Die Umkehrung dieses Spruchs
+verschleiert die Gesinnung des Ziels, auch gegen die 
+Wirkung dieses Spruches.
+§

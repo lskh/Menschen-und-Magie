@@ -1,0 +1,16 @@
+#### Wiederherstellung*
+Stufe: 7
+Dauer: permanent
+Reichweite: Berührung
+Dieser Spruch stellt eine verlorene Charakterstufe wieder her,
+die das Ziel durch Stufenentzug verloren hat.
+Wiederherstellung wirkt nur, wenn der Zeitraum zwischen dem
+Stufenverlust und dem Zauber weniger oder gleichviel wie die
+Charakterstufe des Wirkers in Tagen beträgt. Ein Charakter,
+dessen Stufe durch diesen Spruch wiederhergestellt wurde,
+besitzt exakt die minimale Anzahl an Erfahrungspunkten, die
+für diese Stufe notwendig ist. Dieser Zauber hebt auch die
+Auswirkungen des Zaubers Schwachsinn auf.
+Entzug von Lebenskraft (Umkehrung von Wiederherstellung )
+entzieht dem Ziel eine Charakterstufe, wenn es berührt wird.
+

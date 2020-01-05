@@ -1,0 +1,20 @@
+#### Verwandelt Objekte
+Verwandelt jeden Gegenstand, Alles Verwandeln, Polymorph Object
+Zauberkundige 8
+Spielleiterentscheidung
+5' (1,5 m) pro Erfahrungsstufe oder 240' (72 m)
+Verwandelt beliebige Objekte, kein Rettungswurf
+Dieser Zauberspruch funktioniert wie andere Verwandlungszauber, wobei es
+einen Gegenstand oder eine Kreatur verwandeln kann. Ein Rettungswurf
+gegen Verwandlung ist möglich. Die Wirkungsdauer hängt von der
+Unterschiedlichkeit zwischen der alten und neuen Form ab.  Die Dauer
+richtet sich nach den nachstehenden Richtlinien, wobei die Spielleitung
+die genaue Dauer letztlich bestimmt: Betrachte die Veränderungen so:
+Kategorie (Tier, Pflanze, Mineral) Klasse (Säugetier, Pilz, Metalle,
+etc.) Größe (ähnliche Größe, größer, kleiner) Beziehung (Zweig zu Baum,
+Wolfsfell in Wolf, etc.) Gesamtform (ähnliche Form, ähnliche Wirkung)
+Gleiche oder niedrigere Intelligenz Veränderungen über die Kategorie
+hinweg werden nur wenige Stunden überdauern. Gegenstände, die in
+Beziehung zueinander stehen, so wie aus einem Wolfspelz ein Wolf wird,
+sind dauerhaft verwandelt. Beachte, dass Veränderungen in mehreren
+Kategorien die Wirkungsdauer einschränken können.

@@ -1,0 +1,22 @@
+Hast*
+Haste
+Men & Magic
+Zauberkundige 3
+240' (73 m)
+3 Phasen
+Aktionen des Ziels beschleunigen
+Mit diesem Zauberspruch können Kreaturen schneller handeln
+und sich schneller bewegen. Bis zu 24 Kreaturen innerhalb
+eines Durchmessers von 60' (18 m) können so verzaubert werden.
+Ein hastiges Wesen hat doppelt so viele Angriffe wie üblich.
+Einen zweiten Zauberspruch kann das Wesen nicht in
+derselben Runde einsetzen. Alle Bewegungsformen des
+Wesens (Laufen, Fliegen, Graben, Klettern und Schwimmen)
+werden verdoppelt. Die Wirkung von Hast wird nicht
+verstärkt, wenn es mehrfach angewandt wird.
+Hast hebt die Wirkung von Verlangsamen auf.
+Verlangsamen, die Umkehrform von Hast, halbiert die Zahl
+der Angriffe und die Bewegung der Ziele. Unter der Wirkung
+von Verlangsamen können nur alle zwei Runden
+Zaubersprüche gesprochen werden.
+§

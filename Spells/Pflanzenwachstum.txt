@@ -1,0 +1,45 @@
+Pflanzenwachstum
+Growth of Plants, Plant Growth
+Men & Magic
+Druiden 3, Zauberkundige 4
+240' (96 m)
+dauerhaft, bis gebrochen
+Unterholz zu undurchdringlichem Dickicht anwachsen lassen.
+Durch diesen Spruch wird normale Vegetation (Gras, Blumen, Büsche,
+Unterholz, Bäume, Rankengewächse usw.) auf einer Fläche von etwa 3000
+Quadratfuß (278 qm)[^plantgrowth] undurchdringlich dicht überwuchert.
+Damit der Zauber funktioniert, müssen im Wirkungsbereich Bäume und
+Dickicht vorhanden sein.  Erst durch Magie bannen verliert der Zauber
+seine Wirkung.
+
+Die Form der verzauberten Flächen kann vom Spruchwirker frei gewählt
+werden. Folgende Größen sind möglich:
+
+---------------------------------------
+ Fuß               Meter
+----------------- ---------------------
+ 54' x 54'         16 m x 16 m
+
+ 75' x 40'         23 m x 12 m
+
+ 100' x 30'        30 m x 9 m
+
+ 150' x 20'        46 m x 6 m
+
+ 300' x 10'        92 m x 3 m
+
+---------------------------------------       
+
+[^plantgrowth]: Es ist nicht leicht zu entscheiden, wie die Größenangabe
+in *Men & Magic* gemeint war. Dort steht "30 square inches", und inches
+wurden ja im Gelände in jeweils 10 Fuß umgerechnet. In *Swords &
+Wizardry* wird eine Umrechnung in 300 Quadratfuß (27 m²) vorgeschlagen,
+eine lächerlich kleine Fläche für diesen Zauber. Korrekter erscheint mir
+die hier gewählte Umrechnung 30 square inches = 3000 square feet, was
+zumindest der Größenordnung nach auch den Angaben im *Players Handbook*
+von 2" x 2" (also 20' x 20') pro Stufe entsprechen würde. Schließlich bestünde
+noch die Möglichkeit, dass 30" x 30" in gemeint war, was auch in *Swords
+& Wizardry* als Alternative angeführt wird. Das wären dann 90.000
+Quadratfuß, also rund 8400 m² - eine Fläche die für einen Wald durchaus
+vernünftig erscheint, und auch zum Maßstab von *Chainmail* passen würde.
+§

@@ -1,0 +1,37 @@
+#### Todeswolke
+\index{Todeswolke}
+
+Stufe
+:    Zauberkundige 5
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Tödliche Wolke
+Zaubergrad: 5
+Dauer: 6 Phasen
+Reichweite: 0
+Diese Zauberspruch bildet eine gelblich grüne und giftige
+Nebelbank mit einem Durchmesser von 30'. Der Nebel wächst
+und bewegt sich von dem Zauberanwender weg, während es
+sich am Boden mit einer Geschwindigkeit von 20' pro Runde
+bewegt. So ist der Nebel zum Beispiel nach zwei Runden 40'
+lang. Weil diese Wolke schwerer als Luft ist, fließt sie am
+tiefstmöglichen Grund und sackt in Löcher, Mulden und
+Öffnungen ein. Sie kann keine Flüssigkeit durchdringen und
+kann nicht unter Wasser gezaubert werden. Diese Wolke tötet
+jede Kreatur mit 4 oder weniger TW, wenn sie einen
+Rettungswurf gegen Gift nicht besteht. Jede Runde muss der
+Rettungswurf wiederholt werden. Andernfalls erleiden sie 1 TP
+Schaden pro Runde, in der sie sich in der Wolke aufhalten.
+Eine Kreatur mit 5 oder mehr TW erhält pro Runde 1 TP
+Schaden in der Wolke. Es hilft nicht den Atem anzuhalten.
+Kreaturen, die immun gegen Gift sind, werden von d er Wolke
+nicht beeinträchtigt.
+

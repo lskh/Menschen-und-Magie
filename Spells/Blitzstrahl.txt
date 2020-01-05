@@ -1,0 +1,21 @@
+Blitzstrahl
+Lightning Bolt
+Men & Magic
+Zauberkundige 3
+240' (72 m)
+Sofort
+Elektrischer Blitz mit 1W6 Schaden pro Stufe des Anwenders.
+Der Spruchwirker schleudert eine mächtige elektrische Entladung mit einer Länge
+von 60' (20 m) und Breite von 5' (1,5 m). Sie richtet bei jedem Wesen in diesem
+Wirkungsbereich 1W6 Elektrizitätsschaden pro Erfahrungsstufe des
+Spruchanwenders an. Brennbare Materialien fangen sofort Feuer und werden
+dadurch beschädigt. Metalle mit einem niedrigen Schmelzpunkt wie Blei, Gold,
+Silber und Bronze können durch den Blitz geschmolzen werden. Wenn der Schaden
+ausreicht, ein Hindernis zu zerstören, kann sich der Blitzstrahl abhängig von
+der Umgebung über das Hindernis hinweg ausdehnen, ansonsten wird er reflektiert
+und reicht schlägt für die noch verbleibende Strecke zurück. Das Bedeutet, dass
+sich der Spruchwirker selbst treffen kann, wenn diesen Spruch in 6 m Abstand
+von einer Granitwand anwendet. Alle Wesen innerhalb des Wirkungsbereichs
+erhalten einen Rettungswurf gegen Sprüche. Ein erfolgreicher Rettungswurf
+halbiert den erlittenen Schaden.
+§

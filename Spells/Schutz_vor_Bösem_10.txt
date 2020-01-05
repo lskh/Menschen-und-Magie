@@ -1,0 +1,33 @@
+#### Schutz vor Bösem 10'
+\index{Schutz vor Bösem 10'}
+
+Stufe
+:
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Schutz vor Bösem (10 Fuß Radius)
+Stufe: 4
+Dauer: 12 Runden
+Reichweite: 10 Fuß Radius um den Spruchwirker
+Dieser Spruch funktioniert exakt wie Schutz vor Bösem,
+lediglich die Reichweit e der Barriere wurde auf einen Umkreis
+von 10 Fuß erhöht, so dass auch die Mitabenteurer die
+Vorteile des Spruchs erhalten, so lange sie innerhalb des
+Radius bleiben.
+
+#### Schutz vor Bösem 10' Radius
+Zaubergrad: 3
+Dauer: 12 Phasen
+Reichweite: 0
+Dieser Spruch ist mit Schutz vor Bösem identisch, wobei der
+Schutzbereich einen Radius von 10' hat und seine Begleiter
+mit schützt.
+

@@ -1,0 +1,26 @@
+#### Schwachsinnigkeit
+\index{Schwachsinnigkeit}
+
+Stufe
+:    Zauberkundige 5
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Schwachsinn
+Zaubergrad: 5
+Dauer: unbestimmt
+Reichweite: 240'
+Wenn d em Ziel sein Rettungswurf gegen Zaubersprüche mit
+einem -4 Abzug misslingt, verliert er den Verstand. Die so
+verzauberte Kreatur kann nicht mehr sprechen,
+Zaubersprüche anwenden, Sprachen verstehen oder sich in
+irgendeiner Form unterhalten. Dieser Zustand hält solange an,
+bis ein Magie bannen auf den Betroffenen gesprochen wird.
+

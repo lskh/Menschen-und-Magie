@@ -1,0 +1,15 @@
+Zauberauge
+Magisches Auge, Arkanes Auge, Wizard Eye
+Men & Magic
+Zauberkundige 4
+240'
+6 Phasen
+Der Zauberanwender zaubert einen unsichtbaren magischen
+Sensor herbei, d er visuelle Eindrücke an den Zauberanwender
+übermittelt und über eine Infravision von 60' verfügt. Dieses
+Arkane Auge kann sich pro Phase bis zu 120' weit bewegen.
+Während der Wirkungsdauer kann das Auge in jede Richtung
+reisen. Feste Hindernisse können nicht durchdrungen werden,
+es kann aber durch Löcher oder Spalten hindurch fliegen, die
+mindestens 1 Zoll breit sind.
+§

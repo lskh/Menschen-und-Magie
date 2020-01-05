@@ -1,0 +1,34 @@
+#### Wasser senken
+\index{Wasser senken}
+
+Stufe
+:    Zauberkundige 6
+
+Reichweite
+:
+
+Dauer
+:
+
+Wirkung
+:
+
+#### Wasser absenken
+Stufe: 4
+Dauer: 1 Runde pro Charakterstufe
+Reichweite: 120 Fuß
+Der Spruchwirker ist dazu in der Lage, Wasser oder jed e
+andere Flüssigkeit um bis zu 5% der Gesamthöhe pro
+Charakterstufe und auf einer Fläche von 1 Quadratfuß pro
+Charakterstufe abzusenken. Zum Beispiel könnte ein Kleriker
+der Stufe 10 Wasser innerhalb von 10 Quadratfuß um bis zu
+50% absenken.
+
+#### Wasser absenken
+Zaubergrad: 6
+Dauer: 10 Phasen
+Reichweite: 240'
+Durch diesen Zauberspruch kann der Zauberanwender eine
+Wasserfläche von bis zu 100' x 100' für die halbe
+Wirkungsdauer absenken.
+

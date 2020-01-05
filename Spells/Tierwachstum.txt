@@ -1,0 +1,16 @@
+#### Tierwachstum
+\index{Tierwachstum}
+
+Stufe
+:    Zauberkundige 5, Druiden 5
+
+Reichweite
+:    120'
+
+Dauer
+:    12 Phasen
+
+This spell causes 1d6 normal creatures to grow immediately to giant
+size. While the spell lasts, the affected creatures can attack as per
+a giant version of themselves.
+

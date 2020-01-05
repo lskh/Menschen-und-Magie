@@ -1,0 +1,13 @@
+Machtwort Tod
+Wort der Macht: Tod, Power Word: Kill
+Greyhawk
+Zauberkundige 9
+120' (36 m)
+sofort, dauerhaft
+Mit einem Wort töten.
+Der Zauberanwender murmelt ein machtvolles Wort, welches eine Kreatur in
+Reichweite nach Wahl des Zauberanwenders sofort tötet, sofern sie
+50 Trefferpunkte oder weniger hat. Kreaturen mit mehr als 50
+Trefferpunkten werden von dem Spruch nicht betroffen. Es gibt keinen
+Rettungswurf gegen diesen Spruch.
+§

@@ -1,0 +1,12 @@
+Magie erkennen 
+Entdeckt Magie, Zauberei erkennen, Erkennt Magie, Detect Magic
+Men & Magic
+Zauberkundige 1, Kleriker 1, Druiden 1
+60' (18 m)
+2 Phasen
+Eine magische Aura wahrnehmen.
+Mit diesem Zauber kann festgestellt werden, ob eine Person, ein
+Ort oder ein Gegenstand mit einem Zauber belegt wurde. Also zum
+Beispiel eine magischer Gegenstand oder eine mit Magie
+verschlossene Tür.
+§

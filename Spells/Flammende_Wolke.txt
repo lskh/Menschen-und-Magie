@@ -1,0 +1,23 @@
+Flammende Wolke
+Entzündbare Wolke, Incendiary Cloud
+Players Handbook
+Zauberkundige 8
+30' (9 m)
+1W6+4 Runden
+Eine flammende Wolke die Schaden anrichtet.
+Durch die Entzündbare Wolke wird eine wabernde Rauchwolke, in der
+glühende Funken umherschwirren, erschaffen. Der Rauch behindert jede
+Sicht und füllt einen Raum von 20' (6 m)  x 20' (6 m)  x 10' (3 m) aus.
+Zusätzlich verursacht die Glut ab der dritten Runde Schaden. Anfangs
+entspricht der Schaden der halben Erfahrungsstufe des Zauberanwenders. In
+der vierten Runde erreicht die Hitze ihren Höhepunkt, so dass der
+verursachte Schaden der Erfahrungsstufe des Anwenders entspricht. Im
+Verlauf der fünften Runde schwächt sich die Hitze wieder, so dass nur
+Schaden in Höhe der halben Erfahrungsstufe des Spruchanwenders verursacht
+wird. Ab der sechsten Runde hat die Glut keine schädliche Wirkung mehr.
+Alle Kreaturen innerhalb der Wolke erhalten einen Rettungswurf gegen
+Sprüche ab der dritten Runde, in der die Wolke existiert. Ist der
+Rettungswurf erfolgreich, wird der Schaden während der gesamten
+Wirkungsdauer des Spruchs halbiert. Andernfalls steht in der vierten
+beziehungsweise fünften Runde ein weiterer Rettungswurf zu.
+§

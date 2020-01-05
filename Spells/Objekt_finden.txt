@@ -1,0 +1,16 @@
+Objekt finden
+Objekt lokalisieren, Gegenstand orten, Ermittelt Objekt, Locate Object
+Men & Magic
+Zauberkundige 2, Kleriker 3
+ZK 60' + 10'/Stufe (18 m + 3 m), Kl 90' + 10'/Stufe (27 m + 3 m)
+momentan, 1 Runde
+Der Spruchwirker ist in der Lage, die Richtung in der sich ein
+ihm gut bekannter Gegenstand befindet, zu spüren. Auch
+kann der Spruchwirker generell nach einer Sorte Gegenstand
+suchen. Dabei erspürt er dann den ihm nächsten Gegenstand
+dieser Sorte. Der Versuch, einen bestimmten Gegenstand zu
+finden, benötigt ein genaues geistiges Abbild des Gegenstands.
+Ist das Abbild nicht gut oder genau genug, schlägt der Spruch
+fehl. Personen und Kreaturen können mit dem Spruch nicht
+erspürt werden.
+§

@@ -1,0 +1,27 @@
+#### Sprachen lesen
+\index{Sprachen lesen}
+
+
+Stufe
+:    Zauberkundige 1
+
+Reichweite
+:    Berührung
+
+Dauer
+:    2 Phasen
+
+Wirkung
+:    Der Spruch erlaubt dem Spruchwirker, ihm unbekannte Zeichen
+und Sprachen zu entziffern. Der Spruch erlaubt nicht das
+automatische Lösen von Rätseln!
+
+#### Sprachen Lesen
+Zaubergrad: 1
+Dauer: 2 Phasen
+Reichweite: 0
+Für die Dauer dieses Zauberspruchs kann der Zaubernde jede
+Sprache, verschlüsselte Nachrichten, Karten od er andere
+geschriebene Inhalte les en. Dieser Zauberspruch ermöglicht es
+nicht, diese Sprache auch zu sprechen.
+

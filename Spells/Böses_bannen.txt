@@ -1,0 +1,19 @@
+Böses bannen
+Zerstört Böses, Dispel Evil
+Men & Magic
+Kleriker 5
+30' (9 m)
+1 Runde
+Bösartige Beschwörungen und Spruchwirkungen bannen.
+Wenn er diesen Spruch wirkt, kann der Spruchwirker keine andere Aktion
+ausführen, als sich während der ganzen Dauer auf den Spruch zu konzentrieren.
+Sämtliche Untote, beschworene oder verzauberte Kreaturen oder bösartige
+Spruchwirkungen innerhalb der Reichweite werden gebannt, zerstört oder auf ihre
+Ebenen zurück geschickt. 
+
+Ob der Spruch erfolgreich ist wird durch das Verhältnis zwischen bösartigem
+Zauberer und dem Kleriker der den Zauber bannen will bestimmt.  Will ein Stufe
+5 Kleriker die bösen beschwörungen eines Stufe 10 Zauberkundigen brechen,
+beträgt die Chance 5/10, oder 50%. Beträgt die Chance 100% oder mehr, gelingt
+der Spruch immer.
+§

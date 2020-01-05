@@ -1,0 +1,11 @@
+#### Unwiderstehlicher Tanz
+Zaubergrad: 8
+Dauert: 1W4 + 1 Runden
+Reichweite: Berührung
+Das Ziel fühlt einen unüberwindlichen Wunsch zu tanzen und
+beginnt damit mit allem, was dazu gehört. Durch den
+Sprucheffekt kann er nichts anderes unternehmen. Dadurch
+verschlechtert sich s eine RK um -4 und nimmt ihm die
+Möglichkeit, jedweden Rettungswurf auszuführen. Auch der
+RK Bonus durch einen Schild entfällt.
+

@@ -1,0 +1,14 @@
+Phasentor
+Phasentür, Phase door
+Greyhawk
+Zauberkundige 7
+10' (3 m)
+7 Durchgänge
+Einen unsichtbaren magischen Durchgang erschaffen.
+Das Phasentor ist ein unsichtbarer Durchgang etwa 7' breit, 10' hoch
+und 10' tief (2 m x 3 m x 3 m), der nur für den Spruchwirker
+zugänglich ist.  Das Portal kann nur von einem, oder
+mehreren Spruchwirkern gebrochen werden, deren gesamte Stufenanzahl
+mindestens das doppelte der Stufen des Erschaffers des Portals
+betragen muss.
+§

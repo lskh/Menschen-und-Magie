@@ -1,0 +1,18 @@
+Heilen*
+Heilung, Heal
+Players Handbook
+Kleriker 6
+Berührung
+permanent
+Umfassende Heilung
+Heilen erlaubt es dem Spruchwirker göttliche Energie in das
+Ziel zu kanalisieren und so Verletzungen und Schmerz en zu
+beseitigen. Der Spruch befreit das Ziel sofort von folgenden
+Zuständen: Blindheit, Erkrankung, Müdigkeit, Schwachsinn
+sowie Gift. Weiterhin werden sofort sämtliche Trefferpunkte
+bis auf 1W4 wieder hergestellt.
+
+Schaden (Umkehrung von Heilen ) entzieht dem berührten Ziel
+sämtliche Trefferpunkte bis auf 1W4 und verursacht dieselbe
+Erkrankung wie Krankheit verursachen.
+§

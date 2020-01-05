@@ -1,0 +1,12 @@
+Geas
+Geas
+Men & Magic
+Zauberkundige 6
+30' (9 m)
+Bis die Aufgabe erfüllt ist
+Einen magischen Auftrag erteilen
+Wenn das Opfer dieses Spruches seinen Rettungswurf verfehlt muss es den
+magischen Auftrag des Zauberwirkers ausführen. Den Auftrag abzulehnen
+denkt die Stärke um 50%, der Versuch den Auftrag zu ignorieren zum Tod
+des Charakters.
+§

@@ -1,0 +1,10 @@
+Infravision
+Infravision
+Men & Magic
+Zauberkundige 3
+Berührung
+1 Tag
+Wärmesicht in Dunkelheit.
+Der Zaubernde oder eine andere Kreatur verfügt unter der
+Wirkung des Spruchs über Infravision mit 60' Sichtweite.
+§

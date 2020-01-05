@@ -1,0 +1,32 @@
+Antipathie/Sympathie
+Antipathy/Sympathy
+Players Handbook
+Zauberkundige 8
+30' (10 m)
+12 Phasen pro Erfahrungsstufe
+Gegenstände oder Orte für bestimmte Wesen attraktiv oder abstoßend machen.
+Der Zauberanwender verzaubert einen Gegenstand oder Ort
+so, dass eine magische Ausstrahlung entsteht, die eine vom
+Zauberanwender bestimmte Art von Kreaturen mit einer
+festgelegten Gesinnung besonders anzieht oder abstößt. Die
+Art der Kreatur oder die Art der Gesinnung muss benannt
+werden.
+
+**Antipathie** Kreaturen der bestimmten Art oder Gesinnung fühlen einen
+unüberwindlichen Drang, den Ort zu verlassen oder den Gegenstand zu
+meiden. Der Zwang, den Ort zu verlassen und niemals freiwillig während
+der Wirkungsdauer des Zauberspruches wieder aufzusuchen, ist
+unwiderstehlich. Der Kreatur steht ein Rettungswurf zu, bei dessen
+Gelingen sie in dem Gebiet verbleiben oder den Geg enstand auch anfassen
+kann, was mit einem starken Gefühl des Unwohlseins verbunden ist. Dieses
+Gefühl lenkt die Kreatur ab, wodurch der Geschicklichkeitswert pro Runde
+um 1 bis maximal um 4 abgesenkt wird.
+
+**Sympathie** Kreaturen der bestimmten Art oder Gesinnung fühlen sich an
+dem verzauberten Ort sehr wohl oder streben danach, den verzauberten
+Gegenstand zu berühren oder zu besitzen. Der Zwang, an dem Ort zu
+verweilen oder den Gegenstand zu berühren, ist überwältigend. Bei einem
+erfolgreichen Rettungswurf ist die Kreatur von dem Zwang befreit, nach
+1W6 Phasen ist jedoch ein weiterer Rettungswurf nötig, um festzustellen,
+ob die Kreatur wieder zurück zu dem Ort oder dem Gegenstand will.
+§

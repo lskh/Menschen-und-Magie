@@ -1,0 +1,19 @@
+Trugbild
+Halluzination, Geisterhafte Kraft, Phantasmal Force
+Chainmail
+Zauberkundige 2
+240' (73 m)
+Konzentration
+Eine gefährliche Halluzination erschaffen
+Solange sich der Zauberwirker konzentriert, erschafft er eine
+andauernde, aktive Illusion. Die Illusion verschwindet, 
+sobald sie von einer Kreatur
+berührt wird. Jedoch kann ein illusionäres Monster erschaffen
+werden, das einen Feind angreift. Betrachter erhalten einen
+Rettungswurf gegen Sprüche, um die Illusion zu
+durchschauen. Wenn der Rettungswurf misslingt, dauert die
+Illusion an und ein illusionäres Monster richtet Schaden an. 
+Der Zauberanwender kann
+keine andere Aktion durchführen, solange er sich auf Trugbild
+konzentriert.
+§

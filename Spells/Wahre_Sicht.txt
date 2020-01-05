@@ -1,0 +1,18 @@
+#### Wahre Sicht
+Stufe: 5
+Dauer: 1 Runde pro Charakterstufe
+Reichweite: Berührung
+Der Spruch verleiht dem Spruchwirker oder dem Ziel des
+Zaubers die Fähigkeit, alles so zu sehen, wie es tatsächlich ist.
+Das Ziel sieht durch normale sowie magische Dunkelheit,
+entdeckt geheime Türen, erkennt unsichtbare Kreaturen und
+Gegenstände, durchschaut Illusionen und erkennt sämtliche
+vielgestaltige, verwandelte oder veränderte Kreaturen und
+Gegenstände in ihrer wahren Form. Weiterhin kann das Ziel
+sich darauf konzentrieren, in die ätherische Eb ene zu blicken
+(jedoch nicht in extradimensionale Räume).
+Falsche Sicht, das Gegenteil von Wahre Sicht , lässt
+Gegenstände, Personen und Monster als ihr genaues
+Gegenteil erscheinen- das Hässliche erscheint schön, das
+Wertvolle erscheint wertlos, und so weiter.
+

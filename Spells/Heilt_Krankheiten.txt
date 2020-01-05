@@ -1,0 +1,20 @@
+Heilt Krankheiten*
+Krankheit heilen, Krankheiten heilen, Cure Disease
+Men & Magic
+Kleriker 3, Druiden 3
+Berührung
+permanent
+Natürliche und magische Krankheiten heilen.
+Dieser Spruch vernichtet sofort Grünschleim und heilt
+außerdem sofort sämtliche Krankheiten, inklusive Mumienfäule
+und Lykantropie.
+
+Krankheit verursachen (Umkehrung von Krankheit heilen)
+verursacht beim Ziel eine furchtbare und tödliche Krankheit,
+die nach 2W12 Tagen zum Tod führt. Ein Rettungswurf gegen
+Zauber ist erlaubt. Diese Krankheit kann mit Krankheit heilen
+geheilt werden. Das Opfer dieses Zaubers kann nicht von
+Schaden durch andere Zauber geheilt werden und benötigt die
+doppelte Zeit für normale Heilung. Das Leiden führt weiterhin
+zu einem –2 Abzug auf Trefferwürfe.
+§

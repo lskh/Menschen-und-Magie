@@ -1,0 +1,33 @@
+Geballte Faust
+Clenched Fist
+Players Handbook
+Zauberkundige 8
+5' (1,5 m) pro Erfahrungsstufe
+1 Runde pro Erfahrungsstufe
+Dieser Zauberspruch ruft eine große, geistförmige und
+körperlose Hand hervor, die einen Gegner schlägt, den der
+Zauberanwender pro Runde aussucht. Die Faust trifft das Ziel
+immer, und die Wirkung des Schlags wird mit 1W20 in der
+nachstehenden Tabelle bestimmt. Wenn das Ziel betäubt ist,
+wird 4 von dem Ergebnis auf 1W20 abgezogen, weil das Ziel
+nicht mehr ausweichen kann.
+Würfle 1W20 Schaden:
+
+--------------------------------------------------------------
+1W20             Wirkung
+---------------- ---------------------------------------------
+1-12             1W6
+
+13-16            2W6
+
+17-19            3W6 + Betäubung für 1 Runde
+
+20               4W6 + Betäubung für 3 Runden
+
+--------------------------------------------------------------
+
+Der Gegner kann die geballte Faust angreifen. Sie hat eine RK
+von 9 und so viele Trefferpunkte wie der Zauberanwender.
+
+Die geballte Faust wird traditionell mit dem Zauberer *Bigby*\index{Bigby} in Verbindung gebracht.
+§

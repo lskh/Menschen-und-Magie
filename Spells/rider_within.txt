@@ -1,0 +1,8 @@
+Hellsicht stellt eine unsichtbare magische Verbindung zwischen
+dem Zauberanwender und einer Kreatur innerhalb der
+Spruchreichweite her. Mit diesem Spruch kann der Anwender
+alles das sehen, was die Kreatur sieht. Die Verbindung mit
+dem Ziel und das Sehen durch d essen Augen dauert 1 Phase,
+so dass der Zauberanwender pro Phase eine neue Kreatur
+aussuchen kann. Die Verbindung wird durch Blei oder dicken
+Fels von 2' und mehr unterbrochen.
