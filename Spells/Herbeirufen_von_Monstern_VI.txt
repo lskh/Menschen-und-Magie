@@ -1,0 +1,37 @@
+Herbeirufen von Monstern VI
+Monster Summoning VI
+Greyhawk
+Zauberkundige 8
+10' (3 m)
+Verzögerung 1 Phase, Wirkung 6 Runden (Kampfrunden)
+Eine Stufe 5 Kreatur zur Unterstützung herbeirufen.
+Der Zauberkundige ruft auf magischem Weg Kreaturen herbei, die ihm dienen
+und für ihn kämpfen, bis die Wirkdauer vorbei ist, oder die Kreaturen
+getötet werden. Es dauert eine Phase, bis die Kreaturen erscheinen. Erscheint ein Monster
+
+: Stufe VI Monster
+
+| 1W12 | Monster |
+|:--:|:-----------|
+| 1 | 1 Riese (8-10+2 TW) |
+| 2 | 1 Titan (15 TW, 75-100 TP) | 
+| 3 | 1 Hydra (9+ Köpfe/TW)  | 
+| 4 | 1 Drache (6-11 TW) | 
+| 5 | 1 Golem (8-16 TW) |
+| 6 | 1 Basilisk (6+1 TW) |
+| 7 | 1 Gorgone (8 TW) |
+| 8 | 1 Feuerspeiende Hydra (6-8 Köpfe/TW) |
+| 9 | 1 Chimera (9 TW) |
+| 10 | 1 Vampir (7-9 TW) |
+| 11 | 1 Höllenhund (5-7 TW) |
+| 12 | 1 Stufe 9 Kämpfer/Paladin (9+3 TW) |
+| 13 | 1 Efreet (10 TW) |
+| 14 | 1 Betrachter |
+| 15 | 1 chaotischer Stufe 9 Kleriker (7+1 TW) |
+| 16 | 1 Stufe 11 Zauberkundiger (8+1 TW) |
+| 17 | 1 Stufe 10 Dieb (7 TW oder 10W4) |
+| 18 | 1 Lich (10 TW) |
+| 19 | 1 Purpurwurm (15 TW) |
+| 20 | 1 Rost Monster (6 TW) | 
+
+§

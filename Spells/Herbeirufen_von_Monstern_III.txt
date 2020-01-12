@@ -1,0 +1,30 @@
+Herbeirufen von Monstern III
+Monster Summoning III
+Greyhawk
+Zauberkundige 5
+10' (3 m)
+Verzögerung 1 Phase, Wirkung 6 Runden (Kampfrunden)
+1-2 Stufe 3 Kreaturen zur Unterstützung herbeirufen.
+Der Zauberkundige ruft auf magischem Weg Kreaturen herbei, die ihm dienen
+und für ihn kämpfen, bis die Wirkdauer vorbei ist, oder die Kreaturen
+getötet werden. Es dauert eine Phase, bis die Kreaturen erscheinen. Es
+erscheinen 1-2 Monster.
+
+: Stufe III Monster
+
+| 1W12 | Monster |
+|:--:|:-----------|
+| 1 | 1-2 Gruftbewohner (Wights, 3 TW) |
+| 2 | 1-2 Stufe 4 Kämpfer (4 TW)|
+| 3 | 1-2 Stufe 5 Kämpfer (5+1 TW) |
+| 4 | 1-2 Stufe 5 Zauberkundige (3 TW) |
+| 5 | 1-2 Stufe 6 Zauberkundige (3+1 TW) |
+| 6 | 1-2 Stufe 5 Diebe (3 TW oder 5W4) |
+| 7 | 1-2 Stufe 6 Diebe (3+1 TW oder 6W4) |
+| 8 | 1-2 Harpyien (3 TW) |
+| 9 | 1-2 Werratten (3 TW) |
+| 10 | 1-2 Riesenschlangen / Spinnen (3 TW) |
+| 11 | 1-2 Riesenwiesel (3 TW) | 
+| 12 | 1-2 Ockergelee (5 TW) |
+
+§

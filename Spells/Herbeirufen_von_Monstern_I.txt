@@ -1,0 +1,30 @@
+Herbeirufen von Monstern I
+Monster Summoning I
+Greyhawk
+Zauberkundige 3
+10' (3 m)
+Verzögerung 1 Phase, Wirkung 6 Runden (Kampfrunden)
+1-3 Stufe 1 Kreaturen zur Unterstützung herbeirufen.
+Der Zauberkundige ruft auf magischem Weg Kreaturen herbei, die ihm dienen
+und für ihn kämpfen, bis die Wirkdauer vorbei ist, oder die Kreaturen
+getötet werden. Es dauert eine Phase, bis die Kreaturen erscheinen. Es
+erscheinen 1-3 normale, oder 1-6 kleine Monster. 
+
+: Stufe I Monster
+
+| 1W12 | Monster |
+|:--:|:-----------|
+| 1 | 1-6 Kobolde |
+| 2 | 1-3 Goblins |
+| 3 | 1-3 Orks |
+| 4 | 1-3 Skelette |
+| 5 | 1-6 Riesenratten |
+| 6 | 1-6 Riesentausendfüßler |
+| 7 | 1-3 Banditen / Berserker |
+| 8 | 1-3 Spinnen |
+| 9 | 1-3 Klesche / Blutbestien |
+| 10 | 1-3 Stufe 2 Diebe |
+| 11 | 1-3 Zwerge / Elfen |
+| 12 | 1 Gallertwürfel (4 TW) |
+
+§

@@ -1,0 +1,37 @@
+Herbeirufen von Monstern IV
+Monster Summoning IV
+Greyhawk
+Zauberkundige 6
+10' (3 m)
+Verzögerung 1 Phase, Wirkung 6 Runden (Kampfrunden)
+Eine Stufe 4 Kreatur zur Unterstützung herbeirufen.
+Der Zauberkundige ruft auf magischem Weg Kreaturen herbei, die ihm dienen
+und für ihn kämpfen, bis die Wirkdauer vorbei ist, oder die Kreaturen
+getötet werden. Es dauert eine Phase, bis die Kreaturen erscheinen. Erscheint ein Monster
+
+: Stufe IV Monster
+
+| 1W12 | Monster |
+|:--:|:-----------|
+| 1 | 1 Doppelgänger (4 TW) |
+| 2 | 1 Todesalb (Wraith, 4 TW) | 
+| 3 | 1 Gargyle (4 TW) | 
+| 4 | 1 Oger (4+1 TW) | 
+| 5 | 1 chaotischer Stufe 3 Kleriker (4 TW) |
+| 6 | 1 Stufe 6 Kämpfer (6 TW) |
+| 7 | 1 Stufe 7 Magier (4 TW) |
+| 8 | 1 Stufe 7 Dieb (4 TW oder 7W4) |
+| 9 | 1 Schatten (2+2 TW) |
+| 10 | 1 Riesenkäfer (3-4 TW) |
+| 11 | 1 Riesenskorpion (3-4 TW) |
+| 12 | 1 Lykanthrop (Werwolf, 4 TW/Wereber, 4+1 TW)|
+| 13 | 1 Fleischfressender Affe (4-5 TW) |
+| 14 | 1 Eulenbär (5 TW) |
+| 15 | 1 Versetzerbestie (6 TW) |
+| 16 | 1 Flimmerhund (4 TW) |
+| 17 | 1 Phasenspinne (5 TW) |
+| 18 | 1 Riesenzecke (3 TW) |
+| 19 | 1 Irrlicht (9 TW) |
+| 20 | 1 Rostmonster (5 TW) |
+
+§

@@ -1,0 +1,30 @@
+Herbeirufen von Monstern II
+Monster Summoning II
+Greyhawk
+Zauberkundige 4
+10' (3 m)
+Verzögerung 1 Phase, Wirkung 6 Runden (Kampfrunden)
+1-2 Stufe 2 Kreaturen zur Unterstützung herbeirufen.
+Der Zauberkundige ruft auf magischem Weg Kreaturen herbei, die ihm dienen
+und für ihn kämpfen, bis die Wirkdauer vorbei ist, oder die Kreaturen
+getötet werden. Es dauert eine Phase, bis die Kreaturen erscheinen. Es
+erscheinen 1-2 Monster.
+
+: Stufe II Monster
+
+| 1W12 | Monster |
+|:--:|:-----------|
+| 1 | 1-2 Hobgoblins (1+1 TW) |
+| 2 | 1-2 Gnolle (2 TW) |
+| 3 | 1-2 Zombies (1 TW) |
+| 4 | 1-2 Ghule (2 TW) |
+| 5 | 1-2 Stufe 2 Kämpfer (2 TW) |
+| 6 | 1-2 Stufe 3 Zauberkundige (2 TW) |
+| 7 | 1-2 Stufe 3 Diebe (2 TW oder 3W4)|
+| 8 | 1-2 Stufe 4 Zauberkundige (2+1 TW) |
+| 9 | 1-2 Stufe 4 Diebe (2+1 TW oder 4W4)|
+| 10 | 1-2 Riesenkröten (2-3 TW) |
+| 11 | 1-2 Grottenschrate (Bugbears, 3+1 TW) |
+| 12 | 1-2 Aaskriecher (3+1 TW) |
+
+§

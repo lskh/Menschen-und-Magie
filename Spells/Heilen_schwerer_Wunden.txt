@@ -1,0 +1,18 @@
+Heilen schwerer Wunden*
+Schwere Wunden heilen, Heilt schwere Wunden, Cure serious wounds
+Men & Magic
+Kleriker 4, Druiden 4
+Berührung
+permanent
+2W6+2 Trefferpunkte heilen.
+Während er diesen Spruch wirkt, berührt der Kleriker eine
+Person, eine Kreatur oder sich selbst und heilt damit 2W6+2
+Trefferpunkte Schaden. Dieser Spruch kann nicht mehr
+Trefferpunkte wiederherstellen als die Zielkreatur
+normalerweise besitzt. Schwere Wunden heilen heilt weiterhin
+alle Zustände, die unter Leichte Wunden heilen aufgeführt
+sind.
+Schwere Wunden verursachen (Umkehrung von Schwere
+Wunden heilen) erzeugt beim Ziel 2W6+2 Trefferpunkte
+Schaden, sofern der Spruchwirker es berühren kann.
+§

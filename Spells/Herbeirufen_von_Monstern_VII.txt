@@ -1,0 +1,27 @@
+Herbeirufen von Monstern VII
+Monster Summoning VII
+Greyhawk
+Zauberkundige 9
+10' (3 m)
+Verzögerung 1 Phase, Wirkung 6 Runden (Kampfrunden)
+Eine Stufe 5 Kreatur zur Unterstützung herbeirufen.
+Der Zauberkundige ruft auf magischem Weg Kreaturen herbei, die ihm dienen
+und für ihn kämpfen, bis die Wirkdauer vorbei ist, oder die Kreaturen
+getötet werden. 
+
+: Stufe VII Monster
+
+| 1W12 | Monster |
+|:--:|:-----------|
+| 1 | 1 Steingolem (12 TW) |
+| 2 | 1-3 Höllenhunde (7 TW) |
+| 3 | 1 Feuerspeiende Hydra (10 Köpfe/TW)  | 
+| 4 | 1 Roter Drache (11 TW) | 
+| 5 | 1 Erdkoloss (Umber Hulk, 8-10 TW) |
+| 6 | 1 Eisengolem (16 TW) |
+| 7 | 1 Stufe 15 Dieb (11+4 TW oder (10W4+3) | 
+| 8 | 1 Stufe 20 Lich (11+9 TW) |
+| 9 | 1-6 Versetzerbestien (6 TW) |
+| 10 | 1-2 Chimeren (9 TW) |
+
+§

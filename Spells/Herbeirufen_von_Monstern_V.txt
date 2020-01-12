@@ -1,0 +1,37 @@
+Herbeirufen von Monstern V
+Monster Summoning V
+Greyhawk
+Zauberkundige 7
+10' (3 m)
+Verzögerung 1 Phase, Wirkung 6 Runden (Kampfrunden)
+Eine Stufe 5 Kreatur zur Unterstützung herbeirufen.
+Der Zauberkundige ruft auf magischem Weg Kreaturen herbei, die ihm dienen
+und für ihn kämpfen, bis die Wirkdauer vorbei ist, oder die Kreaturen
+getötet werden. Es dauert eine Phase, bis die Kreaturen erscheinen. Erscheint ein Monster
+
+: Stufe V Monster
+
+| 1W12 | Monster |
+|:--:|:-----------|
+| 1 | 1 Troll (6+1 TW) |
+| 2 | 1 Oger Magus (5+2 TW) | 
+| 3 | 1 Stufe 8 Kämpfer (8+2 TW) | 
+| 4 | 1 Lindwurm (7 TW) | 
+| 5 | 1 Schreckgespenst (Spectre, 6 TW) |
+| 6 | 1 Mumie (5+1 TW) |
+| 7 | 1 Stufe 11 Druide (9 TW) |
+| 8 | 1 Höllenhund (5 TW) |
+| 9 | 1 Unsichtbarer Schleicher (8 TW) |
+| 10 | 1 Minotaurus (6 TW) |
+| 11 | 1 Mantikor (6+1 TW) |
+| 12 | 1 Lammasu (6+2 TW) |
+| 13 | 1 Cockatrice (5 TW) |
+| 14 | 1 Stufe 10 Magier (7 TW) |
+| 15 | 1 Stufe 9 Dieb (6+1 TW oder 9W4) |
+| 16 | 1 Salamander (7+3 TW) |
+| 17 | 1 Hydra (6-8 Köpfe/TW) |
+| 18 | 1 Erdkoloss (Umber Hulk, 8 TW) |
+| 19 | 1 Rostmonster (5 TW) |
+| 20 | 1 Riesennacktschnecke (12 TW) | 
+
+§
