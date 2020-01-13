@@ -1,66 +1,13 @@
-#### Schutz vor Bösem*
-\index{Schutz vor Bösem}
-
-
-Umkehrbar zu *Schutz vor Gutem*
-
-Stufe
-:    Kleriker 1, Zauberkundige 1
-
-Reichweite
-:    Berührung
-
-Dauer
-:    Kleriker 3 Runden pro Stufe, Zauberkundige 2 Runden pro Stufe
-
-Wirkung
-:    Der Zauber gibt den Angriffswürfen von bösen Kreaturen einen
-Abzug von -2 und den Rettungswürfen des Empfängers +2. Durch eine
-magische Hülle, die den Empfänger umgibt werden verzauberte,
+Schutz vor Bösem*
+Protection from Evil
+Men & Magic
+Kleriker 1, Zauberkundige 1
+selbst
+Kleriker 12 Phasen, Zauberkundige 6 Phasen
+-1 auf Angriffswürfe böser gegener, +1 auf Rettungswürfe.
+Der Zauber gibt den Angriffswürfen von bösen Kreaturen einen
+Abzug von -1 und eigenen Rettungswürfen +1. Durch eine
+magische Hülle, die den Empfänger umgibt, werden verzauberte,
 beschworene oder herbeigerufene Wesen daran gehindert den
 Empfänger auch nur zu berühren.
-
-#### Schutz vor Bösem
-Stufe: 1
-Dauer: 12 Runden
-Reichweite: Spruchwirker
-Dieser Spruch beschützt den Wirk er vor Angriffen durch
-ıböse„ Kreaturen. Er erzeugt eine magische Barriere, die den
-Wirker umgibt und seinen Bewegungen folgt. Der Wirker
-erhält einen Bonus von +1 auf seine Rüstungsklasse sowie
-einen Bonus von +1 auf seine Rettungswürfe. Diese beiden
-Boni gelten gegen sämtliche Angriffe durch ıböse„ Kreaturen.
-Zusätzlich verhindert dieser Spruch jeglichen körperlichen
-Kontakt durch beschworene oder herb eigerufene Kreaturen.
-Die Angriffe mit natürlichen Waffen solcher Kreaturen
-schlagen fehl und sie werden zurückgeschleudert, falls sie den
-Spruchwirker dabei berühren müssen. Allerdings können diese
-Kreaturen Fernkampfangriffe verwenden. Dies er Schutz vor
-beschworenen und herbeigerufenen Kreaturen endet, sobald
-der Wirk er selbst einen Angriff auf diese startet oder versucht,
-die Barriere gegen sie zu durchdringen.
-
-#### Schutz vor Bösem
-Zaubergrad: 1
-Dauer: 12 Phasen
-Reichweite: 0
-Dieser Zauberspruch beschützt den Zaubernden gegen
-Angriffe von Kreaturen mit bösen Absichten (und Kreaturen,
-die eine andere Gesinnung als der Zaubernde haben), gegen
-mentale Kontrolle und gegen beschworene Wesen. Es schafft
-eine magische Barriere in einem Umkreis von 1' um den
-Zaubernden herum und bewegt sich mit ihm mit, wodurch er
-zwei besondere Effekte bewirkt. Als erstes erhält das Ziel einen
-+1 Bonus auf die Rüstungsklasse und einen +1 Bonus auf die
-Rettungswürfe. Diese beiden Boni gelten gegen Angriffe oder
-Effekte, die von bösen Kreaturen ausgehen. Zum anderen
-verhindert der Spruch jed en körperlichen Kontakt mit
-beschworenen Kreaturen. Ihre natürlichen Angriffe schlagen
-automatisch fehl, und die Kreaturen weichen automatisch
-zurück, wenn ihre Angriffe eine Berührung der geschützten
-Gestalt voraussetzen. Das hindert diese Kreaturen aber nicht,
-Fernangriffe durchzuführen. Der Schutz gegen die Berührung
-durch beschworene Kreaturen entfällt, wenn das geschützte
-Wesen ihrerseits das beschworene Wesen angreift oder den
-Schutzbereich über das beschworene Wes en zwingt.
-
+§

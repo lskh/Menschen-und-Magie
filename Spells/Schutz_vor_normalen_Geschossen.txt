@@ -1,11 +1,14 @@
-#### Schutz vor normalen Geschossen
-Zaubergrad: 3
-Dauer: 12 Phasen
-Reichweite: 30'
+Schutz vor normalen Geschossen
+Protection from Normal Missiles
+Men & Magic
+Zauberkundige 3
+selbst
+12 Phasen
+Schutz vor nicht-magischen Pfeilen und Bolzen.
 Unter der Wirkung dieses Zauberspruchs ist der
 Zauberanwender vollständig unverwundbar durch kleine,
 nichtmagische Geschosse. Nur der Zaubernde erhält diesen
 Schutz. Er wirkt nicht gegen große Geschosse wie Felsen, die
-von Riesen g eschleudert werd en, oder magisch verzauberte
+von Riesen geschleudert werd en, oder magisch verzauberte
 Pfeile.
-
+§

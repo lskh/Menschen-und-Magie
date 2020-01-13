@@ -1,14 +1,16 @@
-#### Schwerkraft umkehren
-Zaubergrad: 7
-Dauer: sofort
-Reichweite: 5' pro Erfahrungsstufe
-Dieser Spruch kehrt die Schwerkraft auf einer quadratischen,
-30' großen Fläche um, wodurch alle nicht gesicherten
-Kreaturen und Gegenstände innerhalb des Bereiches 16' nach
-oben fallen. Wenn auf dieser Wegstrecke eine Decke oder
-andere Hindernisse im Weg sind, erleiden die Kreaturen und
-Objekte denselben Fallschaden, als wenn sie die Strecke
-natürlich gefallen wären. Wenn die maximale Höhe von 16'
-erreicht wird, treiben die Verzauberten in d em Bereich umher,
-bis der Spruch endet. Danach fallen sie wieder herunter.
-
+Schwerkraft umkehren
+Umgekehrte Schwerkraft, Reverse Gravity
+Greyhawk
+Zauberkundige 7
+90' (30 m)
+1 Kampfrunde
+Kreaturen und Gegenstände nach oben fallen lassen.
+Dieser Spruch kehrt die Schwerkraft in einem kubischen Raum von etwa
+30' x 30' x 30' (10 m x 10 m x 10 m) um, wodurch alle nicht
+gesicherten Kreaturen und Gegenstände innerhalb des Bereiches nach
+oben fallen. Wenn auf dieser Wegstrecke eine Decke oder andere
+Hindernisse im Weg sind, erleiden die Kreaturen und Objekte denselben
+Fallschaden, als wenn sie die Strecke natürlich gefallen wären. Danach
+fallen sie wieder herunter, wodurch sie ein weiteres mal Fallschaden
+erleiden können.
+§

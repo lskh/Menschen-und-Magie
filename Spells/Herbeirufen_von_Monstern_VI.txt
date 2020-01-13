@@ -26,7 +26,7 @@ getötet werden. Es dauert eine Phase, bis die Kreaturen erscheinen. Erscheint e
 | 11 | 1 Höllenhund (5-7 TW) |
 | 12 | 1 Stufe 9 Kämpfer/Paladin (9+3 TW) |
 | 13 | 1 Efreet (10 TW) |
-| 14 | 1 Betrachter |
+| 14 | 1-2 Oger magi (5+2 TW) |
 | 15 | 1 chaotischer Stufe 9 Kleriker (7+1 TW) |
 | 16 | 1 Stufe 11 Zauberkundiger (8+1 TW) |
 | 17 | 1 Stufe 10 Dieb (7 TW oder 10W4) |

@@ -19,6 +19,8 @@ ist nur die obere Hälfte der Kugel sichtbar, da der Zauberanwender
 ihre Mitte darstellt, so dass die untere Hälfte üblicherweise im
 Erdreich verschwunden ist.
 
+: Prismenkugel
+
 ---------------------------------------------------------------------
  Schicht  Farbe    Wirkung der Farbe      Aufgehoben durch 
 --------- -------- ---------------------- ---------------------------

@@ -2,8 +2,10 @@
 title: Menschen & Magie
 subtitle: Ein Spielerhandbuch für Old-School Rollenspiele
 titlegraphic: img/DnD-Dragon.png
-logo: img/OSR-logo2.png
-rights: © 2019 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
+logo: img/logo.png
+rights: © 2019, 2020 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
+titlepagecolor: purple
+titlepagetextcolor: lightgray
 lang: de
 ---
 
@@ -14,7 +16,7 @@ Ein Spielerhandbuch für Old-School Rollenspiele \newline
 Version *beta*, 
 Datum:
 \newline
-Text und Satz: © Wanderer Bill, 2019 \newline
+Text und Satz: © Wanderer Bill, 2019, 2020\newline
 <wandererbill73@gmail.com>
 \small
 
@@ -42,15 +44,20 @@ Warenzeichen von James Raggie IV
 Der Text und die meisten Tabellen von *Menschen & Magie* sind Open Game
 Content im Sinne der Open Game License, OGL 1.0a
 
-Das heißt, Du darfst dieses Heftchen für Dich und für andere kopieren.
+Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
 Gib es gerne weiter! 
 
 Es ist auch kein Problem, *Menschen & Magie* für deinen eigenen Open
 Game Content zu benutzen, vorausgesetzt, Du hälst Dich dabei an die
 Regeln der Open Game License.
 
-Schließlich ist *Menschen & Magie* auch Open Source. Du findest die Quelldateien für dieses Dokument unter 
-<https://github.com/lskh/Hausregeln>
+Schließlich ist *Menschen & Magie* auch Open Source. Du findest die
+Quelldateien für dieses Dokument unter <https://github.com/lskh/Hausregeln>
+
+Open Content: All text and tables of Menschen & Magie, except for the
+equipment tables on pages \pageref{eqtab} through \pageref{eqtabend},
+which are based on an idea by Brendan S. a.k.a necropraxis and used
+here with kind permission.
 
 \normalsize 
 
@@ -61,57 +68,56 @@ Schließlich ist *Menschen & Magie* auch Open Source. Du findest die Quelldateie
 Vorwort
 =======
 
-\lettrine{A}{m Anfang} war mein Plan einfach nur eine Liste mit
-Hausregeln für unsere *Dungeons & Dragons* Runde zu verfassen. Dann
-dachte ich, dass es ganz schön wäre, wenn alle Spieler ein kleines
-Heftchen mit den wichtigsten Tabellen zur Hand hätten. Schließlich ist
-daraus dieses kleine Spielerhandbuch geworden. Und das schöne ist, es
-kann frei ausgedruckt und kopiert werden, und völlig legal als PDF
-weiter gereicht werden.
+\lettrine{A}{m Anfang} war mein Plan einfach nur eine Liste mit Hausregeln
+für unsere Rollenspiel-Runde zu verfassen. Dann dachte ich, dass es ganz
+schön wäre, wenn alle Spieler ein kleines Heftchen mit den wichtigsten
+Tabellen zur Hand hätten. Schließlich ist daraus dieses kleine
+Spielerhandbuch, ein Band mit Hausregeln und ein Buch mit Zaubersprüchen
+geworden. Und das schöne ist, alle drei Bücher können ausgedruckt und
+kopiert werden, und völlig legal als PDF weiter gereicht werden.
 
-Ermöglicht wird dieses Projekt durch die Veröffentlichung der *Open
-Game License* und der *System Reference Documents* durch *Wizards of
-the Coast* (siehe Seite \pageref{open-game-license-version-1.0a}) und die Vorarbeit vieler Mitglieder einer Bewegung, die
-sich *Old School Renaissance* (OSR) nennt. Eine Bewegung die seit etwa
-Mitte der Nuller Jahre die alten Regelwerke neu formuliert
-veröffentlicht, und darüber hinaus eine unglaubliche Menge spannender,
-origineller und zum Teil in eindrucksvoller künstlerischer Qualität
-gearbeiteter Werke hervor gebracht hat.
+Ermöglicht wird dieses Projekt durch die Veröffentlichung der *Open Game
+License* und der *System Reference Documents* durch *Wizards of the Coast*
+(siehe Seite \pageref{open-game-license-version-1.0a}) und die Vorarbeit
+vieler Mitglieder einer Bewegung, die sich *Old School Renaissance* (OSR)
+nennt. Eine Bewegung die seit etwa Mitte der Nuller Jahre die alten
+Regelwerke neu formuliert veröffentlicht, und darüber hinaus eine
+unglaubliche Menge spannender, origineller und zum Teil in eindrucksvoller
+künstlerischer Qualität gearbeiteter Werke hervor gebracht hat.
 
-*Menschen & Magie* ist kein reiner "Retro-Klon" einer bestimmten
-früheren Edition des ersten Fantasy-Rollenspiels der Welt, sondern
-eher so eine Art Remix aus den echten alten Regeln und neueren
-Regelwerken. Auch ist es kein vollständiges Regelwerk, denn von den
-Regeln für den Spielleiter sind nur die Aspekte beschrieben, die für
-die Spieler sichtbar sind. Mein Ziel war es, ein Spielerhandbuch zu
-schreiben, welches möglichst gut kompatibel mit den ersten Editionen
-von TSR, und deren Retro-Klonen ist.  Für die Spieler sollte es keinen
-Unterschied machen, ob der Spielleiter sein Spiel auf Grundlage der
-Original-Regeln von 1974, *Advanced Dungeons & Dragons* oder *Basic
-D&D* aufbaut, oder eben den modernen Varianten *Swords & Wizardry*,
-*OSRIC* oder *Labyrinth Lord*. 
+*Menschen & Magie* versucht, so gut es geht, den Geist der ersten Ausgabe
+des ersten Fantasy-Rollenspiels zu vermitteln, welches 1974 von Gary Gygax
+und Dave Arneson veröffentlicht wurde. Mein Ziel war es, ein
+Spielerhandbuch zu schreiben, welches möglichst gut kompatibel zu den
+ersten Editionen von TSR, und deren Retro-Klonen ist.  Für die Spieler
+sollte es keinen Unterschied machen, ob der Spielleiter sein Spiel auf
+Grundlage der Original-Regeln von 1974 oder einem der Retro-Klone wie
+*Swords & Wizardry* oder *Delving Deeper* spielt. Auch für Spieler in
+Kampagnen, die auf den *Advanced*-Regeln, oder einem der B/X-Klone wie
+*Old-School Essentials* oder *Labyrinth Lord* aufbauen, sollten die
+Informationen dieses Spielerhandbuchs hilfreich sein.
 
-Grundlage für diesen Remix ist *Swords & Wizardry White Box*, ein
-Retro-Klon der "little brown books" - also im Prinzip der Inhalt der
-ersten drei Heftchen D&D Regeln, die jemals veröffentlicht wurden.
+Grundlage für *Menschen & Magie* sind *Swords & Wizardry White Box*, und
+*Delving Deeper*, beides Retro-Klone der "three little brown books".
 Daneben habe ich mich auch an *OSRIC*, *Swords & Wizardry Complete* ,
 *Labyrinth Lord* und auch ein bisschen an *Blueholme* bedient, und
-schließlich auch noch Hausregeln aus unserer eigenen Spielrunde und
-aus einschlägigen Internetforen einfließen lassen. Im Anhang habe ich
+schließlich auch noch Hausregeln aus unserer eigenen Spielrunde und aus
+einschlägigen Internetforen einfließen lassen. Im Anhang habe ich
 aufgeführt, an welchen Stellen *Menschen & Magie* explizit von den
 Original-Regeln abweicht.
 
 Aufgebaut ist das Heft aus einem einfach gehaltenen Abschnitt über die
-Erschaffung von Stufe 1-Charakteren, einem Abschnitt über die
-Prozeduren und Regeln die während des Spiels zum tragen kommen, sowie
-einem Tabellenteil, der im laufenden Spiel und auf höheren Spielstufen
-als schnelle Referenz benutzt werden kann.
+Erschaffung von Stufe 1-Charakteren, sowie einem ausführlichen Abschnitt
+über das Spiel in einer Fantasy-Kampagne. Insbesondere letzteres erscheint
+mir wichtig, da Rollenspielkampagnen in den 70er Jahren tatsächlich etwas
+anders abliefen, und wohl auch einen etwas anderen Fokus hatten, 
+als moderne Rollenspielrunden.
 
 
 Einleitung
 ===========
 
-\lettrine{M}{enschen und Magie} ist eine Hausregelsammlung für
+\lettrine{M}{enschen und Magie} ist eine Regelsammlung für
 das erste Fantasy Rollenspiel der Welt. 
 Das Prinzip ist einfach, jeder Spieler führt eine
 fiktive Figur - üblicherweise Charakter genannt - durch eine
@@ -128,10 +134,15 @@ Das funktioniert zum Beispiel so:
 > In der Südost-Ecke stehen zwei Holzfässer die nach Sauerkraut
 > riechen, daneben lehnt ein Sack, vielleicht ein Kartoffelsack. In der
 > Nordwand seht ihr eine verschlossene Tür aus dicken Eichenbohlen.
-> Was tut ihr?
+> Was tut ihr?^[dieses "was tut ihr?" - *"what do you want to do?"* ist
+> vielleicht die wichtigste Regel des ganzen Spiels. Es ist die eigentliche
+> *game engine*, die das Spiel am laufen hält. Dieses Spielprinzip haben
+> wir allem Anscheinnach  Dave Arneson zu verdanken.  Robert J.  Kuntz,
+> ehemaliger Mitarbeiter bei TSR hat ein ganzes Buch darüber geschrieben:
+> <https://www.threelinestudio.com/store/dave-arneson-s-true-genius/>] 
 >
 > Spielerin von Etzo dem Zwerg: ich sehe mir die Fässer genauer an,
-> und hebe mal den Sack an.
+> und hebe mal den Sack hoch.
 >
 > Spielleiter: die Fässer sehen aus wie normale Weinfässer. Was
 > besonderes kannst Du nicht erkennen. Der Sack ist leichter als er
@@ -174,21 +185,21 @@ können grandiose Erfolge genauso spannend und unterhaltsam sein,
 wie dramatische Niederlagen, oder auch völliges Scheitern. 
 
 Die literarischen Vorbilder sind natürlich Tolkiens Geschichten vom
-*Hobbit* und dem einen Ring, die unser Bild von Elfen, Zwergen,
-Halblingen und Orks geprägt haben, Fritz Leibers Abenteuer von *Fafhrd
-und dem Grauen Mausling*, die als archetypische Diebe im Konflikt mit
-furchteinflößenden Magiern nach Gold und schönen Frauen streben, sowie
-Robert E. Howards Barbar *Conan*, der sich wider aller Gefahren zum
-mächtigen König aufschwingt.  Aber auch die Geschichten der sterbenden
-Erde von Jack Vance, die ganz entscheidend die Magie-Regeln geprägt
-haben, und verschiedene Erzählungen von Poul Anderson, wie z.B.
-*Dreiherz*, in der die Figur des edlen Paladins im Kampf zwischen
-Chaos und Rechtschaffenheit, und nicht zuletzt auch der Troll der nur
-mit Feuer bekämpft werden kann, geprägt wurden. Schließlich hatten
-auch die Werke des Horror-Autors Howard P. Lovecraft einen spürbaren
-Einfluss, insbesondere was die Auseinandersetzung mit
-kosmischen Gefahren und weltfremden,
-übermächtigen Monstern angeht. 
+*Hobbit* und dem einen Ring, die unser Bild von Elfen, Zwergen, Halblingen
+und Orks geprägt haben, Fritz Leibers Abenteuer von *Fafhrd und dem Grauen
+Mausling*, die als archetypische Diebe im Konflikt mit furchteinflößenden
+Magiern nach Gold und schönen Frauen streben, sowie Robert E. Howards
+Barbar *Conan*, der sich wider aller Gefahren zum mächtigen König
+aufschwingt.  Aber auch die Geschichten der sterbenden Erde von Jack Vance,
+die ganz entscheidend die Magie-Regeln geprägt haben, der Epos um den
+Magier Elric und sein Schwert *Stormbringer* von Michael Moorcock, und
+verschiedene Erzählungen von Poul Anderson, wie z.B.  *Dreiherz*, in der
+die Figur des edlen Paladins im Kampf zwischen Chaos und Rechtschaffenheit,
+und nicht zuletzt auch der Troll der nur mit Feuer bekämpft werden kann,
+geprägt wurden. Schließlich hatten auch die Werke des Horror-Autors Howard
+P. Lovecraft einen spürbaren Einfluss, insbesondere was die
+Auseinandersetzung mit kosmischen Gefahren und weltfremden, übermächtigen
+Monstern angeht. 
 
 Oft folgen diese Geschichten dem Muster der klassischen Heldenreise:
 also dem mutigen Aufbruch in die Fremde, dem Erleben von Abenteuern,
@@ -235,7 +246,7 @@ wahrscheinlich schon.
 
 Noch was zu den Würfeln: in diesem Spiel werden viele verschiedene
 Würfel benutzt. Die normalen sechsseitigen, aber auch 4-, 8-, 10-, 12-
-und 20-seitige Würfel. Das sind die *normalen* Gaming Würfel, die man
+und 20-seitige Würfel. Das sind die *normalen* Gaming-Würfel, die man
 auch in dieser Zusammenstellung als Satz kaufen kann. 
 Aber denk nicht, dass es keine 5-, 7-, 24- oder 30-seitige Würfel gäbe!
 

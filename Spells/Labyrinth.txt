@@ -10,6 +10,8 @@ extradimensionales Labyrinth aus Energieebenen. Die Anzahl
 der Kampfrunden, wie lange es im Labyrinth irrt, 
 richtet sich nach seiner Intelligenz:
 
+: Labyrinth
+
 ----------------------------------------------------------
  Intelligenz       Zeit im Labyrinth
 ----------------   ---------------------------------------

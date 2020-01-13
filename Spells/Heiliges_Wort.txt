@@ -9,6 +9,8 @@ Durch das Aussprechen des (Un-)heiligen Wortes erleidet jede
 böse (gute) Kreatur innerhalb der
 Spruchwirkung folgende Schäden:
 
+: Heiliges Wort
+
 ------------------------------------------------------------
  TW              Effekt
 ---------------- -------------------------------------------

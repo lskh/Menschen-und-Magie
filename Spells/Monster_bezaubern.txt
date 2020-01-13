@@ -16,6 +16,8 @@ Monstern, die jeweils nicht mehr als 3 TW haben, wird mit
 Einmal pro Woche wird gewürfelt, ob es dem Monster gelingt sich von der
 Bezauberung zu befreien: 
 
+: Monster bezaubern
+
 ----------------------------------------------------------------
  Trefferwürfel           Chance die Bezauberung abzuschütteln
 -------------------- -------------------------------------------

@@ -1,13 +1,13 @@
-#### Stöcke zu Schlangen
-Stufe: 4
-Dauer: 60 min.
-Reichweite: 120 Fuß
-Der Spruchwirker kann 2W8 Stöcke in Schlangen
-verwandeln. Es besteht eine Chance von 50%, dass es sich um
-Giftschlangen handelt. Der Spruchwirker kann den Schlangen
-Befehle erteilen. Am Ende der Wirkdauer oder falls sie getötet
-werden, verwandeln sich die Schlangen in Stöcke zurück. Die
-Monstereigenschaften für die Schlangen sind:
-Ges.: N; RW: 90 Fuß; Rüstungsklasse: 6; TW: 1; Angriffe: 1;
-Schaden: 1W4; Rettungswurf: F1; Moral: 7
-
+Stöcke zu Schlangen
+Schlangen aus Stöcken, Turn Sticks to Snakes, Sticks to Snakes
+Men & Magic
+Kleriker 4
+120' (36 m)
+6 Phasen
+2W8 Stöcke in Schlangen verwandeln.
+Der Spruchwirker kann 2W8 Stöcke in Schlangen verwandeln. Es besteht
+eine Chance von 50%, dass es sich um Giftschlangen handelt. Der
+Spruchwirker kann den Schlangen (RK 6 [13], TW 1, BW 9") Befehle
+erteilen. Am Ende der Wirkdauer oder falls sie getötet werden,
+verwandeln sich die Schlangen in Stöcke zurück.
+§

@@ -1,32 +1,34 @@
-#### Verwirrung
-\index{Verwirrung}
+Verwirrung
+Confusion
+Chainmail
+Zauberkundige 4, Druiden 7
+120'
+12 Phasen
+Gegener zu unsinnigem Verhalten zwingen.
+Dieser Zauberspruch verwirrt 2W6 Ziele plus je eine Kreatur pro Stufe
+des Zauberkundigen über der 8. Stufe. 
 
-Stufe
-:    Zauberkundige 4
+Kreaturen mit weniger als 4 Trefferwürfeln werden automatisch
+verwirrt. Solche mit 4 oder mehr Trefferwürfeln werden erst betroffen,
+wenn sie nach dem Ablauf von 1W12 - Stufe des Spruchanwenders Runden
+einen Rettungswurf gegen Sprüche verfehlen. Allerdings muss dieser
+Rettungswurf für die verbleibende Wirkdauer des Spruches auch alle 10
+Kampfrunden, bzw. jede Phase, wiederholt werden.
 
-Reichweite
-:
+Die so verzauberten Ziele sind
+nicht mehr in der Lage, bestimmte Handlungen zu unternehmen. Was genau
+die verzauberten Gegener machen, wird für jede neue Phase (alle 10
+Kampfrunden) mit einem Wurf auf folgender Tabelle ermittelt:
 
-Dauer
-:
+: Verwirrung
 
-Wirkung
-:
+| 2W6 | Verhalten |
+|:---:|:----------|
+| 2-5 | Ziel greift die Gruppe des Zauberanwenders an |
+| 6-8 | Ziel unternimmt nichts |
+| 9-12 | Ziel greift die eigenen Mitstreiter an |
 
-#### Verwirrung
-Zaubergrad: 4
-Dauer: 12 Runden
-Reichweite: 120'
-Dieser Zauberspruch verwirrt 3W6 Ziel e, wodurch sie nicht
-mehr in der Lage sind, selbst bestimmte Handlungen zu
-unternehmen. Würfle auf der nachstehenden Tabelle für jedes
-Ziel zum Beginn einer neu en Runde, was diese unternehmen
-werden:
-Würfle 1W10 für das Verhalten
-1-4 Ziel greift die Gruppe des Zauberanwenders an
-5-6 Ziel spricht Unsinniges und unternimmt nichts
-7-10 Ziel greift die eigenen Mitstreiter an
 Ist ein verzaubertes Ziel nicht in der Lage, einen Angriff
 durchzuführen, erzählt es nur sinnloses Zeug und gibt
 merkwürdige Laute von sich.
-
+§

@@ -1,24 +1,13 @@
-#### Unsichtbarkeit 10'
-\index{Unsichtbarkeit 10'}
-
-Stufe
-:
-
-Reichweite
-:
-
-Dauer
-:
-
-Wirkung
-:
-
-#### Unsichtbarkeit 10' Radius
-Zaubergrad: 3
-Dauer: siehe unten
-Reichweite: 120'
+Unsichtbarkeit 10' Radius
+Invisibility 10' radius
+Men & Magic
+Zauberkundige 3
+240' (72 m)
+bis gebrochen
+Ziel und 10' (3 m) Umgebung werden unsichtbar.
 Dieser Spruch funktioniert exakt wie Unsichtbarkeit, wobei
 von dem Mittelpunkt des Zauberspruchs alles und jeder
 innerhalb 10' Radius unsichtbar wird. Wer den Bereich
-verlässt, wird wieder sichtbar.
-
+verlässt, wird wieder sichtbar. Angriffe auf unsichtbare Dinge haben
+einen Malus von -4.
+§

@@ -1,9 +1,12 @@
-#### Schild
-Zaubergrad: 1
-Dauer: 2 Phasen
-Reichweite: 0
+Schild
+Shield
+Men & Magic
+Zauberkundige 1
+selbst  
+2 Phasen
+RK 2 [17] gegen Geschosse und RK 4 [15] im Nahkampf.
 Schild erschafft ein unsichtbares Energiefeld, das den
 Zaubernden schützt. Gegen Geschosse erhöht der Spruch die
 RK um 2. Gegen jeden anderen Angriff hat der Zaubernde
 eine effektive RK von 4.
-
+§

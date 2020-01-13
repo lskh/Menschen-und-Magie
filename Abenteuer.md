@@ -58,6 +58,10 @@ den Baum zu erklettern. Ergibt der Wurf dagegen eine 13 scheitert
 der Charakter - vielleicht war seine Rüstung zu sperrig, oder ein
 Ast ist abgebrochen.
 
+Attributsproben werden auch häufig mit einer bestimmten Zahl normaler
+Sechser-Würfel ausgeführt. Zum Beispiel 2W6 für leichte Proben, 3W6 für
+normale Proben, und 4W6 für schwere Proben.
+
 ### Rettungswürfe
 \index{Rettungswürfe}
 
@@ -71,6 +75,23 @@ Angenommen ein Stufe 1 Kämpfer mit einem Wert von 12 in "Gift und
 Todesstrahlen" wird von einer giftigen Schlange gebissen. Würfelt
 er eine 12, hat er Glück und überlebt die Wirkung des Giftes, bei
 einer 11 jedoch hätte sein letztes Stündlein geschlagen.
+
+Viele Spielleiter interpretieren die Anlässe für einen Rettungswurf auch
+etwas flexibler. Der Rettungswurf gegen Todesstrahlen ist zum Beispiel der
+Universal-Rettungswurf für alle möglichen Dinge, die einen Charakter eher
+zufällig und schlagartig treffen können, und die häufig eine tötliche
+Gefahr darstellen. Zum Beispiel könnte man einen Rettungswurf gegen
+Todesstrahlen fordern, um in einer augenscheinlich sehr baufälligen Ruine
+nicht von herabfallenden Steinen getroffen zu werden. Der Rettungswurf
+gegen Drachenodem wird häufig als Rettungswurf gegen Flächeneffekte, oder
+allgemein Dinge, die irgendwie entfernt mit Drachenodem vergleichbar sind,
+angewendet. Zum Beispiel könnte man von einem Charakter, der bei Sturm in
+der Takelage eines Schiffes herum klettert, verlangen, dass er einen
+Rettungswurf gegen Odem schaffen muss, um nicht vom Sturm aus den Wanten
+geweht zu werden. Schließlich könnte der Rettungswurf gegen Versteinerung
+und Lähmung auch für das Überwinden *nicht-magischer* Behinderungen, wie
+zum Beispiel Fesseln oder Schlingpflanzen verwendet werden.
+
 
 Magie
 -----
@@ -122,6 +143,7 @@ kennt und in seinem Sprüchebuch hat.
 
 ### Spruchforschung und neue Sprüche
 
+\index{Spruchforschung}\index{Zaubersprüche!eigene}
 Zauberkundige können auch völlig neue Sprüche entwickeln. Dieses 
 ist allerdings sehr aufwändig und es gibt keine Garantie für Erfolg.
 
@@ -165,8 +187,9 @@ wirken sich magische Rüstungen weniger auf die Belastung
 \index{Belastung!Magische Rüstungen} aus.
 
 **Magische Waffen** \index{Waffen!magische} geben Aufschläge auf
-Treffer- und Schadenswurf.  Ein magischer Morgenstern+2 verbessert
-also die Trefferwahrscheinlichkeit um 10%, und verursacht immer 2
+Trefferwürfe, und manchmal auch auf Schadenswürfe.  
+Ein magischer Morgenstern+2 verbessert
+zum Beispiel die Trefferwahrscheinlichkeit um 10%, und verursacht immer 2
 Punkte mehr Schaden, als es bei einem gewöhnlichen Morgenstern der
 Fall wäre. 
 
@@ -188,8 +211,8 @@ regelrecht aufleuchten, wenn sich eine entsprechende Kreatur in
 der Nähe befindet. Schließlich soll es Schwerter geben, die so
 voller Magie sind, dass sie ihrem Besitzer ermöglichen, bestimmte
 Sprüche zu wirken, und manche Schwerter haben sogar einen eigenen
-Willen und können selbstständig Kämpfen. Solche Schwerter
-verfolgen dann auch meistens ihre eigenen schwer durchschaubaren
+Willen und können selbstständig Kämpfen. Aber Vorsicht: solche 
+Schwerter verfolgen meistens ihre eigenen schwer durchschaubaren
 Ziele.
 
 
@@ -201,9 +224,9 @@ verziert sein.
 
 Mit einem *Magie entdecken* Spruch, kann auch ein unerfahrener
 Magier feststellen, *dass* ein Gegenstand magische Eigenschaften
-hat. Er kann jedoch nicht erkennen, genau welche!
+hat. Er kann jedoch oft nicht erkennen, genau welche!
 
-Die Wirkung magischer Gegenstände kann meistens
+Die Wirkung magischer Gegenstände kann 
 durch schlichtes ausprobieren festgestellt werden, was aber auch
 Risiken birgt. Zum Beispiel könnte es passieren, dass ein
 magischer Helm nach einmaligem aufsetzen erst einmal nicht mehr
@@ -244,7 +267,7 @@ in der Taverne sitzt, und Euch von dem alten einbeinigen Mann
 mit der Augenklappe sagenhafte alte Geschichten erzählen lasst,
 sind wir ganz klar im ersten Spielmodus, dem Stadtabenteuer. Es
 geht darum, sich zu orientieren, Gerüchte (höchst wahrscheinlich
-Plot-Hooks) in Erfahrung zu
+*Plot-Hooks*) in Erfahrung zu
 bringen, vielleicht einen Auftraggeber für einen gut bezahlten
 Job zu finden und Einkäufe zu erledigen um die Ausrüstung
 aufzustocken. Vielleicht muss ein verletzter
@@ -323,8 +346,8 @@ Gelegenheit sich nach Verstärkung umzuschauen. Dabei wird zwischen
 Söldnern bzw. sogenannten Mietlingen und Gefolgsleuten unterschieden.
 
 Söldner und Mietlinge können für bestimmte Aufgaben angeheuert werden,
-und erwarten dafür typischerweise einen marktüblichen Sold, der im
-Tabellenteil angegeben ist. Dabei kann es sich bei Söldnern um einen
+und erwarten dafür typischerweise einen marktüblichen Sold.
+Dabei kann es sich bei Söldnern um einen
 einzelnen Fackelträger handeln, aber auch um eine ganze Hundertschaft von
 Bogenschützen - je nach dem was sich der Charakter leisten kann.
 Tendentiell nehmen Söldner aber eher nicht an Dungeon-Abenteuern teil,
@@ -376,7 +399,7 @@ Phasen einzuteilen. Alles wofür die Spielercharaktere *in der
 Spielwelt* ungefähr 10 Minuten benötigen wird als Phase gezählt.
 Das kann in Realzeit schnell abgehandelt sein, zum Beispiel wenn
 die Spieler erklären, dass sie einen Raum gründlich absuchen,
-oder einfach erzählt wird: "ihr bewegt Euch vorsichtig weitere 60
+oder einfach erzählt wird: "ihr bewegt Euch vorsichtig weitere 120
 Fuß den Gang hinunter". In beiden Fällen sind *in game* jeweils
 10 Minuten - also eine Phase - vergangen[^phase]. Andererseits
 kann aber eine Phase auch *echte* 10 Minuten beanspruchen, zum
@@ -392,7 +415,7 @@ durchgespielt zu werden.
 Die Einteilung in Phasen ist spielmechanisch aus verschiedenen
 Gründen wichtig. Die Geschwindigkeit, mit der sich die
 Abenteurer durch einen Dungeon bewegen können, wird in *Fuß pro
-Phase* gemessen - selten auch in Meter pro Phase. Wurde also eine
+Phase* gemessen - manchmal auch in Meter pro Phase. Wurde also eine
 bestimmte Distanz im Dungeon zurück gelegt, ist entsprechend auch
 eine bestimmte Anzahl Phasen verstrichen, egal wie lange das
 Spiel in Realzeit gedauert hat. Es wird angenommen, dass die
@@ -402,7 +425,7 @@ natürlich zu Abzügen bei den  nächsten Würfelproben führen könnte.
 
 Und schließlich wird auch das Geschehen der Spielwelt durch das
 Verstreichen von Phasen angetrieben. Die Spielleitung wird
-nämlich typischerweise alle zwei bis drei Phasen würfeln um zu
+nämlich typischerweise alle ein bis drei Phasen würfeln um zu
 prüfen ob es zu einer zufälligen Begegnung,
 \index{Zufallsbegegnung} zum Beispiel mit einem sogenannten
 "wandernden" Monster \index{Monster!wandernde} kommt.  Wandernde
@@ -524,7 +547,8 @@ vorgeschlagen wurde.
 
 Die folgende Tabelle zeigt die verschiedenen Geschwindigkeitsstufen
 eines Charakters in Abhängigkeit von der Belastung. Mit *BW* ist die
-Basis Geschwindigkeit (oder auch *BeWegung*) gemeint. Sie wurde in den
+Basis Geschwindigkeit (oder auch *BeWegung* oder *Bewegungs-Weite*) 
+gemeint. Sie wurde in den
 früheren Ausgaben noch in Inch (") - also einer Spielbrettdistanz -
 angegeben und dann je nach Umgebung auf Fuß oder Yards bzw. Meter hoch
 gerechnet. In Tabelle \ref{belastungsstufen} werden zusätzlich noch

@@ -1,5 +1,5 @@
-Bezaubert Personen
-Person bezaubern, Personen bezaubern, Charm Person
+Person bezaubern
+Bezaubert Personen, Personen bezaubern, Charm Person
 Men & Magic
 Zauberkundige 1
 120' (36 m)
@@ -17,6 +17,8 @@ Rettungswurf zu.
 Nach Entscheidung der Spielleitung 
 können je nach Intelligenz in
 bestimmten Zeitabständen weitere Rettungswurf möglich sein:
+
+: Person bezaubern
 
 ------------------------------------------
  Intelligenz     Rettungswurf einmal pro:

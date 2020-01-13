@@ -1,30 +1,17 @@
-#### Zauberschloss
-\index{Zauberschloss}
-
-Stufe
-:
-
-Reichweite
-:
-
-Dauer
-:
-
-Wirkung
-:
-
-#### Arkanes Schloss
-Zaubergrad: 2
-Dauer: Dauerhaft
-Reichweite: 10'
-Ein Arkanes Schloss wird auf Türen, Truhen od er Portale
-gezaubert und verschließt diese ähnlich dem Zauberspruch
-Portal schließen auf magische Weise.
-Der Zauberanwender kann jederzeit ohne Schwierigkeiten das
-arkane Schloss öffnen und schließen, anderenfalls kann das
-Arkane Schloss mit Magie bannen oder Klopfen geöffnet
-werden. Zusätzlich kann jeder Zauberanwender, der
-mindestens drei Stufen mächtiger als der Spruchanwender des
-Arkanen Schlosses ist, das Arkane Schloss ungehindert
-passieren.
-
+Zauberschloss
+Arkanes Schloss, Wizard Lock
+Men & Magic
+Zauberkundige 2
+Nahbereich
+dauerhaft, bis gebrochen
+Eine Tür oder ähnliches dauerhaft verschließen.  
+Ein Arkanes Schloss wird auf Türen, Truhen oder Portale gezaubert und
+verschließt diese ähnlich dem Zauberspruch Portal schließen auf
+magische Weise.  Der Zauberanwender kann jederzeit ohne
+Schwierigkeiten das arkane Schloss öffnen und schließen, anderenfalls
+kann das Arkane Schloss mit Magie bannen oder Klopfen geöffnet werden.
+Zusätzlich kann jeder Zauberanwender, der mindestens drei Stufen
+mächtiger als der Spruchanwender des Arkanen Schlosses ist, das Arkane
+Schloss ungehindert passieren. Wesen mit Magieresistenz können magisch
+verschlossene Türen ohne jedes Problem aufbrechen.
+§

@@ -146,41 +146,37 @@ OSRICTM © 2006, Stuart Marshall, adapting material prepared by Matthew J.
 Finch, based upon the System Reference Document, and inspired by the works of
 E. Gary Gygax, Dave Arneson, and many others.
 
-Labyrinth LordTM © 2007–2009, Daniel Proctor. Author Daniel Proctor.
+Modern System Reference Document Copyright 2002-2004, Wizards of
+the Coast, Inc.; Authors Bill Slavicsek, Jeff Grubb, Rich Redman, Charles
+Ryan, Eric Cagle, David Noonan, Stan!, Christopher Perkins, Rodney
+Thompson, and JD Wiker, based on material by Jonathan Tweet, Monte
+Cook, Skip Williams, Richard Baker, Peter Adkison, Bruce R. Cordell,
+John Tynes, Andy Collins, and JD Wiker.
+
+Rot Grub from the Tome of Horrors, Copyright 2002, Necromancer
+Games, Inc.; Authors Scott Greene and Clark Peterson, based on original
+material by Gary Gygax
+
+Labyrinth Lord TM Copyright 2007, 2008, Daniel Proctor. Author Daniel
+Proctor.
+
+Labyrinth Lord TM German Version Copyright 2009, Daniel Proctor.
+Author Daniel Proctor. Translated into German by Thorsten Gresser,
+Moritz Mehlem, Clem Carlos Schermann, Alex Schröder, Marcus
+Sollmann, and Jörg Theobald.
 
 Swords & Wizardry Core Rules, © 2008, Matthew J. Finch
 
-Eldritch Weirdness, Book One, © 2008, Matthew J. Finch
+Swords & Wizardry Complete Rules, Copyright 2010, Matthew J. Finch
 
-Darwin’s World © 2002, RPGObjects; Authors Dominic Covey and Chris Davis.
+Delving Deeper Reference Rules Volume 1: The Adventurer’s Handbook Copyright 2012, Cameron Dubeers and Simon J.
+Bull.
 
-Mutant FutureTM © 2008, Daniel Proctor and Ryan Denison. Authors Daniel Proctor
-and Ryan Denison.
+Delving Deeper Reference Rules Volume 2: The Referee’s Guide Copyright 2012, Cameron Dubeers and Simon J. Bull.
 
-Advanced Edition  Companion,  ©  2009–2010, Daniel Proctor. Author Daniel
-Proctor.
-
-Lamentations of the Flame Princess: Weird Fantasy Role-Playing Deluxe Edition,
-© 2010, LotFP.  Author James Edward Raggi IV
-
-First Level Magic-User Spells Grindhouse Edition Spell Contest: Bookspeak, ©
-2011 Daniel Smith
-
-First Level Magic-User Spells Grindhouse Edition Spell Contest: Howl of the
-Moon, © 2011 Joel Rojas)
-
-Lamentations of the Flame Princess: Weird Fantasy Role-Playing Grindhouse
-Edition, © 2011, LotFP, Author James Edward Raggi IV
-
-Lamentations of the Flame Princess: Weird Fantasy Role-Playing Player Core
-Book: Rules & Magic © 2013 LotFP, author James Edward Raggi IV
+Delving Deeper Reference Rules Volume 3: The Monster & Treasure Reference Copyright 2012, Cameron Dubeers and
 
 Menschen & Magie, © 2019, Laurens Kils-Hütten
-
-Open Content: All text and tables of *Menschen & Magie*, except for
-the equipment tables on pages \pageref{eqtab} through
-\pageref{eqtabend}, which are based on an idea by Brendan S. a.k.a 
-*necropraxis* and used here with kind permission.
 
 END OF LICENCE
 

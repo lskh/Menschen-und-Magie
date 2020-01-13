@@ -1,12 +1,19 @@
-#### Segnung*
-Stufe: 2
-Dauer: 6 Runden
-Reichweite: 60 Fuß
-Segnung erfüllt die Verbündeten des Spruchwirkers innerhalb
-des Wirkradius von 20 Fuß mit Mut, wirkt jedoch nicht auf
-Gegner. Jeder Verbündete erhält einen +1 Moralbonus sowie
-+1 auf sämtliche Angriffs- und Schadenswürfe.
-Die Umkehrung dieses Spruchs wirkt nicht auf Verbündete
-innerhalb des Wirkradius, sondern auf Gegner und verursacht
+Segnung*
+Segen, Bless
+Men & Magic
+Kleriker 2
+6 Phasen
+60' (20 m), nur auf Charaktere, die sich nicht im Kampf befinden
++1 auf Moral und Angriffswürfe
+Segnung erfüllt die Verbündeten des Spruchwirkers^[Die Formulierung in
+*Men & Magic* ist "recipients" - also mehrere. Holmes Basic erklärt
+eindeutig: "... +1 to attack dice of the party blessed". Daher
+übernehme ich hier, wie auch in *Labyrinth Lord* diese Interpretation.
+In *Swords & Wizardry* dagegen wird der Spruch
+so ausgelegt, dass es nur *einen* Empfänger der Segnung geben kann.]
+innerhalb des Wirkradius von 60' (20 m) mit Mut, wirkt jedoch nicht
+auf Gegner. Jeder Verbündete erhält einen +1 Moralbonus sowie +1 auf
+sämtliche Angriffswürfe.  Die Umkehrung dieses Spruchs wirkt nicht auf
+Verbündete innerhalb des Wirkradius, sondern auf Gegner und verursacht
 Abzüge von –1 anstelle der oben erwähnten Boni.
-
+§

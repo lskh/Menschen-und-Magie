@@ -1,7 +1,10 @@
-#### Schwebende Scheibe
-Zaubergrad: 1
-Dauer: 6 Phasen
-Reichweite: 6'
+Schwebende Scheibe
+Flying Disc
+Holmes Basic
+Zauberkundige 1
+10' (3 m)
+6 Phasen
+Eine unsichtbare Transportplattform für 500 Pfund Last erzeugen.
 Der Zauberwirker erschafft ein leicht konkaves, rundes,
 scheibenförmiges Kraftfeld, das ihm folgt und Lasten tragen
 kann. Die Scheibe durchmisst 3' und ist in der Mitte etwa 1
@@ -16,3 +19,6 @@ in diesem Abstand. Wenn die Wirkung nachlässt und der
 Zauber endet, fällt alles, was auf der Scheibe transportiert
 wird, unvermittelt auf den Untergrund.
 
+Die Schwebende Scheibe wird traditionell mit dem Zauberer *Tenser* in
+Verbindung gebracht.\index{Tenser}
+§

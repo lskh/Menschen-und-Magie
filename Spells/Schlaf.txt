@@ -1,40 +1,26 @@
-#### Schlaf
-\index{Schlaf}
-
-
-Stufe
-:    Zauberkundige 1
-
-Reichweite
-:    240' (80 m)
-
-Dauer
-:    5 Runden pro Stufe
-
-Wirkung
-:    Der Zauber lässt 2W8 Trefferwürfel an lebenden Wesen für die
-genannte Dauer in einen Tiefschlaf verfallen. Durch Schläge oder
+Schlaf
+Sleep
+Men & Magic
+Zauberkundige 1
+240' (80 m)
+6 Phasen 
+Bis zu 2W8 Kreaturen einschlafen lassen.
+Der Zauber lässt bis zu 2W8 Trefferwürfel an lebenden Wesen für die
+genannte Dauer in einen Tiefschlaf verfallen (siehe Tabelle). 
+Durch Schläge oder
 Tritte können sie geweckt werden. So lange sie schlafen, kann
 ihnen aber automatisch, d.h. ohne Trefferwurf Schaden zugefügt
-werden. 
+werden. Ein Rettungswurf ist nicht zulässig; 
+Schlaf wirkt nicht gegen Untote.
 
-#### Schlaf
-Zaubergrad: 1
-Dauer: 4W4 Phasen
-Reichweite: 240'
-Ein Schlafzauber versetzt Kreaturen mit 4+1 TW in einen
-leichten magischen Schlaf. Der Zaubernde kann nur eine
-Kreatur mit 4+1 TW bezaubern, andernfalls werden Kreaturen
-mit insgesamt 2W8 Trefferwürfel in Schlaf versetzt. Kreaturen
-mit weniger als 1 TW werden wie 1 TW gehandhabt und
-Monster mit einem Bonus zu den Trefferwürfeln werd en nach
-dem gerundeten Betrag bemessen. Zum Beispiel wird ein 3+2
-TW wie ein 3 TW Wesen behandelt. Trefferwürfel, die nicht
-ausreichen, um eine Kreatur in Schlaf zu versetzen, verfallen
-wirkungslos. Kreaturen mit den kleinsten Trefferwürfeln
-werden als erste b etroffen. Schlafende Kreaturen sind hilflos
-und können mit einer Klingenwaffe sofort getötet werden.
-Schläge und Verletzungen wecken die bezauberte Kreatur,
-aber normaler Lärm ist wirkungslos. Schlaf wirkt nicht gegen
-Untote.
+: Schlaf 
 
+| Trefferwürfel | Betroffene Kreaturen | 
+|---------------|----------------------|
+| bis 1+1       | 2W8 |
+| 2+  | 2W6 |
+| 3+  | 1W6 |
+| 4 bis 4+1 | 1 |
+| > 4+1 | 0 |
+
+§

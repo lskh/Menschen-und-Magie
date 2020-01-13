@@ -1,7 +1,10 @@
-#### Spiegelbild
-Zaubergrad: 2
-Dauer: 6 Phasen
-Reichweite: nur auf sich selbst
+Spiegelbild
+Mirror Image
+Greyhawk
+Zauberkundige 2
+selbst
+6 Phasen
+1-4 Illusionen von sich selbst erzeugen.
 Mehrere illusionäre Ebenbilder des Zaubernden tauchen um
 ihn herum auf, was es für Angreifer schwer macht, das
 richtige Ziel anzugreifen. Sie sind nah an dem Zaubernden
@@ -9,7 +12,7 @@ dran und verschwinden, wenn er getroffen wird. Spiegelbild
 erstellt 1W4 identische Abbildung. Sie bewegen sich genauso
 wie der Zaubernde, geben vor zu zaubern, trinken
 Zaubertränke, usw. Feinde, die den Zaubernden angreifen,
-treffen ein Spieg elbild. Jeder Angriff zerstört ein Spiegelbild
+treffen ein Spiegelbild. Jeder Angriff zerstört ein Spiegelbild
 (auch wenn kein physischer Kontakt hergestellt worden ist) bis
 keine Spiegelbilder mehr verfügbar sind.
-
+§

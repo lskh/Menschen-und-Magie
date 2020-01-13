@@ -1,25 +1,13 @@
-#### Wasseratmen
-\index{Wasseratmen}
-
-Stufe
-:
-
-Reichweite
-:
-
-Dauer
-:
-
-Wirkung
-:
-
-#### Wasseratmen
-Zaubergrad: 3
-Dauer: 1 Tag
-Reichweite: 30'
+Wasseratmen
+Water Breathing
+Men & Magic
+Zauberkundige 3, Druiden 3
+30' (10 m)
+2 Stunden
+Unter Wasser atmen können.
 Durch diesen Zauberspruch kann der Zauberwirker oder ein
 anderes Lebewesen im Wasser ohne Schwierigkeit atmen. Er
 behält die Fähigkeit, normale Luft zu atmen. Kreaturen unter
 der Wirkung dieses Spruches erhalten nicht automatisch die
 Fertigkeit Schwimmen.
-
+§

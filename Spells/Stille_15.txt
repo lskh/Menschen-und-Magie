@@ -1,11 +1,15 @@
-#### Stille (15 Fuß Radius)
-Stufe: 2
-Dauer: 12 Runden
-Reichweite: 180 Fuß
+Stille (15 Fuß Radius)
+Schweigen (Radius 15e), Silence 15-foot radius
+Greyhawk
+Kleriker 2
+180' (54 m)
+12 Phasen
+Einen kreisförmigen Bereich absoluter Stille erzeugen.
 Wird dieser Spruch gewirkt, herrscht innerhalb von 30 Fuß
-Durchmesser absolute Stille. Jegliches Geräusch verstummt,
+(9 m) Durchmesser absolute Stille. Jegliches Geräusch verstummt,
 eine Unterhaltung ist unmöglich. Keinerlei Geräusch entsteht
-mehr innerhalb des Wirkradius. Allerdings kann man innerhalb
+mehr innerhalb des Wirkradius. Das bedeutet auch, dass aus dem Wirkbereich heraus keine Zaubersprüche gewirkt werden können.
+Allerdings kann man innerhalb
 des Wirkradius sämtliche Geräusche hören, die außerhalb
 entstehen. Der Spruch kann auf jede beliebige Stelle in der
 Umgebung gewirkt werden, der Effekt ist jedoch stationär,
@@ -19,4 +23,4 @@ Gelingt dieser Rettungswurf, tritt der Zauber zwar in Kraft,
 jedoch nicht auf der Kreatur sondern nur im Umfeld der
 Kreatur. Der Effekt ist dann stationär und die Kreatur kann
 aus dem Wirkradius herauslaufen.
-
+§

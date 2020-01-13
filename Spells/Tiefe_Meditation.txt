@@ -1,0 +1,141 @@
+Tiefe Meditation
+Tiefe Meditation
+Menschen & Magie
+Kleriker 1
+selbst
+Ritual für 3 Phasen
+Den Göttern besondere Gunst abverlangen
+Wenn der Kleriker dieses Ritual wirkt, würfelt der DM
+im geheimen auf dieser Liste. Je nach Effekt kann es sofort zu einem
+Ereignis kommen (z.B. wenn der Kleriker mit einem besonderen Spruch
+gesegnet wird), oder erst, wenn der Kleriker danach eine bestimmte
+Handlung vollzieht (z.B. die ungläubigen angreift).
+
+Kosmische Zeichen wie Sternschnuppen, Kometen, Nordlichter u.Ä. geben
+einen Bonus von +10
+
+: Tiefe Meditation
+
+----------------------------------------------------------------------
+ 1W100   Effekt
+-------- -------------------------------------------------------------
+  1-15        so intensiv Du dich auch hingibst, Du spürst, dass Dir 
+              kein Zauber gelingen wird. Was wirst Du tun, um die
+              Gunst Deiner Gottheit zurück zu gewinnen?
+
+  16-45       Deine Visionen stimmen Dich zuversichtlich, alles wird 
+              laufen, wie geplant. Du kannst Deine Zauber wirken wie
+              immer (Falls Du grundsätzlich Sprüche wirken kannst).
+
+  46-85       Deine Gottheit ist zufrieden mit Dir, sie gewährt Dir 
+              einen besonderen Spruch: eine Stufe über deinen
+              sonstigen Fähigkeiten. XP 5% der nächsten Stufe.
+
+  86          Deine Gottheit gewährt nicht nur Dir einen Spruch 
+              Deiner Wahl, sondern auch 2 Deiner Gefährten. 
+              Vorausgesetzt sie teilen Deine Gesinnung! 
+              XP 10% der nächsten Stufe
+
+  87          Du wirst Eure Feinde niederschmettern, deine 
+              (un)heilige Waffe beginnt im nächsten Kampf mit kaum zu
+              ertragender Helligkeit im Licht Deiner Gottheit zu
+              leuchten, nichts und niemand kann Dich stoppen: XP 20%
+              der nächsten Stufe, wenn Du Deiner Gottheit einen
+              Schrein errichtest.
+
+  88          einen Bonusspruch Deiner Wahl: welchen Auftrag wirst Du 
+              Deiner Gottheit dafür erfüllen? XP 5% der nächsten
+              Stufe.
+
+  89          Deine Gottheit erscheint selbst, Rettungswurf gegen Odem 
+              um nicht handlungsunfähig auf die Knie zu fallen. Deine
+              Gefährten werden in Furcht die Flucht ergreifen, wenn Du
+              sie nicht davor bewahren kannst. Gelingt es Dir, steigst
+              Du sofort eine Stufe auf. Versagst Du, steigt Deine
+              Weisheit um +2.
+
+  90          Einer Deiner Gefährten könnte der neue Paladin / Rächer 
+              sein, wirst Du ihn bekehren? Du bist zuversichtlich und
+              wirkst Deinen Spruch mit doppelter Effektstärke.
+
+  91          Du spürst die Wut Deiner Gottheit, +3 auf Treffer und 
+              Schadenswürfe im nächsten Kampf. XP 10% der nächsten
+              Stufe, wenn Du auf diesem Wege die Ungläubigen
+              niederstreckst.
+
+  92          nicht nur Deine Gottheit nimmt Dein Bitten wahr: Ihr 
+              Gegner schickt einen Dämon/Teufel/Engel um Dir eine
+              Lehre zu erteilen. Ein Reaktionswurf entscheidet, ob der
+              Gesandte dich bekehren will, nur auf eine Tasse Tee
+              gekommen ist, oder den Auftrag hat, Dich zu zerquetschen
+              wie Ungeziefer.
+
+  93          Du spürst den Schutz Deines Glaubens und dass Deine 
+              Gottheit Dir heute gut gesinnt ist. Jeglicher Schaden
+              den Du heute nehmen würdest wird von Dir abprallen als
+              wäre es nie geschehen. Doch dies bleibt nicht ohne
+              Preis. Ist Deine Gottheit chaotischer Gesinnung, so
+              trifft es zufällig ein anderes Wesen in der Nähe des
+              Kampfgeschehens. Bei einer rechtschaffenen Gottheit
+              trifft es einen zufälligen Gegner. Bei einer neutralen
+              Gottheit teilt sich der Schaden zu gleichen Teilen auf
+              alle Wesen in einem Umkreis von 5m um Dich herum auf,
+              auch den Angreifer selbst, wenn er sich in diesem
+              Umkreis befindet.
+
+  94          Du fühlst Dich nach der Meditation als sei heute das 
+              Glück auf Deiner Seite und als ob Dir alles gelingen
+              würde. Bei jeder Probe außerhalb von Kampfsituationen
+              erhältst Du einen Bonus in Höhe Deiner aktuellen Stufe.
+
+  95          Deine Gottheit gewährt heute Boni auf Moral-Proben in 
+              Kampfsituationen. Ist die angebetete Gottheit
+              chaotischer Gesinnung, so gibt es einen Bonus von 1W4
+              auf Moral-Proben zugunsten der Gegner, bei
+              rechtschaffener Gesinnung zuungunsten der Gegner.  Bei
+              neutraler Gesinnung werden Moralproben nur mit 1W6+2
+              gewürfelt.
+
+  96          Du erwachst aus Deiner tiefen Meditation mit einer 
+              gestärkten Wachsamkeit und spürst förmlich jegliches
+              andere Wesen um Dich herum. Heute bist Du nie überrascht
+              und gewinnst in jeder Kampfrunde die individuelle
+              Initiative.
+
+  97          Dein Gott erhöhrt deine Gebete und gewährt dir und 
+              deinen Gefährten ein Festmahl aus erlesenen Speisen und
+              kostbarem Wein. Das Mahl kann bis zu 20 Leute für den
+              restlichen Tag nähren. Jeder, der davon isst, wird von
+              Krankheiten und Giften geheilt und erhält für den Rest
+              des Tages einen Bonus auf seine aktuellen und maximalen
+              Trefferpunkte in Höhe von 1W6 + deine Klerikerstufe.
+
+  98          Dein Gott ist zufrieden mit dir und möchte, dass du 
+              noch lange auf dieser Welt verbleibst. Er verjüngt
+              deinen Körper, woraufhin dein Alter um 2W4 Jahre sinkt,
+              aber nie unter 18 Jahre. Deine Stärke, Konstitution und
+              Geschicklichkeit steigen jeweils um +1. Dafür brauchst
+              du 10 % mehr Erfahrung, um deine nächste Stufe zu
+              erreichen.
+
+  99          Du hast erschreckend reale Visionen einer schrecklichen 
+              Plage, die deine Feinde heimsucht - zum Beispiel ein
+              Insektenschwarm, der ihre Felder verheert, eine
+              Krankheit, die ihre Krieger dahinrafft oder ein
+              Blutregen, der sie in Angst und Schrecken versetzt.
+              Beschreibe deine Vision.  Daraufhin wird die Plage wahr,
+              mit allen Konsequenzen, die der Zorn deines Gottes mit
+              sich bringt. Doch die Visionen zehren dich aus. Für den
+              Rest des Tages handelst du immer als letztes in der
+              Initiative und erhältst einen Abzug von -2 auf Angriffs-
+              und Rettungswürfe.
+
+  00          Dein Gott erscheint in unerwarteter Gestalt, und 
+              gewährt Dir einen Wunsch. Gelingt Dir eine
+              Weisheitsprobe geht der Wunsch in Erfüllung, verfehlst
+              Du sie begebe Dich auf eine heilige Queste und Deine
+              Weisheit steigt um +2.
+
+----------------------------------------------------------------------
+
+§

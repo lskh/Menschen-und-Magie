@@ -1,7 +1,9 @@
-#### Regeneration*
-Stufe: 7
-Dauer: permanent
-Reichweite: Berührung
+Regeneration*
+Regenerate
+Players Handbook
+Kleriker 7
+Berührung
+permanent
 Sämtliche abgetrennten Körperteile (Finger, Arme, Zehen,
 Füße, Hände, Beine, Schwänze und sogar Köpfe bei
 mehrköpfigen Kreaturen) des Ziels, sowie gebrochene
@@ -19,4 +21,4 @@ zerfällt zu Staub. Der Spruchwirker muss einen erfolgreichen
 Berührungsangriff auf das Ziel schaffen, damit der Spruch
 funktioniert. Der Herr der Labyrinthe legt den betroffenen
 Körperteil zufällig fest.
-
+§

@@ -1,8 +1,9 @@
 ---
 title: Menschen \& Magie
-subtitle: Hausregeln
+subtitle: Grenzland-Hausregeln
 titlegraphic: img/DnD-Dwarf.png
-rights: © 2019 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
+logo: img/logo.png
+rights: © 2019, 2020 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
 lang: de
 ---
 
@@ -15,7 +16,7 @@ Original Fantasy Rollenspiel von 1974 basieren.
 \newline
 Version *beta*, 
 \newline
-Text und Satz: © Wanderer Bill, 2019 \newline
+Text und Satz: © Wanderer Bill, 2019, 2020\newline
 <wandererbill73@gmail.com>
 \small
 
@@ -28,7 +29,7 @@ Finch
 Die *Hausregeln* sind Open Game
 Content im Sinne der Open Game License, OGL 1.0a
 
-Das heißt, Du darfst dieses Heftchen für Dich und für andere kopieren.
+Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
 Gib es gerne weiter! 
 
 Es ist auch kein Problem, die *Hausregeln* für deinen
@@ -37,6 +38,11 @@ dabei an die Regeln der Open Game License.
 
 Schließlich sind die *Grenzland-Hausregeln* auch Open Source. Du findest die Quelldateien für dieses Dokument unter 
 <https://github.com/lskh/Hausregeln>
+
+Open Content: All text and tables of Menschen & Magie, except for the
+equipment tables on pages \pageref{eqtab} through \pageref{eqtabend},
+which are based on an idea by Brendan S. a.k.a necropraxis and used
+here with kind permission.
 
 \normalsize 
 
@@ -205,8 +211,8 @@ Sprachen
 
 Klassen
 :    Kämpfer bis Stufe 4, Zauberkundige bis Stufe 8, Dieb unbegrenzt
-     Multiklassen Kämpfer(4)/Zauberkundiger(8), Kämpfer(4)/Dieb,
-     Kämpfer(4)/Zauberkundiger(8)/Dieb
+     Multiklassen Kämpfer(4)/Zauberkundige(8), Kämpfer(4)/Dieb,
+     Kämpfer(4)/Zauberkundige(8)/Dieb
 
 Spezialfertigkeiten
 :    +1 auf Trefferwürfe gegen Goblins, Orks, intelligente Untote und
@@ -222,6 +228,8 @@ Sprache
 
 Klassen
 :    Kämpfer bis Stufe 4, Dieb unbegrenzt.
+     Halblinge können unter bestimmten Umständen auch Punks werden,
+     siehe Klassenbeschreibung.
 
 Spezialfertigkeiten
 :    +2 auf jegliche Fernkampfangriffe
@@ -236,17 +244,28 @@ Sprachen
 
 ### Orks und Halb-Orks
 
+Orks und Halb-Orks können nur als "übernommene NSC" gespielt werden.
+Sollte ein Spieler einen - der Gruppe freundlich gesonnnenen - Ork
+finden, den er als Spielerfigur übernehmen will, würfelt er dessen
+Attribute aus, und wählt eine Klasse. Die Attribute Stärke und
+Konstitution erhalten einen Aufschlag von +1, das Charisma einen Abzug
+von -2.
+
 Klassen
-:    Kämpfer bis Stufe 6
+:    Kämpfer bis Stufe 10, Kleriker bis Stufe 4, Dieb bis Stufe 6
+     Orks können unter bestimmten Umständen auch Punks werden,
+     siehe Klassenbeschreibung.
 
 Spezialfertigkeiten
-: 
+:    Infravision auf 18 m
 
 Resistenzen
-:
+:    keine
 
 Sprachen
-:
+:    Orkisch und Gesinnungssprache. Je nach Intelligenz bis zu 2
+     zusätzliche Sprachen, die erste hiervon ist in der Regel die 
+     Gemeinsprache.
 
 
 ## Charakterklassen
@@ -262,7 +281,30 @@ Trefferpunkte
 Klassenfähigkeiten
 :    Kämpfer haben keine besonderen Klassenfähigkeiten. Magie ist
      ihnen nur durch die Benutzung magischer Waffen zugänglich. Dafür
-     sind Kämpfer in der Regel im Kampf die robustesten Charaktere.
+     sind Kämpfer in der Regel im Kampf die robustesten Charaktere. 
+
+     Gegen Kreaturen mit bis zu einem Trefferwürfel können Kämpfer
+     einen Nahkrampfangriff pro Stufe ausführen. Zum Beispiel könnte
+     einen Kämpfer der Stufe 4 gegen eine Gruppe Orks 4
+     mal pro Runde zuschlagen.
+
+     Statt dem üblichen Stufenbonus erhalten Kämpfer einen Würfel für  
+     einen variablen Angriffsbonus:
+
+     | Stufe  |  Deed die |
+     |:------:|:---------:|
+     | 1-3    |    1W3 |
+     | 4-6    |    1W4 |
+     | 7-9    |    1W6 |
+     | 10-12  |    1W8 |
+
+     Der Kämpfer kann vor seinem Angriff ein besonderes Vorhaben
+     deklarieren. Gelingt der Treffer *und* erreicht der Wert auf dem *deed
+     die* 3+ gelingt die epische Tat.
+
+     Für eine gelungene Großtat gibt es XP in Höhe von 10% der nächsten
+     Stufe.
+
 
 Klassenbeschränkungen
 :    keine
@@ -625,7 +667,7 @@ zerstört werden.
     6 Fackeln, Eiserne Rationen für 7 Tage,
     1 Phiole Weihwasser, silbernes heiliges Symbol, 4 GM, BW 6"
 
-### Zauberkundiger
+### Zauberkundige
 
 Primärattribut
 :    Intelligenz
@@ -708,7 +750,7 @@ Klassenbeschränkungen
 | Zaubersprüche, -stecken, -ruten | 15  | 12   | 8     | 3 |
 
 
-#### Ausrüstung Zauberkundiger
+#### Ausrüstung Zauberkundige
 
   3. Normale Kleidung (RK 9), 1 Dolch (1W4), 1 kleiner
     Sack, Wasserschlauch, 7 frische Rationen, 3 m
@@ -951,7 +993,7 @@ Rettungswürfe
 
 \label{eqtabend}
 
-## Punk
+### Punk
 
 Die Punks sind durch eine unerklärliche Störung der Ebenenstruktur in
 die Fantasy-Welt geraten, die meisten von Ihnen haben sich dort jedoch
@@ -962,6 +1004,83 @@ Keulen als Waffen (1W6). Der ein oder andere hat vielleicht auch noch
 seinen alten Baseball-Schläger dabei. Ist beides nicht zur Hand tun es
 auch abgebrochene Bierflaschen (1W4), die jedoch nach 1W4 Angriffen
 ganz zerbrechen, und dabei dem Punk selbst 1 Punkt Schaden zufügen.
+
+Primärattribut
+:     Konstitution
+
+Trefferpunkte
+:     1W
+
+#### Klassenfertigkeiten
+
+##### Schnorren
+Innerhalb geschlossener Ortschaften - sagen wir mal: es muss dort
+mindestens eine Taverne, einen Händler und einen Sakralbau geben -
+können Punks jeden Tag mit einer Wahrscheinlichkeit von 20% plus 10%
+pro Stufe 1W10 Silbermünzen erschnorren, sie können an diesem Tag
+allerdings keine anderen wesentlichen Dinge erledigen.
+
+##### Pogo
+Ertönt am Ort des Geschehens Musik können Punks ihre Gegner weg pogen.
+Sie erhalten dabei immer einen freien Angriff als hätten sie die
+Gegner überrascht, und sie können bis zu drei verschiedene Gegner
+angreifen und dabei 1W6 nicht-tödlichen Schaden anrichten. Bei jeder
+Musik die kein echter Punkrock ist, erleiden Sie allerdings einen
+Abzug von -2 auf ihre Pogo-Angriffe. Ansonsten kämpfen Punks wie Diebe
+und haben auch die gleichen Rettungswürfe wie Diebe.
+
+##### Chaos
+Da Punks so chaotisch sind, können sie alle magischen Gegenstände
+benutzen. Bei solchen die eigentlich nur Zauberkundigen vorbehalten
+sind (einschließlich Spruchrollen) müssen Sie allerdings gleich oder
+weniger als Ihre Stufe plus Intelligenzmodifikator würfeln, damit kein
+völlig chaotischer Effekt eintritt (viel Spaß Spielleiter!)
+
+
+##### Punkrock
+
+Punkrock ist die beste (und einzige) Voraussetzung für Pogo-Angriffe
+ohne Abzug. Zum Glück können drei oder mehr Punks eine Punkrock-Band
+gründen, vorausgesetzt sie haben die erforderlichen Instrumente (ein
+paar Blecheimer, eine verstimmte Laute, und ein Waschzuber mit
+Besenstiel und Wäscheleine als Bass wären bereits eine hervorragende
+Ausstattung). Allerdings können Punks nicht gleichzeitig rocken und
+pogen (o.k., der Typ mit der verstimmten Laute vielleicht schon, aber
+die könnte dann kaputt gehen).
+
+##### Punk’s not dead
+Punks, die auf Null Trefferpunkte oder weniger reduziert sind,
+erhalten einen Rettungswurf gegen Todesstrahlen. Ist dieser
+erfolgreich, erwachen sie am Folgetag mit 1+KON-Modifikator
+Trefferpunkten an einem zufällig, oder von der Spielleitung bestimmten
+Ort.
+
+##### Do it yourself
+Punks brauchen können ihre nichtmagische Ausrüstung selbst herstellen.
+Sie brauchen dafür bis zu 1W6 Tage (Entscheidung der Spielleitung),
+allerdings besteht immer die Gefahr, dass der Gegenstand  nach 1W4
+Benutzungen unbrauchbar wird, und dem Punk dabei einen Schadenspunkt
+zufügt (s. oben: abgebrochene Bierflaschen als Dolch-Ersatz).
+
+
+
+Klassenbeschränkungen
+:     Die Klasse Punk kann nur gewählt werden, wenn ein neuer
+      Charakter seine Abenteurerkarriere in einer größeren Ortschaft
+      beginnt - das wird in der Regel eine befestigte Ortschaft sein,
+      es sollte also eine Stattmauer oder ähnliches geben.
+
+      Nehmen Punks - freiwillig oder unfreiwillig - eine andere
+      Gesinnung als die chaotische an, werden Sie automatisch zu ganz
+      normalen Fantasy-Dieben, allerdings um eine Stufe reduziert.
+      Andererseits können chaotische Diebe, und zwar nur Menschen,
+      Halblinge und Orks, zu Punks der gleichen Stufe werden, wenn sie
+      mit zwei oder mehr Punks eine Nacht durchgezecht haben.  Elfen
+      und Zwerge werden niemals Punks, auch wenn sie chaotische Diebe
+      sind.
+
+      Rechtschaffene Wesen reagieren auf Punker immer mit einem Abzug
+      von -3.
 
 
 : Punk Stufen
@@ -985,65 +1104,6 @@ ganz zerbrechen, und dabei dem Punk selbst 1 Punkt Schaden zufügen.
 Rettungswürfe auf Stufe 1
 :    Gift: 11, Stäbe: 11, Lähmung: 14, Odem: 16,\newline
      Sprüche: 15
-
-### Klassenfertigkeiten
-
-#### Schnorren
-Innerhalb geschlossener Ortschaften - sagen wir mal: es muss dort
-mindestens eine Taverne, einen Händler und einen Sakralbau geben -
-können Punks jeden Tag mit einer Wahrscheinlichkeit von 20% plus 10%
-pro Stufe 1W10 Silbermünzen erschnorren, sie können an diesem Tag
-allerdings keine anderen wesentlichen Dinge erledigen.
-
-#### Pogo
-Ertönt am Ort des Geschehens Musik können Punks ihre Gegner weg pogen.
-Sie erhalten dabei immer einen freien Angriff als hätten sie die
-Gegner überrascht, und sie können bis zu drei verschiedene Gegner
-angreifen und dabei 1W6 nicht-tödlichen Schaden anrichten. Bei jeder
-Musik die kein echter Punkrock ist, erleiden Sie allerdings einen
-Abzug von -2 auf ihre Pogo-Angriffe. Ansonsten kämpfen Punks wie Diebe
-und haben auch die gleichen Rettungswürfe wie Diebe.
-
-#### Chaos
-Da Punks so chaotisch sind, können sie alle magischen Gegenstände
-benutzen. Bei solchen die eigentlich nur Zauberkundigen vorbehalten
-sind (einschließlich Spruchrollen) müssen Sie allerdings gleich oder
-weniger als Ihre Stufe plus Intelligenzmodifikator würfeln, damit kein
-völlig chaotischer Effekt eintritt (viel Spaß Spielleiter!)
-
-Nehmen Punks - freiwillig oder unfreiwillig - eine andere Gesinnung als
-die chaotische an, werden Sie automatisch zu ganz normalen
-Fantasy-Dieben, allerdings um eine Stufe reduziert. Andererseits
-können chaotische Diebe zu Punks der gleichen Stufe werden, wenn sie
-mit zwei oder mehr Punks eine Nacht durchgezecht haben.
-
-Rechtschaffene Wesen reagieren auf Punker immer mit einem Abzug von
--3.
-
-#### Punkrock
-
-Punkrock ist die beste (und einzige) Voraussetzung für Pogo-Angriffe
-ohne Abzug. Zum Glück können drei oder mehr Punks eine Punkrock-Band
-gründen, vorausgesetzt sie haben die erforderlichen Instrumente (ein
-paar Blecheimer, eine verstimmte Laute, und ein Waschzuber mit
-Besenstiel und Wäscheleine als Bass wären bereits eine hervorragende
-Ausstattung). Allerdings können Punks nicht gleichzeitig rocken und
-pogen (o.k., der Typ mit der verstimmten Laute vielleicht schon, aber
-die könnte dann kaputt gehen).
-
-#### Punk’s not dead
-Punks, die auf Null Trefferpunkte oder weniger reduziert sind,
-erhalten einen Rettungswurf gegen Todesstrahlen. Ist dieser
-erfolgreich, erwachen sie am Folgetag mit 1+KON-Modifikator
-Trefferpunkten an einem zufällig, oder von der Spielleitung bestimmten
-Ort.
-
-#### Do it yourself
-Punks brauchen können ihre nichtmagische Ausrüstung selbst herstellen.
-Sie brauchen dafür bis zu 1W6 Tage (Entscheidung der Spielleitung),
-allerdings besteht immer die Gefahr, dass der Gegenstand  nach 1W4
-Benutzungen unbrauchbar wird, und dem Punk dabei einen Schadenspunkt
-zufügt (s. oben: abgebrochene Bierflaschen als Dolch-Ersatz).
 
 #### Ausrüstung für Punks
 
@@ -1847,7 +1907,7 @@ Charaktere dargestellt.
 Charaktere, die eine ganze Spielrunde überleben, erhalten
 500 Erfahrungspunkte.
 
-## Erreichen neuern Stufen
+## Erreichen neuer Stufen
 
 Um eine neue Stufe zu erreichen, braucht ein Charakter die
 erforderliche Anzahl an Erfahrungspunkten *und* eine Nacht erholsamen

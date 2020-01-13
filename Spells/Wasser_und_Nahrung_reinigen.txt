@@ -1,32 +1,11 @@
-#### Wasser und Nahrung reinigen*
-\index{Wasser und Nahrung reinigen}
-
-
-Stufe
-:    Kleriker 1
-
-Reichweite
-:    10' (3 m)
-
-Dauer
-:    permanent
-
-Wirkung
-:    Mit diesem Spruch können Nahrung und Wasser für bis zu 12 Personen wieder genießbar gemacht werden, wenn sie
-zuvor verschmutzt, vergiftet oder auf andere Art kontaminiert
-wurden. Der umgekehrte Spruch vergiftet Wasser und Nahrung ...
-eine perfide Angelegenheit.
-
-#### Wasser und Nahrung reinigen
-Stufe: 1
-Dauer: permanent
-Reichweite: 10 Fuß
+Wasser und Nahrung reinigen*
+Reinigt Essen und Trinken, Purify Food and Water
+Men & Magic
+Kleriker 1
+Nahbereich
+Sofort, dauerhaft
+Nahrung von Verderbnis und Gift befreien.
 Dieser Spruch macht verschmutztes, brackiges, giftiges oder
 anderweitig kontaminiertes Essen und Wasser wieder
-genießbar. Bis zu 6 Liter Flüssigkeit, eine Tagesration oder
-eine Menge an nicht zubereiteten Nahrungsmitteln
-ausreichend für zwölf menschengroße Personen können durch
-diesen Spruch genießbar gemacht werden. Dieser Spruch
-unterbindet nicht den natürlichen Verfall der Nahrung sowie
-des Wassers.
-
+genießbar. Es wird Nahrung für etwas 12 Personen gereinigt.
+§

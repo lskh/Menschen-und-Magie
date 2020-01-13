@@ -18,11 +18,11 @@ solltest Du Dir ein bisschen Platz für eine kleine Skizze deiner Figur
 frei halten.
 
 Oben in die Mitte, zwischen dem Namen des Charakters und deinem Namen
-brauchst Du etwas Platz, um *Klasse* und *Stufe* deines Charakters zu
-notieren. Was mit Klasse gemeint ist, besprechen wir gleich, bei Stufe
-kannst Du schon mal eine eins eintragen. Du brauchst auch noch ein
-Feld um Deine *Gesinnung* zu notieren. Eine Zeile unter *Klasse* würde
-sich dafür anbieten.
+brauchst Du etwas Platz, um *Volk*, *Klasse* und *Stufe* deines Charakters
+zu notieren. Was mit Klasse gemeint ist, besprechen wir gleich, bei Stufe
+kannst Du schon mal eine eins eintragen. Du brauchst auch noch ein Feld um
+Deine *Gesinnung* zu notieren. Eine Zeile unter *Klasse* würde sich dafür
+anbieten.
 
 Am linken Rand des Blattes schreibst Du unter einander die Worte:
 "Stärke", "Intelligenz", "Weisheit", "Geschicklichkeit", "Konstitution"
@@ -51,7 +51,7 @@ Stufen aus:
 : Primärattribute und Erfahrungspunkte
 
 | Attribut | Erfahrungspunkte |
-|----------|------------------|
+|:--------:|:----------------:|
 |  15+     | + 10%            |
 |  13 - 14 | + 5%             |
 | 9 - 12   | kein Bonus       |
@@ -132,6 +132,7 @@ Charisma \index{Charisma}
 Fantasy-Völker
 --------------
 
+\index{Völker}
 Die meisten Spielercharaktere sind üblicherweise Menschen. Es ist aber
 auch möglich einen Charakter eines typischen Fantasy-Volkes, also
 einen Elf, einen Halbling oder einen Zwerg zu spielen. Traditionell
@@ -146,6 +147,7 @@ sind.
 
 ### Zwerge
 
+\index{Zwerge}
 Zwerge können die Klasse Kämpfer oder Kleriker wählen. Sie können
 maximal Stufe 6 erreichen. Dafür sind Zwerge besonders resistent gegen
 Magie und bekommen daher einen  Bonus von +4 auf ihren Rettungswurf
@@ -159,6 +161,7 @@ Sprachen der Gnome, Kobolde und Goblins.
 
 ### Elfen
 
+\index{Elfen}
 Elfen können Zauberkundige oder Kämpfer, oder auch beides gleichzeitig
 sein. Dafür können sie als Kämpfer nur Stufe 4, und als Zauberkundige
 nur Stufe 8 erreichen. Elfen können gleichzeitig als Kämpfer und als
@@ -175,6 +178,7 @@ Elfisch und die Sprache der Orks, Hobgoblins und der Gnolle.
 
 ### Halblinge
 
+\index{Halblinge}
 Halblinge können nur die Klasse des Kämpfers wählen und als solche
 auch nur bis Stufe 4 aufsteigen. Dafür haben sie die Magieresistenz
 und die Kampfeigenschaften gegen Riesen der Zwerge und erhalten einen
@@ -185,6 +189,7 @@ unsichtbar, wenn sie sich verstecken.
 Klassen
 -------
 
+\index{Klassen}
 Nun ist es an der Zeit eine Klasse für Deinen Charakter zu wählen. Wie
 schon gesagt bietet *Menschen & Magie* die ursprünglichen drei Klassen
 "Kämpfer", "Kleriker" und "Zauberkundiger". Du kannst die Wahl der
@@ -220,7 +225,7 @@ Primärattribut
 :    Stärke
 
 Trefferpunkte
-:    1W+1 
+:    1W6+1 
 
 Klassenfähigkeiten
 :    Kämpfer haben keine besonderen Klassenfähigkeiten. Magie ist
@@ -231,8 +236,7 @@ Klassenbeschränkungen
 :    keine
 
 Rettungswürfe
-:    Gift: 12, Stäbe: 13, Lähmung: 14, Odem: 15,\newline
-     Sprüche: 16
+:    Gift: 12, Stäbe: 13, Lähmung: 14, Odem: 15, Sprüche: 16
 
 
 ### Kleriker
@@ -241,7 +245,7 @@ Primärattribut
 :    Weisheit
 
 Trefferpunkte
-:    1W 
+:    1W6 
 
 Klassenfähigkeiten
 :    Kleriker können "Untote" beherrschen, und ab der zweiten Stufe 
@@ -275,8 +279,7 @@ Klassenbeschränkungen
 :    Kleriker dürfen nur stumpfe Waffen benutzen.
 
 Rettungswürfe
-:    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16,\newline
-     Sprüche 15
+:    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16, Sprüche 15
 
 
 ### Zauberkundiger
@@ -285,7 +288,7 @@ Primärattribut
 :    Intelligenz
 
 Trefferpunkte
-:    1W 
+:    1W6 
 
 
 Klassenfähigkeiten
@@ -307,40 +310,35 @@ Klassenfähigkeiten
 	
 
 Klassenbeschränkungen
-:    Zauberkundige dürfen keine Waffen außer Dolchen
-     benutzen. Zauberkundige dürfen keine Rüstungen und
+:    Zauberkundige dürfen keine Waffen außer Dolche
+     und Stäbe benutzen. Zauberkundige dürfen keine Rüstungen und
      keine Schilde tragen.
 
 Rettungswürfe
-:    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16,\newline
-     Sprüche 15
+:    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16, Sprüche 15
 
 
 Unter bestimmten Voraussetzungen kann es auch möglich sein die Klasse
-eines Charakters zu wechseln. So etwas ist sicher nicht alltäglich,
-sondern eher ein *Life Event* und sollte sich aus der Geschichte des
-Spiels ergeben. Daneben gibt auch noch weitere Klassen wie zum
-Beispiel Paladine, Waldläufer, Druiden, Illusionisten, Assassinen oder
-sogar Mönche. Wenn Du ein anderes Spielerhandbuch benutzt - was das
-Einverständnis der Spielleiterin voraussetzt - findest Du dort
-vielleicht Angaben zu anderen Klassen. Meistens kann man diese Klassen
-aber nur spielen, wenn man bestimmte Mindestwerte in den Attributen
-erwürfelt hat, oder in einer der Standard-Klassen eine bestimmte Stufe
-erreicht hat.
+eines Charakters zu wechseln\index{Klasse!Wechsel der}. 
+So etwas ist sicher nicht alltäglich, sondern eher ein *Life Event* und
+sollte sich aus der Geschichte des Spiels ergeben. 
 
-Andererseits solltest Du versuchen, Dich nicht durch die
-Klassenbezeichnungen einschränken zu lassen. In
-Old-School-Rollenspielen wird vieles auf dem Charakterbogen gar
-nicht so genau fest gelegt. Du kannst einfach die Klasse nehmen,
-die grob am besten zu Deiner Charakteridee passt, und die Details
-rollenspielerisch ausfüllen. Der Begriff "Zauberkundiger" - im
-englischen Original "magic-user", illustriert das ganz gut: Die
-Klasse bietet Dir grundsätzlich Zugang zu Magie. Für die
-Ausgestaltung Deines Magie-Anwenders gibt es aber viele
-verschiedene Möglichkeiten. Du könntest natürlich einen
-klassischen Magier mit spitzem Hut spielen, aber genauso gut auch
-eine Hexe, einen gelehrten Forscher der arkanen Künste, oder
-einen illusionistisch begabten Trickbetrüger.
+Neben den hier vorgestellten Klassen, gibt es in den diversen
+Regelerweiterungen weitere Klassen, wie zum Beispiel Paladine, Waldläufer,
+Druiden, Illusionisten, Assassinen oder sogar Mönche. Andererseits solltest
+Du versuchen, Dich nicht durch die Klassenbezeichnungen einschränken zu
+lassen. 
+
+In Old-School-Rollenspielen wird vieles auf dem Charakterbogen gar
+nicht so genau fest gelegt. Du kannst einfach die Klasse nehmen, die grob
+am besten zu Deiner Charakteridee passt, und die Details rollenspielerisch
+ausfüllen. Der Begriff "Zauberkundiger" - im englischen Original
+"magic-user", illustriert das ganz gut: Die Klasse bietet Dir grundsätzlich
+Zugang zu Magie. Für die Ausgestaltung Deines Magie-Anwenders gibt es aber
+viele verschiedene Möglichkeiten. Du könntest natürlich einen klassischen
+Magier mit spitzem Hut spielen, aber genauso gut auch eine Hexe, einen
+gelehrten Forscher der arkanen Künste, oder einen illusionistisch begabten
+Trickbetrüger.
 
 Genau so gut könnte ein Kleriker auch als Druide oder Schamane
 ausgestaltet werden, und ein Kämpfer als stolzer (möchtegern) Ritter,
@@ -355,7 +353,6 @@ Hintergrundgeschichte Deines Charakters. Das Abenteurerleben in
 Old-School-Spielen kann sehr kurz sein. Du solltest es lieber so
 sehen, dass die Hintergrundgeschichte Deines Charakters während
 der ersten drei Stufen erspielt wird.
-
 
 
 Gesinnung
@@ -427,6 +424,7 @@ bekannt sind.
 Zaubersprüche
 -------------
 
+\index{Zaubersprüche}
 Zauberkundige lernen ihre Sprüche durch kostspielige Ausbildung
 bei einem Meister, magische Forschung oder durch glückliche
 Zufälle während ihrer Abenteuer.  Um einen Spruch wirken zu
@@ -436,7 +434,9 @@ einprägen\index{Zauberspruch!vorbereiten}. Wird der Spruch
 einmal gewirkt, ist der Zauberkundige in Folge der Anstrengungen
 des Spruchwirkens nicht mehr in der Lage, den gleichen Spruch
 noch einmal zu wirken, sondern der Spruch muss auf die gleiche
-Weise erneut vorbereitet werden.  Daher können Zauberkundige der
+Weise erneut vorbereitet werden^[Diese Art von Magie wird "Vance'sche
+Magie" genannt, da sie genau so funktioniert, wie es von Jack Vance in seinen
+*Dying Earth*-Geschichten beschrieben wurde.].  Daher können Zauberkundige der
 ersten Stufe nur einen einzigen Spruch pro Tag wirken. Einmal
 gelernte Sprüche werden aus dem Gedächtnis gewirkt. Es ist also
 nicht erforderlich, dass der Zauberkundige sein Zauberbuch -
@@ -467,8 +467,8 @@ Gottheit bringen könnte.
 Zauberkundige müssen den umgekehrten Spruch explizit
 vorbereiten, und können ihn dann auch nur so wirken.
 
-Die folgende Spruchauswahl orientiert sich stark an den
-ursprünglichen Regeln von 1974 bzw. an *Swords & Wizardry White Box*. Wenn
+Die folgende Spruchauswahl entspricht den
+ursprünglichen Regeln von 1974 bzw. *Swords & Wizardry White Box*. Wenn
 keine Angaben zu einem Rettungswurf oder einer
 Materialkomponente gegeben sind, ist auch explizit kein
 Rettungswurf vorgesehen, bzw. keine Materialkomponente
@@ -726,9 +726,6 @@ damit einmal entziffert hat, kann genau diese magische
 Schrift fortan ohne erneutes Wirken des Spruches
 gelesen werden.
 
-
-
-
 Geld und Ausrüstung
 ---------------------
 \index{Geld}\index{Ausrüstung!Pakete}
@@ -738,14 +735,16 @@ Wurf von 3W6 mit 10 multipliziert wird. Dabei ergibt sich dann ein
 Betrag von 30 bis 180 Goldmünzen (GM), von dem der Charakter seine
 erste Ausrüstung kaufen kann. 
 
-Natürlich kannst Du jetzt zu den Ausrüstungstabellen vorblättern und
-deinem Charakter eine ganz eigene Ausrüstung zusammen stellen. Viel
-einfacher ist es aber, auf einer der folgenden Tabellen deine
-Grundausrüstung auszuwürfeln[^necropraxis]. Dabei entspricht zum
-Beispiel der Eintrag mit der Nummer 5 in der Klerikertablle einer
-soliden Ausrüstung, die sich ein Kleriker-Charakter von 50 Goldmünzen
-kaufen könnte. Was dabei nicht ausgegeben wurde, bleibt als Bargeld
-übrig.
+Natürlich kannst Du jetzt zu den Ausrüstungstabellen vorblättern und deinem
+Charakter eine ganz eigene Ausrüstung zusammen stellen. Viel einfacher ist
+es aber, auf einer der folgenden Tabellen deine Grundausrüstung
+auszuwürfeln^[Die Idee mit der auswürfelbaren Ausrüstung wurde das erste
+mal von dem Blogger Brendan S., auch bekannt als *Necropraxis*
+veröffentlicht. Er war so nett, mir zu erlauben sie in *Menschen &
+Magie* zu verwenden.]. Dabei entspricht zum Beispiel der Eintrag mit der
+Nummer 5 in der Klerikertablle einer soliden Ausrüstung, die sich ein
+Kleriker-Charakter von 50 Goldmünzen kaufen könnte. Was dabei nicht
+ausgegeben wurde, bleibt als Bargeld übrig.
 
 Wenn Dir Deine erwürfelte Ausrüstung nicht gefällt, kannst Du
 natürlich eine Ausrüstung mit einem niedrigeren Wert aussuchen, und
@@ -753,12 +752,6 @@ Dir die Differenz in Goldmünzen gut schreiben. Sagen wir Du würfelst
 für Deinen Zauberkundigen eine 12, aber die Ausrüstung, die unter 11
 angegeben ist, gefällt Dir besser, dann nimm Einfach die Ausrüstung 11
 und schreibe Dir noch 10 Goldmünzen extra gut.
-
-[^necropraxis]: Die Idee mit der auswürfelbaren Ausrüstung wurde das
-erste mal von dem Blogger Brendan S., besser bekannt als *Necropraxis*
-veröffentlicht, und er war so nett, mir zu erlauben sie in *Menschen &
-Magie* zu verwenden.
-
 
 ### Ausrüstung für Kleriker
 \label{eqtab}

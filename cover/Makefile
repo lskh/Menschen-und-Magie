@@ -18,9 +18,9 @@ Hausregeln-cover.png: Makefile ../Hausregeln.pdf
 
 MnM-cover.png: Makefile ../MnM.pdf
 	pdftoppm -f 1 -l 1 ../MnM.pdf > tmp.png
-	convert +level-colors "#000000","#a4a4a4" \
+	convert +level-colors "#000000","#aa8444" \
 	tmp.png MnM-cover.png
-	convert +level-colors "#a4a4a4","#a4a4a4" \
+	convert +level-colors "#aa8444","#aa8444" \
 	-fuzz 100% tmp.png MnM-back.png
 	rm -f tmp.png
 
@@ -28,4 +28,4 @@ clean:
 	rm -f *~
 
 realclean: clean
-	rm *.png
+	rm -f *.png
