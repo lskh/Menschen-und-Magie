@@ -1,0 +1,9 @@
+Furcht
+Fear
+Greyhawk
+Zauberkundige 4
+240' (72 m)
+1 Stunde
+Gegener in Furcht fliehen lassen.
+Kreaturen innerhalb der konusförmigen Reichweite müssen einen Rettungswurf gegen Sprüche bestehen, oder in Panik flüchten. Dabei besteht eine eine Wahrscheinlichkeit von 50%, dass sie Ihre Waffen oder sonstige Gegenstände, die sie in der Hand halten, fallen lassen.
+§

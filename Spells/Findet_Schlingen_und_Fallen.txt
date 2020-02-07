@@ -1,0 +1,9 @@
+Findet Schlingen und Fallen
+Entdeckt Schlingen und Fallen, Detect Snares and Pits
+Eldritch Wizardry
+Druiden 1
+30' (10 m)
+1 Stunde + 1 Phase pro Stufe
+In der Wildnis automatisch Fallen entdecken.
+Ähnlich wie *Findet Fallen* ermöglicht, dieser Spruch, automatisch Fallen und Gruben zu entdecken - allerdings nur in der Wildnis, nicht im Dungeon.
+§

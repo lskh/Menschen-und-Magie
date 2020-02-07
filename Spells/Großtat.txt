@@ -1,0 +1,28 @@
+Großtat
+Großtat
+Mensche & Magie
+Kleriker 1
+Nahbereich
+1 Woche
+Für eine epische Tat einen besonderen Bonus verleihen.
+Mit diesem Spruch kann der Kleriker sich selbst oder einen Verbündeten auf
+eine große Tat vorbereiten: Je nach Stufe des Klerikers kann der
+Begünstigte einen zusätzlichen Würfel zu seinem Angriffswurf werfen. Die so
+ermittelte Zahl zält als Bonus für Angriff und Schaden.
+
+: Großtat
+
+| Stufe  |  Bonuswürfel |
+|:------:|:---------:|
+| 1-3    |    1W4 |
+| 4-6    |    1W6 |
+| 7-9    |    1W8 |
+| 10-12  |    1W10 |
+
+Der Begünstigte muss vor seinem Angriff ein besonderes Vorhaben
+deklarieren. Gelingt der Treffer *und* erreicht der Wert auf dem
+Bonuswürfel 3 oder mehr, gelingt die epische Tat.
+
+Für eine gelungene Großtat gibt es Erfahrungspunkte in Höhe von 10% der
+nächsten Stufe.
+§

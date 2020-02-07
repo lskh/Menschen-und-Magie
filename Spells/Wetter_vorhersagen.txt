@@ -1,0 +1,9 @@
+Wetter vorhersagen
+Predict weather
+Eldritch Wizardry
+Druiden 1
+selbst
+sofort
+Das Wetter der nächsten 12 Stunden zu 95% richtig vorhersagen.
+Mit diesem Spruch kann der Druide die Wetterentwicklung der nächsten 12 Stunden innerhalb eines Umkreis von etwa einer halben Meile Radius pro Stufe vorhersagen. Es besteht nur eine Chance von 5%, dass die Vorhersage nicht richtig ist.
+§
