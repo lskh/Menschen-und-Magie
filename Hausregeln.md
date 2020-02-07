@@ -288,23 +288,6 @@ Klassenfähigkeiten
      einen Kämpfer der Stufe 4 gegen eine Gruppe Orks 4
      mal pro Runde zuschlagen.
 
-     Statt dem üblichen Stufenbonus erhalten Kämpfer einen Würfel für  
-     einen variablen Angriffsbonus:
-
-     | Stufe  |  Deed die |
-     |:------:|:---------:|
-     | 1-3    |    1W3 |
-     | 4-6    |    1W4 |
-     | 7-9    |    1W6 |
-     | 10-12  |    1W8 |
-
-     Der Kämpfer kann vor seinem Angriff ein besonderes Vorhaben
-     deklarieren. Gelingt der Treffer *und* erreicht der Wert auf dem *deed
-     die* 3+ gelingt die epische Tat.
-
-     Für eine gelungene Großtat gibt es XP in Höhe von 10% der nächsten
-     Stufe.
-
 
 Klassenbeschränkungen
 :    keine
@@ -861,7 +844,7 @@ Klassenfähigkeiten
      Sprüchen (solchen der 7. Stufe oder höher) eine 10% Chance, dass
      der Spruch nicht so wirkt, wie der Dieb es erwartet.
 
-     Diebe nutzen die Rettungswürfe der Zauberkundigen.
+     Diebe nutzen die **Rettungswürfe** der Zauberkundigen.
 
 Klassenbeschränkungen
 :    Diebe dürfen nur Lederrüstung und keine Schilde tragen.
@@ -876,11 +859,6 @@ Klassenbeschränkungen
      Zwerge dürfen die Klasse Dieb zusätzlich zur Kämpferklasse
      wählen (Kämpfer/Dieb). Der Stufenaufstieg in der Diebesklasse ist
      für Zwerge unbegrenzt. 
-
-Rettungswürfe
-:    Gift: 11, Stäbe: 11, Lähmung: 14, Odem: 16,\newline
-     Sprüche: 15
-
 
 
 : Dieb Stufen
@@ -992,6 +970,90 @@ Rettungswürfe
     12"
 
 \label{eqtabend}
+
+### Druiden
+
+Primärattribut
+:    Weisheit *und* Charisma
+
+Trefferpunkte
+:    1W 
+
+Klassenfähigkeiten
+:    Druiden können "Untote" beherrschen, und in der Regel 
+     ab der zweiten Stufe 
+     klerikale Magie wirken. \index{Untote!vertreiben}
+     Um Untote zu beherrschen werden 2W6 geworfen. Liegt das Ergebnis
+     über einem bestimmten Wert, erlangt der Druiden für eine 
+     bestimmte Zeit die Kontrolle über die untoten Kreaturen.
+     Je nach Gesinnung bedeutet "beherrschen" etwas anderes. Druiden
+     guter Gesinnung *vertreiben* die Untoten, während Druiden böser
+     Gesinnung die Untoten in ihren Dienst befehlen können, zum
+     Beispiel um eine bestimmte Aufgabe zu erledigen, oder einen
+     bestimmten Bereich zu bewachen.
+	 
+Klassenbeschränkungen
+:    Druiden dürfen nur Lederrüstungen, Holzschilde, Dolche,   
+     Kurzschwerter, Speere, Schleudern und Öl benutzen. Nur Menschen
+     dürfen Druiden werden.
+
+TODO: Klassenbeschreibung und Tabelle fertig machen.
+
+: Druiden Stufen
+
+| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|---|
+| 1     |           0 | 1W    | 0  | 1 | - | - | - | - | - | - |
+| 2     |       2.000 | +1W   | 0  | 2 | 1 | - | - | - | - | - |
+| 3     |       4.000 | +1W   | 0  | 3 | 1 | - | - | - | - | - |
+| 4     |       8.000 | +1W   | 0  | 3 | 1 | 1 | - | - | - | - |
+| 5     |      13.000 | +1W   | +1 | 3 | 2 | 1 | - | - | - | - |
+| 6     |      20.000 | +1W   | +1 | 3 | 2 | 2 | - | - | - | - |
+| 7     |      40.000 | +1W   | +2 | 4 | 2 | 2 | 1 | - | - | - |
+| 8     |      60.000 | +1W   | +2 | 4 | 3 | 2 | 1 | - | - | - |
+| 9     |      90.000 | +1W   | +3 | 4 | 3 | 3 | 2 | - | - | - |
+| 10    |     130.000 | +1    | +3 | 5 | 3 | 3 | 2 | 1 | - | - |
+| 11    |     200.000 | +1    | +4 | 5 | 3 | 3 | 3 | 2 | 1 | - |
+| 12    |     400.000 | +1    | +4 | 5 | 4 | 4 | 4 | 3 | 2 | 1 |
+| 13    |     800.000 | +1    | +5 | 5 | 5 | 5 | 4 | 4 | 3 | 2 |
+| 14    |     950.000 | +1    | +5 | 6 | 5 | 5 | 4 | 4 | 3 | 2 |
+| 15    |   1.100.000 | +1    | +6 | 6 | 5 | 5 | 4 | 4 | 3 | 2 |
+| 16    |   1.250.000 | +1    | +6 | 6 | 5 | 5 | 4 | 4 | 3 | 2 |
+| 17    |   1.400.000 | +1    | +7 | 6 | 6 | 5 | 5 | 4 | 3 | 2 |
+| 18    |   1.550.000 | +1    | +7 | 6 | 6 | 5 | 5 | 5 | 3 | 2 |
+| 19    |   1.700.000 | +1    | +8 | 7 | 6 | 5 | 5 | 5 | 3 | 2 |
+| 20    |   1.850.000 | +1    | +8 | 7 | 6 | 5 | 5 | 5 | 3 | 2 |
+| 21+   | +100.000/St | +1/St | +9 | 7 | 6 | 5 | 6 | 5 | 3 | 2 |
+
+\index{Druiden!Stufen}
+
+: Angriffstabelle Druiden
+
+| Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
+|-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
+|   1-4 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
+|   5-6 | +1 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|   7-8 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+|  9-10 | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 11-12 | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 13-14 | +5 |  5 | 6  |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 15-16 | +6 |  4 | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 17-18 | +7 |  3 | 4  |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 |
+| 19-20 | +8 |  2 | 3  |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 |
+
+: Rettungswürfe der Druiden
+
+| Stufe                           | 1-4 | 5-8 | 9-12 | 13+   |
+|---------------------------------|-----|-----|------|-------|
+| Gift und Todesstrahlen          | 11  | 9   | 6    | 3     |
+| Zauberstäbe                     | 12  | 10  | 7    | 5     |
+| Lähmung und zu Stein erstarren  | 14  | 12  | 9    | 7     |
+| Drachenodem                     | 16  | 14  | 11   | 8     |
+| Zaubersprüche, -stecken, -ruten | 15  | 12  | 9    | 7     |
+
+\index{Rettungswürfe!Druiden}
+
+
 
 ### Punk
 

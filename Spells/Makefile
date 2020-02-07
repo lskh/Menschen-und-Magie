@@ -8,7 +8,7 @@ tmp.md: Makefile $(SPELLS) list_spells.awk
 Spells.md: Makefile intro.md tmp.md endmatter.md
 	cat intro.md tmp.md endmatter.md > Spells.md
 
-Spells.pdf: Makefile tmp.md
+Spells.pdf: Makefile Spells.md
 	pandoc -H preamble.tex -s -t latex \
 	-o Spells.pdf tmp.md
 
