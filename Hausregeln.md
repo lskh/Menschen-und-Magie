@@ -5,6 +5,7 @@ titlegraphic: img/DnD-Dwarf.png
 logo: img/logo.png
 rights: © 2019, 2020 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
 lang: de
+secnumdepth: 2
 ---
 
 \Large
@@ -1974,5 +1975,9 @@ Charaktere, die eine ganze Spielrunde überleben, erhalten
 Um eine neue Stufe zu erreichen, braucht ein Charakter die
 erforderliche Anzahl an Erfahrungspunkten *und* eine Nacht erholsamen
 Schlaf.
+
+**Ersatzcharaktere** starten mit Erfahrungspunkten in Höhe des am
+wenigsten erfahrenen Charakters am Tisch, und zwar *maximal mit 3000
+Erfahrungspunkten*.
 
 ![](img/DnD_Chimera.png)

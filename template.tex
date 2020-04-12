@@ -240,7 +240,7 @@ $endif$
 $if(numbersections)$
 \setcounter{secnumdepth}{$if(secnumdepth)$$secnumdepth$$else$5$endif$}
 $else$
-\setcounter{secnumdepth}{0}
+\setcounter{secnumdepth}{-1}
 $endif$
 $if(beamer)$
 $else$
@@ -337,55 +337,12 @@ $endif$
 $endif$
 
 % my own header definitions
-\usepackage[top=1.5cm,bottom=2cm,inner=1.8cm,outer=1.5cm]{geometry}
+%\usepackage[top=1.5cm,bottom=2cm,inner=1.8cm,outer=1.5cm]{geometry}
 
 % index 
 \usepackage{makeidx}
 \makeindex
 
-% section titles
-\usepackage{titlesec}
-\titleformat{name=\section,page=odd}
-  {\vfill\pagebreak\flushright\Large\scshape}
-  {}
-  {0em}
-  {}
-
-\titleformat{name=\section,page=even}
-  {\vfill\pagebreak\flushleft\Large\scshape}
-  {}
-  {0em}
-  {}
-
-\titleformat{\subsection}
-  {\vspace{.5cm}\center\scshape}
-  {}
-  {0em}
-  {}
-
-\titleformat{\subsubsection}
-  {\center\itshape}
-  {}
-  {0em}
-  {}[\titlerule]
-
-\titleformat{\subsubsubsection}
-  {\center\itshape}
-  {}
-  {0em}
-  {}[\titlerule]
-
-%titlepage
-%\usepackage{titling}
-%\providecommand{\subtitle}[1]{%
-%  \posttitle{%
-%    \par\large#1\normalsize\linebreak
-%    \includegraphics[width=0.8\textwidth]{img/DnD_Dragon.png}
-%	\linebreak
-%    \includegraphics[width=1.8cm]{img/OSR-logo2.png}
-%    \end{center}
-%    }
-%}
 
 % Fonts
 \usepackage{lettrine}
@@ -394,38 +351,41 @@ $endif$
 %\usepackage{imfellEnglish}
 \usepackage[T1]{fontenc}
 
-% headers and footers
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\renewcommand\headrulewidth{0pt} % no line between document and header
-\fancyhead{} % clear header
-\fancyfoot{} % clear footer
-\fancyfoot[LE,RO]{\thepage} % page at left on even and right on odd pages
-
+\isopage[12]
 
 \begin{document}
+\headstyles{wilsondob}
+\makepagestyle{plain}
+\makeoddfoot{plain}{}{}{\thepage}
+\makeevenfoot{plain}{\thepage}{}{}
+\pagestyle{plain}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{4pt}
+\checkandfixthelayout
+
 $if(title)$
 $if(beamer)$
 \frame{\titlepage}
 $else$
-%\maketitle
-\begin{titlepage}
 
-
+\begin{titlingpage}
+\calccentering{\unitlength}
+\begin{adjustwidth*}{\unitlength}{-\unitlength}
 \begin{center}
-%\Huge{$title$}
-{\fontsize{40}{48} \selectfont $title$}
+\fontsize{40}{48}\selectfont $title$
 
 \large{$subtitle$}
-
+$if(titlegraphic)$
 \includegraphics[height=.7\textheight]{$titlegraphic$}
+$endif$
 $if(logo)$
 \vfill
 \includegraphics[height=1.9cm]{$logo$}
 $endif$
 \end{center}
+\end{adjustwidth*}
+\end{titlingpage}
 
-\end{titlepage}
 $endif$
 $if(abstract)$
 \begin{abstract}
@@ -459,6 +419,9 @@ $endif$
 $if(lof)$
 \listoffigures
 $endif$
+
+
+
 $body$
 
 $if(natbib)$

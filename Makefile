@@ -10,8 +10,8 @@ all: $(pdf)
 MnM.pdf: Makefile template.tex $(md)
 	pandoc -s -t latex --template template.tex \
 	--variable lang=de \
-	--variable documentclass=article \
-	--variable classoption="titlepage,twoside,a5paper,12pt" \
+	--variable documentclass=memoir \
+	--variable classoption="twoside,a5paper,12pt" \
 	--variable subparagraph \
 	$(md) | sed -e "s/, Datum: /, Datum: $(DATE)/" \
 	-e "s/\\\{/\{/" -e "s/\\\}/\}/" > tmp1.tex
@@ -21,7 +21,7 @@ MnM.pdf: Makefile template.tex $(md)
 	makeindex tmp1.idx
 	pdflatex tmp1.tex
 	mv tmp1.pdf $@
-	rm tmp1.*
+#	rm tmp1.*
 
 Charaktererschaffung.pdf: Makefile Charaktererschaffung.md
 	sed 's/lettrine//g' Charaktererschaffung.md |\
@@ -42,7 +42,7 @@ Spells.md: Makefile
 Spells.pdf: Makefile Spells.md template.tex license.md
 	pandoc -s -t latex --template template.tex \
 	--variable lang=de \
-	--variable documentclass=article \
+	--variable documentclass=memoir \
 	--variable classoption="titlepage,twoside,a5paper,12pt" \
 	--variable subparagraph \
 	-o tmp2.tex Spells.md license.md
@@ -58,7 +58,7 @@ Spells.pdf: Makefile Spells.md template.tex license.md
 Hausregeln.pdf: Makefile template.tex Hausregeln.md license.md
 	pandoc -s -t latex --template template.tex \
 	--variable lang=de \
-	--variable documentclass=article \
+	--variable documentclass=memoir \
 	--variable classoption="titlepage,twoside,a5paper,12pt" \
 	--variable subparagraph \
 	-o Hausregeln.pdf Hausregeln.md license.md

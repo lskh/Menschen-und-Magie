@@ -500,6 +500,7 @@ erforderlich.
 
 
 #### Böses erkennen*
+
 \index{Böses erkennen}
 
 Stufe
@@ -521,6 +522,7 @@ Wirkung
      wären mit einem entsprechenden Zauber belegt. 
 
 #### Heilen leichter Wunden*
+
 \index{Heilen leichter Wunden*}
 
 
@@ -547,6 +549,8 @@ Wirkung
 
 #### Licht*
 
+\index{Licht}
+
 Stufe
 :    Kleriker 1, Zauberkundige 1
 
@@ -568,6 +572,7 @@ geblendet, sofern ihm ein Rettungswurf misslingt.
      Der Zauber kann umgekehrt gewirkt werden, und erzeugt dann magische Dunkelheit.     
 
 #### Magischer Riegel
+
 \index{Magischer Riegel}
 
 
@@ -589,6 +594,7 @@ Gewalt eingerannt werden. Ein *Klopfen* Spruch oder *Magie
 zerstören* beendet die Spruchwirkung.
 
 #### Person bezaubern
+
 \index{Person bezaubern}
 
 
@@ -614,6 +620,7 @@ den Untergang stürzen.
 
 
 #### Schlaf
+
 \index{Schlaf}
 
 
@@ -634,6 +641,7 @@ ihnen aber automatisch, d.h. ohne Trefferwurf Schaden zugefügt
 werden. 
 
 #### Schutz vor Bösem*
+
 \index{Schutz vor Bösem}
 
 
@@ -656,6 +664,7 @@ beschworene oder herbeigerufene Wesen daran gehindert den
 Empfänger auch nur zu berühren.
 
 #### Sprachen lesen
+
 \index{Sprachen lesen}
 
 
@@ -674,6 +683,7 @@ und Sprachen zu entziffern. Der Spruch erlaubt nicht das
 automatische Lösen von Rätseln!
 
 #### Wasser und Nahrung reinigen*
+
 \index{Wasser und Nahrung reinigen}
 
 
@@ -693,6 +703,7 @@ wurden. Der umgekehrte Spruch vergiftet Wasser und Nahrung ...
 eine perfide Angelegenheit.
 
 #### Zauberei erkennen
+
 \index{Zauberei erkennen}
 
 Stufe
@@ -711,6 +722,7 @@ Wirkung
      verschlossene Tür.
 
 #### Zauber lesen
+
 \index{Zauber lesen}
 
 Stufe

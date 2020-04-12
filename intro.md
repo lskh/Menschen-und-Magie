@@ -9,6 +9,7 @@ titlepagetextcolor: lightgray
 lang: de
 ---
 
+\noindent
 \Large
 Menschen & Magie \newline
 \normalsize
