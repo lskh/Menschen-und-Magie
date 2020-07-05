@@ -4,6 +4,7 @@ Men & Magic
 Zauberkundige 2, Kleriker 3
 ZK 60' + 10'/Stufe (18 m + 3 m), Kl 90' + 10'/Stufe (27 m + 3 m)
 momentan, 1 Runde
+Magisch eine Objekt lokalisieren.
 Der Spruchwirker ist in der Lage, die Richtung in der sich ein
 ihm gut bekannter Gegenstand befindet, zu spüren. Auch
 kann der Spruchwirker generell nach einer Sorte Gegenstand

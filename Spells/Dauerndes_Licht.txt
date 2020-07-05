@@ -3,7 +3,7 @@ Dauerhaftes Licht, Continual Light
 Men & Magic
 Zauberkundige 2, Kleriker 3
 120' (36 m)
-Dauer: Dauerhaft
+Dauerhaft
 Dauerhaftes Licht als Lichtquelle oder zum Blenden mit Rettungswurf.
 Wird dieser Spruch gewirkt, entsteht Licht mit einem Radius von 120' (36
 m).  Das Licht ist so hell wie Sonnenlicht und sämtliche Kreaturen, die

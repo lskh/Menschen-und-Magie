@@ -4,6 +4,7 @@ Players Handbook
 Zauberkundige 8
 5' (1,5 m) pro Erfahrungsstufe
 1 Runde pro Erfahrungsstufe
+Eine magische Faust beschwören, die Schaden verursacht.
 Dieser Zauberspruch ruft eine große, geistförmige und
 körperlose Hand hervor, die einen Gegner schlägt, den der
 Zauberanwender pro Runde aussucht. Die Faust trifft das Ziel

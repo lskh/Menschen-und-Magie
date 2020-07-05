@@ -3,21 +3,25 @@ title: Menschen & Magie
 subtitle: Ein Spielerhandbuch für Old-School Rollenspiele
 titlegraphic: img/DnD-Dragon.png
 logo: img/logo.png
-rights: © 2019, 2020 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
+rights: © 2020 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
 titlepagecolor: purple
 titlepagetextcolor: lightgray
 lang: de
 ---
 
+\null\vfill
 \noindent
 \Large
 Menschen & Magie \newline
 \normalsize
-Ein Spielerhandbuch für Old-School Rollenspiele \newline
+Ein Spielerhandbuch für Old-School Rollenspiele, kompatibel mit
+*Swords & Wizardry* und allen Regeln, die auf dem Original Fantasy
+Rollenspiel von 1974 basieren.
+
 Version *beta*, 
 Datum:
-\newline
-Text und Satz: © Wanderer Bill, 2019, 2020\newline
+
+Text und Satz: © Wanderer Bill, 2020, 
 <wandererbill73@gmail.com>
 \small
 
@@ -31,22 +35,15 @@ Warenzeichen von *Wizards of the Coast*
 *Swords & Wizardry* ist ein eingetragenes Warenzeichen von Matthew J.
 Finch
 
-*Labyrinth Lord* ist ein eingetragenes Warenzeichen von Daniel
-Proctor
+*Labyrinth Lord* ist ein eingetragenes Warenzeichen von Daniel Proctor
 
-*OSRIC* ist ein eingetragenes Warenzeichen von Matthew J. Finch und Stuart Marshall
-
-*Basic Fantasy Role Playing Game* ist ein eingetragenes
-Warenzeichen von Chris Gonnermann
-
-*Lamentations of the Flame Princess* ist ein eingetragenes
-Warenzeichen von James Raggie IV
+*OSRIC* ist ein eingetragenes Warenzeichen von Matthew J. Finch und Stu-
+art Marshall
 
 Der Text und die meisten Tabellen von *Menschen & Magie* sind Open Game
-Content im Sinne der Open Game License, OGL 1.0a
-
+Content im Sinne der Open Game License, OGL 1.0a 
 Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
-Gib es gerne weiter! 
+Gib es gerne weiter!  
 
 Es ist auch kein Problem, *Menschen & Magie* für deinen eigenen Open
 Game Content zu benutzen, vorausgesetzt, Du hälst Dich dabei an die
@@ -61,6 +58,8 @@ which are based on an idea by Brendan S. a.k.a necropraxis and used
 here with kind permission.
 
 \normalsize 
+
+\mainmatter
 
 \tableofcontents
 
@@ -86,6 +85,11 @@ Regelwerke neu formuliert veröffentlicht, und darüber hinaus eine
 unglaubliche Menge spannender, origineller und zum Teil in eindrucksvoller
 künstlerischer Qualität gearbeiteter Werke hervor gebracht hat.
 
+Die Open Game License machte es möglich, dass die Spielregeln des
+originalen Fantasy Rollenspiels unter permissiven Lizenzbedingungen,
+neu formuliert veröffentlicht werden können. Diese neu formulierten
+Regeln werden oft als Retro-Klon bezeichnet.
+
 *Menschen & Magie* versucht, so gut es geht, den Geist der ersten Ausgabe
 des ersten Fantasy-Rollenspiels zu vermitteln, welches 1974 von Gary Gygax
 und Dave Arneson veröffentlicht wurde. Mein Ziel war es, ein
@@ -101,19 +105,23 @@ Informationen dieses Spielerhandbuchs hilfreich sein.
 Grundlage für *Menschen & Magie* sind *Swords & Wizardry White Box*, und
 *Delving Deeper*, beides Retro-Klone der "three little brown books".
 Daneben habe ich mich auch an *OSRIC*, *Swords & Wizardry Complete* ,
-*Labyrinth Lord* und auch ein bisschen an *Blueholme* bedient, und
-schließlich auch noch Hausregeln aus unserer eigenen Spielrunde und aus
-einschlägigen Internetforen einfließen lassen. Im Anhang habe ich
-aufgeführt, an welchen Stellen *Menschen & Magie* explizit von den
+*Labyrinth Lord* und auch ein bisschen an *Blueholme* bedient.
+Besonders praktisch war dabei, dass Labyrinth Lord bereits in
+deutscher Übersetzung vorhanden ist. Im Anhang habe ich
+aufgeführt, in welchen Punkten *Menschen & Magie* von den
 Original-Regeln abweicht.
 
 Aufgebaut ist das Heft aus einem einfach gehaltenen Abschnitt über die
-Erschaffung von Stufe 1-Charakteren, sowie einem ausführlichen Abschnitt
-über das Spiel in einer Fantasy-Kampagne. Insbesondere letzteres erscheint
-mir wichtig, da Rollenspielkampagnen in den 70er Jahren tatsächlich etwas
-anders abliefen, und wohl auch einen etwas anderen Fokus hatten, 
-als moderne Rollenspielrunden.
+Erschaffung von Charakteren der ersten Stufe, den Regeln um den so
+erschaffenen Charakter auf Abenteuer ausziehen zu lassen, sowie einem
+ausführlichen Abschnitt über das Spiel in einer groß angelegten offenen
+Fantasy-Kampagne. Ein Thema, welches in vielen Regelwerken für meinen
+Geschmack zu kurz kommt.
 
+Ich hoffe, dass Ihr *Menschen & Magie* nützlich findet. Ein Spieler aus
+unserer Runde hat - nur mit diesem Heft ausgestattet - kürzlich im
+Urlaub eine spontane Runde geleitet, mit kleinen Zetteln vom
+Kellner-Notizblock als Charakterbögen ... genau so soll es sein!
 
 Einleitung
 ===========
@@ -138,7 +146,7 @@ Das funktioniert zum Beispiel so:
 > Was tut ihr?^[dieses "was tut ihr?" - *"what do you want to do?"* ist
 > vielleicht die wichtigste Regel des ganzen Spiels. Es ist die eigentliche
 > *game engine*, die das Spiel am laufen hält. Dieses Spielprinzip haben
-> wir allem Anscheinnach  Dave Arneson zu verdanken.  Robert J.  Kuntz,
+> wir allem Anschein nach  Dave Arneson zu verdanken.  Robert J.  Kuntz,
 > ehemaliger Mitarbeiter bei TSR hat ein ganzes Buch darüber geschrieben:
 > <https://www.threelinestudio.com/store/dave-arneson-s-true-genius/>] 
 >
@@ -204,7 +212,7 @@ Monstern angeht.
 
 Oft folgen diese Geschichten dem Muster der klassischen Heldenreise:
 also dem mutigen Aufbruch in die Fremde, dem Erleben von Abenteuern,
-dem entscheiden Müssen in Schicksalsfragen, schließlich die
+dem Entscheiden-Müssen in Schicksalsfragen, schließlich die
 krisenhafte Auseinandersetzung mit Scheitern, Untergang und Tod, um
 dann, vielleicht transformiert, und hoffentlich geläutert und
 bereichert zurück zu kehren.
@@ -234,7 +242,7 @@ verlangt zu würfeln, um zu sehen ob Dir dein kühnes Vorhaben gelingt.
 Nun hängt das Schicksal von den Würfeln ab, und die können
 gnadenlos sein. Die Wahrscheinlichkeit für eine erfolgreiche
 Würfelprobe liegt bei Old-School Rollenspielen oft in einer
-Größenordnung von 25 bis 50 %, vielleicht etwas besser, wenn
+Größenordnung von 25 %, vielleicht etwas besser, wenn
 die Figur gute Spielwerte hat.
 
 Tendenziell bedeutet also die Aufforderung der Spielleiterin zu

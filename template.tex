@@ -166,6 +166,8 @@ $highlighting-macros$
 $endif$
 $if(tables)$
 \usepackage{longtable,booktabs}
+%\usepackage[table]{xcolor}
+%\rowcolors{1}{white!100}{gray!50}
 $if(beamer)$
 \usepackage{caption}
 % These lines are needed to make table captions work with longtable:
@@ -240,7 +242,7 @@ $endif$
 $if(numbersections)$
 \setcounter{secnumdepth}{$if(secnumdepth)$$secnumdepth$$else$5$endif$}
 $else$
-\setcounter{secnumdepth}{-1}
+\setcounter{secnumdepth}{0}
 $endif$
 $if(beamer)$
 $else$
@@ -351,14 +353,36 @@ $endif$
 %\usepackage{imfellEnglish}
 \usepackage[T1]{fontenc}
 
-\isopage[12]
-
+%\isopage[12]
+\trimLmarks
+\setstocksize{210mm}{148mm}
+\settrimmedsize{208mm}{146mm}{*}
+\settrims{1mm}{1mm}
+\setbinding{8mm}
+\setlrmarginsandblock{10mm}{*}{1.618}
+\setulmarginsandblock{12mm}{*}{2}
+\setheaderspaces{*}{*}{1.618}
+\checkandfixthelayout
 \begin{document}
-\headstyles{wilsondob}
+\makechapterstyle{MnM}{
+ \renewcommand*{\printchaptername}{}
+ \renewcommand*{\chaptitlefont}{\raggedleft\scshape\Huge}
+ \renewcommand*{\chapnumfont}{\chaptitlefont}
+ \renewcommand*{\chapnamefont}{\chaptitlefont}
+ \renewcommand*{\printchapternum}{\chapnumfont \thechapter \space
+ \textendash{} }
+\renewcommand*{\afterchapternum}{}
+}
+\chapterstyle{MnM}
+\setsecheadstyle{\Large\scshape\raggedright}
+\setsubsecheadstyle{\centering\scshape}
+\setsubsubsecheadstyle{\itshape\raggedright}
+%\headstyles{wilsondob}
+%\headstyles{bringhurst}
+%\headstyles{default}
 \makepagestyle{plain}
 \makeoddfoot{plain}{}{}{\thepage}
 \makeevenfoot{plain}{\thepage}{}{}
-\pagestyle{plain}
 \setlength{\parindent}{0in}
 \setlength{\parskip}{4pt}
 \checkandfixthelayout
@@ -368,23 +392,33 @@ $if(beamer)$
 \frame{\titlepage}
 $else$
 
-\begin{titlingpage}
+\frontmatter
+\pagestyle{empty}
+%\let\cleardoublepage\clearpage
 \calccentering{\unitlength}
 \begin{adjustwidth*}{\unitlength}{-\unitlength}
+
+%\vfill
+
 \begin{center}
 \fontsize{40}{48}\selectfont $title$
 
 \large{$subtitle$}
 $if(titlegraphic)$
+\begin{vplace}
 \includegraphics[height=.7\textheight]{$titlegraphic$}
+\end{vplace}
 $endif$
 $if(logo)$
-\vfill
+%\vfill
 \includegraphics[height=1.9cm]{$logo$}
 $endif$
 \end{center}
 \end{adjustwidth*}
-\end{titlingpage}
+\maxsecnumdepth{chapter}
+\clearpage
+\pagestyle{plain}
+\openany
 
 $endif$
 $if(abstract)$

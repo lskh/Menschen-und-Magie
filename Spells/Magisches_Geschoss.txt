@@ -4,12 +4,11 @@ Greyhawk
 Zauberkundige 1
 150' (45 m)
 Dauer: 1 Phase
-Zielsuchende magische Pfeile mit 1W6+1 Schaden.
-Der Zauberkundige beschwört einen oder mehrere magische Pfeile, die ihr
-Ziel mit 1-7 (1W6+1) Schaden treffen.  Das Geschoss trifft immer, auch
-wenn das Ziel im Nahkampf verwickelt ist oder keine vollständige Deckung
-hat bzw. nicht verborgen ist. Ein spezielles Körperteil kann nicht
-gezielt beschossen werden. Für jede fünf Erfahrungsstufen erhält der
+Beschwört magische Pfeile +1.
+Der Zauberkundige beschwört einen oder mehrere magische Pfeile. Diese
+Pfeile funktionieren genauso wie andere magische Pfeile: Treffer- und
+Schadensbonus +1.
+Für jede fünf Erfahrungsstufen erhält der
 Zaubernde zwei weitere Geschosse, insgesamt drei auf Stufe 5, fünf auf
 Stufe 10, sieben auf Stufe 15 und so weiter. Wenn der Zauberwirker
 mehrere Geschosse einsetzen kann, kann er sie auf eins oder entsprechend

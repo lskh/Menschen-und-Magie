@@ -32,8 +32,7 @@ Abkürzungen benutzen um Platz zu sparen: ST, IN, WE, GE, KO, CH
 Sechser-Würfel (3W6), und würfelst von oben nach unten, also für
 ein Attribut nach dem anderen einen Wert zwischen 3 und 18 aus, und
 schreibst ihn hinter das jeweilige Attribut, je höher der Wert, desto
-besser. Wenn Du möchtest, kannst Du einmalig den höchsten mit dem
-niedrigsten Wert vertauschen\label{chattr}. Nun kannst Du schon ein bisschen
+besser.  Nun kannst Du schon ein bisschen
 erahnen, welche Art von Abenteurer Du hier vor Dir hast. Einen
 dümmlichen Kraftprotz?  einen gewitzten Hänfling? jemanden der klug
 und charismatisch ist?
@@ -58,6 +57,8 @@ Stufen aus:
 | 7 - 8    | - 10%            |
 | 6-       | - 20%            |
 
+
+
 Stärke \index{Stärke}
 :    ist das Primärattribut der Kämpfer. Es steht für die Körperkraft eines Wesens. 
 	  
@@ -71,6 +72,56 @@ Weisheit \index{Weisheit}
 :    stellt die Intuition, den Instinkt und das gute
      Urteilsvermögen eines Charakters
      dar. Weisheit ist das Primärattribut der Kleriker.
+
+Hat ein Charakter auch in anderen Attributen als seinem Primärattribut
+gute Werte, kann dies helfen, denn Erfahrungsbonus weiter zu steigern.
+Der Aufschlag auf das Primärattribut gilt allerdings nur für die
+Berechnung des Erfahrungsbonus.
+
+: Erfahrungsbonus durch andere Attribute 
+
+| Klasse | Attribut | Aufschlag Primärattribut |
+|:-------|:--------:|:------------------------:|
+| Kämpfer | Intelligenz 9 - 10 | +1 |
+| und     | Intelligenz 11 - 12 | +2 |
+| Kleriker | Intelligenz 13 - 14 | +3 |
+|         | Intelligenz 15 - 16 | +4 |
+|         | Intelligenz 17 - 18 | +5 |
+|         |                     |    |
+| Kämpfer | Weisheit 9 - 11 | +1 |
+|         | Weisheit 12 - 15 | +2 |
+|         | Weisheit 16 - 18 | +3 |
+|          |                     |    |
+| Zauberkundige | Weisheit 9 - 10 | +1 |
+|            | Weisheit 11 - 12 | +2 |
+|            | Weisheit 13 - 14 | +3 |
+|            | Weisheit 15 - 16 | +4 |
+|            | Weisheit 17 - 18 | +5 |
+|          |                     |    |
+| Kleriker | Stärke 9 - 11 | +1 |
+|          | Stärke 12 - 15 | +2 |
+|          | Stärke 16 - 18 | +3 |
+
+Dies ist sicherlich eine der seltsamsten und kompliziertesten Regeln
+in der Originalausgabe des Spiels, und sie wird in vielen Retro-Klonen
+kommentarlos übergangen. Aber anhand eines Beispiels lässt
+sich gut verstehen, wie die Regel funktioniert, und warum sie sogar
+sinnvoll ist.
+
+Nehmen wir zum Beispiel einen Charakter mit diesen Spielwerten: Stärke
+9, Intelligenz 17 und Weisheit 10. Wegen der außergewöhnlichen
+Intelligenz wäre es naheliegend, dass dieser Charakter ein
+Zauberkundiger wird. Die Spielerin könnte sich aber entscheiden,
+lieber einen Kämpfer zu spielen, vielleicht weil sie schon ein genaues
+Bild von ihrem Charakter vor Augen hat. Allein in Folge des eher
+niedrigen Primärattributes hätte der Charakter überhaupt keinen Bonus
+bei der Berechnung der Erfahrungspunkte. Durch die hohe Intelligenz
+allerdings darf sich die Spieler zur Berechnung des Erfahrungsbonus
+einen Aufschlag von +5 auf ihr Primärattribut anschreiben. Das heißt,
+sie berechnet ihren Erfahrungsbonus so, als sei die Stärke ihres
+Kämpfers 14. Ihr Erfahrungsbonus ist damit also 5%. Die Regel macht
+deutlich, dass es durchaus auch Kämpfer geben kann, die mehr sind als
+nur tumbe Kampfmaschinen.
 
 Geschicklichkeit \index{Geschicklichkeit}
 :    ist das Resultat aus Koordination und Schnelligkeit. Ein
@@ -170,7 +221,7 @@ beiden Klassen aufteilen. Im Endeffekt erreichen dadurch
 Elfen höhere Stufen deshalb nur halb so schnell wie andere
 Charaktere. Schließlich haben Elfen Vorteile im Kampf mit bestimmten
 Gegnern: sie erhalten einen zusätzlichen Angriffsbonus von +1 gegen
-Golins, Orks, intelligente Untote und Werwölfe,
+Goblins, Orks, intelligente Untote und Werwölfe,
 und sie sind immun gegen die lähmende Berührung der Ghule. Elfen
 haben eine besonders scharfe Wahrnehmung, was das Entdecken
 von Geheimtüren angeht. Sie sprechen neben der Gemeinsprache natürlich
@@ -206,7 +257,8 @@ Wahl der Klasse hängt auch unmittelbar die Anzahl der Trefferpunkte
 Mal ins Abenteuer zieht.  Den Platz für die Klasse, oben in der Mitte,
 hattest Du Dir ja schon frei gehalten. Unter den Feldern für Klasse
 und Gesinnung, also rechts neben den Attributen, solltest Du Dir nun
-Felder für Trefferpunkte (TP) und Rüstungsklasse (RK) einrichten. 
+Felder für Trefferpunkte (kurz TP - oder auch HP für *hit points*) und
+Rüstungsklasse (kurz RK - oder AC für *armor class*) einrichten. 
 
 
 Unter dem Feld für die Rüstungsklasse kannst Du als nächstes eine
@@ -237,6 +289,42 @@ Klassenbeschränkungen
 
 Rettungswürfe
 :    Gift: 12, Stäbe: 13, Lähmung: 14, Odem: 15, Sprüche: 16
+
+
+### Zauberkundiger
+
+Primärattribut
+:    Intelligenz
+
+Trefferpunkte
+:    1W6 
+
+
+Klassenfähigkeiten
+:    Zauberkundige können Zauberkundigensprüche wirken. Um sie
+     vorzubereiten müssen sie Zeit aufwenden um den Spruch mit Hilfe
+     der magischen Aufzeichnungen im Zauberbuch zu studieren und sich
+     so einzuprägen. Das wirken eines Spruches ist für die
+     Zauberkundigen so anstrengend, dass die Einzelheiten des Spruches
+     nach dem Wirken vergessen werden. Der Spruch kann erst nach
+     erneuter Vorbereitung wieder gewirkt werden. Zauberkundige der
+     ersten Stufe können nur einen Spruch des ersten Grades pro Tag
+     wirken.
+	
+     Zauberkundige der ersten Stufe haben zu Beginn 4 Sprüche in
+     ihrem Zauberbuch, und zwar *Magie lesen*, einen nach Wunsch
+     des Spielers ausgewählten Spruch, und zwei zufällig
+     ermittelte Sprüche. Alle weiteren Sprüche müssen im Spiel
+     gefunden bzw. erlernt werden.
+	
+
+Klassenbeschränkungen
+:    Zauberkundige dürfen keine Waffen außer Dolche
+     und Stäbe benutzen. Zauberkundige dürfen keine Rüstungen und
+     keine Schilde tragen.
+
+Rettungswürfe
+:    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16, Sprüche 15
 
 
 ### Kleriker
@@ -282,41 +370,6 @@ Rettungswürfe
 :    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16, Sprüche 15
 
 
-### Zauberkundiger
-
-Primärattribut
-:    Intelligenz
-
-Trefferpunkte
-:    1W6 
-
-
-Klassenfähigkeiten
-:    Zauberkundige können Zauberkundigensprüche wirken. Um sie
-     vorzubereiten müssen sie Zeit aufwenden um den Spruch mit Hilfe
-     der magischen Aufzeichnungen im Zauberbuch zu studieren und sich
-     so einzuprägen. Das wirken eines Spruches ist für die
-     Zauberkundigen so anstrengend, dass die Einzelheiten des Spruches
-     nach dem Wirken vergessen werden. Der Spruch kann erst nach
-     erneuter Vorbereitung wieder gewirkt werden. Zauberkundige der
-     ersten Stufe können nur einen Spruch des ersten Grades pro Tag
-     wirken.
-	
-     Zauberkundige der ersten Stufe haben zu Beginn 4 Sprüche in
-     ihrem Zauberbuch, und zwar *Magie lesen*, einen nach Wunsch
-     des Spielers ausgewählten Spruch, und zwei zufällig
-     ermittelte Sprüche. Alle weiteren Sprüche müssen im Spiel
-     gefunden bzw. erlernt werden.
-	
-
-Klassenbeschränkungen
-:    Zauberkundige dürfen keine Waffen außer Dolche
-     und Stäbe benutzen. Zauberkundige dürfen keine Rüstungen und
-     keine Schilde tragen.
-
-Rettungswürfe
-:    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16, Sprüche 15
-
 
 Unter bestimmten Voraussetzungen kann es auch möglich sein die Klasse
 eines Charakters zu wechseln\index{Klasse!Wechsel der}. 
@@ -341,14 +394,14 @@ gelehrten Forscher der arkanen Künste, oder einen illusionistisch begabten
 Trickbetrüger.
 
 Genau so gut könnte ein Kleriker auch als Druide oder Schamane
-ausgestaltet werden, und ein Kämpfer als stolzer (möchtegern) Ritter,
+ausgestaltet werden, und ein Kämpfer als stolzer (möchte gern) Ritter,
 gewiefter Waldläufer, als geheimnisvolle Amazone oder auch als
 ungehobelter Barbar. Und es spricht auch nichts dagegen, Deinem
-Charakter noch einen Beruf zu geben, der vielleicht erstmal nicht
+Charakter noch einen Beruf zu geben, der vielleicht erst mal nicht
 besonders abenteuerlich ist, aber rollenspielerisch interessant sein
 könnte.
 
-Aber Achtung, investiere nicht zuviel Zeit und Hingabe in die
+Aber Achtung: investiere nicht zu viel Zeit und Hingabe in die
 Hintergrundgeschichte Deines Charakters. Das Abenteurerleben in
 Old-School-Spielen kann sehr kurz sein. Du solltest es lieber so
 sehen, dass die Hintergrundgeschichte Deines Charakters während
@@ -373,7 +426,7 @@ die Interessen der Gruppe kümmern. Ein rechtschaffenes Wesen hingegen
 wird immer das Wohl der Gruppe über das eigene Wohl stellen, und sich
 selbst im Zweifel opfern. Neutral bedeutet, dass das Wesen irgendwie
 den Mittelweg zwischen diesen Extremen einschlägt oder sich
-tendentiell mal eher chaotisch und mal eher rechtschaffen verhält. 
+tendenziell mal eher chaotisch und mal eher rechtschaffen verhält. 
 
 Tiere und auch wenig intelligente Monster haben in der Regel eine
 neutrale Gesinnung, und genauso wird es auch für viele Menschen
@@ -407,7 +460,7 @@ Spielercharaktere sprechen immer mindestens die sogenannte
 meisten Menschen und "Halbmenschen" (also Zwergen, Elfen und
 Halblingen) verstanden und gesprochen wird.
 
-Nichtmenschliche Wesen haben aber in aller Regel auch eine eigene
+Nicht menschliche Wesen haben aber in aller Regel auch eine eigene
 Sprache, und "Monster" sprechen unter Umständen *nur* ihre eigene
 Sprache. Das kann Verhandlungen schwierig machen, wenn zum
 Beispiel niemand in der Abenteurergruppe der Goblin-Sprache
@@ -474,269 +527,509 @@ Materialkomponente gegeben sind, ist auch explizit kein
 Rettungswurf vorgesehen, bzw. keine Materialkomponente
 erforderlich.
 
-: Klerikersprüche des 1. Grades
-
-|   | Klerikersprüche des 1. Grades | Seite                                 |
-|---|-------------------------------|---------------------------------------|
-| 1 | Heilen leichter Wunden*        | \pageref{heilen-leichter-wunden}      |
-| 2 | Wasser und Nahrung reinigen*   | \pageref{wasser-und-nahrung-reinigen} |
-| 3 | Zauberei erkennen             | \pageref{zauberei-erkennen}           |
-| 4 | Böses erkennen*                | \pageref{buxf6ses-erkennen}              |
-| 5 | Schutz vor Bösem*              | \pageref{schutz-vor-buxf6sem}            |
-| 6 | Licht*                         | \pageref{licht}                       |
 
 : Zauberkundigensprüche des 1. Grades
 
-|   | Zauberkundigensprüche des 1. Grades | Seite                       |
-|---|-------------------------------------|-----------------------------|
-| 1 | Zauberei erkennen                   | \pageref{zauberei-erkennen} |
-| 2 | Magischer Riegel                    | \pageref{magischer-riegel}  |
-| 3 | Zauber lesen                        | \pageref{zauber-lesen}      |
-| 4 | Sprachen lesen                      | \pageref{sprachen-lesen}    |
-| 5 | Schutz vor Bösem*                    | \pageref{schutz-vor-buxf6sem}  |
-| 6 | Licht*                              | \pageref{licht}             |
-| 7 | Person bezaubern                    | \pageref{person-bezaubern}  |
-| 8 | Schlaf                              | \pageref{schlaf}            |
+|   | Spruch | Seite                       |
+|---|-----------------|-----------------------------|
+| 1 | Magie erkennen                   | \pageref{tag-81} |
+| 2 | Magischer Riegel                    | \pageref{tag-83}  |
+| 3 | Magie lesen                        | \pageref{tag-82}      |
+| 4 | Sprachen lesen                      | \pageref{tag-118}    |
+| 5 | Schutz vor Bösem*                    | \pageref{tag-108}  |
+| 6 | Licht*                              | \pageref{tag-74}   |
+| 7 | Person bezaubern                    | \pageref{tag-97}  |
+| 8 | Schlaf                              | \pageref{tag-106}            |
+
+: Zauberkundigensprüche des 2. Grades
+
+|  | Spruch | Seite |
+|---|----------------|---------------|
+| 1 | Unsichtbarkeit entdecken | \pageref{tag-123} |
+| 2 | Levitation | \pageref{tag-73} |
+| 3 | Halluzination | \pageref{tag-45} |
+| 4 | Objekt finden | \pageref{tag-96} |
+| 5 | Unsichtbarkeit | \pageref{tag-124} |
+| 6 | Zauberschloss | \pageref{tag-135} |
+| 7 | Entdeckt Böses | \pageref{tag-15} |
+| 8 | ESP | \pageref{tag-13} |
+| 9 | Dauerndes Licht* | \pageref{tag-10} |
+| 10 | Klopf-Klopf | \pageref{tag-68} |
 
 
-#### Böses erkennen*
+: Klerikersprüche des 1. Grades
 
-\index{Böses erkennen}
+|   | Spruch | Seite                                 |
+|---|-----------------|-------------------------------|
+| 1 | Heilen leichter Wunden*        | \pageref{tag-49}  |
+| 2 | Wasser und Nahrung reinigen*   | \pageref{tag-130} |
+| 3 | Magie erkennen             | \pageref{tag-81}  |
+| 4 | Entdeckt Böses* | \pageref{tag-15} |
+| 5 | Schutz vor Bösem*              | \pageref{tag-108}    |
+| 6 | Licht*                         | \pageref{tag-74}    |
 
-Stufe
-:    Kleriker 1, Zauberkundiger 2
+### Dauerndes Licht*
 
-Reichweite
-:    Kleriker: 120' (36m), Zauberkundiger 60' (18m)
+\index{Dauerndes Licht*}\label{tag-10}
+\index{Dauerhaftes Licht}
 
-Dauer
-:    Kleriker: 1 Phase + 1/2 Phase pro Stufe, Zauberkundiger 5 Runden
-     pro Stufe
-
-Wirkung
-:    In einem 10' (3 m) breiten Korridor in Blickrichtung des
-     Zaubernden kann die böse, oder gute Ausstrahlung von Geschöpfen
-     und Gegenständen erkannt werden - insofern sie eine Gesinnung
-     haben. Eine Giftschlange oder eine mechanische Falle sind zwar
-     gefährlich, haben aber keine böse Ausstrahlung, es sei denn sie
-     wären mit einem entsprechenden Zauber belegt. 
-
-#### Heilen leichter Wunden*
-
-\index{Heilen leichter Wunden*}
-
-
-Stufe
-:    Kleriker 1
-
-Reichweite
-:    Berührung
-
-Dauer
-:    dauerhaft
-
-Wirkung
-:    Mit diesem Spruch kann der Kleriker sich selbst oder einem
-     anderen Wesen 2 - 7 (1W6+1) Trefferpunkte heilen. Es ist nicht
-     möglich die Trefferpunkte über den ursprünglichen Wert
-     anzuheben. Der Spruch ist umkehrbar, und *verursacht* dann 2 - 7
-     Punkte schaden. Da auch dafür eine Berührung erforderlich ist,
-     muss der Kleriker einen erfolgreichen Trefferwurf ausführen, bevor
-     er Schaden verursachen kann. Je nach Gesinnung des Klerikers wird
-     seine Gottheit unter Umständen nicht damit einverstanden sein,
-     dass er seine Macht nutzt um Schaden zu verursachen.
-
-
-#### Licht*
-
-\index{Licht}
-
-Stufe
-:    Kleriker 1, Zauberkundige 1
+Spruchstufe
+:      Zauberkundige 2
 
 Reichweite
-:    120' (36 m)
+:      120' (36 m)
 
 Dauer
-:    Zauberkundige Stufe + 6 Runden, Kleriker Stufe + 12 Runden
+:      Dauerhaft
 
-Rettungswurf
-:    Sprüche	
+Wird dieser Spruch gewirkt, entsteht Licht mit einem Radius von 120' (36
+m).  Das Licht ist so hell wie Sonnenlicht und sämtliche Kreaturen, die
+Abzüge durch Sonnenlicht erhalten (mit Ausnahme von Schaden durch
+Sonnenlicht), sind durch diesen Spruch betroffen. Der Spruch kann auf
+einen Gegenstand gewirkt werden, so dass dieser Gegenstand unter der
+Wirkung des Spruchs umher getragen werden kann. Wird der Spruch auf eine
+Kreatur gewirkt, steht dieser ein Rettungswurf zu. Der Spruch kann auf
+die Augen einer Kreatur gewirkt werden, was Blindheit zur Folge hat.
+Dieser Spruch ist permanent, solange er nicht gebannt wird.
 
-Wirkung
-:    Mit diesem Spruch kann magisches Licht von der Helligkeit einer Fackel erzeugt werden.
-Die Lichtquelle ist selbst unbeweglich, kann aber auf einen beweglichen Gegenstand, oder auch
-auf die Augen eines Wesens gewirkt werden. In letzterem Fall wird das Wesen durch den Zauber
-geblendet, sofern ihm ein Rettungswurf misslingt.
+Dauerhafte Dunkelheit (Umkehrung von Dauerhaftes Licht)
+produziert Dunkelheit im selben Ausmaß und auf dieselbe Art
+wie Dauerhaftes Licht. Man kann Dauerhafter Dunkelheit mit
+Dauerhaftem Licht oder Magie bannen entgegenwirken.
+Ebenso wie Dauerhaftes Licht kann auch Dauerhafte
+Dunkelheit mit denselben Folgen auf die Augen einer Kreatur
+gewirkt werden. Normale Sicht, inklusive Infravision, kann die
+so entstandene Dunkelheit nicht durchdringen, genauso wenig
+wird sie durch Lampen, Fackeln oder den Spruch Licht, erhellt.
 
-     Der Zauber kann umgekehrt gewirkt werden, und erzeugt dann magische Dunkelheit.     
+### Entdeckt Böses*
 
-#### Magischer Riegel
+\index{Entdeckt Böses*}\label{tag-15}
+\index{Böses entdecken}\index{Detect Evil}
 
-\index{Magischer Riegel}
-
-
-Auch bekannt als *Hält Türen* \index{Hält Türen}\index{Magischer Riegel}.
-
-Stufe
-:    Zauberkundige 1
+Spruchstufe
+:      Kleriker 1, Zauberkundige 2
 
 Reichweite
-:    20' (6 m) / Stufe
+:      Kleriker: 120' (36 m), Zauberkundige 60' (18 m)
 
 Dauer
-:    1 Runde / Stufe
+:      Kleriker: 1 Phase + 1/2 Phase pro Stufe, Zauberkundige: 5 Runden pro Stufe
 
-Wirkung
-:    Mit diesem Spruch werden Türen, Tore oder ähnliches für die
+In einem 10' (3 m) breiten Korridor in Blickrichtung des Zaubernden
+kann die böse, oder gute Ausstrahlung von Geschöpfen und Gegenständen
+erkannt werden - insofern sie eine Gesinnung haben. Eine Giftschlange
+oder eine mechanische Falle sind zwar gefährlich, haben aber keine
+böse Ausstrahlung, es sei denn sie wären mit einem entsprechenden
+Zauber belegt. 
+
+Der Spruchwirker kann die Gegenwart von bösen Absichten
+spüren. Dies bezieht sich sowohl auf die Anwesenheit von
+lebenden Kreaturen als auch von Objekten, die für böse
+Absichten verzaubert wurden. Objekte und Kreaturen mit
+bösen Absichten innerhalb der Reichweite werden von einem
+magischen Glühen umhüllt.
+
+Wichtig: Die Spielleitung hat zu entscheiden, was
+"böse" ist. Manche Dinge können für den Spruchwirker
+gefährlich sein, ohne "böse" zu sein, Fallen beispielsweise.
+Dieser Spruch verleiht nicht die Fähigkeit, Gedanken zu lesen,
+sondern nur die Fähigkeit, generell böse Absichten zu
+erkennen.
+
+### ESP
+
+\index{ESP}\label{tag-13}
+\index{Gedankenlesen}
+
+Spruchstufe
+:      Zauberkundige 2
+
+Reichweite
+:      12 Phasen
+
+Dauer
+:      60' (18 m)
+
+Pro Phase konzentriert sich der Zauberanwender auf eine festgelegte
+Richtung. Nach dieser Phase erkennt er in dieser Richtung innerhalb von
+60' (18 m) die Gedanken aller Kreaturen. Der Zauberanwender versteht die
+Bedeutung aller Gedanken, auch wenn er die Sprache der Kreaturen nicht
+versteht. Sind mehrere Kreaturen in dem Wirkungsbereich des Spruchs, dann
+muss sich der Zauberanwender eine zweite Phase lang konzentrieren, um die
+unterschiedlichen Gedanken auch voneinander unterscheiden zu können, da
+sie sonst in einem missverständlichen Durcheinander auf ihn einwirken.
+Die Wahrnehmung der Gedanken wird durch Wände, dicker als 2 Fuß oder eine
+dünne Bleischicht blockiert.
+
+### Halluzination
+
+\index{Halluzination}\label{tag-45}
+\index{Trugbild}\index{Geisterhafte Kraft}
+
+Spruchstufe
+:      Zauberkundige 2
+
+Reichweite
+:      240' (73 m)
+
+Dauer
+:      Konzentration
+
+Solange sich der Zauberwirker konzentriert, erschafft er eine
+andauernde, aktive Illusion. Die Illusion verschwindet, 
+sobald sie von einer Kreatur
+berührt wird. Jedoch kann ein illusionäres Monster erschaffen
+werden, das einen Feind angreift. Betrachter erhalten einen
+Rettungswurf gegen Sprüche, um die Illusion zu
+durchschauen. Wenn der Rettungswurf misslingt, dauert die
+Illusion an und ein illusionäres Monster richtet Schaden an. 
+Der Zauberanwender kann
+keine andere Aktion durchführen, solange er sich auf Trugbild
+konzentriert.
+
+### Heilen leichter Wunden*
+
+\index{Heilen leichter Wunden*}\label{tag-49}
+\index{Heilt leichte Wunden}
+
+Spruchstufe
+:      Kleriker 1
+
+Reichweite
+:      Berührung
+
+Dauer
+:      dauerhaft
+
+Mit diesem Spruch kann der Kleriker sich selbst oder einem anderen Wesen
+2 - 7 (1W6+1) Trefferpunkte heilen. Es ist nicht möglich die
+Trefferpunkte über den ursprünglichen Wert anzuheben. Der Spruch ist
+umkehrbar, und *verursacht* dann 2 - 7 Punkte schaden. Da auch dafür eine
+Berührung erforderlich ist, muss der Kleriker einen erfolgreichen
+Trefferwurf ausführen, bevor er Schaden verursachen kann. Je nach
+Gesinnung des Klerikers wird seine Gottheit unter Umständen nicht damit
+einverstanden sein, dass er seine Macht nutzt um Schaden zu verursachen.
+
+
+### Klopf-Klopf
+
+\index{Klopf-Klopf}\label{tag-68}
+\index{Klopfen}
+
+Spruchstufe
+:      Zauberkundige 2
+
+Reichweite
+:      60' (18 m)
+
+Dauer
+:      1 Runde
+
+Dieser Spruch öffnet verschlossene, verbarrikadierte,
+verklemmte oder festgehaltene Türen. Es öffnet geheime
+Türen genauso wie verschlossene oder verriegelt Truhen
+sowie trickreich verschlossene Kisten. Geheime Türen müssen
+zuvor gefunden werden. Die Tür verschließt sich danach nicht
+von selbst. Klopfen hebt keine Gittertore oder ähnliche
+Hindernisse wie Fallgatter an, auch wirkt es nicht bei Seilen,
+Klettergewächsen oder ähnlichem.
+(Klopfen, Knock - Men & Magic)
+
+### Levitation
+
+\index{Levitation}\label{tag-73}
+\index{Schweben}
+
+Spruchstufe
+:      Zauberkundige 2
+
+Reichweite
+:      Selbst
+
+Dauer
+:      6 + Erfahrungsstufe Runden
+
+Für 6 + Erfahrungsstufe des Spruchanwenders Kampfrunden kann
+sich der Spruchanwender nach seinen Wünschen hoch- und
+runter bewegen. Er lenkt seinen Auf- oder Abstieg geistig und
+hat dabei eine Geschwindigkeit von bis zu 20' pro Runde. Er
+kann sich nicht horizontal bewegen, wobei er sich entlang
+einer Klippe ziehen kann oder sich von einer Decke so
+abstoßen kann, dass er sich seitlich bewegt (grundsätzlich mit
+halber Landgeschwindigkeit).
+
+### Licht*
+
+\index{Licht*}\label{tag-74}
+
+Spruchstufe
+:      Kleriker 1, Zauberkundige 1
+
+Reichweite
+:      120' (36 m)
+
+Dauer
+:      Zauberkundige Stufe + 6 Phasen, Kleriker Stufe + 12 Phasen
+
+Mit diesem Spruch kann magisches Licht von der Helligkeit einer Fackel
+erzeugt werden.  Die Lichtquelle ist selbst unbeweglich, kann aber auf
+einen beweglichen Gegenstand, oder auch auf die Augen eines Wesens
+gewirkt werden. In letzterem Fall wird das Wesen durch den Zauber
+geblendet, sofern ihm ein Rettungswurf misslingt.  Der Zauber kann
+umgekehrt gewirkt werden, und erzeugt dann magische Dunkelheit.     
+
+### Magie erkennen 
+
+\index{Magie erkennen }\label{tag-81}
+\index{Entdeckt Magie}\index{Zauberei erkennen}\index{Erkennt Magie}
+
+Spruchstufe
+:      Zauberkundige 1, Kleriker 1
+
+Reichweite
+:      60' (18 m)
+
+Dauer
+:      2 Phasen
+
+Mit diesem Zauber kann festgestellt werden, ob eine Person, ein
+Ort oder ein Gegenstand mit einem Zauber belegt wurde. Also zum
+Beispiel eine magischer Gegenstand oder eine mit Magie
+verschlossene Tür.
+
+### Magie lesen
+
+\index{Magie lesen}\label{tag-82}
+\index{Zauber lesen}
+
+Spruchstufe
+:      Zauberkundige 1
+
+Reichweite
+:      selbst
+
+Dauer
+:      2 Spruchrollen oder andere magische Schriften, 1 Phase
+
+Lässt die Zauberkundige magische Runen in Zauberbüchern, Spruchrollen,
+aber auch auf Gegenständen entziffern. Wenn sie
+einen Spruch auf einer Spruchrolle oder aus einem Zauberbuch
+damit einmal entziffert hat, kann genau diese magische
+Schrift fortan ohne erneutes Wirken des Spruches
+gelesen werden. Alle
+Zauberbücher der Magier und Elfen sind so geschrieben, dass
+nur ihr Eigentümer diese ohne *Magie lesen* verwenden kann.
+
+### Magischer Riegel
+
+\index{Magischer Riegel}\label{tag-83}
+\index{Hält Türen}\index{Portal verschließen}
+
+Spruchstufe
+:      Zauberkundige 1
+
+Reichweite
+:      nach Angabe der Spielleitung
+
+Dauer
+:      2W6 Phasen
+
+Mit diesem Spruch werden Türen, Tore oder ähnliches für die
 Wirkdauer magisch verschlossen. Sie können immer noch mit roher
 Gewalt eingerannt werden. Ein *Klopfen* Spruch oder *Magie
 zerstören* beendet die Spruchwirkung.
 
-#### Person bezaubern
 
-\index{Person bezaubern}
+### Objekt finden
 
+\index{Objekt finden}\label{tag-96}
+\index{Objekt lokalisieren}\index{Gegenstand orten}\index{Ermittelt Objekt}
 
-Stufe
-:    Zauberkundige 1
+Spruchstufe
+:      Zauberkundige 2
 
 Reichweite
-:    120' (36 m)
+:      60' + 10'/Stufe (18 m + 3 m)
 
 Dauer
-:    bis der Zauber gebrochen wird (!)
+:      momentan, 1 Runde
 
-Rettungswurf
-:    Sprüche
+Der Spruchwirker ist in der Lage, die Richtung in der sich ein
+ihm gut bekannter Gegenstand befindet, zu spüren. Auch
+kann der Spruchwirker generell nach einer Sorte Gegenstand
+suchen. Dabei erspürt er dann den ihm nächsten Gegenstand
+dieser Sorte. Der Versuch, einen bestimmten Gegenstand zu
+finden, benötigt ein genaues geistiges Abbild des Gegenstands.
+Ist das Abbild nicht gut oder genau genug, schlägt der Spruch
+fehl. Personen und Kreaturen können mit dem Spruch nicht
+erspürt werden.
 
-Wirkung
-:    Eine mit diesem Spruch bezauberte Person sieht in dem
+### Person bezaubern
+
+\index{Person bezaubern}\label{tag-97}
+\index{Bezaubert Personen}\index{Personen bezaubern}
+
+Spruchstufe
+:      Zauberkundige 1
+
+Reichweite
+:      120' (36 m)
+
+Dauer
+:      bis der Zauber gebrochen wird (!)
+
+Eine mit diesem Spruch bezauberte Person sieht in dem
 Spruchwirker einen guten Freund und Verbündeten, für den sie sich
 innerhalb gewisser Grenzen vorteilhaft einsetzen wird. Eine
 bezauberte Person wird bemüht sein, angemessenen Bitten des
 Spruchwirkers nachzukommen, sie wird sich aber nicht kopflos in
 den Untergang stürzen. 
+Der bezauberten Person steht ein
+Rettungswurf zu. 
 
 
-#### Schlaf
+### Schlaf
 
-\index{Schlaf}
+\index{Schlaf}\label{tag-106}
 
-
-Stufe
-:    Zauberkundige 1
+Spruchstufe
+:      Zauberkundige 1
 
 Reichweite
-:    240' (80 m)
+:      240' (80 m)
 
 Dauer
-:    5 Runden pro Stufe
+:      6 Phasen 
 
-Wirkung
-:    Der Zauber lässt 2W8 Trefferwürfel an lebenden Wesen für die
-genannte Dauer in einen Tiefschlaf verfallen. Durch Schläge oder
+Der Zauber lässt bis zu 2W8 Trefferwürfel an lebenden Wesen für die
+genannte Dauer in einen Tiefschlaf verfallen. 
+Durch Schläge oder
 Tritte können sie geweckt werden. So lange sie schlafen, kann
-ihnen aber automatisch, d.h. ohne Trefferwurf Schaden zugefügt
-werden. 
-
-#### Schutz vor Bösem*
-
-\index{Schutz vor Bösem}
+ihnen aber automatisch, d.h. ohne Trefferwurf, Schaden zugefügt
+werden. Ein Rettungswurf ist nicht zulässig; 
+Schlaf wirkt nicht gegen Untote.
 
 
-Umkehrbar zu *Schutz vor Gutem*
+### Schutz vor Bösem*
 
-Stufe
-:    Kleriker 1, Zauberkundige 1
+\index{Schutz vor Bösem*}\label{tag-108}
+
+Spruchstufe
+:      Kleriker 1, Zauberkundige 1
 
 Reichweite
-:    Berührung
+:      selbst
 
 Dauer
-:    Kleriker 3 Runden pro Stufe, Zauberkundige 2 Runden pro Stufe
+:      Kleriker 12 Phasen, Zauberkundige 6 Phasen
 
-Wirkung
-:    Der Zauber gibt den Angriffswürfen von bösen Kreaturen einen
-Abzug von -2 und den Rettungswürfen des Empfängers +2. Durch eine
-magische Hülle, die den Empfänger umgibt werden verzauberte,
+Der Zauber gibt den Angriffswürfen von bösen Kreaturen einen
+Abzug von -1 und eigenen Rettungswürfen +1. Durch eine
+magische Hülle, die den Empfänger umgibt, werden verzauberte,
 beschworene oder herbeigerufene Wesen daran gehindert den
 Empfänger auch nur zu berühren.
 
-#### Sprachen lesen
+### Sprachen Lesen
 
-\index{Sprachen lesen}
+\index{Sprachen Lesen}\label{tag-118}
+\index{Read Languages}
 
-
-Stufe
-:    Zauberkundige 1
-
-Reichweite
-:    Berührung
-
-Dauer
-:    2 Phasen
-
-Wirkung
-:    Der Spruch erlaubt dem Spruchwirker, ihm unbekannte Zeichen
-und Sprachen zu entziffern. Der Spruch erlaubt nicht das
-automatische Lösen von Rätseln!
-
-#### Wasser und Nahrung reinigen*
-
-\index{Wasser und Nahrung reinigen}
-
-
-Stufe
-:    Kleriker 1
+Spruchstufe
+:      Zauberkundige 1
 
 Reichweite
-:    10' (3 m)
+:      selbst
 
 Dauer
-:    permanent
+:      2 Runden
 
-Wirkung
-:    Mit diesem Spruch können Nahrung und Wasser für bis zu 12 Personen wieder genießbar gemacht werden, wenn sie
-zuvor verschmutzt, vergiftet oder auf andere Art kontaminiert
-wurden. Der umgekehrte Spruch vergiftet Wasser und Nahrung ...
+Für die Dauer dieses Zauberspruchs kann der Zaubernde jede Sprache,
+verschlüsselte Nachrichten, Karten oder andere geschriebene Inhalte
+lesen. Dieser Zauberspruch ermöglicht es nicht, diese Sprache auch zu
+sprechen, oder Rätsel automatisch zu lösen.
+
+
+### Unsichtbarkeit
+
+\index{Unsichtbarkeit}\label{tag-124}
+
+Spruchstufe
+:      Zauberkundige 2
+
+Reichweite
+:      240' (72 m)
+
+Dauer
+:      bis gebrochen
+
+Das Ziel des Spruches - eine Person, eine Kreatur oder ein Gegenstand
+- wird unsichtbar, bis es selbst einen Angriff
+ausführt, oder die Unsichtbarkeit durch den Zauberkundigen selbst,
+oder einen anderen Zauber gebrochen wird.
+
+### Unsichtbarkeit entdecken
+
+\index{Unsichtbarkeit entdecken}\label{tag-123}
+\index{Unsichtbares entdecken}\index{Entdeckt Unsichtbarkeit}
+
+Spruchstufe
+:      Zauberkundige 2
+
+Reichweite
+:      10' (3 m) pro Erfahrungsstufe
+
+Dauer
+:      6 Phasen
+
+Der Zauberanwender kann unsichtbare, verborgene,
+ätherische oder astrale Kreaturen und Gegenstände sehen.
+
+### Wasser und Nahrung reinigen*
+
+\index{Wasser und Nahrung reinigen*}\label{tag-130}
+\index{Reinigt Essen und Trinken}
+
+Spruchstufe
+:      Kleriker 1
+
+Reichweite
+:      Nahbereich
+
+Dauer
+:      Sofort, dauerhaft
+
+Dieser Spruch macht verschmutztes, brackiges, giftiges oder
+anderweitig kontaminiertes Essen und Wasser wieder
+genießbar. Es wird Nahrung für etwas 12 Personen gereinigt.
+Der umgekehrte Spruch vergiftet Wasser und Nahrung ...
 eine perfide Angelegenheit.
 
-#### Zauberei erkennen
 
-\index{Zauberei erkennen}
 
-Stufe
-:    Zauberkundige 1, Kleriker 1
+### Zauberschloss
+
+\index{Zauberschloss}\label{tag-135}
+\index{Arkanes Schloss}
+
+Spruchstufe
+:      Zauberkundige 2
 
 Reichweite
-:    kurz
+:      Nahbereich
 
 Dauer
-:    kurz
+:      dauerhaft, bis gebrochen
 
-Wirkung
-:    mit diesem Zauber kann festgestellt werden, ob eine Person, ein
-     Ort oder ein Gegenstand mit einem Zauber belegt wurde. Also zum
-     Beispiel eine magischer Gegenstand oder eine mit Magie
-     verschlossene Tür.
-
-#### Zauber lesen
-
-\index{Zauber lesen}
-
-Stufe
-:    Zauberkundige 1
-
-Reichweite
-:    nur der Zauberkundige selbst
-
-Wirkung
-:    Lässt die Zauberkundige magische Runen entziffern. Wenn sie
-einen Spruch auf einer Spruchrolle oder aus einem Zauberbuch
-damit einmal entziffert hat, kann genau diese magische
-Schrift fortan ohne erneutes Wirken des Spruches
-gelesen werden.
+Ein Arkanes Schloss wird auf Türen, Truhen oder Portale gezaubert und
+verschließt diese ähnlich dem Zauberspruch Portal schließen auf
+magische Weise.  Der Zauberanwender kann jederzeit ohne
+Schwierigkeiten das arkane Schloss öffnen und schließen, anderenfalls
+kann das Arkane Schloss mit Magie bannen oder Klopfen geöffnet werden.
+Zusätzlich kann jeder Zauberanwender, der mindestens drei Stufen
+mächtiger als der Spruchanwender des Arkanen Schlosses ist, das Arkane
+Schloss ungehindert passieren. Wesen mit Magieresistenz können magisch
+verschlossene Türen ohne jedes Problem aufbrechen.
 
 Geld und Ausrüstung
 ---------------------
@@ -747,9 +1040,12 @@ Wurf von 3W6 mit 10 multipliziert wird. Dabei ergibt sich dann ein
 Betrag von 30 bis 180 Goldmünzen (GM), von dem der Charakter seine
 erste Ausrüstung kaufen kann. 
 
-Natürlich kannst Du jetzt zu den Ausrüstungstabellen vorblättern und deinem
-Charakter eine ganz eigene Ausrüstung zusammen stellen. Viel einfacher ist
-es aber, auf einer der folgenden Tabellen deine Grundausrüstung
+In vielen Regelwerken kommen an dieser Stelle Tabellen mit diversen
+Ausrüstungsgegenständen und Preisangaben, aus der sich jeder seine
+Ausrüstung zusammenstellen kann. Dieses "Einkaufen" wird aber schnell
+mühsam, besonders, wenn während eines laufenden Spiels schnell ein
+neuer Charakter erstellt werden soll. Viel einfacher ist
+es, auf einer der folgenden Tabellen die Grundausrüstung
 auszuwürfeln^[Die Idee mit der auswürfelbaren Ausrüstung wurde das erste
 mal von dem Blogger Brendan S., auch bekannt als *Necropraxis*
 veröffentlicht. Er war so nett, mir zu erlauben sie in *Menschen &
@@ -762,164 +1058,125 @@ Wenn Dir Deine erwürfelte Ausrüstung nicht gefällt, kannst Du
 natürlich eine Ausrüstung mit einem niedrigeren Wert aussuchen, und
 Dir die Differenz in Goldmünzen gut schreiben. Sagen wir Du würfelst
 für Deinen Zauberkundigen eine 12, aber die Ausrüstung, die unter 11
-angegeben ist, gefällt Dir besser, dann nimm Einfach die Ausrüstung 11
-und schreibe Dir noch 10 Goldmünzen extra gut.
+angegeben ist, gefällt Dir besser, dann nimm Einfach die Ausrüstung
+Nummer 11 und schreibe Dir noch 10 Goldmünzen extra gut.
 
-### Ausrüstung für Kleriker
-\label{eqtab}
+Alles was *nach* der Charaktererstellung an Ausrüstung benötigt wird, 
+muss *im Spiel* beschafft werden. Was genau ein Händler im Angebot
+hat, und zu welchen Preisen, hängt von der Situation in der Spielwelt
+ab.
 
- 3.  Normale Kleidung (RK 9), Knüppel, 
-     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
-     3 m Holzstab, hölzernes heiliges Symbol,   
-     4 GM, BW 12"
+Waffen\index{Waffen} machen bei einem erfolgreichen Angriff
+grundsätzlich 1 - 6 Punkte Schaden\index{Schaden}. Deshalb sind für
+die einzelnen Waffen auch keine speziellen Werte angegeben, der
+Schaden wird einfach immer mit 1W6 ausgewürfelt. Es mag vielleicht
+unsinnig erscheinen, dass ein Dolch genauso viel Schaden verursachen
+soll wie eine Streitaxt, aber letztlich kann natürlich ein einzelner
+Dolchstich tödlich sein, und eine Streitaxt kann zwar treffen, aber
+dann doch nur eine Schramme verursachen. Im ersten Zusatzband zu den
+Originalspielregeln mit dem Titel *Greyhawk*\index{Greyhawk}, 
+wurde der sogenannte
+variable Waffenschaden eingeführt. Es mag vielleicht realistischer
+erscheinen, wenn ein Dolch nur 1-4 Punkte Schaden verursacht, und eine
+Streitaxt 1-8 Punkte, aber wenn man darüber nachdenkt, dann ist es
+durchaus reizvoll, die Würfel die Geschichte erzählen zu lassen. Eine
+6 beim Angriff mit einem Dolch könnte man erzählerisch als meisterlich
+geführten, hinterhältigen Angriff ausgestalten, während die Schramme
+mit der Streitaxt den furchteinflößenden Minotaurus nur zu einem
+hämischen Lachen veranlasst, bevor er zu seinem Gegenangriff ansetzt.
 
- 4.  Normale Kleidung (RK 9), Schild (RK -1), Knüppel, 
-     6 Fackeln, Rucksack,
-     Wasserschlauch, 7 eiserne Rationen, 15 m Seil,
-     hölzernes Heiliges Symbol, 4 GM, BW 12"
-
- 5.  Lederrüstung (RK 7), Steitkolben, 
-     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
-     Holzstab, hölzernes Heiliges Symbol, 5 GM, BW 9"
-
- 6.  Lederrüstung (RK 7), Kampfstab, 
-     Rucksack, Wasserschlauch,  
-     6 Fackeln, 7 eiserne Rationen,
-     15 m Seil, 12 Eisennägel, hölzernes 
-     heiliges Symbol, 3 Pflöcke & Hammer, Stahlspiegel,
-     10 GM, BW 9"
-
- 7.  Kettenrüstung (RK 5), Kriegshammer, 
-     Rucksack, Wasserschlauch, 
-     6 Fackeln, 7 eiserne Rationen, 3 m Holzstab, 
-     hölzernes heiliges Symbol, 2 kleine Säcke, 8 GM, BW 6"
-
- 8.  Kettenrüstung (RK 5), Schild (RK -1), Streitkolben, 
-     7 eiserne Rationen, 
-     Rucksack, Wasserschlauch, 6 Fackeln, hölzernes heiliges Symbol, 
-     15 m Seil, 2 kleine Säcke, 8 GM, BW 6"
-
- 9.  Kettenrüstung (RK 5), Schild (RK -1), Kriegshammer, 
-     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3
-     m Holzstab, hölzernes heiliges Symbol, 2 kleine Säcke, 3
-     Pflöcke und Hammer, Stahlspiegel, 10 GM, BW 6"
-
- 10. Plattenrüstung (RK 3), Schild (RK -1), 
-     Streitkolben, 
-     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,   
-     15 m Seil, 
-     hölzernes heiliges Symbol, 10 GM, BW 6"
-
- 11. Plattenrüstung (RK 3), Schild (RK -1), Kriegshammer, 
-     Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 7 eiserne
-     Rationen, 3 m Holzstab, hölzernes Heiliges Symbol, kleiner Sack, 
-     2 GM, BW 6"
-
- 12. Plattenrüstung (RK 3), Kampfstab, 
-     Rucksack, Wasserschlauch, 
-     Laterne, 4 Ölfläschchen, 7 eiserne Rationen,
-     15 m Seil, silbernes heiliges Symbol, 
-     4 GM, BW 6"
-
- 13. Normale Kleidung (RK 9), Knüppel, Rucksack, 
-     Wasserschlauch, 3 m Holzstab, 
-     6 Fackeln, 7 eiserne Rationen,
-     hölzernes heiliges Symbol,
-     Spruchrolle (!), 4 GM, BW 12"
-
- 14. Plattenrüstung (RK 3), Schild (RK -1), 
-     Streitkolben, Rucksack, Wasserschlauch, 
-     Laterne, 4 Ölfläschchen, 7 eiserne Rationen, 
-     silbernes heiliges Symbol, 15 m Seil, 
-     10 GM, BW 6"
-
- 15. Lederrüstung (RK 7), Streitkolben,
-     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,
-     hölzernes heiliges Symbol, 3 m Holzstab, Spruchrolle (!), 2
-     Ölfläschchen, 1 GM 
-
- 16. Plattenrüstung (RK 3), Schild (RK -1), Helm, Kriegshammer, 
-     Rucksack, Wasserschlauch, Laterne, 4
-     Ölfläschchen, 7 eiserne Rationen, 15 m Seil, silbernes
-     heiliges Symbol, 3 Pflöcke und Hammer, 
-     Stahlspiegel, 12 GM, BW 6"
-
- 17. Kettenrüstung (RK 5), Kriegshammer, 
-     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,
-     hölzernes heiliges Symbol, 
-     Spruchrolle (!), 10 GM, BW 9"
-
- 18. Plattenrüstung (RK 3), Schild (RK -1), Helm,   
-     Streitkolben, Rucksack, Wasserschlauch, Laterne, 4
-     Ölfläschchen, 7 eiserne Rationen, 15 m Seil, 1 Phiole Weihwasser,
-     silbernes heiliges Symbol, 12 Eisennägel, 3 Pflöcke und Hammer,
-     kleiner Sack, 10 GM, BW 6"
-
+Noch ein Wort zum Thema Rüstungsklasse\index{Rüstungsklasse}: Die
+Rüstungsklasse zeigt an, wie schwer es ist einem Charakter oder einem
+anderen Wesen Schaden zuzufügen. In den Originalspielregeln war die
+Rüstungsklasse eine Zahl zwischen 9 und 2, und zwar war die
+Rüstungsklasse um so *besser* je *niedriger* die Zahl war.
+Rüstungsklasse 9 wäre demnach ungerüstet, und Rüstungsklasse 2 wäre
+ein Charakter mit Plattenrüstung und Schild. Diese ursprüngliche
+Rüstungsklasse wird heute "absteigende Rüstungsklasse" genannt, denn
+es hat sich irgendwann auch die "aufsteigende Rüstungsklasse"
+entwickelt, die seit der 3. Edition des Originalspiels zur 
+Anwendung kommt. Bei der
+aufsteigenden Rüstungsklasse ist höher besser, was vielleicht vielen
+einfacher erscheinen mag. Um möglichst
+kompatibel zu sein, wird in *Swords & Wizardry* und vielen *modernen* 
+Old-School Publikationen
+beides angegeben, und zwar zuerst die traditionelle absteigende
+Rüstungsklasse, und dann in eckigen Klammern die entsprechende
+aufsteigende Rüstungsklasse. Demnach wäre ungerüstet RK 9 [10],
+und Plattenrüstung RK 3 [16]. Ein Schild erhöht bzw. erniedrigt die
+Rüstungsklasse jeweils um eins, also -1 [+1]. Wenn Ihr also die alte
+absteigende Rüstungsklasse benutzt, orientiert Euch an der Zahl vor
+der eckigen Klammer, wenn ihr aufsteigende Rüstungsklasse benutzt
+gilt die Zahl *in* der eckigen Klammer^[Natürlich hängen absteigende
+und aufsteigende Rüstungsklasse zusammen, es sind im Grunde zwei
+Seiten der selben Gleichung, denn aufsteigende und absteigende
+Rüstungsklasse ergeben zusammen immer 19.].
 
 ### Ausrüstung für Kämpfer
+\label{eqtab}
 
- 3.  Normale Kleidung (RK 9), Speer, 6 Fackeln, Rucksack,
+ 3.  Normale Kleidung (RK 9 [10]), Speer, 6 Fackeln, Rucksack,
      Wasserschlauch, 7 eiserne Rationen, 15 m Seil, 4 GM, BW 12"
 
- 4.  Lederrüstung (RK 7), Knüppel, 
+ 4.  Lederrüstung (RK 7 [12]), Knüppel, 
      Rucksack, Schlafsack, Wasserschlauch, 7
      eiserne Rationen, 6 Fackeln, 3 m Holzstab, 1 GM, BW 12"
 
- 5.  Lederrüstung (RK 7), Morgenstern, Dolch, 
+ 5.  Lederrüstung (RK 7 [12]), Morgenstern, Dolch, 
      Rucksack, Wasserschlauch, 7 eiserne Rationen, 6 Fackeln, 15 m
      Seil, 3 GM, BW 12"
 
- 6.  Lederrüstung (RK 7), Streitaxt, Handaxt, 
+ 6.  Lederrüstung (RK 7 [12]), Streitaxt, Handaxt, 
      Dolch , Schleuder mit 20 Steinen, 
      Rucksack, Wasserschlauch, 7 eiserne
      Rationen, 6 Fackeln, 3 m Holzstab 9 GM, BW 9"
 
- 7.  Kettenrüstung (RK 5), Speer, Dolch, Schleuder mit 20
+ 7.  Kettenrüstung (RK 5 [14]), Speer, Dolch, Schleuder mit 20
      Steinen, 6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne
      Rationen, 15 m Seil, 11 GM, BW 6"
 
- 8.  Kettenrüstung (RK 5), Schild (RK -1), Schwert, Dolch,     
+ 8.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Schwert, Dolch,     
      6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen,
      3 m Holzstab,  4 GM, BW 6"
 
- 9.  Kettenrüstung (RK 5), Speer, leichte Armbrust, 30 Bolzen,
+ 9.  Kettenrüstung (RK 5 [14]), Speer, leichte Armbrust, 30 Bolzen,
      6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen,
      15 m Seil, 11 GM, BW 6"              
 
- 10. Plattenrüstung (RK 3), Schild (RK -1), Schwert, Dolch, 
+ 10. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Schwert, Dolch, 
      6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
      Holzstab, 4 GM, BW 6"
  
- 11. Plattenrüstung (RK 3), Zweihandschwert, 3 Dolche, 6 Fackeln,
+ 11. Plattenrüstung (RK 3 [16]), Zweihandschwert, 3 Dolche, 6 Fackeln,
      Rucksack, Wasserschlauch, 7 eiserne Rationen,
      15 m Seil, 2 Ölfläschchen, 9 GM, BW 6"
 
- 12. Plattenrüstung (RK 3), Schild (RK -1), Schwert, leichte Armbrust,
+ 12. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Schwert, leichte Armbrust,
      30 Bolzen, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
      6 Fackeln, 3 m Holzstab, 2 GM, BW 6"  
                                       
- 13. Plattenrüstung (RK 3), Flegel, Dolch, Kurzbogen, 20 Pfeile, 
+ 13. Plattenrüstung (RK 3 [16]), Flegel, Dolch, Kurzbogen, 20 Pfeile, 
      6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen,
      15 m Seil, kleiner Sack, 10 GM, BW 6"
 
- 14. Plattenrüstung (RK 3), Schild (RK -1), Schwert, leichte Armbrust, 
+ 14. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Schwert, leichte Armbrust, 
      30 Bolzen, Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne,
      4 Ölfläschchen, 3 m Holzstab, 5 GM, BW 6"
 
- 15. Plattenrüstung (RK 3), Helm, zwei Streitäxte, Dolch, leichte
+ 15. Plattenrüstung (RK 3 [16]), Helm, zwei Streitäxte, Dolch, leichte
      Armbrust, 30 Bolzen, 6 Fackeln, Rucksack, Wasserschlauch, 7
      eiserne Rationen, 15 m Seil, 5 Ölfläschchen, 15 GM, BW 6"
 
- 16. Plattenrüstung (RK 3), Zweihandschwert, Dolch, Kurzbogen, 20
+ 16. Plattenrüstung (RK 3 [16]), Zweihandschwert, Dolch, Kurzbogen, 20
      Pfeile, Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne, 4
      Ölfläschchen, 3 m Holzstab, 2 kleine Säcke, 15 GM, BW 6"
 
- 17. Plattenrüstung (RK 3), Hellebarde, Dolch, Langbogen, 
+ 17. Plattenrüstung (RK 3 [16]), Hellebarde, Dolch, Langbogen, 
      20 normale Pfeile, 2 Pfeile
      mit Silberspitzen, Rucksack, Wasserschlauch, Laterne, 4
      Ölfläschchen, 7 eiserne Rationen, 15 m Seil, 10 GM, BW 6"
 
- 18. Plattenrüstung (RK 3), Schild (RK -1), Helm, Schwert, 2 Dolche,
+ 18. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Helm, Schwert, 2 Dolche,
      leichte Armbrust, 30 normale Bolzen, 4 Bolzen mit Silberspitzen,
      Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne, 4
      Ölfläschchen, 3 m Holzstab, 9 GM, BW 6"
@@ -927,75 +1184,164 @@ und schreibe Dir noch 10 Goldmünzen extra gut.
 
 ### Ausrüstung Zauberkundiger
 
-  3. Normale Kleidung (RK 9), Dolch, Rucksack, Wasserschlauch, 
+  3. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, Wasserschlauch, 
      7 eiserne Rationen, 3 m Holzstab, Zauberbuch, 4GM, BW 9"
 
-  4. Normale Kleidung (RK 9), 2 Dolche, Rucksack, Wasserschlauch, 
+  4. Normale Kleidung (RK 9 [10]), 2 Dolche, Rucksack, Wasserschlauch, 
      7 eiserne Rationen, 2 Ölfläschchen, 15 m Seil, Zauberbuch, 
      7 GM, BW 9"
 
-  5. Normale Kleidung (RK 9), Dolch, Rucksack, 
+  5. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
      Wasserschlauch, 7 eiserne Rationen, Laterne, 4 Ölfläschchen,
      Zauberbuch, 3 m Holzstab, 7 GM, BW 9"
 
-  6. Normale Kleidung (RK 9), Dolch, Rucksack, 
+  6. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
      Wasserschlauch,  6 Fackeln, 7 eiserne Rationen, 15 m Seil, 
      Zauberbuch, 1 Phiole Weihwasser, 9 GM, BW 9"
 
-  7. Normale Kleidung (RK 9), Dolch, 6 Fackeln, Rucksack,
+  7. Normale Kleidung (RK 9 [10]), Dolch, 6 Fackeln, Rucksack,
      Wasserschlauch, 7 eiserne Rationen, 3 m Holzstab, 5 Ölfläschchen,
      Silberspiegel, ein Bund Belladonna, Zauberbuch, 9 GM, BW 9"
 
-  8. Normale Kleidung (RK 9), Dolch, Rucksack, 
+  8. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
      Wasserschlauch, 7 eiserne Rationen, 15 m Seil, 2 Phiolen
      Weihwasser, Zauberbuch, 4 GM, BW 9"
 
-  9. Normale Kleidung (RK 9), 3 Dolche, Rucksack, 
+  9. Normale Kleidung (RK 9 [10]), 3 Dolche, Rucksack, 
     Wasserschlauch, 7 eiserne Rationen, 
     Laterne, 4 Ölfläschchen, 3 m Holzstab, Phiole Weihwasser,
     Zauberbuch, 16 GM, 
     BW 9"
 
- 10. Normale Kleidung (RK 9), Dolch, 6 Fackeln, 
+ 10. Normale Kleidung (RK 9 [10]), Dolch, 6 Fackeln, 
     Zauberbuch, Rucksack, Wasserschlauch, 7 eiserne
     Rationen, 15 m Seil, 2 Phiolen Weihwasser, 24 GM, BW 9"
 
- 11. Normale Kleidung (RK 9), Dolch, 
+ 11. Normale Kleidung (RK 9 [10]), Dolch, 
      Zauberbuch, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
     Laterne, 4 Ölfläschchen, 3 m Holzstab, Bund Wolfsbann, 57 GM, BW 9"
     
- 12. Normale Kleidung (RK 9), Dolch, Zauberbuch, 
+ 12. Normale Kleidung (RK 9 [10]), Dolch, Zauberbuch, 
      Rucksack, Wasserschlauch, 7 eiserne
     Rationen, 1 Laterne, 4 Ölfläschchen,
      15 m Seil, Bund Belladonna, Bund Wolfsbann 57 GM, BW 9"
 
-  13. Normale Kleidung (RK 9),  Dolch, 6 Fackeln, 
+  13. Normale Kleidung (RK 9 [10]),  Dolch, 6 Fackeln, 
       Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
       Holzstab, Zauberbuch, Spruchrolle, 4 GM, BW 9"
 
-  14. Normale Kleidung (RK 9), 2 Dolche, 6 Fackeln, 
+  14. Normale Kleidung (RK 9 [10]), 2 Dolche, 6 Fackeln, 
     Rucksack, Wasserschlauch, 7 eiserne Rationen, Zauberbuch, 
     Spruchrolle, 15 m Seil,  11 GM, BW 9"
 
-  15. Normale Kleidung (RK 9), Dolch, Rucksack, 
+  15. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
     Wasserschlauch, 7 eiserne Rationen, Zauberbuch, Laterne, 4
     Ölfläschchen, Spruchrolle, 3 m Holzstab, 7 GM, BW 9"
 
-  16. Normale Kleidung (RK 9), Dolch, Rucksack, Zauberbuch, 
+  16. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, Zauberbuch, 
       Wasserschlauch, 7 eiserne Rationen, Laterne, 4 Ölfläschchen,
       Spruchrolle, 15 m Seil, 17 GM, BW 9"
 
-  17. Normale Kleidung (RK 9), Dolch, Rucksack,
+  17. Normale Kleidung (RK 9 [10]), Dolch, Rucksack,
     Wasserschlauch, 7 eiserne Rationen, 
     Laterne, 4 Ölfläschchen, Zauberbuch, 
     Spruchrolle, 3 m Holzstab, Bund Wolfsbann, 17 GM
 
-  18. Normale Kleidung (RK 9), Dolch, Rucksack,
+  18. Normale Kleidung (RK 9 [10]), Dolch, Rucksack,
     Wasserschlauch, 7 eiserne Rationen, 
     Laterne, 4 Ölfläschchen, Zauberbuch, 15 m Seil, 
-    Spruchrolle, Phiole Weihwasser, 12 GM, BW 9" \label{eqtabend}
+    Spruchrolle, Phiole Weihwasser, 12 GM, BW 9" 
 
 
+### Ausrüstung für Kleriker
+
+ 3.  Normale Kleidung (RK 9 [10]), Knüppel, 
+     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
+     3 m Holzstab, hölzernes heiliges Symbol,   
+     4 GM, BW 12"
+
+ 4.  Normale Kleidung (RK 9 [10]), Schild (RK -1 [+1]), Knüppel, 
+     6 Fackeln, Rucksack,
+     Wasserschlauch, 7 eiserne Rationen, 15 m Seil,
+     hölzernes Heiliges Symbol, 4 GM, BW 12"
+
+ 5.  Lederrüstung (RK 7 [12]), Streitkolben, 
+     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
+     Holzstab, hölzernes Heiliges Symbol, 5 GM, BW 9"
+
+ 6.  Lederrüstung (RK 7 [12]), Kampfstab, 
+     Rucksack, Wasserschlauch,  
+     6 Fackeln, 7 eiserne Rationen,
+     15 m Seil, 12 Eisennägel, hölzernes 
+     heiliges Symbol, 3 Pflöcke & Hammer, Stahlspiegel,
+     10 GM, BW 9"
+
+ 7.  Kettenrüstung (RK 5 [14]), Kriegshammer, 
+     Rucksack, Wasserschlauch, 
+     6 Fackeln, 7 eiserne Rationen, 3 m Holzstab, 
+     hölzernes heiliges Symbol, 2 kleine Säcke, 8 GM, BW 6"
+
+ 8.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Streitkolben, 
+     7 eiserne Rationen, 
+     Rucksack, Wasserschlauch, 6 Fackeln, hölzernes heiliges Symbol, 
+     15 m Seil, 2 kleine Säcke, 8 GM, BW 6"
+
+ 9.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Kriegshammer, 
+     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3
+     m Holzstab, hölzernes heiliges Symbol, 2 kleine Säcke, 3
+     Pflöcke und Hammer, Stahlspiegel, 10 GM, BW 6"
+
+ 10. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), 
+     Streitkolben, 
+     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,   
+     15 m Seil, 
+     hölzernes heiliges Symbol, 10 GM, BW 6"
+
+ 11. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Kriegshammer, 
+     Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 7 eiserne
+     Rationen, 3 m Holzstab, hölzernes Heiliges Symbol, kleiner Sack, 
+     2 GM, BW 6"
+
+ 12. Plattenrüstung (RK 3 [16]), Kampfstab, 
+     Rucksack, Wasserschlauch, 
+     Laterne, 4 Ölfläschchen, 7 eiserne Rationen,
+     15 m Seil, silbernes heiliges Symbol, 
+     4 GM, BW 6"
+
+ 13. Normale Kleidung (RK 9 [10]), Knüppel, Rucksack, 
+     Wasserschlauch, 3 m Holzstab, 
+     6 Fackeln, 7 eiserne Rationen,
+     hölzernes heiliges Symbol,
+     Spruchrolle (!), 4 GM, BW 12"
+
+ 14. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), 
+     Streitkolben, Rucksack, Wasserschlauch, 
+     Laterne, 4 Ölfläschchen, 7 eiserne Rationen, 
+     silbernes heiliges Symbol, 15 m Seil, 
+     10 GM, BW 6"
+
+ 15. Lederrüstung (RK 7 [12]), Streitkolben,
+     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,
+     hölzernes heiliges Symbol, 3 m Holzstab, Spruchrolle (!), 2
+     Ölfläschchen, 1 GM 
+
+ 16. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Helm, Kriegshammer, 
+     Rucksack, Wasserschlauch, Laterne, 4
+     Ölfläschchen, 7 eiserne Rationen, 15 m Seil, silbernes
+     heiliges Symbol, 3 Pflöcke und Hammer, 
+     Stahlspiegel, 12 GM, BW 6"
+
+ 17. Kettenrüstung (RK 5 [14]), Kriegshammer, 
+     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,
+     hölzernes heiliges Symbol, 
+     Spruchrolle (!), 10 GM, BW 9"
+
+ 18. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Helm,   
+     Streitkolben, Rucksack, Wasserschlauch, Laterne, 4
+     Ölfläschchen, 7 eiserne Rationen, 15 m Seil, 1 Phiole Weihwasser,
+     silbernes heiliges Symbol, 12 Eisennägel, 3 Pflöcke und Hammer,
+     kleiner Sack, 10 GM, BW 6"
+\label{eqtabend}
 
 Den Charakter vollenden
 -----------------------
@@ -1008,6 +1354,6 @@ wichtige Spielwert, nämlich die Rüstungsklasse auf dem Charakterbogen
 eingetragen werden.
 
 Ganz unten sollte noch etwas Platz eingerichtet werden, um zu
-notieren, bei wie viel Erfahrungspunkten die nächste Stufe erreicht
+notieren, bei wie vielen Erfahrungspunkten die nächste Stufe erreicht
 wird, dann kann es los gehen. 
 

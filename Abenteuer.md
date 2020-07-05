@@ -31,17 +31,106 @@ verdeckten Würfelprobe entscheiden was passiert.
 
 Wie aber bereits in der Einleitung erwähnt, kann die Spielleiterin
 gelegentlich auch Würfelproben durch die Spieler verlangen, 
-um festzustellen, ob eine Aktion gelingt. Dabei kann es sich um
-eine Attributsprobe handeln, oder einen Rettungswurf.
-Typischerweise kommen Attributsproben zum Tragen, wenn die
-Initiative vom Spielercharakter ausgeht - also nichts passieren
-würde, wenn der Charakter einfach nur still stehen bliebe.
-Rettungswürfe spielen dagegen eine Rolle, bei Ereignissen denen der
-Charakter passiv ausgesetzt ist, und auf deren
-Ausgang er weniger Einfluss hat.
+um festzustellen, ob ein bestimmtes Ereignis eintritt, oder eine
+Aktion gelingt. Manchmal wird dazu einfach ein beliebiger Würfel
+geworfen, und festgelegt "gerade ist gut" - was einer Erfolgschance
+von 50% entsprechen würde. Ist eine Situation besonders brenzlig,
+könnte ein sogenannter Rettungswurf fällig werden.
+
+### Proben mit 1W6
+
+\index{1W6}\index{Proben!1W6 basiert}
+Für einige Aktionen ist genau festgelegt, wann der Wurf mit dem
+Sechserwürfel erfolgreich ist:
+
+: 1W6 Proben
+
+| Aktion | Erfolg auf 1W6 |
+|:--------------------|:-------------------------|
+| Geräusche hören     | 1 (Halbmenschen bei 2 oder weniger) |
+| Türen aufbrechen    | 2 oder weniger |
+| Geheimtüren entdecken | 2 oder weniger (Elfen bei 4 oder weniger) |
+| den Gegner überraschen | 2 oder weniger |
+  
+
+### Rettungswürfe
+\index{Rettungswürfe}
+
+Rettungswürfe beziehen sich auf den Wert, den ein Charakter in
+einer bestimmten Rettungswurf-Kategorie hat. Also in "Gift und
+Todesstrahlen", "Stäbe", "Lähmung und Versteinerung",
+"Drachenodem" und "Zaubersprüche". Ein Rettungswurf wird praktisch
+immer mit dem W20 gewürfelt, und gelingt, wenn
+der Wurf eine Zahl **größer oder gleich** dem Zielwert ergibt.
+
+Angenommen ein Stufe 1 Kämpfer mit einem Wert von 12 in "Gift und
+Todesstrahlen" wird von einer giftigen Schlange gebissen. Würfelt
+er eine 12, hat er Glück und überlebt die Wirkung des Giftes, bei
+einer 11 jedoch hätte sein letztes Stündlein geschlagen.
+
+Viele Spielleiter interpretieren die Anlässe für einen Rettungswurf auch
+etwas flexibler. Der Rettungswurf gegen Todesstrahlen ist zum Beispiel der
+Universal-Rettungswurf für alle möglichen Dinge, die einen Charakter eher
+zufällig und schlagartig treffen können, und die häufig eine tödlich
+Gefahr darstellen. Zum Beispiel könnte man einen Rettungswurf gegen
+Todesstrahlen fordern, um in einer augenscheinlich sehr baufälligen Ruine
+nicht von herab fallenden Steinen getroffen zu werden. Der Rettungswurf
+gegen Drachenodem wird häufig als Rettungswurf gegen Flächeneffekte, oder
+allgemein Dinge, die irgendwie entfernt mit Drachenodem vergleichbar sind,
+angewendet. Zum Beispiel könnte man von einem Charakter, der bei Sturm in
+der Takelage eines Schiffes herum klettert, verlangen, dass er einen
+Rettungswurf gegen Odem schaffen muss, um nicht vom Sturm aus den Wanten
+geweht zu werden. Schließlich könnte der Rettungswurf gegen Versteinerung
+und Lähmung auch für das Überwinden *nicht-magischer* Behinderungen, wie
+zum Beispiel Fesseln oder Schlingpflanzen verwendet werden.
+
+: Erweiterte Bedeutung für Rettungswürfe
+
+-----------------------------------------------------------------------
+Rettungswurf      Erweiterte Bedeutung       Effekt des Scheiterns  
+----------------  -------------------------- ------------------------ 
+ Gift und           schlagartig auftretende    Der Charakter wird 
+ Todesstrahlen      Ereignisse                 getroffen, in der 
+                                               Regel tödlich.
+
+
+ Stäbe              Magische Gegenstände       Der Effekt des
+                    oder Apparate              Gegenstandes
+                                               trifft den Charakter.
+
+
+ Lähmung            jegliche Art von           Der Charakter wird in 
+                    Bewegungs-                 seiner Beweglichkeit
+                    einschränkung              eingeschränkt,
+                                               verlangsamt, gefesselt
+                                               versteinert.
+
+
+ Odem               Flächeneffekte,            Der Charakter erleidet
+                    z.B. auch durch Wind,      den vollen Effekt des
+                    Wasser, oder nicht-        Ereignisses, bei Erfolg
+                    magisches Feuer            nur den halben Effekt.
+
+
+ Sprüche            Geistige Eigenschaften,    Der Charakter
+                    oder Leistungen des        unterliegt seinem 
+                    Gegners                    Gegner, wird
+                                               übertölpelt,
+                                               gebeugt oder
+                                               manipuliert.
+
+-----------------------------------------------------------------------
 
 ### Attributsproben
 \index{Proben!W20 basiert}\index{Proben!Attributs-}
+
+Fertigkeitsproben wie in moderneren Rollenspielen gab es im
+sogenannten ersten Rollenspiel der Welt nicht, und  direkte 
+Proben gegen Attributswerte wurden erst spät als "optionale
+Regel" in den offiziellen Regelwerken von TSR erwähnt. Allerdings ist
+die Spielmechanik sehr naheliegend, und es gibt Hinweise, dass diese
+Proben schon in den allerersten Fantasy Rollenspielen angewandt
+wurden. 
 
 Attributsproben werden "gegen" ein Attribut gewürfelt - also
 gegen Stärke, Intelligenz, Weisheit, Geschicklichkeit,
@@ -52,7 +141,7 @@ gleich** dem jeweiligen Attributswert gewürfelt werden.
 
 Versucht beispielsweise ein Charakter mit Geschicklichkeit 12 auf 
 einen Baum zu klettern,
-kann die Spieleiterin eine *Probe gegen Geschicklichkeit*
+kann die Spielleiterin eine *Probe gegen Geschicklichkeit*
 verlangen. Würfelt der Spieler eine 8 gelingt es dem Charakter
 den Baum zu erklettern. Ergibt der Wurf dagegen eine 13 scheitert
 der Charakter - vielleicht war seine Rüstung zu sperrig, oder ein
@@ -62,38 +151,7 @@ Attributsproben werden auch häufig mit einer bestimmten Zahl normaler
 Sechser-Würfel ausgeführt. Zum Beispiel 2W6 für leichte Proben, 3W6 für
 normale Proben, und 4W6 für schwere Proben.
 
-### Rettungswürfe
-\index{Rettungswürfe}
-
-Rettungswürfe beziehen sich auf den Wert, den ein Charakter in
-einer bestimmten Rettungswurf-Kategorie hat. Also in "Gift und
-Todesstrahlen", "Stäbe", "Lähmung und Versteinerung",
-"Drachenodem" und "Zaubersprüche". Ein Rettungswurf gelingt, wenn
-der Würfel eine Zahl **größer oder gleich** dem Zielwert ergibt.
-
-Angenommen ein Stufe 1 Kämpfer mit einem Wert von 12 in "Gift und
-Todesstrahlen" wird von einer giftigen Schlange gebissen. Würfelt
-er eine 12, hat er Glück und überlebt die Wirkung des Giftes, bei
-einer 11 jedoch hätte sein letztes Stündlein geschlagen.
-
-Viele Spielleiter interpretieren die Anlässe für einen Rettungswurf auch
-etwas flexibler. Der Rettungswurf gegen Todesstrahlen ist zum Beispiel der
-Universal-Rettungswurf für alle möglichen Dinge, die einen Charakter eher
-zufällig und schlagartig treffen können, und die häufig eine tötliche
-Gefahr darstellen. Zum Beispiel könnte man einen Rettungswurf gegen
-Todesstrahlen fordern, um in einer augenscheinlich sehr baufälligen Ruine
-nicht von herabfallenden Steinen getroffen zu werden. Der Rettungswurf
-gegen Drachenodem wird häufig als Rettungswurf gegen Flächeneffekte, oder
-allgemein Dinge, die irgendwie entfernt mit Drachenodem vergleichbar sind,
-angewendet. Zum Beispiel könnte man von einem Charakter, der bei Sturm in
-der Takelage eines Schiffes herum klettert, verlangen, dass er einen
-Rettungswurf gegen Odem schaffen muss, um nicht vom Sturm aus den Wanten
-geweht zu werden. Schließlich könnte der Rettungswurf gegen Versteinerung
-und Lähmung auch für das Überwinden *nicht-magischer* Behinderungen, wie
-zum Beispiel Fesseln oder Schlingpflanzen verwendet werden.
-
-
-Magie
+Magie     
 -----
 
 ### Spruchrollen
@@ -151,12 +209,12 @@ Wenn Du eine Idee für einen neuen, genialen Zauberspruch hast,
 besprich Deine Idee in Ruhe mit dem Spielleiter[^spells]. Vielleicht
 muss der Effekt noch etwas angepasst werden, um nicht zu mächtig für
 den gewünschten Spruch-Grad zu sein. Wenn ihr Euch einig seid, muss
-der Zauberkundige eine Woche Arbeit und 2.000 GM pro Spruch-Grad in
-die Forschung investieren. Selbst entwickelte Sprüche haben allerdings
-auch einen gewisse Chance fehlerhaft zu sein, die in der Regel von der
-Spielleiterin verdeckt ermittelt wird. Dem Zauberkundigen bleibt also
-nichts anderes übrig, als den neu entwickelten Spruch zu
-testen.
+der Zauberkundige eine Woche Arbeit und mindestens 2.000 GM pro
+Spruch-Grad in die Forschung investieren. Selbst entwickelte Sprüche
+haben allerdings auch einen gewisse Chance fehlerhaft zu sein, die in
+der Regel von der Spielleiterin verdeckt ermittelt wird. Dem
+Zauberkundigen bleibt also nichts anderes übrig, als den neu
+entwickelten Spruch zu testen.
 
 [^spells]: Gary Gygax verlangte hierzu in
      seinem *Dungeon Masters Guide* von 1979, dass der Spieler dem 
@@ -217,25 +275,24 @@ Ziele.
 
 
 ### Erkennen und Identifizieren magischer Gegenstände
+\index{Magische Gegenstände!identifizieren}
+Die meisten magischen Gegenstände sehen auf den ersten Blick aus wie
+ganz gewöhnliche Gegenstände. Wendet ein Zauberkundiger *Magie lesen*
+auf den Gegenstand an, werden für ihn die magischen Runen sichtbar,
+mit denen der Gegenstand verzaubert wurde.  Mit einem *Magie
+entdecken* Spruch, kann auch ein unerfahrener Magier feststellen,
+*dass* ein Gegenstand magische Eigenschaften hat. Er kann jedoch oft
+nicht erkennen, genau welche!
 
-Die meisten magischen Gegenstände sehen aus wie ganz gewöhnliche
-Gegenstände. Einige mögen mit geheimnisvollen Runen oder Symbolen
-verziert sein. 
-
-Mit einem *Magie entdecken* Spruch, kann auch ein unerfahrener
-Magier feststellen, *dass* ein Gegenstand magische Eigenschaften
-hat. Er kann jedoch oft nicht erkennen, genau welche!
-
-Die Wirkung magischer Gegenstände kann 
+Die Wirkung magischer Gegenstände und Tränke kann daneben
 durch schlichtes ausprobieren festgestellt werden, was aber auch
 Risiken birgt. Zum Beispiel könnte es passieren, dass ein
-magischer Helm nach einmaligem aufsetzen erst einmal nicht mehr
-abgenommen werden kann.
-
-Erfahrene Zauberkundige, die einen Spruch wie *Identifizieren*
-oder ein entsprechendes Ritual beherrschen, können einen
-Gegenstand genau analysieren, und dessen magischen Eigenschaften
-und Wirkungen vorhersagen.
+magischer Helm nach einmaligem aufsetzen nicht mehr
+abgenommen werden kann. Ein Trank der aussieht wie ein Liebestrank
+könnte in Wirklichkeit tödliches Gift sein. Also ist Vorsicht geboten.
+Einen unbekannten magischen Trunk zu analysieren, ist sicher eine
+komplizierte Angelegenheit - vermutlich etwas für einen sehr
+erfahrenen Magier mit einem gut ausgestatteten Labor.
 
 ### Verfluchte Gegenstände
 
@@ -281,7 +338,7 @@ Personen ins Gespräch zu kommen. Gebe deinem Charakter eine
 Stimme, probiere verschiedene Stimmlagen aus, vielleicht einen
 Akzent, eine ulkige Redensart, lass ihn oder sie persönliche 
 Markenzeichen entwickeln. Und noch ein kleines Geheimnis 
-zum *Alten Mann*: er ist das geheime Sprachrohr der
+zum *Alten Mann*: er ist das Sprachrohr der
 Spielleiterin. Es könnte sein, dass sie Euch - in der
 Rolle des alten Mannes - entscheidende Hinweise zu raunt. Aber
 umgekehrt könnt ihr auch den alten Mann fragen, wenn ihr Fragen
@@ -319,10 +376,10 @@ riesigen Gefallen und führe während der Phase des Stadtabenteuers
 selbst Buch über deine Ausgaben. Jede Übernachtung kostet ein paar
 Münzen, und auch jede Mahlzeit. Der Wirt wird Dir schon sagen,
 was Du zu zahlen hast (Sprachrohr...). Sollte Dir das Geld
-ausgehen, sei nicht betrübt, das ist der Sinn der Sache! Erstens
-verdienst Du Erfahrungspunkte, und zweitens musst Du dich jetzt
-umschauen: nach einem Job, dem Beutel deines Nachbarn, oder nach
-dem Pfandleiher - und schon geht das Abenteuer los. 
+ausgehen, sei nicht betrübt, das ist der Sinn der Sache! 
+Jetzt musst Du dich umschauen: nach einem Job, dem Beutel deines
+Nachbarn, oder nach dem Pfandleiher - und schon geht das Abenteuer
+los. 
 
 Wenn Du ein echter *Munchkin*[^munchkin]\index{Munchkin} bist, dann
 ziehst Du natürlich bevorzugt ins nächste Dungeon, verprügelst ein
@@ -343,14 +400,14 @@ der Schulter wird stolz auf Dich sein!
 
 Der Aufenthalt in Ortschaften ist schließlich auch immer eine gute
 Gelegenheit sich nach Verstärkung umzuschauen. Dabei wird zwischen
-Söldnern bzw. sogenannten Mietlingen und Gefolgsleuten unterschieden.
+Söldnern, oft Mietlinge genannt, und Gefolgsleuten unterschieden.
 
 Söldner und Mietlinge können für bestimmte Aufgaben angeheuert werden,
 und erwarten dafür typischerweise einen marktüblichen Sold.
 Dabei kann es sich bei Söldnern um einen
 einzelnen Fackelträger handeln, aber auch um eine ganze Hundertschaft von
 Bogenschützen - je nach dem was sich der Charakter leisten kann.
-Tendentiell nehmen Söldner aber eher nicht an Dungeon-Abenteuern teil,
+Tendenziell nehmen Söldner aber eher nicht an Dungeon-Abenteuern teil,
 und bleiben auch eher anonym. 
 
 Anders ist es mit den Gefolgsleuten:
@@ -371,7 +428,7 @@ man als Spieler parallel zu den Abenteuern des Hauptcharakters einen
 zweiten oder auch mehrere weitere Charaktere aufbauen.
 
 Da Gefolgsleute sehr praktisch sind, ist deren Anzahl durch das
-Charisma eines Charakters begenzt. Charismatische Typen haben eben
+Charisma eines Charakters begrenzt. Charismatische Typen haben eben
 mehr Gefolgsleute als verschrobene Einzelgänger. Schließlich ist es
 denkbar, dass ein besonders treuer Söldner mit der Zeit zu einem
 Gefolgsmann, und irgendwann vielleicht zum Hauptcharakter wird.
@@ -396,7 +453,7 @@ verlagert, bekommt das Spiel einen anderen Rhythmus.
 
 Der Spielleiter beginnt nun das Geschehen in jeweils 10-minütige
 Phasen einzuteilen. Alles wofür die Spielercharaktere *in der
-Spielwelt* ungefähr 10 Minuten benötigen wird als Phase gezählt.
+Spielwelt* ungefähr 10 Minuten benötigen, wird als Phase gezählt.
 Das kann in Realzeit schnell abgehandelt sein, zum Beispiel wenn
 die Spieler erklären, dass sie einen Raum gründlich absuchen,
 oder einfach erzählt wird: "ihr bewegt Euch vorsichtig weitere 120
@@ -469,7 +526,7 @@ sagt. Sie wird zu Beispiel erzählen:
 
 > "... nachdem ihr die Treppe hinunter gestiegen seid, und 
 > ungefähr 40 Fuß in westlicher Richtung zurück
-> gelegt habt ist der Weg vor Euch mit Gitterstäben versperrt
+> gelegt habt, ist der Weg vor Euch mit Gitterstäben versperrt
 > allerdings zweigt in nördlicher Richtung ein Gang ab.
 >  
 > Alle Gänge hier sind übrigens ungefähr 10 Fuß hoch und
@@ -549,34 +606,43 @@ Die folgende Tabelle zeigt die verschiedenen Geschwindigkeitsstufen
 eines Charakters in Abhängigkeit von der Belastung. Mit *BW* ist die
 Basis Geschwindigkeit (oder auch *BeWegung* oder *Bewegungs-Weite*) 
 gemeint. Sie wurde in den
-früheren Ausgaben noch in Inch (") - also einer Spielbrettdistanz -
+früheren Ausgaben noch in Zoll (") - also einer Spielbrettdistanz -
 angegeben und dann je nach Umgebung auf Fuß oder Yards bzw. Meter hoch
 gerechnet. In Tabelle \ref{belastungsstufen} werden zusätzlich noch
 die BW in Meter (m), sowie in Fuß (') pro Phase und Runde angegeben.
+Der Begriff "Runde" ist nicht bedeutungsgleich mit Phase und wird im
+Kapitel über Kämpfe erklärt.
 In der letzten Spalte findet sich die Angabe für die Anzahl an
-Kästchen, die auf einem typischen Spielfeld pro Runde zurück gelegt
+Kästchen, die auf einem typischen Spielfeld pro *Runde* zurück gelegt
 werden kann.
 
 : Belastungsstufen
+\label{belastungsstufen}
 
------------------------------------------------------------------------------
-Ausrüstung/Gepäck       BW (")  BW (m)    Bewegung   Bewegung    5' Kästchen
-                                          pro Phase   pro Runde
----------------------  ------- -------- ----------- ----------- -------------
-Unbelastet,             12"       36 m     120'        40'            8
-kein Gepäck
- 
-Kettenrüstung           9"        27 m     90'         30'            6
+------------------------------------------------------------------------
+Ausrüstung/Gepäck       BW (")  BW (m)   Bewegung            Raster-
+                                         pro Phase/Runde     felder 
+---------------------  ------- -------- ------------------ -------------
+Unbelastet,             12"       36 m   240'/72 m             12 
+Gepäck
+bis 75 Pfund
+
+
+Kettenrüstung           9"        27 m   180'/54 m              9 
 oder Gepäck
+bis 150 Pfund
  
-Plattenrüstung          6"        18 m     60'         20'            4
+Plattenrüstung          6"        18 m   120'/36 m              6  
 oder
 Kettenrüstung
 und Gepäck 
+bis 300 Pfund
 
-Plattenrüstung          3"         9 m     30'         10'            2
+Plattenrüstung          3"         9 m    60'/18 m              3   
 und Gepäck
------------------------------------------------------------------------------ 
+
+------------------------------------------------------------------------ 
+
 
 Schließlich können sich auch noch "Schätze" auf die Belastung
 auswirken.  Das heißt also, 3 Dinge können die Belastungsstufe
@@ -586,12 +652,13 @@ Belastungsstufe um eins und "Schätze" erhöhen die Belastungsstufe
 nochmals um eins. Das heißt ein ungerüsteter Mensch (BW 12"), kann
 Gepäck (BW 9") und auch noch einen Schatz (BW 6") tragen. Auch einem
 Charakter in Kettenrüstung wäre dieses noch möglich (dann BW 3"). Ein
-in Bänderpanzer gerüsteter Kämpfer, kann jedoch nur noch sein Gepäck
+in Plattenpanzer gerüsteter Kämpfer, kann jedoch nur noch sein Gepäck
 tragen. Sonst sinkt seine Belastungsstufe auf eine Bewegung von 0"!
 
 Was macht man also als schwer gerüsteter Kämpfer, wenn man mehr als
-seine sieben Sachen transportieren will? Ganz klar, man braucht ein
-Lasttier oder irgendein Gefährt und am besten Gefolgsleute, die einem beim tragen helfen.
+seine sieben Sachen transportieren will? Ganz klar, man braucht
+Mietlinge, und vielleicht ein Lasttier oder irgendein Gefährt und am
+besten Gefolgsleute, die einem beim tragen helfen.
 
 Wildnisabenteuer
 ----------------
@@ -608,7 +675,7 @@ dann quasi im Zeitraffer statt.
 Der Spielleiter beschreibt Euch die
 Landschaft, durch die ihr reist, und erzählt, wem ihr
 begegnet, und was sich sonst an Ereignissen auf Eurer Reise
-ergeben mögen. Auch wenn ihr in der Wildnis unterwegs seid,
+ergibt. Auch wenn ihr in der Wildnis unterwegs seid,
 würfelt der Spielleiter in bestimmten Intervallen auf
 Zufallsbegegnungen.
 
@@ -618,7 +685,7 @@ Ortschaften werdet ihr vielleicht eher Probleme mit Wegelagerern
 haben, aber abseits der Straßen könntet ihr durchaus einmal
 unerwartet einem Riesen oder einem Drachen gegenüberstehen.
 
-Natürlich kann es auch gut sein, dass ihr auf Eurer Reise durch die
+Natürlich kann es auch gut sein, dass Ihr auf Eurer Reise durch die
 Wildnis eine Höhle oder eine alte Ruine entdeckt, dann wären wir
 wieder beim Dungeon Crawl. Oder ihr erreicht eine benachbarte
 Ortschaft, so dass das Spiel wieder auf Stadtabenteuer
@@ -627,7 +694,7 @@ umschaltet.
 Um es mit den Richtungsangaben 
 einfacher zu haben, werden Wildniskarten traditionell auf Papier mit
 Sechseck-Raster gezeichnet. Deshalb wird dieser Spielmodus auch
-*Hex crawl* \index{Hex crawl} genannt.  
+*Hex Crawl* \index{Hex Crawl} genannt.  
 Meistens wird das Raster so ausgerichtet,
 dass die Hexfelder auf der Seite liegen (und nicht auf der Spitze
 stehen). Entsprechend hätte also jedes Hexfeld eine Nord- eine
@@ -668,25 +735,27 @@ Nordosten und im Nordwesten kann man ja nicht weit gucken.
 Nach einer unruhigen Nacht, während der ihr abwechselnd Wache
 gehalten habt, seid Ihr am nächsten Tag aufgebrochen, um den
 Wald in nordöstlicher Richtung zu durchqueren. Nur mit Glück
-konntet ihr auf dem Weg im letzten Moment einem Grünen 
-Drachen[^drache] ausweichen, der irgendwo in dem Wald sein Lager zu 
+konntet ihr auf dem Weg im letzten Moment einem  
+Drachen ausweichen, der irgendwo in dem Wald sein Lager zu 
 haben scheint. Abends schließlich erreicht ihr einige Hügel im
 Nordosten des Waldes, von wo aus ihr eine weitere größere Ebene
 in nordöstlicher Richtung überblicken könnt. Viele Meilen im Nordosten
 seht ihr im Dunst, von der Abendsonne angeleuchtet, die Silhouette
 einer Stadt ...
 
-Aber wo wir gerade beim Thema waren: ihr solltet immer Wachen
+Aber wo wir gerade beim Thema waren: ihr solltet immer
+Wachen\index{Wachen}
 aufstellen, wenn ihr in der Wildnis kampiert, denn auch für jede
-Nacht wird die Spielleiterin auf wandernde Monster würfeln.
+Nacht wird die Spielleiterin auf wandernde
+Monster\index{Monster!wandernde} würfeln.
 Typischerweise wird die Nacht in drei Wachen eingeteilt: Abend,
 tiefe Nacht, auch bekannt als "Hundewache" und die Morgenstunden. 
 
-[^drache]: Ihr solltet Euch eine Notiz machen, dass ihr in diesem
+Außerdem Ihr Euch eine Notiz machen, dass ihr in diesem
 Hexfeld einen Drachen gesehen habt. Entweder weil ihr in Zukunft
 lieber vermeiden wollt, diese Gegend zu bereisen, oder weil ihr
 Euch überlegt, nach gründlicher Planung und Zusammenstellung
-einer entsprechenden Ausrüstung auf Drachenjagd zu gehen. 
+einer entsprechenden Expedition auf Drachenjagd zu gehen. 
 
 Abbildung \ref{hexmap-3} zeigt, wie die Karte
 nun aussieht.
@@ -711,7 +780,8 @@ wird aber in der Regel die Spielleiterin festlegen. Dabei wird
 wahrscheinlich auch noch die Geländebeschaffenheit, das Wetter und
 möglicherweise vorhandene Reittiere eine Rolle Spielen. Um es einfach
 zu machen veranschlagen viele Spielleiter 1 - 2 Hexfelder pro Tag,
-wobei ein Hexfeld üblicherweise 5 oder 6 Meilen entspricht.
+wobei ein Hexfeld üblicherweise 5 oder 6 Meilen 
+entspricht, also etwa 8 bis 10 Kilometern.
 
 
 ### Verirren
@@ -744,8 +814,9 @@ RK       |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 |
 \index{Angriffstabelle}
 
 Das ist die Treffertabelle für normale Stufe 1 Charaktere. Solltest Du
-aber zum Beispiel ein Kämpfer mit einem Stärkemodifikator von +1 sein,
-dann solltest Du die Tabelle anpassen:
+aber zum Beispiel einen Angriffsbonus haben, etwa als Kämpfer mit 
+einem magischen Schwert+1,
+dann solltest Du die Tabelle entsprechend anpassen:
 
 : Angriffstabelle, Stufe 1 mit Angriffsbonus +1
 
@@ -773,15 +844,47 @@ RK       |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 |
 Mit Bo ist also nicht zu spaßen - ganz wie *Gary Gygax* geschrieben
 hat: *"Halflings [...] have deadly accuracy with missiles ..."*
 
+Falls Ihr
+mit *aufsteigender Rüstungsklasse*\index{Rüstungsklasse!aufsteigend}
+spielt, hier auch noch die dazu passende Tabelle. Wie Du siehst ist
+sie eigentlich unnötig, aber das Konzept wird deutlich. Angriffsboni
+müssen entsprechend zum Würfelwurf addiert werden.
+
+: Angriffstabelle, aufsteigende Rüstungsklasse
+
+RK       |[10]|[11]|[12]|[13]|[14]|[15]|[16]|[17]|[18]|[19]|  
+---------|----|----|----|----|----|----|----|----|----|----|  
+1W20     | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |  
+
 
 ### Kampfrunden
 \index{Kampfrunde}
 
 Kommt es zu einem Kampf wird gewissermaßen auf Zeitlupe umgeschaltet,
-denn dann wird die Zeit in *Runden* gemessen, die ungefähr 10 Sekunden
-Realzeit entsprechen. Auch hier wird abstrahiert. Zehn Sekunden sind
+denn dann wird die Zeit in *Runden* gemessen, die ungefähr 
+Realzeit entsprechen. Eine Minute ist
 in einem wilden Schwertkampf eine lange Zeit, sicherlich Zeit für
 mehrere abwechselnde Schwerthiebe, Finten, Zwischenrufe und ähnliches.
+
+Was in welcher Reihenfolge innerhalb einer Kampfrunde passiert, war in
+der Originalausgabe des Spiels nicht geregelt. Viele Spielrunden
+benutzen mehr oder weniger komplizierte Regeln aus späteren 
+Editionen, eigene Hausregeln, oder auch die Regeln aus
+*Chainmail*\index{Chainmail}, einem Regelsystem für Zinnsoldaten.
+Typischer Weise wird dabei als erstes um die
+*Initiative*\index{Initiative} gewürfelt,
+also die Frage geklärt, wer im Kampf zuerst agiert. 
+
+Im Zweifel, wenn nichts anderes festgelegt ist, spielt mit der
+sogenannten *gleichzeitigen
+Initiative*\index{Initiative!gleichzeitige}. Unabhängig davon, in welcher
+Reihenfolge gewürfelt wird, kann jeder Angriffswurf ausgeführt werden,
+und entsprechend vielleicht auch Schaden verursachen. Es kann also
+durchaus sein, dass ein Charakter in der selben Runde einen großartigen
+Treffer landet *und* selbst tödlich getroffen wird. Nicht
+unrealistisch, finde ich, und ganz schön dramatisch, und wie schon
+gesagt, eine Minute ist eine lange Zeit.
+Lasst die Würfel den Hergang des Kampfes erzählen!
 
 ### Überraschung 
 \index{Überraschung}
@@ -790,164 +893,32 @@ Gerade in einem Dungeon oder in unwegsamem Gelände kann es leicht
 vorkommen, dass ein Partei durch einen Angriff überrascht,
 man könnte auch sagen *überfallen* wird.
 
-Wird eine Partei überrascht, kann sie erst in der folgenden
-Kampfrunde selbst aktiv werden!
-
 Falls es sich nicht aus der Handlung offensichtlich ergibt,
 kann es sein, dass der Spielleiter Euch also dazu auffordert zu
 würfeln, ob ihr überrascht seid. Dazu wird ein W6 geworfen. In der
 Regel ist eine Partei mit einer Wahrscheinlichkeit von 2 in 6
-Überrascht, besonders hinterhältige oder schwer auszumachende
+überrascht. Besonders hinterhältige oder schwer auszumachende
 Kreaturen könnten Euch aber auch schon bei 3 in 6 oder gar 4 in 6
 überraschen. 
 
-### Initiative
-\index{Initiative}
+Überraschung wirkt sich spielmechanisch vor allem dadurch aus, dass
+eine überraschte Partei in der ersten Kampfrunde nicht agieren kann.
+Außerdem wirkt sich Überraschung auf die
+Distanz\index{Distanz!Begegnungs-} aus,
+auf die eine Begegnung statt findet. Sind die Parteien nicht
+überrascht, beträgt der Begegnungsabstand 20 bis 80 Fuß (was als 2W4 *
+10 ausgewürfelt werden kann), wird die Spielerpartei überrascht,
+stehen die Gegner mit einem Abstand von 10 bis 30 Fuß praktisch
+direkt vor ihnen. Überraschen hingegen die Spieler die gegnerische
+Partei, können sich die Spieler aussuchen, ob sie einen
+Überraschungsangriff wagen, oder sich unbemerkt davon schleichen
+wollen.
 
-Für jede Kampfrunde in der *kein* Überraschungsmoment für eine
-Seite mehr vorliegt, wird zu Beginn um die *Initiative*
-gewürfelt, also um die Reihenfolge in der die beiden Seiten
-handeln.
-
-Die Initiative wird einmal für jede Partei mit einem W6
-gewürfelt, die größere Zahl gewinnt. Haben beide Parteien die
-gleiche Zahl gewürfelt, finden die Aktionen der Runde
-*gleichzeitig* statt. Regeltechnisch bedeutet das schlicht, dass
-jeder Kombattant in dieser Kampfrunde seine geplante Aktion
-ausführen und beenden kann, gleichgültig, ob der in dieser
-Kampfrunde kampfunfähig wird oder nicht. In Runden mit
-gleichzeitiger Initiative ist es also möglich, dass sich zwei
-Gegner gegenseitig umbringen.
-
-
-: Ablauf einer Kampfrunde \index{Kampfrunde!Ablauf}
-
------ -------------------------------------------------------
-   1. Vorhaben erklären, Zaubersprüche ansagen
-
-   2. Auswürfeln der Initiative
-
-   3. Ausspielen der einzelnen Aktionen:
-
-      a) Vermeiden der Begegnung (Fliehen, Türe zuwerfen
-      u.ä.), Versuch zu verhandeln
-
-      b) Bewegung, Kampfmanöver
-
-      c) Fernkampfangriffe
-
-      d) Zaubersprüche werden aktiv
-
-      e) Nahkampfangriffe
-
-   4. Die andere Partei führt ihre Aktionen a) - e) aus
-
-   5. falls der Kampf noch nicht beendet ist zurück zu Punkt 
-      1.
------ -------------------------------------------------------
-
-
-### Kampfmanöver
-
-Angriff von hinten
-:    Ein Angriff von hinten hat einen Trefferbonus von +2, und negiert
-     einen eventuellen Rüstungsbonus durch ein Schild.\index{Angriff
-     von hinten}
-
-Stürmen
-:    Charaktere können sich entscheiden in einen Kampf zu stürmen. 
-     Durch diese Entscheidung gewinnen sie automatisch die Initiative
-     und sie verursachen bei erfolgreichen Trefferwürfen **doppelten 
-     Schaden**.\index{Stürmen}
-
-     Die Sache hat aber auch einen Haken: 
-     Sollten die Gegner *längere* Waffen benutzen als die der
-     heranstürmenden
-     Helden - z.B. Lanzen gegen Schwerter - dann dürfen die Gegner 
-     zuerst ihre Trefferwürfel ausführen, obwohl sie eigentlich nicht 
-     die Initiative haben. 
-
-     Das gilt natürlich auch anders herum: mit "aufgesetzten" Speeren
-     und Lanzen, kann man sich gegen einen Sturmangriff verteidigen.
-     
-     Außerdem muss die stürmende Partei für die Kampfrunde in der 
-     gestürmt wird einen Abzug von +2 auf ihre Rüstungsklasse in Kauf
-     nehmen.
-
-Rückzugsgefecht
-:    Ein Charakter kann sich mit halber Geschwindigkeit rückwärts
-     bewegen und dabei weiter kämpfen. Falls sein Gegner ihn dabei
-     nicht verfolgt, oder der Gegner zum Beispiel durch einen
-     Verbündeten an einer Verfolgung gehindert wird, kann sich der
-     Charakter so relativ risikoarm aus einem Gefecht zurück ziehen.
-
-     Das Rückzugsgefecht bietet also die Möglichkeit zu einer
-     kooperativen Strategie.\index{Rückzugsgefecht}
-
-Rückzug
-:    Entscheidet sich ein Charakter aus dem Kampf zu fliehen, kann er
-     dies mit voller Geschwindigkeit tun, muss aber einen
-     Gelegenheitsangriff\index{Gelegenheitsangriff} 
-     mit +2 durch seinen Gegner riskieren.\index{Rückzug}
-	 
-Flucht 
-:    Ein Charakter kann im Kampf mit bis zu dreifacher
-     Kampfgeschwindigkeit (also 90' pro Runde bei BW 9") flüchten, und
-     bekommt grundsätzlich eine Runde Vorsprung, bevor seine
-     Kontrahenten gegebenenfalls die Verfolgung aufnehmen.\index{Flucht}
-
-     Wenn Du dich entschlossen hast zu Flüchten, und es wirklich ums
-     Überleben geht, kann es hilfreich sein, Teile Deiner Ausrüstung, 
-     Schätze, oder auch Deinen Proviant fallen zu lassen. Denn
-     erstens kannst Du dadurch schneller werden, und zweitens könnte
-     es ja sein, dass die Orks, die Dir gerade hinterher rennen, mehr
-     an deinen Goldmünzen als an deiner Haut interessiert sind.
-
-Deckung
-:    Entsprechende Bedingungen vorausgesetzt, kann ein Charakter der 
-     nicht gerade in einem Schwertkampf oder Handgemenge involviert ist, 
-     in Deckung gehen. Er kann dabei immer noch Fernkampfangriffe
-     ausführen,
-     und kann durch seine Gegner nur mit einem Abzug von -2 getroffen
-     werden.\index{Deckung}
-
-
-### Reichweite im Fernkampf
-\index{Reichweite!Fernkampf}
-
-Fernkampfangriffe werden in drei Distanz-Kategorien eingeteilt: kurz, mittel und weit. 
-Angriffe auf nahe Distanz erhalten einen Bonus von +1, solche auf
-weite Distanz erhalten einen Abzug von -1.
-
-: Reichweiten im Fernkampf
-
------------------------------------------------------------------
-Waffe                     nah (+1)     mittel         fern (-1) 
------------------------ ------------ ------------- --------------
-Dolch, Wurfaxt, Lanze    10' (3 m)    20' (6 m)     30' (9 m)
-
-Flaschen, Flakons        10' (3 m)    30' (9 m)     50' (15 m)
-
-Speer                    20' (6 m)    40' (12 m)    80' (24 m)
-
-Kurzbogen                50' (15 m)   100' (30 m)   150' (60 m)
-
-Schleuder,                60' (18 m)   120 (37 m)    180' (55 m)
-Leichte Armbrust
-
-Langbogen                70' (21 m)   140' (42 m)   210' (64 m)
-
-Kompositbogen, Schwere   80' (24 m)   160' (48 m)   240' (73 m)
-Armbrust 
-
------------------------------------------------------------------
-
-
-### Verletzung, Bewußtlosigkeit, Tod
-\index{Verletzung}\index{Bewußtlosigkeit}\index{Tod}
-Sinken die Trefferpunkte eines Charakters auf unter Null geht der
+### Verletzung, Bewusstlosigkeit, Tod
+\index{Verletzung}\index{Bewusstlosigkeit}\index{Tod}
+Sinken die Trefferpunkte eines Charakters auf Null oder weniger geht der
 Charakter leblos zu Boden. Vielleicht ist er sofort tot, vielleicht nur
-bewußtlos, aber dann wird er in kürze sterben\index{Sterben}, 
+bewusstlos, aber dann wird er in Kürze sterben\index{Sterben}, 
 wenn ihm nicht so schnell wie möglich geholfen wird.  
 
 Spielmechanisch bedeuten Null oder weniger
@@ -960,25 +931,26 @@ angeht: null Trefferpunkte bedeutet tot - mausetot. Aber es
 gibt auch viele Regeln die diese Härte etwas abmildern. Zum
 Beispiel könnte es sein, dass der Charakter erst bei einer
 bestimmten Zahl negativer Trefferpunkte stirbt, und noch eine
-Chance besteht, ihn mit geeigeneten Erste
+Chance besteht, ihn mit geeigneten Erste
 Hilfe-Maßnahmen\index{Erste Hilfe} zu
 stabilisieren. Oder er stirbt nicht sofort, sondern hat noch
 ein paar Momente Zeit, den Gefährten seinen letzten Willen
-mitzuteilen. Letztlich geht es ja darum, eine unterhaltsame - und
-in diesem Moment vielleicht sogar dramatische Geschichte zu
-erzählen.
+mitzuteilen. Letztlich geht es ja darum, eine unterhaltsame und
+dramatische Geschichte zu erzählen.
 
 Außerdem bedeutet selbst der Tod nicht, dass das Spiel für den
 betreffenden Charakter beendet ist - wir befinden uns ja in einer
 Fantasy-Welt, in der Magie und göttliche Interventionen Realität
 sind. Irgendwo an den abgelegenen Orten mystischer Macht, oder in
 den Zentren arkaner Forschung, wird es
-mächtige Weise geben. Einige von ihnen haben gelernt, die Toten
-ins Leben zurück zu holen, oder die
-Reinkarnation\index{Reinkarnation} eines Verstorbenen zu
-begünstigen - wenn vielleicht auch in anderer Gestalt. Vermutlich
-sind so mächtige Weise nicht einfach zu finden, und deren Dienste
-werden ihren Preis haben, aber das ist eben das Garn aus dem
+mächtige Weise geben. Einige von ihnen haben die Geheimnisse der
+Wiederbelebung gelernt, und können die Toten
+ins Leben zurück holen\index{Wiederbelebung}. Oder sie können die 
+Reinkarnation\index{Reinkarnation} eines Verstorbenen 
+begünstigen - so dass dieser in anderer Gestalt, vielleicht sogar in
+der eines fantastischen Wesens erneut auf Abenteuer ausziehen kann. 
+Vermutlich sind so mächtige Weise nicht einfach zu finden, und deren
+Dienste werden ihren Preis haben, aber das ist eben das Garn aus dem
 Abenteuer gewebt werden.
 
 Schließlich solltest Du noch wissen, dass auch Stufen und Attribute 
@@ -988,9 +960,10 @@ rauben können.
 
 ### Heilungsrate
 
-Charaktere heilen \index{Heilung} einen Trefferpunkte wenn sie für einen
-Tag vollständige Ruhe einhalten. Nach 3 Wochen Krankenlager sind sie
-so oder so wieder vollständig geheilt.
+Charaktere erholen sich \index{Heilung} um einen Trefferpunkte pro
+Tag. Und zwar *beginnend mit dem zweiten Tag*, an dem sie vollständige
+Ruhe einhalten. Nach 3 Wochen Krankenlager sind sie so oder so 
+wieder vollständig geheilt.
 
 Erfahrungspunkte und Stufen
 ---------------------------
@@ -1005,8 +978,8 @@ werden müssen geht aus den Stufentabellen ab Seite
 
 In Old-School Spielen erhält man typischerweise deutlich mehr
 Erfahrungspunkte für das erbeuten von Schätzen, als für das
-Niedermetzeln von Monstern. Da letzteres ja auch meistens sehr
-gefährlich ist. Die bessere Strategie ist daher, eher trickreich
+Niedermetzeln von Monstern. Letzteres ist ja auch meistens sehr
+gefährlich. Daher ist die bessere Strategie, eher trickreich
 vorzugehen, um möglichst viel Gold zu bekommen, als jedes mal mit
 gezogenen Schwertern los zu stürmen. Aber das haben schon viele
 gesagt, und geschrieben. Meistens kommt es doch anders...
@@ -1018,29 +991,71 @@ Ausgangsort zurück gekehrt ist. Häufig wird diese Regel noch etwas
 verschärft, und es zählt nur Gold welches ausgegeben wurde. Die Idee
 dabei ist, dass die Charaktere durch die Art wie sie ihr Gold ausgeben
 etwas zur Spielwelt beitragen. Vielleicht in dem sie eine große Spende
-an eine lokale Glaubensgemeinschaft tätigen, eine Bibilothek stiften,
+an eine lokale Glaubensgemeinschaft tätigen, eine Bibliothek stiften,
 oder einfach ein großes Fest feiern oder wenigstens eine Lokalrunde
 schmeißen.
 
 Für *feindselige Monster* die überwunden werden, erhält ein
-Spielercharakter 100 Erfahrungspunkte pro Trefferwürfel.
-*Überwinden* bedeutet in diesem Zusammenhang ausgetrickst, im
-Kampf besiegt, in die Flucht geschlagen, oder ähnliches. Ob ein
-Schnack mit einem Drachen über das Wetter Erfahrungspunkte
-bringt, liegt im Ermessen der Spielleitung.
+Spielercharakter eine bestimmte Anzahl Erfahrungspunkte pro
+Trefferwürfel, etwa 10 bis 100, die Spielleitung wird das nach
+bestimmten Regeln festlegen.  *Überwinden* bedeutet in diesem
+Zusammenhang: ausgetrickst, im Kampf besiegt, in die Flucht
+geschlagen, oder ähnliches. Ob ein Schnack mit einem Drachen über das
+Wetter Erfahrungspunkte bringt, liegt im Ermessen der Spielleitung.
 
-In unserer Spielrunde erhalten Spielercharaktere alleine für das
-Überleben einer Session 500 Erfahrungspunkte. Zusätzlich erhält jeder
-*Spieler* 200 Erfahrungspunkte, die an andere Spielercharaktere
-verteilen werden sollen. Zum Beispiel für gutes Rollenspiel.
+Die folgenden Tabellen geben die Werte für die ersten drei Stufen
+jeder Charakterklasse an:
 
+: Kämpfer, Stufen 1 bis 3
+
+\label{tabellen}
+
+| Stufe | Erfahrungspunkte | Trefferpunkte |
+|:-----:|-----------------:|:-------------:|
+| 1     |              0   | 1W+1          |
+| 2     |          2.000   | 2W            |
+| 3     |          4.000   | 3W            |
+
+: Zauberkundige, Stufen 1 bis 3 
+
+| Stufe |          EP | TP    | Grad 1 | Grad 2 |
+|:-----:|------------:|:-----:|--------|--------|
+| 1     |           0 | 1W    | 1      |      - |
+| 2     |       2.500 | 1W+1  | 2      |      - |
+| 3     |       5.000 | 2W    | 3      |      1 |
+
+Die Zahlen unter "Grad" geben an, wie viele Sprüche des
+entsprechenden Grades der Charakter pro Tag wirken kann.
+
+: Kleriker, Stufen 1 bis 3
+
+| Stufe |          EP | TP | Grad 1 |
+|:-----:|------------:|:--:|--------|
+| 1     |           0 | 1W | -      |
+| 2     |       1.500 | 2W | 1      |
+| 3     |       3.000 | 3W | 2      |
+
+
+: Kleriker, beherrschen von Untoten
+
+| Untote TW:     | 1 | 2 | 3 | 4 | 5 |
+|:--------------:|:-:|:-:|:-:|:-:|:-:|
+| Kleriker Stufe |   |   |   |   |   |
+| 1              | 7 | 9 |11 | - | - |
+| 2              | 5 | 7 | 9 | 11| - |
+| 3              | 3 | 5 | 7 | 9 | 11|
+
+Mit "Untote TW" ist die Anzahl an Trefferwürfel der jeweiligen
+Monsterart gemeint. Die Zahlen in der Tabelle geben an, welcher Wert
+auf 2W6 *mindestens* gewürfelt werden muss, um die jeweiligen Untoten
+erfolgreich zu beherrschen.
 
 Das Spiel in der Kampagne
--------------------------
+=========================
 
 Mit Kampagne ist eine Abfolge von Spielen in der gleichen
 Umgebung und mit den gleichen Charakteren über mehrere
-Spiel-Sitzungen hinweg gemeint. Die einzelnen Spielsitzungen
+Spielsitzungen hinweg gemeint. Die einzelnen Spielsitzungen
 können dabei kontinuierlich auf einander aufbauen, dass heißt,
 die Spieler setzten ihr Spiel dort fort, wo sie das letzte mal
 aufgehört haben. Es ist aber auch genauso möglich, dass zwar die
@@ -1070,8 +1085,7 @@ Sehr große Verlies- und Höhlenkomplexe, sogenannte *Megadungeons*
 \index{Megadungeon}
 sind sicherlich die erste Kampagnenform des Spiels gewesen. In
 *The Underworld & Wilderness Adventures*, Band III des originalen
-Spiels von 1974, schrieben Gary Gygax und
-Dave Arneson: 
+Spiels von 1974, schrieben die Autoren:
 
 > A good dungeon will have no less then a dozen levels down, with
 > offshot levels in addition, and new levels under construction
@@ -1131,28 +1145,31 @@ Kampagne teilgenommen haben. Heutzutage wird so etwas
 
 ### Zeit und Raum
 
-Eine Kampagne sollte zeitlich und örtlich konsistent verlaufen,
-damit sich glaubhafte Geschichten entwickeln können. Örtliche
-Sprünge und ungewollte Zeitschleifen können sich sehr irritierend
-auswirken, und lassen das Geschehen oder die Aktionen der
-Charaktere und deren Konsequenzen beliebig erscheinen.  Eine
-konsistenter Ablauf der Zeit wird dadurch erreicht, dass jede
-Aktion in der Spielwelt, sei es ein Kampf über wenige Minuten,
-oder eine Reise über zwei Wochen oder mehr, die Spielwelt-Zeit
-gnadenlos um den entsprechenden Zeitraum fortschreiten lässt. 
+Eine Kampagne sollte zeitlich und örtlich konsistent verlaufen, damit
+sich glaubhafte Geschichten entwickeln können. Örtliche Sprünge und
+ungewollte Zeitschleifen können sich sehr irritierend auswirken, und
+lassen das Geschehen oder die Aktionen der Charaktere und deren
+Konsequenzen beliebig erscheinen.  Eine konsistenter Ablauf der Zeit
+wird dadurch erreicht, dass jede Aktion in der Spielwelt, sei es ein
+Kampf über wenige Minuten, oder eine Reise über zwei Wochen oder mehr,
+die Spielwelt-Zeit gnadenlos um den entsprechenden Zeitraum
+fortschreiten lässt.  Das Nachhalten der Zeit, ist eine der zentralen
+Aufgaben der Spielleitung, aber Du solltest als Spieler darauf gefasst
+sein, dass die Spielleitung bezüglich Zeit und Raum ein strenges
+Regime führt.
 
-Das Nachhalten der Zeit, ist klar die Aufgabe der Spielleitung,
-aber Du solltest als Spieler darauf gefasst sein, dass die
-Spielleitung bezüglich Zeit und Raum ein strenges Regime führt.
-
+Ich will versuchen, mit einem Beispiel deutlich zu machen, wie sich
+ein konsequenter Umgang mit der Zeit auswirken kann. 
 Wenn also zum Beispiel in der Spielsitzung an einem Sonntag die
 Spieler der Charaktere A, B und C eine zweitägige Reise zu einer
 verlassenen Ruine unternehmen, sind zu der Spielsitzung am darauf
 folgenden Freitag auch für die Spieler-Charaktere D und E zwei
 Tage Spielweltzeit vergangen, auch wenn deren Spieler vielleicht
 am Montag nicht dabei waren.  Die Charaktere D und E befinden
-sich zu diesem Zeitpunkt weiterhin am gemeinsamen Ausgangsort,
-und müssen gegebenenfalls für zwei Tage Kost und Logis bezahlen,
+sich zu diesem Zeitpunkt weiterhin am gemeinsamen Ausgangsort.
+D und E müssen gegebenenfalls für zwei Tage Kost und Logis bezahlen,
+haben aber auch die Möglichkeit Einkäufe zu erledigen, oder
+Verletzungen zu heilen,
 da ja die entsprechende Zeit vergangen ist.  Haben sich die
 Charaktere A, B und C schließlich auch noch entschieden bei der
 Ruine zu bleiben, oder wurden sie dort aufgehalten, ist nicht nur
@@ -1210,81 +1227,6 @@ die kommenden vier Wochen Spielzeit einen anderen Charakter zu
 spielen. Und so könnten viele Spielsitzungen vergehen, bis Egbert
 endlich von seiner Bildungsreise zurück kehrt.
 
-
-### Leben und Reisen im Off
-
-#### Längere Aufenthalte im Gasthaus
-Spielercharaktere (SC), welche die vorangegangene Spielrunde in einer
-Taverne beendet haben (was günstig ist, und angestrebt werden sollte),
-bleiben so lange in der Taverne ohne an weiteren Abenteuern
-teilzunehmen, bis die jeweiligen Spieler wieder an einer Runde
-teilnehmen. Dem SC wird für den Aufenthalt, jeweils 1 GM pro Tag für
-Kost und Logis berechnet. Natürlich kann das dazu führen, dass der SC
-beim Wirt Schulden anschreiben muss.
-
-#### Reisen 
-Falls der SC einer abwesenden Spielerin eine Reise unternehmen muss,
-um wieder mit dem Rest der Gruppe aufzuschließen, benötigt er eine
-Woche Reisezeit für jede angefangenen 18 bis 90 Meilen (3 bis 15
-Hexfelder), und muss pro Woche 15 GM an Reisekosten aufbringen. Falls
-die Reise länger wird, bricht eine weitere Woche an. Für jede
-Reisewoche wird auf ein Reiseereignis gewürfelt, und dem SC werden
-Erfahrungspunkte in Höhe des Würfelergebnis * 20 gutgeschrieben.
-\index{Reisen}
-
-----------------------------------------------------------------------
- 2W6    Reiseereignis
-------- --------------------------------------------------------------
- 2      Der reisende SC taucht nicht mehr auf und wird zum NSC. 
-        Was genau passiert, weiß nur die Spielleitung. Er kann 
-        wieder zum SC werden, falls sie oder er durch eine aktive 
-        Suche der anderen SC wiedergefunden wird.
-	  
- 3      Es passiert etwas schreckliches, der SC wird traumatisiert 
-        und verliert eine Stufe.
-
- 4      Der SC wird ausgeraubt und verliert sein gesamtes Hab und 
-        Gut. Er hat nun nur noch ein Bündel mit normaler Kleidung 
-        (RK 9) und einen Knüppel (1W4) bei sich.
-
- 5      Der SC wird im Kampf verletzt und verliert eine Woche 
-        Reisezeit - also erneuter Wurf auf dieser Tabelle.
-	  
- 6      Der SC erhält auf seiner Reise Hilfe durch einen 
-        höherstufigen NSC. Er steht nun in dessen Schuld.
-		  
- 7      Der SC macht auf dem Weg eine Entdeckung, er konnte nicht 
-        viel herausfinden, aber es handelt sich um: 1. einen bisher 
-        unentdeckten Höhleneingang, 2. eine überwucherte Ruine, 
-	    3. ein ungeheuerliches Monster, 4. einen Übergang in eine 
-	    andere Welt (1W4) - Spieler, denk’ dir was aus!
-
- 8      Der SC findet einen freundlichen Reisegefährten (NSC): +2 
-        für erneute Würfe auf dieser Tabelle, +2 auf Moral- und 
-        Reaktionswürfe, falls der Reisegefährte nach der Reise als 
-        “Waffenknecht” angeheuert wird.
-	  
- 9      Der SC kann sich durch kleine Arbeiten während der Reise 
-        3W10 GM verdienen.
-  
- 10     Der SC kommt in den Besitz einer Schatzkarte.
-   
- 11     Der SC findet einen wertvollen Edelstein (1W10*100 GM).
-  
- 12     Der SC findet einen magischen Gegenstand (vom DM zufällig 
-        bestimmt).
-----------------------------------------------------------------------
-
-
-#### 9-to-5 Jobs für Abenteurer
-Falls ein Charakter mehr als zwei Wochen an einem Ort bleibt ohne auf
-Abenteuer auszuziehen, kann er versuchen Arbeit\index{Arbeit}
-anzunehmen. Es wird eine Probe mit 2W6 + Charisma-Modifikator
-gewürfelt. Ist das Ergebnis 8 oder mehr, gelingt es dem SC einen Job
-zu finden, mit dem er pro Woche 2W4 * 10 GM verdient. Wird der Wurf
-verfehlt, verstreicht eine Woche ohne Einkommen, bis eine erneute
-Probe abgelegt werden kann. Bei einem kritischen Fehlwurf (also einer
-2) muss der SC zwei Wochen ohne Einkommen\index{Einkommen} hinnehmen.
 
 ### Terminplanung
 \index{Terminplanung}
@@ -1358,12 +1300,17 @@ Session nicht dabei waren, über alle Neuigkeiten zu informieren,
 und dann die nächste Spielrunde zu planen. Die
 Landkarte der West Marches wurde von den Spielern gezeichnet und
 nach jeder neuen Entdeckung ergänzt. Wenn eine Gruppe irgendwo
-eine noch unbekannte Ruine entdeckt hatten, wurde sie in die
+eine noch unbekannte Ruine entdeckt hatte, wurde sie in die
 Karte eingezeichnet. Wenn eine andere Gruppe das erste mal eine
 Gebirgskette in der Ferne gesichtet hatte, wurde die Karte um ein
 weiteres Blatt in der entsprechenden Richtung erweitert und
 ergänzt. Alle Spieler konnten dann ihr Spiel in den nächsten
 Runden auf den neuen Entdeckungen aufbauen.
+
+Während die *West Marches* in den Jahren nach 2007 wohl irgendwie als
+etwas neues wahrgenommen wurden, denke ich - wie schon gesagt - dass dieser Kampagnenstil
+eigentlich genau der Art zu spielen entspricht, für die die Regeln des
+orignalen Fantasy Rollenspiels ursprünglich geschrieben wurden.
 
 [^arsludi]:
 <http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/>

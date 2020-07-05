@@ -5,7 +5,8 @@ Zauberkundige 1
 selbst
 2 Spruchrollen oder andere magische Schriften, 1 Phase
 Zauberrunen entschlüsseln.
-Lässt die Zauberkundige magische Runen entziffern. Wenn sie
+Lässt die Zauberkundige magische Runen in Zauberbüchern, Spruchrollen
+aber auch auf Gegenständen entziffern. Wenn sie
 einen Spruch auf einer Spruchrolle oder aus einem Zauberbuch
 damit einmal entziffert hat, kann genau diese magische
 Schrift fortan ohne erneutes Wirken des Spruches

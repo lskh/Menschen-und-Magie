@@ -5,7 +5,7 @@ Zauberkundige 4
 10' (3 m)
 6 Phasen
 Begrenztes Teleportieren einer Person oder eines Gegenstandes.
-Der Zauberanwender transportiert sich eine andere Kreatur, oder einen
+Der Zauberanwender transportiert sich, eine andere Kreatur, oder einen
 Gegenstand unverzüglich bis zu 360' (108 m) von dem augenblicklichen
 Standort an einen bekannten Ort. Die Reise endet exakt an der gewünschten
 Stelle. Es kann auch eine Richtung und Reichweite an einen unbekannten

@@ -3,8 +3,7 @@ Ermittelt Tiere, Locate Animal
 Eldritch Wizardry
 Druiden 1
 60' + 10' pro Stufe (18 m + 3 m)
-eine Ruchtungsangabe
-Richtung in der sich ein Tier einer bestimmten Art befindet.  Mit diesem
-Spruch kann der Druide die Himmelsrichtung feststellen, in der sich ein
-ein Tier einer bestimmten Art befindet.
+Richtung in der sich ein Tier einer bestimmten Art befindet.  
+Mit diesem Spruch kann der Druide die Himmelsrichtung feststellen, in
+der sich ein ein Tier einer bestimmten Art befindet.
 §

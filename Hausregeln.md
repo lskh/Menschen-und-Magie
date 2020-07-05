@@ -47,6 +47,8 @@ here with kind permission.
 
 \normalsize 
 
+\mainmatter
+
 \tableofcontents
 
 \listoftables
@@ -84,20 +86,48 @@ Charisma
 | 6-       | - 20%            |
 
 ### Stärke 
-modifiziert Trefferwurf und Schadenswurf im Nahkampf, sowie
-      öffnen von Türen.
+modifiziert Trefferwurf und Schadenswurf im Nahkampf, die
+Belastungskapazität, sowie
+öffnen von Türen.
 
 Kämpfer mit Stärke 18 können einen d% werfen, um zu prüfen, ob sie
 durch außergewöhnliche Stärke besonders viel Schaden verursachen
 können.
 
-: Außerordentliche Stärke der Kämpfer
+: Stärke-Modifikatoren
 
-| Stärke   | Schaden |
-|:--------:|:-------:|
-| 18/76-90 |  +4     |
-| 18/91-99 |  +5     |
-| 18/00    |  +6     |
+----------------------------------------------------------
+ Stärke      Treffer-   Schadens-    Belastung    Türen    
+             bonus      bonus                     öffnen   
+---------  ----------- ------------ ----------- ----------
+ 3-4            -2        -1         -100           1   
+
+ 5-6            -1      normal        -50           1    
+
+ 7-9          normal    normal       normal         1-2   
+
+ 10-12        normal    normal        +50          1-2   
+
+ 13-15          +1      normal        +100          1-2   
+
+ 16             +1         +1         +150          1-3   
+
+ 17             +2         +2         +300          1-4   
+
+ 18/01-50       +2         +3         +500          1-5   
+
+ 18/51-75       +3         +3         +600          1-5   
+
+ 18/76-90       +3          +4        +700       1-6(1)   
+
+ 18/91-99       +3          +5        +900      1-6(1-2) 
+
+ 18/00          +4          +6        +1200     1-6(1-3) 
+
+---------------------------------------------------------
+
+Kämpfer mit einer Stärke von 18/76 oder mehr haben eine Chance auch
+magisch verschlossene Türen zu öffnen - Angaben in Klammern.
 
 ### Intelligenz
 
@@ -143,8 +173,6 @@ Die Weisheit modifiziert Rettungswürfe gegen Zaubersprüche, sowie die Anzahl
 an Sprüchen, die ein Kleriker wirken kann. Das bedeutet auch,
 dass ein Kleriker der 1. Stufe mit Weisheit 14 einen Spruch der
 ersten Stufe wirken kann.
-Eine Weisheit von 13 oder mehr ergibt in jeder Charakterklasse einen
-zusätzlichen Erfahrungsbonus von 5%.
 
 ### Geschicklichkeit
 Die Geschicklichkeit modifiziert Trefferwürfe im Fernkampf, 
@@ -824,7 +852,7 @@ Klassenbeschränkungen
     Spruchrolle, 4 GM, 4 SM, BW 9" \label{eqtabend}
 
 
-### Dieb
+### Diebe
 
 Primärattribut
 :    Geschicklichkeit
@@ -1056,7 +1084,7 @@ TODO: Klassenbeschreibung und Tabelle fertig machen.
 
 
 
-### Punk
+### Punks
 
 Die Punks sind durch eine unerklärliche Störung der Ebenenstruktur in
 die Fantasy-Welt geraten, die meisten von Ihnen haben sich dort jedoch
@@ -1184,37 +1212,55 @@ Diebesfertigkeiten abgewickelt.
 
 Bei sorgfältiger Erkundung im Dungeon legen die Charaktere in einer
 Phase, also in etwa 10 Minuten ihren
-Bewegungswert x 10 in Fuß zurück. Rennende Charaktere bewegen sich
+Bewegungswert x 20 in Fuß zurück. Rennende Charaktere bewegen sich
 doppelt so schnell.
+
+In einer Kampfrunde im Dungeon oder an einem vergleichbaren Ort kann
+ein Charakter abstrakt seinen Bewegungswert x 10 in Fuß zurücklegen.
+Auf einer Battlemap mit typischen 5 Fuß-Quadratraster seine Bewegung
+in Quadraten und auf einem 1 Meter-Hexfeldraster seine Bewegung in
+Hexfeldern.
+
+Im Freien, bzw. in der Wildnis entspricht die Bewegung pro Kampfrunde
+abstrakt der Bewegung mal 10 Meter. Also zum Beispiel 60, 90 oder 120
+Meter.
 
 : Belastungsstufen
 
------------------------------------------------------------------------------
-Ausrüstung/Gepäck       BW (")  BW (m)   Bewegung    Bewegung    5' Kästchen
-                                         pro Phase   pro Runde
----------------------  ------- -------- ----------- ----------- -------------
-Unbelastet,             12"       36 m   120'/36 m   40'/12 m          8
-kein Gepäck
- 
-Kettenrüstung           9"        27 m    90'/27 m    30'/9 m           6
+------------------------------------------------------------------------
+Ausrüstung/Gepäck       BW (")  BW (m)   Bewegung            Raster-
+                                         pro Phase/Runde     felder 
+---------------------  ------- -------- ------------------ -------------
+Unbelastet,             12"       36 m   240'/72 m             12 
+Gepäck
+bis 75 Pfund
+
+
+Kettenrüstung           9"        27 m   180'/54 m              9 
 oder Gepäck
+bis 150 Pfund
  
-Plattenrüstung          6"        18 m    60'/18 m    20'/6 m           4
+Plattenrüstung          6"        18 m   120'/36 m              6  
 oder
 Kettenrüstung
 und Gepäck 
+bis 300 Pfund
 
-Plattenrüstung          3"         9 m    30'/9 m     10'/3 m           2
+Plattenrüstung          3"         9 m    60'/18 m              3   
 und Gepäck
 
------------------------------------------------------------------------------ 
+------------------------------------------------------------------------ 
 
+Als Faustregel gilt, dass ein Charakter der entsprechend einer der
+genannten Belastungsstufen beladen ist noch 30 Pfund oder **300
+Münzen** an Gewicht zuladen kann, bevor er in die nächste
+Belastungskategorie fällt.
 
 ## Türen öffnen 
 
 Türen sind in der Regel verklemmt oder verschlossen und können bei
 einem Wurf von 1 in 6 aufgebrochen werden. Monster oder andere
-Kreaturen, die sich hinter einer Tür aufhalten können nicht überrascht
+Kreaturen, die sich hinter einer Tür aufhalten, können nicht überrascht
 werden, wenn eine Tür mit Gewalt geöffnet wurde.
 
 

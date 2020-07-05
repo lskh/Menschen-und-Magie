@@ -1,6 +1,6 @@
 DATE:=$(shell date +%d\\.%m\\.%Y\ \\/%H\\:%M\\:%S)
 
-md=intro.md Charaktererschaffung.md Abenteuer.md Anhang.md 20Q.md license.md
+md=intro.md Charaktererschaffung.md Abenteuer.md Anhang.md license.md
 
 pdf=MnM.pdf Spells.pdf Hausregeln.pdf
 
@@ -11,7 +11,7 @@ MnM.pdf: Makefile template.tex $(md)
 	pandoc -s -t latex --template template.tex \
 	--variable lang=de \
 	--variable documentclass=memoir \
-	--variable classoption="twoside,a5paper,12pt" \
+	--variable classoption="titlepage,twoside,a5paper,12pt" \
 	--variable subparagraph \
 	$(md) | sed -e "s/, Datum: /, Datum: $(DATE)/" \
 	-e "s/\\\{/\{/" -e "s/\\\}/\}/" > tmp1.tex

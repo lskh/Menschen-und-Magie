@@ -9,6 +9,7 @@ titlepagetextcolor: lightgrey
 lang: de
 ---
 
+\null\vfill
 \Large
 Menschen & Magie - Arkanes Wissen und Zaubersprüche\newline
 \normalsize
@@ -38,10 +39,13 @@ Es ist auch kein Problem, *Arkanes Wissen und Zaubersprüche* für deinen
 eigenen Open Game Content zu benutzen, vorausgesetzt, Du hälst Dich
 dabei an die Regeln der Open Game License.
 
-Schließlich ist *Menschen & Magie* auch Open Source. Du findest die Quelldateien für dieses Dokument unter 
+Schließlich ist *Menschen & Magie* auch Open Source. Du findest die
+Quelldateien für dieses Dokument unter 
 <https://github.com/lskh/Hausregeln>
 
 \normalsize 
+
+\mainmatter
 
 \tableofcontents
 

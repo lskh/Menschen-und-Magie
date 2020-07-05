@@ -4,8 +4,9 @@ Men & Magic
 Zauberkundige 4
 240'
 6 Phasen
+Ein magisches verngesteuertes Auge.
 Der Zauberanwender zaubert einen unsichtbaren magischen
-Sensor herbei, d er visuelle Eindrücke an den Zauberanwender
+Sensor herbei, der visuelle Eindrücke an den Zauberanwender
 übermittelt und über eine Infravision von 60' verfügt. Dieses
 Arkane Auge kann sich pro Phase bis zu 120' weit bewegen.
 Während der Wirkungsdauer kann das Auge in jede Richtung

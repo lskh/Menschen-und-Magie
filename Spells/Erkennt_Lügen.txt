@@ -4,6 +4,7 @@ Players Handbook
 Kleriker 4
 30' (9 m)
 1 Runde pro Charakterstufe
+Auf magische Art Lügen erkennen.
 Der Zauberwirker kann diesen Spruch auf sich selbst oder ein
 anderes Wesen wirken und somit die Fähigkeit erlangen, zu
 wissen ob eine Aussage wahr oder falsch ist.

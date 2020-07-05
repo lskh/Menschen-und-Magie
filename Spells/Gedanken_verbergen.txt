@@ -4,6 +4,7 @@ Greyhawk
 Zauberkundige 8
 10' (3 m) Radius
 24 Stunden
+Gegen magisches Gedanken lesen abschirmen.
 Der Verzauberte wird gegen alle Gegenstände und Sprüche
 geschützt, die seine Gedanken und Gefühle lesen, entdecken
 oder beeinflussen können. Dieser Spruch schützt gegen alle
