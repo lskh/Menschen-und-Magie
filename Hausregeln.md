@@ -1469,6 +1469,8 @@ Neutrale Wesen verhalten sich weder rechtschaffen, noch chaotisch.
 Typischerweise sind Pflanzen, Tiere und Naturgeweihte in ihrer Haltung
 neutral.
 
+\clearpage
+\thispagestyle{empty}
 
 ## Erfahrung
 \index{Erfahrung}
