@@ -691,16 +691,15 @@ wieder beim Dungeon Crawl. Oder ihr erreicht eine benachbarte
 Ortschaft, so dass das Spiel wieder auf Stadtabenteuer
 umschaltet.
 
-Um es mit den Richtungsangaben 
-einfacher zu haben, werden Wildniskarten traditionell auf Papier mit
-Sechseck-Raster gezeichnet. Deshalb wird dieser Spielmodus auch
-*Hex Crawl* \index{Hex Crawl} genannt.  
-Meistens wird das Raster so ausgerichtet,
-dass die Hexfelder auf der Seite liegen (und nicht auf der Spitze
-stehen). Entsprechend hätte also jedes Hexfeld eine Nord- eine
-Süd-, eine Nordost-, eine Südost, und eine Nordwest- und eine
-Südwest-Seite. Und an genau diese Himmelsrichtungen wird sich 
-der Spielleiter in seiner Beschreibung halten.
+Um es mit den Richtungsangaben einfacher zu haben, werden
+Wildniskarten traditionell auf Papier mit Sechseck-Raster gezeichnet.
+Deshalb wird dieser Spielmodus auch *Hex Crawl*\index{Hex Crawl}
+genannt.  Meistens wird das Raster so ausgerichtet, dass die Hexfelder
+auf der Seite liegen (und nicht auf der Spitze stehen). Entsprechend
+hätte also jedes Hexfeld eine Nord- eine Süd-, eine Nordost-, eine
+Südost, und eine Nordwest- und eine Südwest-Seite. Und an genau diese
+Himmelsrichtungen wird sich der Spielleiter in seiner Beschreibung
+halten.
 
 Auch beim Wildnisabenteuer solltet ihr versuchen einen Karte zu
 zeichnen, damit ihr Euch die Landschaft besser vorstellen könnt, und

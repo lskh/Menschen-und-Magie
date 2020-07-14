@@ -23,18 +23,6 @@ MnM.pdf: Makefile template.tex $(md)
 	mv tmp1.pdf $@
 #	rm tmp1.*
 
-Charaktererschaffung.pdf: Makefile Charaktererschaffung.md
-	sed 's/lettrine//g' Charaktererschaffung.md |\
-	pandoc -s -t latex --variable classoption="12pt" \
-	--variable "title:Menschen \& Magie: Charaktererschaffung" \
-	--variable fontfamily=coelacanth \
-	--variable fontfamilyoptions=osf \
-	--variable toc \
-	--variable geometry="margin=1.2cm,bottom=1.8cm" \
-	--variable papersize="a5" \
-	--variable lang=de \
-	-o Charaktererschaffung.pdf 
-
 Spells.md: Makefile
 	cd Spells ; make Spells.md
 	cp Spells/Spells.md Spells.md 
@@ -61,18 +49,31 @@ Hausregeln.pdf: Makefile template.tex Hausregeln.md license.md
 	--variable documentclass=memoir \
 	--variable classoption="titlepage,twoside,a5paper,12pt" \
 	--variable subparagraph \
-	-o Hausregeln.pdf Hausregeln.md license.md
+	-o tmp3.tex Hausregeln.md license.md
+	pdflatex --draftmode tmp3.tex
+	makeindex tmp3.idx
+	pdflatex --draftmode tmp3.tex
+	makeindex tmp3.idx
+	pdflatex tmp3.tex
+	mv tmp3.pdf Hausregeln.pdf
+	rm tmp3.*
 
-Tabellen.pdf: Makefile Tabellen.md Hausregeln.md
-	pandoc -s -t latex --variable classoption="12pt" \
-	--variable "title:Menschen \& Magie: Tabellen" \
-	--variable fontfamily=coelacanth \
-	--variable fontfamilyoptions=osf \
-	--variable lot \
-	--variable geometry="margin=1.5cm" \
-	--variable papersize="a5" \
+
+Monster.pdf: Makefile template.tex Monster.md license.md
+	pandoc -s -t latex --template template.tex \
 	--variable lang=de \
-	-o Tabellen.pdf Tabellen.md Hausregeln.md
+	--variable documentclass=memoir \
+	--variable classoption="titlepage,twoside,a5paper,12pt" \
+	--variable subparagraph \
+	-o Monster.pdf Monster.md license.md
+
+AnA.pdf: Makefile template.tex AnA.md license.md
+	pandoc -s -t latex --template template.tex \
+	--variable lang=de \
+	--variable documentclass=memoir \
+	--variable classoption="titlepage,twoside,a5paper,12pt" \
+	--variable subparagraph \
+	-o AnA.pdf AnA.md license.md
 
 clean:
 	rm -f tmp*.* 

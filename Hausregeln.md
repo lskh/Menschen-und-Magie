@@ -1,12 +1,14 @@
 ---
 title: Menschen \& Magie
-subtitle: Grenzland-Hausregeln
+subtitle: Grenzland-Hausregeln, 2020
 titlegraphic: img/DnD-Dwarf.png
 logo: img/logo.png
 rights: © 2019, 2020 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
 lang: de
 secnumdepth: 2
 ---
+
+\null\vfill
 
 \Large
 Menschen & Magie - Hausregeln \newline
@@ -15,7 +17,7 @@ Eine Hausregelsammlung für Old-School Rollenspiele \newline
 kompatibel mit *Swords & Wizardry* und allen Regeln, die auf dem
 Original Fantasy Rollenspiel von 1974 basieren.
 \newline
-Version *beta*, 
+Version 2020, 
 \newline
 Text und Satz: © Wanderer Bill, 2019, 2020\newline
 <wandererbill73@gmail.com>
@@ -40,7 +42,7 @@ dabei an die Regeln der Open Game License.
 Schließlich sind die *Grenzland-Hausregeln* auch Open Source. Du findest die Quelldateien für dieses Dokument unter 
 <https://github.com/lskh/Hausregeln>
 
-Open Content: All text and tables of Menschen & Magie, except for the
+Open Content: All text and tables of *this booklet*, except for the
 equipment tables on pages \pageref{eqtab} through \pageref{eqtabend},
 which are based on an idea by Brendan S. a.k.a necropraxis and used
 here with kind permission.
@@ -53,14 +55,37 @@ here with kind permission.
 
 \listoftables
 
-# Charaktererschaffung
+# Einleitung
+
+Dieses Heft ist als Referenz für den Spieltisch gedacht. Es erklärt
+nicht *wie* man spielt. 
+
+Es ist, wie üblich für die *Supplemente* zu
+den 1974er Regeln, gegliedert in *Men & Magic*, (*Monsters &
+Treasure*) und *The Underworld & Wilderness Adventures*. Diese
+Gliederung entspricht den drei Bänden der Originalregeln, die in den
+späteren Editionen als *Spielerhandbuch*, *Monster Manual* und
+*Dungeon Masters Guide* beibehalten wurde. Jeder Abschnitt ergänzt, 
+klärt oder modifiziert die Regeln aus dem jeweiligen Band.
+
+Die hier beschriebenen Regeln sind von *Swords & Wizardry Complete* und 
+*Delving Deeper* abgeleitet, und stehen somit unter der 
+*Open Game Licence*.
+
+
+# Men & Magic
+
+\pagestyle{headings}
 
 ## Attribute
+\index{Attribute}
 
 Stärke, Intelligenz, Weisheit, Geschicklichkeit, Konstitution,
 Charisma
 
-6 x 3W6 in Reihe, zwei Werte dürfen vertauscht werden.
+6 x 3W6 in Reihe. ~~zwei Werte dürfen vertauscht werden~~^[statt
+  dessen gilt die original Regel zum Anrechnen von anderen Attributen
+  auf den Erfahrungsbonus, s.u. und *Men & Magic*, Seite 10].
 
 : Universelle Attributsmodifikatoren
 
@@ -85,14 +110,46 @@ Charisma
 | 7 - 8    | - 10%            |
 | 6-       | - 20%            |
 
+\index{Erfahrungsbonus}
+
+Hat ein Charakter auch in anderen Attributen als seinem Primärattribut
+gute Werte, kann dies helfen, denn Erfahrungsbonus weiter zu steigern.
+Der Aufschlag auf das Primärattribut gilt allerdings nur für die
+Berechnung des Erfahrungsbonus.
+
+: Erfahrungsbonus durch andere Attribute 
+
+| Klasse | Attribut | Aufschlag Primärattribut |
+|:-------|:--------:|:------------------------:|
+| Kämpfer | Intelligenz 9 - 10 | +1 |
+| und     | Intelligenz 11 - 12 | +2 |
+| Kleriker | Intelligenz 13 - 14 | +3 |
+|         | Intelligenz 15 - 16 | +4 |
+|         | Intelligenz 17 - 18 | +5 |
+|         |                     |    |
+| Kämpfer | Weisheit 9 - 11 | +1 |
+|         | Weisheit 12 - 15 | +2 |
+|         | Weisheit 16 - 18 | +3 |
+|          |                     |    |
+| Zauberkundige | Weisheit 9 - 10 | +1 |
+|            | Weisheit 11 - 12 | +2 |
+|            | Weisheit 13 - 14 | +3 |
+|            | Weisheit 15 - 16 | +4 |
+|            | Weisheit 17 - 18 | +5 |
+|          |                     |    |
+| Kleriker | Stärke 9 - 11 | +1 |
+|          | Stärke 12 - 15 | +2 |
+|          | Stärke 16 - 18 | +3 |
+
+
 ### Stärke 
+\index{Stärke}
 modifiziert Trefferwurf und Schadenswurf im Nahkampf, die
 Belastungskapazität, sowie
 öffnen von Türen.
 
 Kämpfer mit Stärke 18 können einen d% werfen, um zu prüfen, ob sie
-durch außergewöhnliche Stärke besonders viel Schaden verursachen
-können.
+außergewöhnlich Stärke haben.
 
 : Stärke-Modifikatoren
 
@@ -130,7 +187,7 @@ Kämpfer mit einer Stärke von 18/76 oder mehr haben eine Chance auch
 magisch verschlossene Türen zu öffnen - Angaben in Klammern.
 
 ### Intelligenz
-
+\index{Intelligenz}
 Die Intelligenz modifiziert die Anzahl der zusätzlichen Sprachen, die
 ein Charakter spricht, und die Anzahl und Stufe an Zaubersprüchen, die
 ein Charakter erreichen kann.
@@ -169,22 +226,29 @@ Intelligenz  Anzahl    Max. Spruch-  Sprüche     Sprüche pro
 ------------------------------------------------------------
 
 ### Weisheit
+\index{Weisheit}
 Die Weisheit modifiziert Rettungswürfe gegen Zaubersprüche, sowie die Anzahl
 an Sprüchen, die ein Kleriker wirken kann. Das bedeutet auch,
 dass ein Kleriker der 1. Stufe mit Weisheit 14 einen Spruch der
 ersten Stufe wirken kann.
 
 ### Geschicklichkeit
+\index{Geschicklichkeit}
 Die Geschicklichkeit modifiziert Trefferwürfe im Fernkampf, 
 sowie die Rüstungsklasse.
 
 ###  Konstitution 
-
+\index{Konstitution}
 Abhängig vom Konstitutionswert erhalten Charaktere nicht Boni oder
 Abzüge auf ihre Trefferpunkte, sondern, sie können unterschiedlich 
-große Trefferwürfel haben:
+große Trefferwürfel haben^[diese Regel führt zu durchschnittlich etwas
+höhren Trefferpunktewerten als nach den Regeln des Supplement I
+*Greyhawk*. Evtl. sollte der Aufschlag erst ab 15 beginnen, und
+maximal ein W10 erreicht werden.]:
 
 : Variable Trefferwürfel
+
+\index{Trefferwürfel!variable}
 
 | Konstitution | Trefferwürfel | Überleben        |
 |:------------:|:-------------:|:----------------:|
@@ -203,6 +267,7 @@ große Trefferwürfel haben:
 |   3          |   W4          |    0 %           |
 
 ### Charisma
+\index{Charisma}\index{Gefolgsleute}
 
 : Charisma Bonus Tabelle
 
@@ -219,6 +284,7 @@ große Trefferwürfel haben:
 ## Nicht-Menschliche Völker
 
 ### Zwerge
+\index{Zwerge}
 
 Klassen
 :    Kämpfer bis Stufe 6, Kleriker bis Stufe 6,
@@ -237,6 +303,7 @@ Sprachen
 
 
 ### Elfen
+\index{Elfen}
 
 Klassen
 :    Kämpfer bis Stufe 4, Zauberkundige bis Stufe 8, Dieb unbegrenzt
@@ -253,7 +320,28 @@ Resistenzen
 Sprache
 :    Gemeinsprache, Elfisch, Sprache der Orks, Hobgoblins und Gnolle
 
+
+### Halb-Elfen
+\index{Halbelfen}
+
+Klassen
+:    Kämpfer bis Stufe 6, Zauberkundige bis Stufe 6, Dieb unbegrenzt,
+     Halbelfen mit Weisheit 13+ können Kleriker, und damit auch
+     Naturgeweihte werden, und in diesen Klassen unbegrenzt
+     aufsteigen.
+     Mögliche Multiklassen: Kämpfer(6)/Zauberkundige(6), Kämpfer(6)/Dieb,
+     Kämpfer(6)/Zauberkundige(6)/Dieb, Zauberkundige(6)/Naturgeweihter
+     (Dual-Classing)
+
+Spezialfertigkeiten
+:    Geheimtüren erkennen sie Elfen (siehe #diebesfertigkeiten) 
+
+Sprache
+:    Gemeinsprache, Elfisch, Sprache der Orks, Hobgoblins und Gnolle
+
+
 ### Halblinge
+\index{Halblinge}
 
 Klassen
 :    Kämpfer bis Stufe 4, Dieb unbegrenzt.
@@ -271,19 +359,23 @@ Sprachen
 :    Gemeinsprache, Halblingsprache
 
 
-### Orks und Halb-Orks
+### Goblins, Orks und Halb-Orks
+\index{Goblins}\index{Orks}\index{Halb-Orks}
 
-Orks und Halb-Orks können nur als "übernommene NSC" gespielt werden.
-Sollte ein Spieler einen - der Gruppe freundlich gesonnnenen - Ork
-finden, den er als Spielerfigur übernehmen will, würfelt er dessen
-Attribute aus, und wählt eine Klasse. Die Attribute Stärke und
-Konstitution erhalten einen Aufschlag von +1, das Charisma einen Abzug
-von -2.
+Goblins, Orks und Halb-Orks können nur als "übernommene NSC" gespielt
+werden.  Sollte ein Spieler einen entsprechenden - der Gruppe
+freundlich gesonnnenen - Humanoiden finden, den er als Spielerfigur
+übernehmen will, würfelt er dessen Attribute aus, und wählt eine
+Klasse. Für Orks erhalten die Attribute Stärke und Konstitution
+einen Aufschlag von +1, das Charisma einen Abzug von -2. Für
+Goblins gilt +1 auf Geschicklichkeit und -2 auf Charisma.
 
 Klassen
-:    Kämpfer bis Stufe 10, Kleriker bis Stufe 4, Dieb bis Stufe 6
-     Orks können unter bestimmten Umständen auch Punks werden,
-     siehe Klassenbeschreibung.
+:    Orks: Kämpfer bis Stufe 10, Kleriker bis Stufe 4, Dieb bis Stufe
+     6.  Goblins: Kämpfer bis Stufe 8, Dieb unbegrenzt.  
+     Orks und Goblins können unter bestimmten Umständen auch Punks werden,
+     siehe Klassenbeschreibung. Halb-Orks können auf dem Weg des
+     *Dual-Classings* zu Naturgeweihten werden (siehe dort).
 
 Spezialfertigkeiten
 :    Infravision auf 18 m
@@ -292,34 +384,28 @@ Resistenzen
 :    keine
 
 Sprachen
-:    Orkisch und Gesinnungssprache. Je nach Intelligenz bis zu 2
+:    Goblinsch, Orkisch und Gesinnungssprache. Je nach Intelligenz bis zu 2
      zusätzliche Sprachen, die erste hiervon ist in der Regel die 
      Gemeinsprache.
 
 
 ## Charakterklassen
+\index{Charakterklassen}
 
 ### Kämpfer
+\index{Kämpfer}
 
-Primärattribut
-:    Stärke
+**Primärattribut:** Stärke 
 
-Trefferpunkte
-:    1W+1 
+**Trefferpunkte:** 1W+1 
 
-Klassenfähigkeiten
-:    Kämpfer haben keine besonderen Klassenfähigkeiten. Magie ist
-     ihnen nur durch die Benutzung magischer Waffen zugänglich. Dafür
-     sind Kämpfer in der Regel im Kampf die robustesten Charaktere. 
-
-     Gegen Kreaturen mit bis zu einem Trefferwürfel können Kämpfer
+**Klassenfähigkeiten:** Gegen Kreaturen mit bis zu einem Trefferwürfel können Kämpfer
      einen Nahkrampfangriff pro Stufe ausführen. Zum Beispiel könnte
      einen Kämpfer der Stufe 4 gegen eine Gruppe Orks 4
      mal pro Runde zuschlagen.
 
-
-Klassenbeschränkungen
-:    keine
+**Klassenbeschränkungen:** Magie ist Kämpfern nur durch die Benutzung
+magischer Waffen zugänglich.
 
 
 : Kämpfer Stufen
@@ -359,6 +445,8 @@ Klassenbeschränkungen
 |    19 | +9 | 1  |  1 |  1 |  2 | 3  |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 
 | 20-21 | +10 | 1 |  1 | 1  | 1  | 2  | 3  |  4 |  5 |  6 |  7 |  8 |  9 |
 
+\index{Kämpfer!Angrifstabelle}
+
 : Rettungswürfe der Kämpfer
 
 | Stufe                           | 1-3 | 4-6 | 7-9 | 10-12 | 13+ |
@@ -369,10 +457,11 @@ Klassenbeschränkungen
 | Drachenodem                     | 15  | 13  | 10  | 8     | 5     |
 | Zaubersprüche, -stecken, -ruten | 16  | 14  | 12  | 10    | 8     |
 
-\index{Rettungswürfe!Kämpfer}	
+\index{Kämpfer!Rettungswürfe}	
 
 #### Ausrüstung für Kämpfer
 
+\index{Kämpfer!Ausrüstung}
 \label{eqtab}
 
  3.  Handaxt (1W6), Lederrüstung (RK 7), Schild (RK -1),
@@ -457,6 +546,7 @@ Klassenbeschränkungen
 	6"
 
 ### Kleriker
+\index{Kleriker}
 
 Primärattribut
 :    Weisheit
@@ -467,7 +557,7 @@ Trefferpunkte
 Klassenfähigkeiten
 :    Kleriker können "Untote" beherrschen, und in der Regel 
      ab der zweiten Stufe 
-     klerikale Magie wirken. \index{Untote!vertreiben}
+     klerikale Magie wirken. \index{Untote vertreiben}
      Um Untote zu beherrschen werden 2W6 geworfen. Liegt das Ergebnis
      über einem bestimmten Wert, erlangt der Kleriker für eine 
      bestimmte Zeit die Kontrolle über die untoten Kreaturen.
@@ -523,6 +613,8 @@ Klassenbeschränkungen
 | 17-18 | +7 |  3 | 4  |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 |
 | 19-20 | +8 |  2 | 3  |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 |
 
+\index{Kleriker!Angriffstabelle}
+
 : Rettungswürfe der Kleriker
 
 | Stufe                           | 1-4 | 5-8 | 9-12 | 13+   |
@@ -533,7 +625,7 @@ Klassenbeschränkungen
 | Drachenodem                     | 16  | 14  | 11   | 8     |
 | Zaubersprüche, -stecken, -ruten | 15  | 12  | 9    | 7     |
 
-\index{Rettungswürfe!Kleriker}
+\index{Kleriker!Rettungswürfe}
 
 
 : Untote vertreiben
@@ -556,6 +648,8 @@ Klassenbeschränkungen
 | 13             | Z | Z | Z | Z | Z | Z | Z | Z | V | V   |
 | 14+            | Z | Z | Z | Z | Z | Z | Z | Z | Z | V   |
 
+\index{Untote vertreiben}
+
 Es werden zwei Sechser-Würfel (2W6) gewürfelt, um zu sehen ob
 eine bestimmte Art von Untoten vertrieben werden kann. 
 Anschließend würfelt die Spielleitung mit 2W6 wie viele Untote der
@@ -568,10 +662,9 @@ zwei, Ghule drei usw. "V", dass ein Vertreiben automatisch gelingt,
 und "Z" das die Untoten nicht nur vertrieben, sondern endgültig
 zerstört werden. 
 
-\index{Untote!vertreiben}
 
 #### Ausrüstung für Kleriker
-\label{eqtab}
+\index{Kleriker!Ausrüstung}
 
  3.  Kampfstab (1W6), Waffenrock (RK 8), Stahl und Zunder, 6 Fackeln, 
     Rucksack, Schlafsack, Wasserschlauch, Eiserne Rationen 
@@ -679,7 +772,9 @@ zerstört werden.
     6 Fackeln, Eiserne Rationen für 7 Tage,
     1 Phiole Weihwasser, silbernes heiliges Symbol, 4 GM, BW 6"
 
+
 ### Zauberkundige
+\index{Zauberkundige}
 
 Primärattribut
 :    Intelligenz
@@ -739,6 +834,7 @@ Klassenbeschränkungen
 | 21+   | +150.000/St | +1/St | +6 | 6 | 5 | 5 | 5 | 4 | 4 | 3 | 2 | 1 |
 
 : Angriffstabelle Zauberkundige
+\index{Zauberkundige!Angriffstabelle}
 
 | Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
 |-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
@@ -752,6 +848,7 @@ Klassenbeschränkungen
 
 
 : Rettungswürfe der Zauberkundigen 
+\index{Zauberkundige!Rettungswürfe}
 
 | Stufe                           | 1-5 | 6-10 | 11-15 | 16+ |
 |---------------------------------|-----|------|-------|-----|
@@ -763,6 +860,7 @@ Klassenbeschränkungen
 
 
 #### Ausrüstung Zauberkundige
+\index{Zauberkundige!Ausrüstung}
 
   3. Normale Kleidung (RK 9), 1 Dolch (1W4), 1 kleiner
     Sack, Wasserschlauch, 7 frische Rationen, 3 m
@@ -853,6 +951,7 @@ Klassenbeschränkungen
 
 
 ### Diebe
+\index{Diebe}
 
 Primärattribut
 :    Geschicklichkeit
@@ -874,6 +973,7 @@ Klassenfähigkeiten
      der Spruch nicht so wirkt, wie der Dieb es erwartet.
 
      Diebe nutzen die **Rettungswürfe** der Zauberkundigen.
+     \index{Diebe!Rettungswürfe}
 
 Klassenbeschränkungen
 :    Diebe dürfen nur Lederrüstung und keine Schilde tragen.
@@ -890,8 +990,8 @@ Klassenbeschränkungen
      für Zwerge unbegrenzt. 
 
 
-: Dieb Stufen
-\index{Dieb!Stufen}
+: Diebe Stufen
+\index{Diebe!Stufen}
 
 | Stufe |          EP | TW    | AB |
 |:-----:|------------:|:-----:|:--:|
@@ -909,8 +1009,85 @@ Klassenbeschränkungen
 | 12+   | +130.000/St | +1/St | +3 |
 
 
+#### Diebesfertigkeiten
+\index{Diebe!Diebesfertigkeiten}
+
+--------------------------------------------------------------
+Stufe         Geräusche    Geheimtüren   Fallen     Schlösser
+              hören        entdecken     finden/    öffnen 
+	                                 entfernen
+------------ -----------  ------------  ----------- ----------
+ Nicht-      17 (1/6)     34 (2/6)       5 (1/20)    5 (1/20) 
+ Diebe                                                        
+                                                              
+ 1           34           35            10           15       
+                                                              
+ 2           38           36            15           20       
+                                                              
+ 3           42           39            20           25       
+                                                              
+ 4           46           42            25           30       
+                                                              
+ 5           50           45            30           35       
+                                                              
+ 6           54           48            35           40       
+                                                              
+ 7           58           51            40           45       
+                                                              
+ 8           62           54            45           50       
+                                                              
+ 9           66           57            50           54       
+                                                              
+ 10+         70           60            54           58       
+                                                              
+ Elfen       +17          +33           -10          0        
+                                                              
+ Halb-       +17          0             +5           +10      
+ linge                                                        
+                                                              
+ Zwerge       0           +5            +20          +10      
+                                                              
+--------------------------------------------------------------
+
+
+---------------------------------------------------------------
+Stufe        Schleichen   Verstecken    Taschen-    Wände
+                                        diebstahl   erklimmen
+----------  ------------ ------------  ----------- ------------
+Nicht-       5 (1/20)     5 (1/20)      5 (1/20)    10 (1/10)
+Diebe
+
+1            20           10            20          87   
+
+2            25           15            25          88
+
+3            30           20            30          89
+
+4            35           24            35          90
+
+5            40           28            40          91
+
+6            44           32            45          92
+
+7            48           35            50          93
+ 
+8            52           38            55          94
+
+9            55           41            60          95
+
+10+          58           44            65          96
+
+Elfen        +10          +10           +5          +5              
+
+Halb-        +15         +20           +5          -10
+linge
+
+Zwerge       -10         0              0          -10
+
+---------------------------------------------------------------
 
 #### Ausrüstung Diebe
+\index{Diebe!Ausrüstung}
 
 3. Waffenrock (RK 8), Knüppel (1W4), 1 Dolch (1W4), 
    Schleuder und 10 Steine (1W4), 
@@ -1000,91 +1177,9 @@ Klassenbeschränkungen
 
 \label{eqtabend}
 
-### Druiden
-
-Primärattribut
-:    Weisheit *und* Charisma
-
-Trefferpunkte
-:    1W 
-
-Klassenfähigkeiten
-:    Druiden können "Untote" beherrschen, und in der Regel 
-     ab der zweiten Stufe 
-     klerikale Magie wirken. \index{Untote!vertreiben}
-     Um Untote zu beherrschen werden 2W6 geworfen. Liegt das Ergebnis
-     über einem bestimmten Wert, erlangt der Druiden für eine 
-     bestimmte Zeit die Kontrolle über die untoten Kreaturen.
-     Je nach Gesinnung bedeutet "beherrschen" etwas anderes. Druiden
-     guter Gesinnung *vertreiben* die Untoten, während Druiden böser
-     Gesinnung die Untoten in ihren Dienst befehlen können, zum
-     Beispiel um eine bestimmte Aufgabe zu erledigen, oder einen
-     bestimmten Bereich zu bewachen.
-	 
-Klassenbeschränkungen
-:    Druiden dürfen nur Lederrüstungen, Holzschilde, Dolche,   
-     Kurzschwerter, Speere, Schleudern und Öl benutzen. Nur Menschen
-     dürfen Druiden werden.
-
-TODO: Klassenbeschreibung und Tabelle fertig machen.
-
-: Druiden Stufen
-
-| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-|:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|---|
-| 1     |           0 | 1W    | 0  | 1 | - | - | - | - | - | - |
-| 2     |       2.000 | +1W   | 0  | 2 | 1 | - | - | - | - | - |
-| 3     |       4.000 | +1W   | 0  | 3 | 1 | - | - | - | - | - |
-| 4     |       8.000 | +1W   | 0  | 3 | 1 | 1 | - | - | - | - |
-| 5     |      13.000 | +1W   | +1 | 3 | 2 | 1 | - | - | - | - |
-| 6     |      20.000 | +1W   | +1 | 3 | 2 | 2 | - | - | - | - |
-| 7     |      40.000 | +1W   | +2 | 4 | 2 | 2 | 1 | - | - | - |
-| 8     |      60.000 | +1W   | +2 | 4 | 3 | 2 | 1 | - | - | - |
-| 9     |      90.000 | +1W   | +3 | 4 | 3 | 3 | 2 | - | - | - |
-| 10    |     130.000 | +1    | +3 | 5 | 3 | 3 | 2 | 1 | - | - |
-| 11    |     200.000 | +1    | +4 | 5 | 3 | 3 | 3 | 2 | 1 | - |
-| 12    |     400.000 | +1    | +4 | 5 | 4 | 4 | 4 | 3 | 2 | 1 |
-| 13    |     800.000 | +1    | +5 | 5 | 5 | 5 | 4 | 4 | 3 | 2 |
-| 14    |     950.000 | +1    | +5 | 6 | 5 | 5 | 4 | 4 | 3 | 2 |
-| 15    |   1.100.000 | +1    | +6 | 6 | 5 | 5 | 4 | 4 | 3 | 2 |
-| 16    |   1.250.000 | +1    | +6 | 6 | 5 | 5 | 4 | 4 | 3 | 2 |
-| 17    |   1.400.000 | +1    | +7 | 6 | 6 | 5 | 5 | 4 | 3 | 2 |
-| 18    |   1.550.000 | +1    | +7 | 6 | 6 | 5 | 5 | 5 | 3 | 2 |
-| 19    |   1.700.000 | +1    | +8 | 7 | 6 | 5 | 5 | 5 | 3 | 2 |
-| 20    |   1.850.000 | +1    | +8 | 7 | 6 | 5 | 5 | 5 | 3 | 2 |
-| 21+   | +100.000/St | +1/St | +9 | 7 | 6 | 5 | 6 | 5 | 3 | 2 |
-
-\index{Druiden!Stufen}
-
-: Angriffstabelle Druiden
-
-| Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
-|-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
-|   1-4 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
-|   5-6 | +1 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-|   7-8 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-|  9-10 | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 11-12 | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 13-14 | +5 |  5 | 6  |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 15-16 | +6 |  4 | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 17-18 | +7 |  3 | 4  |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 |
-| 19-20 | +8 |  2 | 3  |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 |
-
-: Rettungswürfe der Druiden
-
-| Stufe                           | 1-4 | 5-8 | 9-12 | 13+   |
-|---------------------------------|-----|-----|------|-------|
-| Gift und Todesstrahlen          | 11  | 9   | 6    | 3     |
-| Zauberstäbe                     | 12  | 10  | 7    | 5     |
-| Lähmung und zu Stein erstarren  | 14  | 12  | 9    | 7     |
-| Drachenodem                     | 16  | 14  | 11   | 8     |
-| Zaubersprüche, -stecken, -ruten | 15  | 12  | 9    | 7     |
-
-\index{Rettungswürfe!Druiden}
-
-
 
 ### Punks
+\index{Punks}
 
 Die Punks sind durch eine unerklärliche Störung der Ebenenstruktur in
 die Fantasy-Welt geraten, die meisten von Ihnen haben sich dort jedoch
@@ -1103,6 +1198,10 @@ Trefferpunkte
 :     1W
 
 #### Klassenfertigkeiten
+
+Punks benutzen die Angriffstabelle der
+Diebe\index{Punks!Angriffstabelle}, und die Rettungswürfe der
+Zauberkundigen\index{Punks!Rettungswürfe}.
 
 ##### Schnorren
 Innerhalb geschlossener Ortschaften - sagen wir mal: es muss dort
@@ -1147,7 +1246,7 @@ Trefferpunkten an einem zufällig, oder von der Spielleitung bestimmten
 Ort.
 
 ##### Do it yourself
-Punks brauchen können ihre nichtmagische Ausrüstung selbst herstellen.
+Punks können ihre nichtmagische Ausrüstung selbst herstellen.
 Sie brauchen dafür bis zu 1W6 Tage (Entscheidung der Spielleitung),
 allerdings besteht immer die Gefahr, dass der Gegenstand  nach 1W4
 Benutzungen unbrauchbar wird, und dem Punk dabei einen Schadenspunkt
@@ -1155,23 +1254,23 @@ zufügt (s. oben: abgebrochene Bierflaschen als Dolch-Ersatz).
 
 
 
-Klassenbeschränkungen
-:     Die Klasse Punk kann nur gewählt werden, wenn ein neuer
-      Charakter seine Abenteurerkarriere in einer größeren Ortschaft
-      beginnt - das wird in der Regel eine befestigte Ortschaft sein,
-      es sollte also eine Stattmauer oder ähnliches geben.
+##### Klassenbeschränkungen
+Die Klasse Punk kann nur gewählt werden, wenn ein neuer
+Charakter seine Abenteurerkarriere in einer größeren Ortschaft
+beginnt - das wird in der Regel eine befestigte Ortschaft sein,
+es sollte also eine Stattmauer oder ähnliches geben.
 
-      Nehmen Punks - freiwillig oder unfreiwillig - eine andere
-      Gesinnung als die chaotische an, werden Sie automatisch zu ganz
-      normalen Fantasy-Dieben, allerdings um eine Stufe reduziert.
-      Andererseits können chaotische Diebe, und zwar nur Menschen,
-      Halblinge und Orks, zu Punks der gleichen Stufe werden, wenn sie
-      mit zwei oder mehr Punks eine Nacht durchgezecht haben.  Elfen
-      und Zwerge werden niemals Punks, auch wenn sie chaotische Diebe
-      sind.
+Nehmen Punks - freiwillig oder unfreiwillig - eine andere
+Gesinnung als die chaotische an, werden Sie automatisch zu ganz
+normalen Fantasy-Dieben, allerdings um eine Stufe reduziert.
+Andererseits können chaotische Diebe, und zwar nur Menschen,
+Halblinge und Orks, zu Punks der gleichen Stufe werden, wenn sie
+mit zwei oder mehr Punks eine Nacht durchgezecht haben.  Elfen
+und Zwerge werden niemals Punks, auch wenn sie chaotische Diebe
+sind.
 
-      Rechtschaffene Wesen reagieren auf Punker immer mit einem Abzug
-      von -3.
+Rechtschaffene Wesen reagieren auf Punker immer mit einem Abzug
+von -3.
 
 
 : Punk Stufen
@@ -1192,353 +1291,233 @@ Klassenbeschränkungen
 | 11+   | +150.000/St | +1/St | +3 |
 
 
-Rettungswürfe auf Stufe 1
+Rettungswürfe auf Stufe 1 \index{Punks!Rettungswürfe}
 :    Gift: 11, Stäbe: 11, Lähmung: 14, Odem: 16,\newline
      Sprüche: 15
 
 #### Ausrüstung für Punks
+\index{Punks!Ausrüstung}
 
 Wegen ihrer besonderen Fertigkeiten brauchen Punks nicht viel, sie
 starten mit ihrer guten alten Lederjacke (RK 7), einem Rucksack und
 einem Knüppel (1W4). Außerdem haben sie noch 2W10 Silbermünzen dabei.
 
-
-# Dungeon-Erkundung
-
-Lauschen, Suchen nach Fallen und Geheimtüren werden mit Hilfe der
-Diebesfertigkeiten abgewickelt.
-
-## Bewegung
-
-Bei sorgfältiger Erkundung im Dungeon legen die Charaktere in einer
-Phase, also in etwa 10 Minuten ihren
-Bewegungswert x 20 in Fuß zurück. Rennende Charaktere bewegen sich
-doppelt so schnell.
-
-In einer Kampfrunde im Dungeon oder an einem vergleichbaren Ort kann
-ein Charakter abstrakt seinen Bewegungswert x 10 in Fuß zurücklegen.
-Auf einer Battlemap mit typischen 5 Fuß-Quadratraster seine Bewegung
-in Quadraten und auf einem 1 Meter-Hexfeldraster seine Bewegung in
-Hexfeldern.
-
-Im Freien, bzw. in der Wildnis entspricht die Bewegung pro Kampfrunde
-abstrakt der Bewegung mal 10 Meter. Also zum Beispiel 60, 90 oder 120
-Meter.
-
-: Belastungsstufen
-
-------------------------------------------------------------------------
-Ausrüstung/Gepäck       BW (")  BW (m)   Bewegung            Raster-
-                                         pro Phase/Runde     felder 
----------------------  ------- -------- ------------------ -------------
-Unbelastet,             12"       36 m   240'/72 m             12 
-Gepäck
-bis 75 Pfund
-
-
-Kettenrüstung           9"        27 m   180'/54 m              9 
-oder Gepäck
-bis 150 Pfund
- 
-Plattenrüstung          6"        18 m   120'/36 m              6  
-oder
-Kettenrüstung
-und Gepäck 
-bis 300 Pfund
-
-Plattenrüstung          3"         9 m    60'/18 m              3   
-und Gepäck
-
------------------------------------------------------------------------- 
-
-Als Faustregel gilt, dass ein Charakter der entsprechend einer der
-genannten Belastungsstufen beladen ist noch 30 Pfund oder **300
-Münzen** an Gewicht zuladen kann, bevor er in die nächste
-Belastungskategorie fällt.
-
-## Türen öffnen 
-
-Türen sind in der Regel verklemmt oder verschlossen und können bei
-einem Wurf von 1 in 6 aufgebrochen werden. Monster oder andere
-Kreaturen, die sich hinter einer Tür aufhalten, können nicht überrascht
-werden, wenn eine Tür mit Gewalt geöffnet wurde.
-
-
-## Diebesfertigkeiten
-
---------------------------------------------------------------
-Stufe         Geräusche    Geheimtüren   Fallen     Schlösser
-              hören        entdecken     finden/    öffnen 
-	                                 entfernen
------------- -----------  ------------  ----------- ----------
- Nicht-      17 (1/6)     34 (2/6)       5 (1/20)    5 (1/20) 
- Diebe                                                        
-                                                              
- 1           34           35            10           15       
-                                                              
- 2           38           36            15           20       
-                                                              
- 3           42           39            20           25       
-                                                              
- 4           46           42            25           30       
-                                                              
- 5           50           45            30           35       
-                                                              
- 6           54           48            35           40       
-                                                              
- 7           58           51            40           45       
-                                                              
- 8           62           54            45           50       
-                                                              
- 9           66           57            50           54       
-                                                              
- 10+         70           60            54           58       
-                                                              
- Elfen       +17          +33           -10          0        
-                                                              
- Halb-       +17          0             +5           +10      
- linge                                                        
-                                                              
- Zwerge       0           +5            +20          +10      
-                                                              
---------------------------------------------------------------
-
-\pagebreak
-
----------------------------------------------------------------
-Stufe        Schleichen   Verstecken    Taschen-    Wände
-                                        diebstahl   erklimmen
-----------  ------------ ------------  ----------- ------------
-Nicht-       5 (1/20)     5 (1/20)      5 (1/20)    10 (1/10)
-Diebe
-
-1            20           10            20          87   
-
-2            25           15            25          88
-
-3            30           20            30          89
-
-4            35           24            35          90
-
-5            40           28            40          91
-
-6            44           32            45          92
-
-7            48           35            50          93
- 
-8            52           38            55          94
-
-9            55           41            60          95
-
-10+          58           44            65          96
-
-Elfen        +10          +10           +5          +5              
-
-Halb-        +15         +20           +5          -10
-linge
-
-Zwerge       -10         0              0          -10
-
----------------------------------------------------------------
-
-
-# Kämpfe
-
-## Kampfrunde
-
-1. Überraschung
-2. Absichten und Sprüche erklären
-3. Initiative
-4. Bewegung, Manöver und Fernkampfangriffe 1 in der Reihenfolge der
-   Initiative
-5. Sprüche werden aktiv
-6. Nahkampf in Initiativ-Reihenfolge
-7. Fernkampfangriffe 2 (falls in Schritt 4 auf Bewegung verzichtet
-   wurde)
-
-Pro Kampfrunde kann maximal der Bewegungswert in Metern/Yards/Rasterfeldern
-zurück gelegt werden.
-
-Überraschung
-:     1W6 pro Seite, in der Regel ist eine Seite überrascht bei 1-2 in
-      6. Gewinnt eine Partei das Überraschungsmoment erhält sie eine
-      freie Kampfrunde, in der der Gegener nicht reagieren kann.
-
-Initiative
-:     1W6 pro Seite, die höhere Zahl gewinnt. Bei einem Gleichstand
-      agieren beide Seiten zeitgleich.
-
-
-: Manöver
-
---------------------------------------------------------------------------------
-Manöver          Effekt
----------------  ---------------------------------------------------------------
-Angriff von      Angriff +2, Rüstungsbonus durch Schild fällt weg. 
-Hinten
-
-Stürmen          Automatischer Initiativegewinn, Schaden x2, Rüstungsklasse
-                 der Angreifer +2 (also schlechter). Haben die Verteidiger
-                 längere Waffen (z.B. aufgesetzte Speere) treffen diese 
-                 zuerst (!)
-
-Angriff mit      Rechte Hand -2, linke Hand -4, zuzüglich 
-zwei Waffen      Geschicklichkeitsbonus
-
-Rückzugs-        Rückwärtsbewegung mit halber Geschwinigkeit, ohne einen 
-gefecht          Gelegenheitsangriff zu riskieren,
-                 folgt der Gegner und greift an, darf der zurückziehende
-                 Charakter zuerst schlagen.
-
-Rückzug          Flucht mit voller Geschwindigkeit, der Gegner erhält einen 
-                 Gelegenheitsangriff
-
-Flucht           Flucht mit Laufgeschwindigkeit, die flüchtende Partei erhält 
-                 eine Runde Vorsprung. Erwäge Ausrüstung, Nahrung oder Wert-
-                 gegenstände abzuwerfen.
-
-Deckung          Rüstungsklasse -2, nicht im Nahkampf möglich.
-
----------------------------------------------------------------------------------
-
-## Shields shall be splintered
-
-Schilde können zur Abwehr eines Treffers "geopfert" werden. Das Schild
-ist zerstört und kann nicht mehr benutzt werden, aber der Charakter
-kann dadurch einen Treffer komplett verhindern.
-
-## Fernkampf
-
----------------------------------------------------------------------
-Waffe               Feuerrate      Nah(+1)   Mittel(0)    Fern(-4)
------------------- ----------- ------------ ------------ ------------
-Keule/Hammer           1         10'(3 m)   20'(6 m)     30'(10 m)
-
-Wurfbeil               1         10'(3 m)   20'(6 m)     30'(10 m)
-
-Dolch                  2         10'(3 m)   20'(6 m)     30'(10 m)
-
-Speer                  1         10'(3 m)   20'(6 m)     30'(10 m)
-
-Öl/Weihwasser          1         10'(3 m)   30'(10 m)    50'(17 m)
-
-Wurfpfeil              3         15'(5 m)   30'(10 m)    45'(15 m)
-
-Wurfspieß              1         20'(6 m)   40'(12 m)    60'(20 m)
-(Javelin)
-
-Kurzbogen              2         50'(17 m)  100'(34 m)   150'(50 m)
-
-Kompositbogen          2         60'(20 m)  120'(40 m)   180'(60 m)
-
-Armbrust, leicht       1         60'(20 m)  120'(40 m)   180'(60 m)
-
-Langbogen              2         70'(23 m)  140'(46 m)   210'(70 m)
-
-Armbrust, schwer       1/2       80'(26 m)  160'(52 m)   240'(80 m)
-
----------------------------------------------------------------------
-
-Der Abzug bei ferner Distanz entfällt, wenn für
-eine Runde gezielt wird. Mit einer schweren Armbrust kann dann
-allerdings nur jede dritte Runde geschossen werden.
-
-
-## Verletzung und Todesrettungswürfe
-
-Sinken die Trefferpunkte eines Charakters auf 0 Punkte geht er leblos
-zu Boden. Doch er ist noch nicht ganz verloren. Gelingt ihm ein
-Rettungswurf gegen Todesstrahlen ist er zunächst nur bewußtlos, und
-überlebt für eine Phase (10 Minuten). Wird ihm auf irgendeine, auch
-nicht magische Weise geholfen, gewinnt er 1-3
-Trefferpunkte pro Phase zurück. Sobald er wieder wenigstens einen
-Trefferpunkt über Null hat, stabilisiert er sich. Ansonsten wird jede
-Phase ein neuer Rettungswurf fällig.
-
-# Reisen und Wildnisabenteuer
-
-## Leben und Reisen im Off
-
-### Längere Aufenthalte im Gasthaus
-Spielercharaktere (SC), welche die vorangegangene Spielrunde in einer
-Taverne beendet haben (was günstig ist, und angestrebt werden sollte),
-bleiben so lange in der Taverne ohne an weiteren Abenteuern
-teilzunehmen, bis die jeweiligen Spieler wieder an einer Runde
-teilnehmen. Dem SC wird für den Aufenthalt, jeweils 1 GM pro Tag für
-Kost und Logis berechnet. Natürlich kann das dazu führen, dass der SC
-beim Wirt Schulden anschreiben muss.
-
-### Reisen 
-Falls der SC einer abwesenden Spielerin eine Reise unternehmen muss,
-um wieder mit dem Rest der Gruppe aufzuschließen, benötigt er eine
-Woche Reisezeit für jede angefangenen 18 bis 90 Meilen (3 bis 15
-Hexfelder), und muss pro Woche 15 GM an Reisekosten aufbringen. Falls
-die Reise länger wird, bricht eine weitere Woche an. Für jede
-Reisewoche wird auf ein Reiseereignis gewürfelt, und dem SC werden
-Erfahrungspunkte in Höhe des Würfelergebnis * 20 gutgeschrieben.
-\index{Reisen}
-
-----------------------------------------------------------------------
- 2W6    Reiseereignis
-------- --------------------------------------------------------------
- 2      Der reisende SC taucht nicht mehr auf und wird zum NSC. 
-        Was genau passiert, weiß nur die Spielleitung. Er kann 
-        wieder zum SC werden, falls sie oder er durch eine aktive 
-        Suche der anderen SC wiedergefunden wird.
-	  
- 3      Es passiert etwas schreckliches, der SC wird traumatisiert 
-        und verliert eine Stufe.
-
- 4      Der SC wird ausgeraubt und verliert sein gesamtes Hab und 
-        Gut. Er hat nun nur noch ein Bündel mit normaler Kleidung 
-        (RK 9) und einen Knüppel (1W4) bei sich.
-
- 5      Der SC wird im Kampf verletzt und verliert eine Woche 
-        Reisezeit - also erneuter Wurf auf dieser Tabelle.
-	  
- 6      Der SC erhält auf seiner Reise Hilfe durch einen 
-        höherstufigen NSC. Er steht nun in dessen Schuld.
-		  
- 7      Der SC macht auf dem Weg eine Entdeckung, er konnte nicht 
-        viel herausfinden, aber es handelt sich um: 1. einen bisher 
-        unentdeckten Höhleneingang, 2. eine überwucherte Ruine, 
-	    3. ein ungeheuerliches Monster, 4. einen Übergang in eine 
-	    andere Welt (1W4) - Spieler, denk’ dir was aus!
-
- 8      Der SC findet einen freundlichen Reisegefährten (NSC): +2 
-        für erneute Würfe auf dieser Tabelle, +2 auf Moral- und 
-        Reaktionswürfe, falls der Reisegefährte nach der Reise als 
-        “Waffenknecht” angeheuert wird.
-	  
- 9      Der SC kann sich durch kleine Arbeiten während der Reise 
-        3W10 GM verdienen.
-  
- 10     Der SC kommt in den Besitz einer Schatzkarte.
-   
- 11     Der SC findet einen wertvollen Edelstein (1W10*100 GM).
-  
- 12     Der SC findet einen magischen Gegenstand (vom DM zufällig 
-        bestimmt).
-----------------------------------------------------------------------
-
-
-### 9-to-5 Jobs für Abenteurer
-Falls ein Charakter mehr als zwei Wochen an einem Ort bleibt ohne auf
-Abenteuer auszuziehen, kann er versuchen Arbeit\index{Arbeit}
-anzunehmen. Es wird eine Probe mit 2W6 + Charisma-Modifikator
-gewürfelt. Ist das Ergebnis 8 oder mehr, gelingt es dem SC einen Job
-zu finden, mit dem er pro Woche 2W4 * 10 GM verdient. Wird der Wurf
-verfehlt, verstreicht eine Woche ohne Einkommen, bis eine erneute
-Probe abgelegt werden kann. Bei einem kritischen Fehlwurf (also einer
-2) muss der SC zwei Wochen ohne Einkommen\index{Einkommen} hinnehmen.
-
-# Preislisten
-
+### Naturgeweihte (Druiden)
+\index{Naturgeweihte}\index{Druiden}
+
+Kleriker können zum druidischen Glauben konvertieren, sobald sie 3.200
+Erfahrungspunkte gesammelt haben.  Die Initiation sollte
+rollspielerisch ausgestaltet werden. 
+
+Andere menschliche Charaktere, können auf dem Weg des
+*Dual-Classings*\index{Dual-Classing} zu Naturgeweihten werden:
+
+Nachdem die Entscheidung gefallen ist, zum Beispiel durch ein tief
+spirituell gefärbtes Naturerlebnis, müssen sie 3.200 Erfahrungspunkte
+ansammeln um die erste Stufe eines Naturgeweihten zu erlangen. Bereits
+erworbene Erfahrungspunkte werden hier, anders als beim Kleriker,
+nicht angerechnet. Während dieser Zeit müssen sie bereits alle
+Beschränkungen der Naturgeweihten einhalten, und sammeln keine
+Erfahrungspunkte mehr für ihre frühere Klasse. Trefferpunkte bleiben
+auf dem vorherigen Niveau, bis ein Stufenaufstieg als Naturgeweihter
+eine höhere Anzahl an Trefferpunkten ergibt.
+
+Erst wenn der Naturgeweihte eine Stufe erlangt hat, die höher ist als
+die seiner alten Klasse, kann er auch wieder Erfahrungspunkte in die
+Weiterentwicklung seiner alten Klasse investieren. Er *verliert*
+allerdings alle Vorteile seiner Einweihung, sobald er sich nicht mehr
+an die Klassenbeschränkungen für Naturgeweihte halten sollte.
+
+Voraussetzung ist in jedem Fall eine
+neutrale Gesinnung, und das Gelübte, sich alleine dem Schutz der Natur
+zu widmen. Für diese Naturkleriker gelten die folgenden Regeln:
+
+#### Klassenfähigkeiten
+
+- Naturgeweihte können Klerikersprüche der ersten Stufe, sowie 
+     Druidensprüche wirken. Sie erlernen eine eigene geheime
+     Druidensprache.
+
+- Statt einem heiligen Symbol verwenden
+     sie einen Mistelzweig als Fokus für ihre Meditionen. 
+
+- Sie können klares Wasser und beliebige Tiere und Pflanzen identifizieren,
+     und mit Leichtigkeit jedes Dickicht durchdringen. 
+
+- Ab der 3. Stufe können sie eine Sprache der Feenwesen lernen, wie
+  z.B. die Sprache der Fliegewichtel, elfisch, die Sprache der
+  Baumherren, die der Zentauren oder der grünen Drachen. 
+
+- Ab der 5. Stufe können sich Naturgeweihte einmal täglich in ein
+  Reptil, einen Vogel oder ein Säugetier verwandeln. Dabei darf das
+  Wesen nicht kleiner als eine Krähe, und nicht größer als ein
+  Schwarzbär sein. Durch das Gestaltwandeln gewinnt der Naturgeweihte
+  1d6 x 10% verlorene Trefferpunkte zurück.
+
+- Ab der 5. Stufe sind Naturgeweihte immun gegen die Bezauberungen von
+  Feenwesen.
+
+#### Klassenbeschränkungen
+
+- Kein Charakter kann als Naturgeweihter das Spiel beginnen.
+  Naturgeweihter kann man nur durch Initiation im Spiel werden.
+
+- Nur Menschen und Halb-Elfen können Druiden werden.
+
+-  Naturgeweihte dürfen nur Lederrüstung und Holzschilde als Rüstung
+     tragen. 
+
+- Naturgeweihte dürfen folgende Waffen benutzen: Speere, Schleudern,
+  Sicheln und Krummschwerter (Werte wie Kurzschwert), Öl.
+
+- Naturgeweihte können magische Gegenstände, die für alle Klassen,
+  sowie für Kleriker erlaubt sind, jedoch keine Kleriker-Spruchrollen.
+
+- Sie dürfen Tiere nur in Notwehr töten, und müssen streng
+     vermeiden Pflanzenbestände zu schädigen. 
+
+- Sie verlieren die Fähigkeit der Kleriker Untote zu vertreiben.
+
+#### Stufenaufstieg für Naturgeweihte
+
+Wenn Naturgeweite bereit sind in den Rang eines Druiden, also
+eines Naturgeweihten der 10. Stufe aufzusteigen
+(d.h., wenn sie genug Erfahrungspunkte gesammelt haben), 
+können sie einen der 4 amtierenden Druiden beerben, oder im magischen
+Duell besiegen. Entsprechend können Druiden der 11. Stufe den Rang
+eines der zwei Erzdruiden aufsteigen, und schließlich auf der 12.
+Stufe *der eine* Großdruide werden. 
+
+
+: Naturgeweihte, Stufen
+
+| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|---|
+| 1     |       3.200 | +1    | 0  | 1 | - | - | - | - | - | - |
+| 2     |       4.000 | +1W   | 0  | 2 | 1 | - | - | - | - | - |
+| 3     |       8.000 | +1W   | 0  | 3 | 1 | - | - | - | - | - |
+| 4     |      13.000 | +1W   | +1 | 3 | 1 | 1 | - | - | - | - |
+| 5     |      20.000 | +1W   | +1 | 3 | 2 | 1 | - | - | - | - |
+| 6     |      40.000 | +1W   | +1 | 3 | 2 | 2 | - | - | - | - |
+| 7     |      60.000 | +1W   | +2 | 4 | 3 | 2 | 1 | - | - | - |
+| 8     |      90.000 | +1W   | +3 | 4 | 3 | 3 | 2 | - | - | - |
+| 9     |     130.000 | +1W   | +3 | 5 | 3 | 3 | 2 | 1 | - | - |
+| 10    |     200.000 | +1    | +4 | 5 | 3 | 3 | 3 | 2 | 1 | - |
+| 11    |     400.000 | +1    | +4 | 5 | 4 | 4 | 4 | 3 | 2 | 1 |
+| 12    |     800.000 | +1    | +5 | 6 | 5 | 5 | 4 | 4 | 3 | 2 |
+| 13    |     950.000 | +1    | +5 | 7 | 5 | 5 | 4 | 4 | 3 | 2 |
+| 14    |   1.100.000 | +1    | +6 | 7 | 6 | 5 | 4 | 4 | 3 | 2 |
+| 15    |   1.250.000 | +1    | +6 | 7 | 6 | 6 | 4 | 4 | 3 | 2 |
+| 16    |   1.400.000 | +1    | +7 | 8 | 6 | 6 | 5 | 4 | 3 | 2 |
+| 17    |   1.550.000 | +1    | +7 | 8 | 7 | 6 | 5 | 5 | 3 | 2 |
+| 18    |   1.700.000 | +1    | +8 | 9 | 8 | 6 | 5 | 5 | 3 | 2 |
+| 19    |   1.850.000 | +1    | +9 | 9 | 8 | 7 | 5 | 5 | 3 | 2 |
+| 20+   | +150.000/St | +1/St | +9 | 9 | 8 | 7 | 6 | 5 | 3 | 2 |
+
+\index{Naturgeweihte!Stufen}
+
+: Angriffstabelle Naturgeweihte\index{Naturgeweihte!Angriffstabelle}
+
+| Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
+|-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
+|   1-3 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
+|   4-6 | +1 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|   7   | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+|  8-9  | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 10-11 | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 12-13 | +5 |  5 | 6  |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 14-15 | +6 |  4 | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16-17 | +7 |  3 | 4  |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 |
+| 18    | +8 |  2 | 3  |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 |
+| 19+   | +9 |  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+
+: Rettungswürfe der Naturgeweihten\index{Naturgeweihte!Rettungswürfe}
+
+| Stufe                           | 1-3 | 4-7 | 8-11 | 12+   |
+|---------------------------------|-----|-----|------|-------|
+| Gift und Todesstrahlen          | 11  | 9   | 6    | 3     |
+| Zauberstäbe                     | 12  | 10  | 7    | 5     |
+| Lähmung und zu Stein erstarren  | 14  | 12  | 9    | 7     |
+| Drachenodem                     | 16  | 14  | 11   | 8     |
+| Zaubersprüche, -stecken, -ruten | 15  | 12  | 9    | 7     |
+
+## Gesinnung
+\index{Gesinnung}
+Es werden die Gesinnungen *chaotisch*, *neutral* und *rechtschaffen*
+unterschieden.
+
+Chaotische Wesen streben nach Erneuerung, Entropie, und subjektiver
+Entfaltung, sie sind opportunistisch in ihren Entscheidungen, und
+neigen zu sprunghaftem Handeln. Das Chaos\index{Chaos} wird durch
+einen Kreis mit acht auseinander strebenden Pfeilen symbolisiert.
+
+Rechtschaffene Wesen streben nach Erhalt der bestehenden Ordnung, dem
+Wohl der Gemeinschaft, sie etablieren und befolgen Regeln und Gesetze.
+Die Rechtschaffenheit \index{Rechtschaffenheit} wird durch einen Kreis
+mit einem zentralen Ruhepunkt symbolisiert.
+
+Rechtschaffenheit und Chaos stehen im ständigen Widerstreit
+gegeneinander. Es sind die archetypischen Fraktionen in der
+Fantasy-Welt.
+
+Rechtschaffenheit oder Chaos bestimmen *nicht*, ob ein Wesen *gut*
+oder *böse* ist. Chaotische Wesen stürzen sich nicht hirnlos in jeden
+Kampf, und verhalten sich nicht automatisch aggressiv. Jedes Wesen
+strebt danach, sein Leben und das Leben seinesgleichen zu schützen.
+
+Neutrale Wesen verhalten sich weder rechtschaffen, noch chaotisch.
+Typischerweise sind Pflanzen, Tiere und Naturgeweihte in ihrer Haltung
+neutral.
+
+
+## Erfahrung
+\index{Erfahrung}
+
+### XP for Gold
+\index{XP for Gold}
+
+Für jede *gesicherte* Goldmünze erhält ein Charakter einen
+Erfahrungspunkt (1 GM = 1 EP). Als gesichert gilt: ausgegeben,
+verschenkt, auf die Bank gebracht, oder auch *überzeugend* sicher
+irgendwo vergraben. Im letzteren Fall sollte der Spieler eine Karte zu
+seinem Schatz zeichnen.
+
+GM bringen keine Erfahrungspunkte wenn der Charakter seine Münzen
+unfreiwillig verloren hat. Zum Beispiel weil sie ihm gestohlen wurden.
+
+### XP for Monsters
+\index{Erfahrung!für Monster}
+Monster die *überwunden* werden erbringen ebenfalls Erfahrungspunkte,
+und zwar 100 EP pro Trefferwürfel. Ein Monster kann in diesem Sinne
+nur überwunden werden, wenn es den Charakteren in irgendeiner Form
+Schwierigkeiten macht, und grundsätzlich eine Gefahr für die
+Charaktere darstellt.
+
+### XP fürs Überleben
+
+~~Charaktere, die eine ganze Spielrunde überleben, erhalten
+500 Erfahrungspunkte.~~^[Die Regel war zu Beginn der Kampagne
+    sicherlich gut, sie spielt aber für höhere Stufen keine große
+    Rolle mehr, und der Schwerpunkt sollte auch *XP for Gold* liegen]
+
+### Erreichen neuer Stufen
+\index{Stufen}\index{Stufenaufstieg}\index{Erfahrungsstufen}
+Um eine neue Erfahrungsstufe zu erreichen, braucht ein Charakter die
+erforderliche Anzahl an Erfahrungspunkten *und* eine Nacht erholsamen
+Schlaf.
+
+**Ersatzcharaktere** \index{Ersatzcharaktere}
+starten mit Erfahrungspunkten in Höhe des am
+wenigsten erfahrenen Charakters am Tisch, und zwar *maximal mit 3000
+Erfahrungspunkten*.
+
+## Geld und Ausrüstung
+\index{GM}\index{SM}\index{KM}
 Eine Goldmünze (GM) entspricht 10 Silbermünzen (SM), 
 oder auch 100 Kupfermünzen (KM).
 
 10 Münzen wiegen 1 Pfund. 1 Edelstein wird als 1 Münze Gewicht gezählt,
-und 1 Geschmeide als 10 Münzen (also 1 Pfund).
+und 1 Geschmeide als 10 Münzen (also 1 Pfund)\index{Gewicht}.
 
 : Waffen
 \index{Waffen}
@@ -1739,33 +1718,7 @@ Falke                  18 GM   Habicht                40 GM
 Ferkel                  1 GM   Schwein                 3 GM
 -----------------------------------------------------------   
  
-
-: Speisen und Getränke\index{Speisen und Getränke}
-
-  ------------------ -------
-  Bier                  1 SM
-  Starkbier             1 GM
-  Met                   2 SM
-  Traubenwein           2 GM
-  Krug Wasser           1 KM
-  Käsestulle            2 KM
-  Brotsuppe             5 KM
-  Griesbrei             2 KM
-  Braten                1 GM
-  Bankett pro Gast     10 GM
-  ------------------ -------
-
-: Logis\index{Logis}
-
-  ----------------------------------------- ------
-  Übernachtung im Schlafsaal pro Person       1 SM
-  Übernachtung im Doppelzimmer pro Person     2 GM
-  Übernachtung im Einzelzimmer                3 GM
-  Hafer für 1 Pferd pro Tag                   1 SM
-  ----------------------------------------- ------
-
-
-: Beförderungsmittel
+: Transportmittel
 \index{Wagen}\index{Wasserfahrzeuge}
 \index{Transport}\index{Boote}\index{Schiffe}
 
@@ -1807,8 +1760,354 @@ Galeasse                              65.000 GM
 -----------------------------------------------
 
 
-: Handwerker
-\index{Handwerker}
+# The Underworld & Wilderness Adventures
+
+
+## Bewegung
+\index{BW}\index{Bewegungsweite}
+Bei sorgfältiger Erkundung im Dungeon legen die Charaktere in einer
+Phase, also in etwa 10 Minuten ihren
+Bewegungswert x 20 in Fuß zurück. Rennende Charaktere bewegen sich
+doppelt so schnell.
+
+In einer Kampfrunde im Dungeon oder an einem vergleichbaren Ort kann
+ein Charakter abstrakt seinen Bewegungswert x 10 in Fuß zurücklegen.
+Auf einer Battlemap mit typischen 5 Fuß-Quadratraster seine Bewegung
+in Quadraten und auf einem 1 Meter-Hexfeldraster seine Bewegung in
+Hexfeldern.
+
+Im Freien, bzw. in der Wildnis entspricht die Bewegung pro Kampfrunde
+abstrakt der Bewegung mal 10 Meter. Also zum Beispiel 60, 90 oder 120
+Meter.
+
+: Belastungsstufen
+\index{Belastungsstufen}
+
+------------------------------------------------------------------------
+Ausrüstung/Gepäck       BW (")  BW (m)   Bewegung            Raster-
+                                         pro Phase/Runde     felder 
+---------------------  ------- -------- ------------------ -------------
+Unbelastet,             12"       36 m   240'/72 m             12 
+Gepäck
+bis 75 Pfund
+
+
+Kettenrüstung           9"        27 m   180'/54 m              9 
+oder Gepäck
+bis 150 Pfund
+ 
+Plattenrüstung          6"        18 m   120'/36 m              6  
+oder
+Kettenrüstung
+und Gepäck 
+bis 300 Pfund
+
+Plattenrüstung          3"         9 m    60'/18 m              3   
+und Gepäck
+
+------------------------------------------------------------------------ 
+
+Als Faustregel gilt, dass ein Charakter der entsprechend einer der
+genannten Belastungsstufen beladen ist noch 30 Pfund oder **300
+Münzen** an Gewicht zuladen kann, bevor er in die nächste
+Belastungskategorie fällt.
+
+## Türen öffnen 
+\index{Türen öffnen}
+Türen sind in der Regel verklemmt oder verschlossen und können bei
+einem Wurf von 1 in 6 aufgebrochen werden. Monster oder andere
+Kreaturen, die sich hinter einer Tür aufhalten, können nicht überrascht
+werden, wenn eine Tür mit Gewalt geöffnet wurde.
+
+## Dungeonerkundung
+
+Lauschen, Suchen nach Fallen und Geheimtüren werden mit Hilfe der
+Diebesfertigkeiten abgewickelt.
+
+## Magische Gegenstände identifizieren
+\index{Magische Gegenstände}\index{identifizieren!Magische
+Gegenstände}
+
+OD&D beinhaltet keinen Zauberspruch zum identifizieren von magischen
+Gegenständen (ein solcher Spruch wurde 1978 als Stufe 1
+Zauberkundigen-Spruch in AD&D eingeführt). Allerdings wird *read
+magic* im Original wie folgt beschrieben: "the means by which the
+incantations *on an item* or scroll are read"
+
+Im Grenzland wird das Identifizieren wie folgt gehandhabt: Mit *Detect
+Magic* kann ermittlt werden, *dass* ein Gegenstand mit Magie belegt
+ist - bildlich gesprochen werden durch den Spruch die magischen Runen
+\index{Runen!magische}sichtbar, mit denen der Gegenstand inskribiert
+wurde. Mit *Magie lesen* können diese magischen Runen entziffert
+werden, dass heißt mit diesem Spruch kann ermittelt werden, genau
+welche Magie auf dem Gegenstand liegt - auch Rüstungs- oder Waffenboni
+werden so dem Spieler bekannt. Weiß ein Zauberkundiger
+nicht, ob ein Gegenstand magisch ist oder nicht, ist es Glückssache,
+ob er mit *Magie Lesen* etwas heraus findet.
+
+Zaubertränke können, sofern sie nicht beschriftet sind, durch
+ausprobieren (Rettungswurf +4 für *vorsichtiges* Nippen) identifiziert
+werden. Alternativ kann ein unbekannter Trank im Labor eines
+Zauberkundigen der Stufe 11+ identifiziert werden. Hierzu werden
+Materialien in Höhe von 1000 GM benötigt, und der Zauberkundige wird
+höchstwahrscheinlich eine Gegenleistung für seine Mühen erwarten. Als
+Nebeneffekt ermittelt der analysierende Zauberkundige so auch das
+Rezept für den untersuchten Zaubertrank.
+
+
+## Kampfrunde
+\index{Kampfrunde}
+
+1. Überraschung
+2. Absichten und Sprüche erklären
+3. Initiative
+4. Bewegung, Manöver und Fernkampfangriffe 1 in der Reihenfolge der
+   Initiative
+5. Sprüche werden aktiv
+6. Nahkampf in Initiativ-Reihenfolge
+7. Fernkampfangriffe 2 (falls in Schritt 4 auf Bewegung verzichtet
+   wurde)
+
+Pro Kampfrunde kann maximal der Bewegungswert in Metern/Yards/Rasterfeldern
+zurück gelegt werden.
+
+Überraschung
+:     1W6 pro Seite, in der Regel ist eine Seite überrascht bei 1-2 in
+      6. Gewinnt eine Partei das Überraschungsmoment erhält sie eine
+      freie Kampfrunde, in der der Gegener nicht reagieren kann.
+
+Initiative
+:     1W6 pro Seite, die höhere Zahl gewinnt. Bei einem Gleichstand
+      agieren beide Seiten zeitgleich.
+
+
+: Kampfmanöver
+\index{Kampfmanöver}
+
+--------------------------------------------------------------------------------
+Manöver          Effekt
+---------------  ---------------------------------------------------------------
+Angriff von      Angriff +2, Rüstungsbonus durch Schild fällt weg. 
+Hinten
+
+Stürmen          Automatischer Initiativegewinn, Schaden x2, Rüstungsklasse
+                 der Angreifer +2 (also schlechter). Haben die Verteidiger
+                 längere Waffen (z.B. aufgesetzte Speere) treffen diese 
+                 zuerst (!)
+
+Angriff mit      Rechte Hand -2, linke Hand -4, zuzüglich 
+zwei Waffen      Geschicklichkeitsbonus
+
+Rückzugs-        Rückwärtsbewegung mit halber Geschwinigkeit, ohne einen 
+gefecht          Gelegenheitsangriff zu riskieren,
+                 folgt der Gegner und greift an, darf der zurückziehende
+                 Charakter zuerst schlagen.
+
+Rückzug          Flucht mit voller Geschwindigkeit, der Gegner erhält einen 
+                 Gelegenheitsangriff
+
+Flucht           Flucht mit Laufgeschwindigkeit, die flüchtende Partei erhält 
+                 eine Runde Vorsprung. Erwäge Ausrüstung, Nahrung oder Wert-
+                 gegenstände abzuwerfen.
+
+Deckung          Rüstungsklasse -2, nicht im Nahkampf möglich.
+
+---------------------------------------------------------------------------------
+
+## Shields shall be splintered
+\index{Schilde}
+Schilde können zur Abwehr eines Treffers "geopfert" werden. Das Schild
+ist zerstört und kann nicht mehr benutzt werden, aber der Charakter
+kann dadurch einen Treffer komplett verhindern.
+
+
+## Fernkampf
+\index{Fernkampf}
+
+---------------------------------------------------------------------
+Waffe               Feuerrate      Nah(+1)   Mittel(0)    Fern(-4)
+------------------ ----------- ------------ ------------ ------------
+Keule/Hammer           1         10'(3 m)   20'(6 m)     30'(10 m)
+
+Wurfbeil               1         10'(3 m)   20'(6 m)     30'(10 m)
+
+Dolch                  2         10'(3 m)   20'(6 m)     30'(10 m)
+
+Speer                  1         10'(3 m)   20'(6 m)     30'(10 m)
+
+Öl/Weihwasser          1         10'(3 m)   30'(10 m)    50'(17 m)
+
+Wurfpfeil              3         15'(5 m)   30'(10 m)    45'(15 m)
+
+Wurfspieß              1         20'(6 m)   40'(12 m)    60'(20 m)
+(Javelin)
+
+Kurzbogen              2         50'(17 m)  100'(34 m)   150'(50 m)
+
+Kompositbogen          2         60'(20 m)  120'(40 m)   180'(60 m)
+
+Armbrust, leicht       1         60'(20 m)  120'(40 m)   180'(60 m)
+
+Langbogen              2         70'(23 m)  140'(46 m)   210'(70 m)
+
+Armbrust, schwer       1/2       80'(26 m)  160'(52 m)   240'(80 m)
+
+---------------------------------------------------------------------
+
+Der Abzug bei ferner Distanz entfällt, wenn für
+eine Runde gezielt wird. Mit einer schweren Armbrust kann dann
+allerdings nur jede dritte Runde geschossen werden.
+
+* Weihwasser macht bei einem Treffer auf Untote 1W8 Punkte Schaden
+  \index{Weihwasser}
+
+* Brennendes Öl macht *für zwei Runden* jeweils 1-8 Punkte Schaden
+\index{Öl!brennendes}
+
+## Verletzung und Todesrettungswürfe
+\index{Tod}\index{Verletzung}\index{Todesrettungswürfe}
+Sinken die Trefferpunkte eines Charakters auf 0 Punkte geht er leblos
+zu Boden. Doch er ist noch nicht ganz verloren. Gelingt ihm ein
+Rettungswurf gegen Tod ist er zunächst nur bewußtlos, und
+überlebt für eine Phase (10 Minuten). Wird ihm auf irgendeine, auch
+nicht magische Weise geholfen, gewinnt er 1-3
+Trefferpunkte pro Phase zurück. Sobald er wieder wenigstens einen
+Trefferpunkt über Null hat, stabilisiert er sich. Ansonsten wird jede
+Phase ein neuer Rettungswurf fällig.
+
+
+## Leben und Reisen im Off
+
+### Längere Aufenthalte im Gasthaus
+\index{Gasthaus}\index{Taverne}
+Spielercharaktere (SC), welche die vorangegangene Spielrunde in einer
+Taverne beendet haben (was günstig ist, und angestrebt werden sollte),
+bleiben so lange in der Taverne ohne an weiteren Abenteuern
+teilzunehmen, bis die jeweiligen Spieler wieder an einer Runde
+teilnehmen. Dem SC wird für den Aufenthalt, jeweils 1 GM pro Tag für
+Kost und Logis berechnet. Natürlich kann das dazu führen, dass der SC
+beim Wirt Schulden anschreiben muss.
+
+### Reisen 
+\index{Reisen}\index{Reisekosten}
+Falls der SC einer abwesenden Spielerin eine Reise unternehmen muss,
+um wieder mit dem Rest der Gruppe aufzuschließen, benötigt er eine
+Woche Reisezeit für jede angefangenen 18 bis 90 Meilen (3 bis 15
+Hexfelder), und muss pro Woche 15 GM an Reisekosten aufbringen. Falls
+die Reise länger wird, bricht eine weitere Woche an. Für jede
+Reisewoche wird auf ein Reiseereignis gewürfelt, und dem SC werden
+Erfahrungspunkte in Höhe des Würfelergebnis * 20 gutgeschrieben.
+\index{Reisen}
+
+----------------------------------------------------------------------
+ 2W6    Reiseereignis
+------- --------------------------------------------------------------
+ 2      Der reisende SC taucht nicht mehr auf und wird zum NSC. 
+        Was genau passiert, weiß nur die Spielleitung. Er kann 
+        wieder zum SC werden, falls sie oder er durch eine aktive 
+        Suche der anderen SC wiedergefunden wird.
+	  
+ 3      Es passiert etwas schreckliches, der SC wird traumatisiert 
+        und verliert eine Stufe.
+
+ 4      Der SC wird ausgeraubt und verliert sein gesamtes Hab und 
+        Gut. Er hat nun nur noch ein Bündel mit normaler Kleidung 
+        (RK 9) und einen Knüppel (1W4) bei sich.
+
+ 5      Der SC wird im Kampf verletzt und verliert eine Woche 
+        Reisezeit - also erneuter Wurf auf dieser Tabelle.
+	  
+ 6      Der SC erhält auf seiner Reise Hilfe durch einen 
+        höherstufigen NSC. Er steht nun in dessen Schuld.
+		  
+ 7      Der SC macht auf dem Weg eine Entdeckung, er konnte nicht 
+        viel herausfinden, aber es handelt sich um: 1. einen bisher 
+        unentdeckten Höhleneingang, 2. eine überwucherte Ruine, 
+	    3. ein ungeheuerliches Monster, 4. einen Übergang in eine 
+	    andere Welt (1W4) - Spieler, denk’ dir was aus!
+
+ 8      Der SC findet einen freundlichen Reisegefährten (NSC): +2 
+        für erneute Würfe auf dieser Tabelle, +2 auf Moral- und 
+        Reaktionswürfe, falls der Reisegefährte nach der Reise als 
+        “Waffenknecht” angeheuert wird.
+	  
+ 9      Der SC kann sich durch kleine Arbeiten während der Reise 
+        3W10 GM verdienen.
+  
+ 10     Der SC kommt in den Besitz einer Schatzkarte.
+   
+ 11     Der SC findet einen wertvollen Edelstein (1W10*100 GM).
+  
+ 12     Der SC findet einen magischen Gegenstand (vom DM zufällig 
+        bestimmt).
+----------------------------------------------------------------------
+
+
+### 9-to-5 Jobs für Abenteurer
+Falls ein Charakter mehr als zwei Wochen an einem Ort bleibt ohne auf
+Abenteuer auszuziehen, kann er versuchen Arbeit\index{Arbeit}
+anzunehmen. Es wird eine Probe mit 2W6 + Charisma-Modifikator
+gewürfelt. Ist das Ergebnis 8 oder mehr, gelingt es dem SC einen Job
+zu finden, mit dem er pro Woche 2W4 * 10 GM verdient. Wird der Wurf
+verfehlt, verstreicht eine Woche ohne Einkommen, bis eine erneute
+Probe abgelegt werden kann. Bei einem kritischen Fehlwurf (also einer
+2) muss der SC zwei Wochen ohne Einkommen\index{Einkommen} hinnehmen.
+
+## Gefolgsleute
+\index{Gefolgsleute}
+
+Gefolgsleute sind *normale Charaktere* mit Klassen und Stufen, die als
+NSC von der Spielleitung gespielt werden, aber in aller Regel den
+Anweisungen der Spielercharaktere folgen. 
+
+* Gefolgsleute müssen aktiv gesucht werden.
+
+* Die Zahl der möglichen Gefolgsleute, die einem Charakter folgen,
+ hängt von dessen Charisma ab, siehe Seite \pageref{charisma}.
+
+* Gefolgsleute sind in der Regel auf Stufe 1, können aber maximal bis zu
+einer Stufe unter der Stufe des Spielercharakters haben.
+
+* Gefolgsleute sammeln Erfahrung, und zählen für die Berechnung der
+ Erfahrungspunkte als "halber" Spielercharakter. Dem entsprechend
+ können sie auch Erfahrungsstufen aufsteigen.
+
+* Gefolgsleute erwarten keinen Sold, sondern ggf. Ausrüstung und einen
+ Anteil der erlangten Schätze.
+
+* Gefolgsleute sind hervorragende Ersatzcharaktere, und sollten als
+ solche aufgebaut werden.
+
+## Dienstleistungen und Baukosten
+
+: Speisen und Getränke\index{Speisen und Getränke}
+
+  ------------------ -------
+  Bier                  1 SM
+  Starkbier             1 GM
+  Met                   2 SM
+  Traubenwein           2 GM
+  Krug Wasser           1 KM
+  Käsestulle            2 KM
+  Brotsuppe             5 KM
+  Griesbrei             2 KM
+  Braten                1 GM
+  Bankett pro Gast     10 GM
+  ------------------ -------
+
+: Logis\index{Logis}
+
+  ----------------------------------------- ------
+  Übernachtung im Schlafsaal pro Person       1 SM
+  Übernachtung im Doppelzimmer pro Person     2 GM
+  Übernachtung im Einzelzimmer                3 GM
+  Hafer für 1 Pferd pro Tag                   1 SM
+  ----------------------------------------- ------
+
+
+
+: Handwerker und Mietlinge
+\index{Handwerker}\index{Mietlinge}
 
 ----------------------------------------------------------
 Beruf                     Täglicher Lohn  Monatlicher Lohn 
@@ -1990,40 +2289,143 @@ Die Kosten von Türmen verdoppeln sich für Türme die höher als
 als ihr Durchmesser sind. Türme dürfen maximal doppelt so 
 hoch sein wie ihr Durchmesser.
 
-# Erfahrung
-
-## XP for Gold
-
-Für jede *gesicherte* Goldmünze erhält ein Charakter einen
-Erfahrungspunkt (1 GM = 1 EP). Als gesichert gilt: ausgegeben,
-verschenkt, auf die Bank gebracht, oder auch *überzeugend* sicher
-irgendwo vergraben. Im letzteren Fall sollte der Spieler eine Karte zu
-seinem Schatz zeichnen.
-
-GM bringen keine Erfahrungspunkte wenn der Charakter seine Münzen
-unfreiwillig verloren hat. Zum Beispiel weil sie ihm gestohlen wurden.
-
-## XP for Monsters
-
-Monster die *überwunden* werden erbringen ebenfalls Erfahrungspunkte,
-und zwar 100 EP pro Trefferwürfel. Ein Monster kann in diesem Sinne
-nur überwunden werden, wenn es den Charakteren in irgendeiner Form
-Schwierigkeiten macht, und grundsätzlich eine Gefahr für die
-Charaktere dargestellt.
-
-## XP fürs Überleben
-
-Charaktere, die eine ganze Spielrunde überleben, erhalten
-500 Erfahrungspunkte.
-
-## Erreichen neuer Stufen
-
-Um eine neue Stufe zu erreichen, braucht ein Charakter die
-erforderliche Anzahl an Erfahrungspunkten *und* eine Nacht erholsamen
-Schlaf.
-
-**Ersatzcharaktere** starten mit Erfahrungspunkten in Höhe des am
-wenigsten erfahrenen Charakters am Tisch, und zwar *maximal mit 3000
-Erfahrungspunkten*.
-
 ![](img/DnD_Chimera.png)
+
+\cleartoverso
+\begin{adjustwidth*}{-0.5cm}{-1cm}
+\pagestyle{empty}
+
+\begin{minipage}[t]{8cm}\vspace{0pt}
+
+\section{Charakterbogen}\index{Charakterbogen}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+ & \\
+\tikz\draw (0,0) -- (3,0);\newline
+Name des Charakters
+&
+\tikz\draw (0,0) -- (3,0);\newline
+Gesinnung \\
+ & \\
+\tikz\draw (0,0) -- (3,0);\newline
+Klasse
+&
+\tikz\draw (0,0) -- (3,0);\newline
+Volk \\
+ & \\
+\tikz\draw (0,0) -- (3,0);\newline
+Erfahrung
+&
+\tikz\draw (0,0) -- (3,0);\newline
+Stufe \\
+\end{tabular}
+
+\begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
+% Trefferpunkte
+\tikz [baseline = 0.6ex]
+\draw [scale=0.7] (-1,0.3) .. controls (-1,1) and (-0.2,1) .. (0,0.5)
+      (0,0.5) .. controls (0.2,1) and (1,1) .. (1,0.3)
+      (1,0.3) .. controls (1,-0.4) and (0.5,-0.8) .. (0,-1)
+      (0,-1) .. controls (-0.5,-0.8) and (-1,-0.4) .. (-1,0.3);
+&
+%Rüstungsklasse
+\tikz [baseline = 0.6ex]
+\draw [scale=0.7] (-1,1) -- (1,1) 
+      (1,1) .. controls (1,-0.5) .. (0,-1)
+      (0,-1) .. controls (-1,-0.5) .. (-1,1);
+\\
+Trefferpunkte & Rüstungsklasse \\
+\end{tabular}
+
+\end{minipage}
+\begin{minipage}[t]{4.5cm}\vspace{0pt}
+
+\begin{tabular}{p{\textwidth}}
+\\
+\tikz\draw (0,0) -- (3,0);\linebreak
+SpielerIn\\
+\\
+\tikz\draw (0,0) -- (3,0);\linebreak
+Spielleitung\\
+\end{tabular}
+
+\centering
+\tikz\draw (0,0) rectangle (\textwidth,3.5cm);\linebreak
+Portrait oder Symbol des Charakters
+\end{minipage}
+
+
+\begin{minipage}[t]{.59\textwidth}
+
+\tikz[baseline=0.6ex]\draw (0,0) rectangle (5ex,5ex); Stärke
+ 
+\tikz[baseline=0.6ex]\draw (0,0) rectangle (5ex,5ex); Intelligenz
+
+\tikz[baseline=0.6ex]\draw (0,0) rectangle (5ex,5ex); Weisheit
+
+\tikz[baseline=0.6ex]\draw (0,0) rectangle (5ex,5ex);
+Geschicklichkeit
+
+\tikz[baseline=0.6ex]\draw (0,0) rectangle (5ex,5ex); Konstitution
+
+\tikz[baseline=0.6ex]\draw (0,0) rectangle (5ex,5ex); Charisma 
+ 
+\end{minipage}
+\begin{minipage}[t]{.39\textwidth}
+
+\textbf{Rettungswürfe (1W20)}
+
+\begin{tabular}{cp{3.5cm}}
+\tikz[baseline=0.6ex]\draw (0,0) circle (2.5ex); & Gift/ Tod \\ 
+
+\tikz[baseline=0.6ex]\draw (0,0) circle (2.5ex); & Zauberstäbe \\
+
+\tikz[baseline=0.6ex]\draw (0,0) circle (2.5ex); & Lähmung \\
+
+\tikz[baseline=0.6ex]\draw (0,0) circle (2.5ex); & Drachenodem \\
+
+\tikz[baseline=0.6ex]\draw (0,0) circle (2.5ex); & Zaubersprüche \\
+
+\end{tabular}
+
+\end{minipage}
+
+\textbf{Angriffstabellen (1W20 gegen RK)}
+
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{|p{2.5cm}|c|c|c|c|c|c|c|c|c|c|c|c|c|p{2cm}|}
+\hline
+Waffe &  9 & 8 & 7 & 6 & 5 & 4 & 3 & 2 & 1 & 0 & -1 & -2 &
+Schaden \\
+\hline
+& & & & & & & & & & & & & \\ 
+\hline
+& & & & & & & & & & & & & \\ 
+\hline
+& & & & & & & & & & & & & \\ 
+\hline
+\end{tabular}
+
+\clearpage
+\thispagestyle{empty}
+
+\textbf{Fertigkeiten}
+
+\vspace{4cm}
+
+\textbf{Mitgeführte Ausrüstung}
+
+\vspace{4cm}
+
+\textbf{Geld und Schätze}
+
+\vspace{4cm}
+
+\textbf{Notizen}
+
+\end{adjustwidth*}
+\pagebreak
+
+\pagestyle{plain}
+
+

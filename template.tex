@@ -352,6 +352,8 @@ $endif$
 \usepackage[osf]{coelacanth}
 %\usepackage{imfellEnglish}
 \usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage{tikz}
 
 %\isopage[12]
 \trimLmarks
@@ -383,9 +385,23 @@ $endif$
 \makepagestyle{plain}
 \makeoddfoot{plain}{}{}{\thepage}
 \makeevenfoot{plain}{\thepage}{}{}
+\nouppercaseheads
+\makepagestyle{headings}
+\createmark{section}{left}{nonumber}{}{}
+\createmark{subsection}{right}{nonumber}{}{}
+\makeevenhead{headings}{\scshape\leftmark}{}{}
+\makeoddhead{headings}{}{}{\scshape\rightmark}
+\makeevenfoot{headings}{\thepage}{}{}
+\makeoddfoot{headings}{}{}{\thepage}
 \setlength{\parindent}{0in}
 \setlength{\parskip}{4pt}
 \checkandfixthelayout
+\sloppy
+%\raggedbottom
+\clubpenalty=5000
+\widowpenalty=5002
+\displaywidowpenalty=5000
+\brokenpenalty=2991
 
 $if(title)$
 $if(beamer)$

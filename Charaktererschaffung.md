@@ -275,20 +275,25 @@ mit: Gift, Stäbe, Lähmung, Odem und Sprüche.
 
 Primärattribut
 :    Stärke
+ 
 
 Trefferpunkte
 :    1W6+1 
+
 
 Klassenfähigkeiten
 :    Kämpfer haben keine besonderen Klassenfähigkeiten. Magie ist
      ihnen nur durch die Benutzung magischer Waffen zugänglich. Dafür
      sind Kämpfer in der Regel im Kampf die robustesten Charaktere.
 
+
 Klassenbeschränkungen
 :    keine
 
+
 Rettungswürfe
-:    Gift: 12, Stäbe: 13, Lähmung: 14, Odem: 15, Sprüche: 16
+:    Gift: 12, Stäbe: 13, Lähmung: 14,\newline 
+     Odem: 15, Sprüche: 16
 
 
 ### Zauberkundiger
@@ -324,7 +329,8 @@ Klassenbeschränkungen
      keine Schilde tragen.
 
 Rettungswürfe
-:    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16, Sprüche 15
+:    Gift: 11, Stäbe: 12, Lähmung: 14,\newline
+     Odem: 16, Sprüche 15
 
 
 ### Kleriker
@@ -367,7 +373,8 @@ Klassenbeschränkungen
 :    Kleriker dürfen nur stumpfe Waffen benutzen.
 
 Rettungswürfe
-:    Gift: 11, Stäbe: 12, Lähmung: 14, Odem: 16, Sprüche 15
+:    Gift: 11, Stäbe: 12, Lähmung: 14,\newline
+     Odem: 16, Sprüche 15
 
 
 
