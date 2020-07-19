@@ -1,7 +1,10 @@
-#### Wahre Sicht
-Stufe: 5
-Dauer: 1 Runde pro Charakterstufe
-Reichweite: Berührung
+Wahre Sicht*
+Wahres Sehen, True Seeing, True Sight
+Players Handbook
+Kleriker 5
+Nahbereich
+1 Runde pro Charakterstufe
+Alles sehen, wie es tatsächlich ist.
 Der Spruch verleiht dem Spruchwirker oder dem Ziel des
 Zaubers die Fähigkeit, alles so zu sehen, wie es tatsächlich ist.
 Das Ziel sieht durch normale sowie magische Dunkelheit,
@@ -9,10 +12,16 @@ entdeckt geheime Türen, erkennt unsichtbare Kreaturen und
 Gegenstände, durchschaut Illusionen und erkennt sämtliche
 vielgestaltige, verwandelte oder veränderte Kreaturen und
 Gegenstände in ihrer wahren Form. Weiterhin kann das Ziel
-sich darauf konzentrieren, in die ätherische Eb ene zu blicken
-(jedoch nicht in extradimensionale Räume).
-Falsche Sicht, das Gegenteil von Wahre Sicht , lässt
-Gegenstände, Personen und Monster als ihr genaues
-Gegenteil erscheinen- das Hässliche erscheint schön, das
-Wertvolle erscheint wertlos, und so weiter.
+sich darauf konzentrieren, in die ätherische Ebene zu blicken
+(jedoch nicht in extradimensionale Räume)^[Im Players Handbook 
+wird zwischen *Wahres Sehen*, dem hier
+beschriebenen Klerikerspruch, und *Wahre Sicht* einem
+Illusionistenspruch unterschieden. Die Sprüche unterscheiden sich
+lediglich darin, dass mit dem Illusionistenspruch keine Gesinnungen
+erkannt werden können.]
 
+Falsche Sicht\index{Falsche Sicht}, das Gegenteil von Wahre Sicht,
+lässt Gegenstände, Personen und Monster als ihr genaues Gegenteil
+erscheinen- das Hässliche erscheint schön, das Wertvolle erscheint
+wertlos, und so weiter.
+§

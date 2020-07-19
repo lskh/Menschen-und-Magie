@@ -1,26 +1,14 @@
-#### Steinwand
-\index{Steinwand}
-
-Stufe
-:    Zauberkundige
-
-Reichweite
-:
-
-Dauer
-:
-
-Wirkung
-:
-
-#### Steinwand
-Zaubergrad: 5
-Dauer: siehe unten
-Reichweite: 60'
-Der Zauberwirker beschwört eine St einwand jeder beliebigen
-Form, die bis zu 1000 Kubikfuß³ füllen kann. Diese Wand
+Steinwand
+Wall of Stone
+Men & Magic
+Zauberkundige 5
+60'
+siehe unten
+Eine Steinwand beschwören.
+Der Zauberwirker beschwört eine Steinwand jeder beliebigen
+Form, die bis zu 1000 Kubikfuß füllen kann. Diese Wand
 besteht dauerhaft, bis sie zerstört wird oder dem Spruch Magie
 bannen ausgesetzt wird. Die Wand kann nicht dort
 hervorgerufen werden, wo sich bereits Gegenstände befinden,
 und muss auf festem Untergrund errichtet werden.
-
+§

@@ -1,11 +1,13 @@
-#### Zeitstopp
-Zaubergrad: 9
-Dauer: 2 Runden
-Reichweite: 0
-Dieser Zeit lässt die Zeit für jeden außer den Zaubernden, der
-in einer Kugel mit 30' Durchmesser ist, langsam verlaufen.
+Zeitstopp
+Time stop
+Greyhawk
+Zauberkundige 9
+selbst
+2-5 (1W4+1) Runden
+Für einen kurzen Moment die Zeit anhalten.
+Dieser Zeit lässt die Zeit innerhalb eines Radius von etwa 15' (5
+m) um den Zauberkundigen, für jeden außer den Zaubernden selbst anhalten.
 Der Zaubernde kann zwei Runden lang handeln, während für
-alle anderen Kreaturen die Zeit stillsteht. Wenn der Zaubernde
-die Kugel verlässt, endet der Spruch. Wenn Monster die Kugel
-von außen betreten, werden sie eingefroren.
-
+alle anderen Kreaturen die Zeit stillsteht. Wenn anderere Wesen von
+außen den Wirkbereich betreten, werden sie ebenfalls angehalten.
+§

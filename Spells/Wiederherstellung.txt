@@ -1,16 +1,25 @@
-#### Wiederherstellung*
-Stufe: 7
-Dauer: permanent
-Reichweite: Berührung
+Wiederherstellung*
+Restoration
+Greyhawk
+Kleriker 7
+Berührung
+permanent
+Eine verlorene Charakterstufe wieder herstellen, umkehrbar.
 Dieser Spruch stellt eine verlorene Charakterstufe wieder her,
-die das Ziel durch Stufenentzug verloren hat.
-Wiederherstellung wirkt nur, wenn der Zeitraum zwischen dem
-Stufenverlust und dem Zauber weniger oder gleichviel wie die
-Charakterstufe des Wirkers in Tagen beträgt. Ein Charakter,
-dessen Stufe durch diesen Spruch wiederhergestellt wurde,
-besitzt exakt die minimale Anzahl an Erfahrungspunkten, die
-für diese Stufe notwendig ist. Dieser Zauber hebt auch die
-Auswirkungen des Zaubers Schwachsinn auf.
-Entzug von Lebenskraft (Umkehrung von Wiederherstellung )
-entzieht dem Ziel eine Charakterstufe, wenn es berührt wird.
+die das Ziel durch Stufenentzug\index{Stufenentzug}, zum Beispiel durch die Berühung eines
+*Schattens*\index{Schatten} oder eines
+*Gruftschreckens*\index{Gruftschrecken} verloren hat.
 
+Der Einsatz dieses Spruchs kostet den Anwender 2-20 (2W10) Tage
+Erschöpfung. Während dieser Zeit ist der Anwender zu keinen
+wesentlichen Handlungen in der Lage, sondern muss sich ausruhen. Daher
+ist nicht zu erwarten, dass dieser Spruch von einem
+Nicht-Spielercharakter gewirkt wird.
+
+Nach Ermessen der Spielleitung können mit dem Spruch auch verlorene
+Attributspunkte wieder hergestellt werden.
+
+Entzug von Lebenskraft \index{Lebenskraft!Entzug von}
+(Umkehrung von Wiederherstellung)
+entzieht dem Ziel eine Charakterstufe, wenn es berührt wird.
+§

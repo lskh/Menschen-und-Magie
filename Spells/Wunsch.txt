@@ -1,32 +1,18 @@
-#### Wunsch
-Zaubergrad: 9
-Dauer: siehe unten
-Reichweite: unbegrenzt
+Wunsch
+Wish
+Greyhawk
+Zauberkundige 9
+unbegrenzt
+siehe unten
+Ein beliebiger Effekt tritt im Wortsinn ein.
 Wunsch ist der mächtigste Zauberspruch. Durch das laute
 Aussprechen kann der Zaubernde die Wirklichkeit verändern.
-Dieser Zauberspruch gleicht in jeder Hinsicht dem begrenzten
-Wunsch und kann zudem jeden anderen Zauberspruch des
-neunten Grades oder vergleichbare Effekte bewirken.
-Letztendlich entscheidet der Labyrinth Lord über die
-möglichen Grenzen eines Wunsches. Ereignisse können
-rückgängig gemacht werden; Tote können ins Reich der
-Lebenden zurückgeholt werden; eine komplette Armee kann
-von jed em Schaden g eheilt werden. Eine komplette Gruppe
-könnte zu jedem beliebigen Ort ohne Fehlschlagchance
-teleportiert werden. Mächte oder Fähigkeiten können
-gewünscht werden, deren Auswahl der Labyrinth Lord
-bestimmt, und sie könnten zeitweise oder sogar dauerhaft
-entstehen. Wünsche werden dem Wortlaut nach erfüllt, und
-der Labyrinth Lord kann die Auswirkungen von Wunsch
-vergleichbar dem Folgenden festlegen. Obwohl ein Charakter
-zu Tode gewünscht werden kann, würde ein solcher Wunsch
-das Gleichgewicht stören, so dass der Labyrinth Lord darüber
-nachdenken sollte, wie der zu Tode gewünschte Charakter
-von dem Wunsch nicht betroffen wird. So könnte zum Beispiel
-der Zaubernde, der einen Charakter zu Tode wünscht, selbst
-in eine Zeit transportiert werden, in welcher das Opfer durch
-einen natürlichen Tod bereits verstorben ist. Oder der
-Zaubernde könnte in ein abweichendes Universum verschob en
-werden, in welchem das Opfer tatsächlich durch den Spruch
-stirbt.
-
+Es ist allerdings wichtig, die genaue Formulierung zu bedenken,
+da die Spielleitung traditionell versuchen wird, den Wunsch zwar im
+Wortsinn wirken zu lassen, aber dennoch zum Nachteil des
+Spruchwirkers auszulegen (ein Spruchwirker, der sich "einen Berg
+Goldmünzen wünscht", muss damit rechnen, unter dem Gold begraben zu
+werden, usw.). Nachdem der Spruch gewirkt wurde, ist der
+Zauberkundige so erscöpft, dass er oder sie für 2-8 (2W4) Tage
+keine weiteren Sprüche mehr wirken kann.
+§

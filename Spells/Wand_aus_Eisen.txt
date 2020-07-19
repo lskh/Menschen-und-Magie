@@ -1,8 +1,10 @@
-#### Wand aus Eisen
+Wand aus Eisen
 Eiserne Wand, Wall of Iron
+Men & Magic
 Zauberkundige 5
 60' (18 m)
 12 Phasen
 Eine eiserne Wand erschaffen.
 Der Zauberkundige erschafft aus dem Nichts eine eiserne Wand. Die Wand 
 ist 3' (1 m) dick 50' (15 m) hoch und 50' (15 m) lang.
+§

@@ -17,7 +17,7 @@ getötet werden. Es dauert eine Phase, bis die Kreaturen erscheinen. Erscheint e
 | 2 | 1 Oger Magus (5+2 TW) | 
 | 3 | 1 Stufe 8 Kämpfer (8+2 TW) | 
 | 4 | 1 Lindwurm (7 TW) | 
-| 5 | 1 Schreckgespenst (Spectre, 6 TW) |
+| 5 | 1 Schreckgespenst (Spectre, 6 TW)\index{Schreckgespenst}\index{spectre} |
 | 6 | 1 Mumie (5+1 TW) |
 | 7 | 1 Stufe 11 Druide (9 TW) |
 | 8 | 1 Höllenhund (5 TW) |

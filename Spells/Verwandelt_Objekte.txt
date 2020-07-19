@@ -1,5 +1,6 @@
-#### Verwandelt Objekte
+Verwandelt Objekte
 Verwandelt jeden Gegenstand, Alles Verwandeln, Polymorph Object
+Greyhawk
 Zauberkundige 8
 Spielleiterentscheidung
 5' (1,5 m) pro Erfahrungsstufe oder 240' (72 m)
@@ -18,3 +19,4 @@ hinweg werden nur wenige Stunden überdauern. Gegenstände, die in
 Beziehung zueinander stehen, so wie aus einem Wolfspelz ein Wolf wird,
 sind dauerhaft verwandelt. Beachte, dass Veränderungen in mehreren
 Kategorien die Wirkungsdauer einschränken können.
+§

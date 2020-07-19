@@ -1,14 +1,20 @@
-#### Zerquetschende Hand
-Zaubergrad: 9
-Dauer: 1 Runde pro Erfahrungsstufe
-Reichweite: 5' pro Erfahrungsstufe
+Zerquetschende Hand
+Zerdrückende Hand, Crushing Hand
+Players Handbook
+Zauberkundige 9
+5' (1,5 m) pro Erfahrungsstufe
+1 Runde pro Erfahrungsstufe
+Eine riesige zerdrückende Hand beschwören.
 Der Zauberspruch erschafft eine große, geistförmige und
 körperlose Hand, die ein vom Zauberanwender pro Runde
 bestimmtes Ziel greifen und zerquetschen kann. Der Angriff
 trifft immer das Ziel, die Schwere des Schadens ergibt sich aus
-der Dauer des Quetschens. Für jede Runde, die d er Gegner
+der Dauer des Quetschens. Für jede Runde, die der Gegner
 von der Hand ergriffen ist, erhält er zusätzlich 1W10 Schaden
 bis zu einem Maximum von 4W10. Ein Gegner kann die Hand
-angreifen. Sie hat eine RK von 9 und so viele Trefferpunkte
+angreifen. Sie hat eine RK von 9 [10] und so viele Trefferpunkte
 wie der Zauberanwender selbst.
 
+Traditionell wird die *Zerquetschende Hand* mit dem Zauberkundigen
+Bigby\index{Bigby} in Verbindung gebracht.
+§

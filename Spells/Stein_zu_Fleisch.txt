@@ -1,22 +1,10 @@
-#### Stein zu Fleisch
-\index{Stein zu Fleisch}
-
-Stufe
-:    Zauberkundige 6
-
-Reichweite
-:
-
-Dauer
-:
-
-Wirkung
-:
-
-#### Stein zu Fleisch*
-Zaubergrad: 8
-Dauer: dauerhaft
-Reichweite: 120'
+Stein zu Fleisch*
+Stone-Flesh, Stone to Flesh
+Men & Magic
+Zauberkundige 6
+120' (36 m)
+dauerhaft
+Ein zu Stein verwandeltes Wesen zurück holen.
 Durch diesen Spruch wird ein versteinertes Wesen wieder in
 seine natürliche Form zurückverwandelt, was sowohl das
 Leben als auch die Gegenstände wiederherstellt. Jede
@@ -25,3 +13,4 @@ Stein (die Umkehrform) verwandelt eine Kreatur in eine
 Statue, einschließlich der Ausrüstung und der Gegenstände,
 die sie bei sich führt. Ein Rettungswurf gegen Versteinerung
 kann die Wirkung verhindern.
+§

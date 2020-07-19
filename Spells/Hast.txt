@@ -2,7 +2,7 @@ Hast*
 Haste
 Men & Magic
 Zauberkundige 3
-240' (73 m)
+240' (72 m)
 3 Phasen
 Aktionen des Ziels beschleunigen
 Mit diesem Zauberspruch können Kreaturen schneller handeln
@@ -15,7 +15,8 @@ Wesens (Laufen, Fliegen, Graben, Klettern und Schwimmen)
 werden verdoppelt. Die Wirkung von Hast wird nicht
 verstärkt, wenn es mehrfach angewandt wird.
 Hast hebt die Wirkung von Verlangsamen auf.
-Verlangsamen, die Umkehrform von Hast, halbiert die Zahl
+
+Verlangsamen\index{Verlangsamen}, die Umkehrform von Hast, halbiert die Zahl
 der Angriffe und die Bewegung der Ziele. Unter der Wirkung
 von Verlangsamen können nur alle zwei Runden
 Zaubersprüche gesprochen werden.

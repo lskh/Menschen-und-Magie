@@ -1,8 +1,10 @@
-#### Zweidimensionalität
+Zweidimensionalität
 Duo-Dimension 
-Zaubergrad: 7
-Dauer: 3 Runden + 1 Runde pro Erfahrungsstufe
-Reichweite: 0
+Players Handbook
+Zauberkundige 7
+selbst
+3 Runden + 1 Runde pro Erfahrungsstufe
+Sich selbst zweidimensional machen.
 Durch diesen Zauberspruch verschiebt der Zauberanwender
 eine seiner Dimensionen (die Tiefe) auf eine andere
 Existenzebene, wodurch sich seine Sichtbarkeit auf die zwei
@@ -10,10 +12,11 @@ Dimensionen Höhe und Breite verringert. Der
 Zauberanwender kann weiterhin normal handeln, von der
 Seite betrachtet ist er dabei wie unsichtbar. Zusätzlich kann
 der Zauberanwender seitlich durch schmale Spalten oder enge
-Räume hindurchschlüpfen. Wahrer Bl ick zeigt dem Betrachter
+Räume hindurchschlüpfen. *Wahrer Sicht* zeigt dem Betrachter
 den Zauberanwender. Diese Zweidimensionalität macht den
 Anwender auch verwundbar. Jeder Schaden, den er erleidet,
 wird verdreifacht, wobei er nicht von Gegnern, die seitlich zu
 ihm stehen, angegriffen werden kann. Der Anwender wird
 jedoch von jedwedem Flächeneffekt betroffen, dessen
 Schaden ebenfalls verdreifacht wird.
+§

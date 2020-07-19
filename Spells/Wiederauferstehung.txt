@@ -1,20 +1,19 @@
-#### Wiederauferstehung*
-Stufe: 7
-Dauer: permanent
-Reichweite: Berührung
-Dieser Spruch funktioniert wie Tote erwecken mit dem
-Unterschied, dass das Ziel sofort mit vollen Trefferpunkten,
+Wiederauferstehung*
+Auferstehung, Resurrection, Raise Dead Fully
+Greyhawk
+Kleriker 7
+Berührung
+Tote sofort und vollständig wieder auferstehen lassen.
+Dieser Spruch entspricht dem Spruch *Tote erwecken* (Seite
+\pageref{tote-erwecken}), mit dem Unterschied,
+dass das Ziel sofort mit vollen Trefferpunkten,
 vollster Gesundheit, ohne Nachwirkungen und ohne Verlust
-von vorbereit eten Zaubern wiedererweckt wird. Der Zustand
+von vorbereiteten Zaubern wiedererweckt wird. Der Zustand
 der Überreste des Ziels ist bei diesem Zauber unwichtig, so
 lange auch nur ein kleiner Teil des Körpers noch existiert,
-kann das Ziel wiedererweckt werden. Das Ziel darf jedoch
-nicht länger als 10 Jahre pro Charakterstufe des
-Spruchwirkers tot sein.
-Vernichtung (Umkehrung von Wiederauferstehung ) führt dazu,
-dass das berührte Ziel sofort stirbt und zu Staub zerfällt. Wird
-einer dies er Sprüche gewirkt, leidet der Spruchwirker für einen
-Tag pro Charakterstufe des Ziels an Schwäche und muss
-strikte Bettruhe bewahren. Während dieser Zeit kann der
-Spruchwirker weder zaubern noch kämpfen.
+kann das Ziel wiedererweckt werden.
 
+Vernichtung\index{Vernichtung} (Umkehrung von Wiederauferstehung)
+führt dazu, dass das berührte Ziel sofort, ohne die Chance eines
+Rettungswurfes stirbt und zu Staub zerfällt.
+§

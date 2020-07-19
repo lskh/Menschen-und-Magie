@@ -1,5 +1,6 @@
-#### Wand aus Eis
+Wand aus Eis
 Eiswand, Wall of Ice
+Men & Magic
 Zauberkundige 4
 60' (18 m)
 so lange sich der Spruchwirker konzentrieren kann
@@ -14,3 +15,4 @@ doppelten Schaden gegen Kreaturen an, die Feuer nutzen oder an heiße
 Umgebungen gewohnt sind. Die Wand kann nicht dort hervorgerufen werden,
 wo sich bereits Gegenstände befinden, des Weiteren muss sie auf festem
 Untergrund errichtet werden.
+§

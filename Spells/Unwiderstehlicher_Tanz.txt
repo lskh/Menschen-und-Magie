@@ -1,11 +1,17 @@
-#### Unwiderstehlicher Tanz
-Zaubergrad: 8
-Dauert: 1W4 + 1 Runden
-Reichweite: Berührung
-Das Ziel fühlt einen unüberwindlichen Wunsch zu tanzen und
-beginnt damit mit allem, was dazu gehört. Durch den
-Sprucheffekt kann er nichts anderes unternehmen. Dadurch
-verschlechtert sich s eine RK um -4 und nimmt ihm die
+Unwiderstehlicher Tanz
+Irresistable Dance
+Players Handbook
+Zauberkundige 8
+Berührung
+1W4 + 1 Runden
+Einen Gegner ohne Rettungswurf tanzen lassen.
+Das Ziel fühlt einen unüberwindlichen Wunsch zu tanzen. Durch den
+Sprucheffekt kann die betroffene Person nichts anderes unternehmen als
+zu Tanzen, mit allem, was dazu gehört.
+Dadurch verschlechtert sich ihre RK um 4 und nimmt ihr die
 Möglichkeit, jedweden Rettungswurf auszuführen. Auch der
 RK Bonus durch einen Schild entfällt.
 
+Der Unwiderstehliche Tanz wird traditionell mit dem Zauberkundigen
+*Otto* in Verbindung gebracht \index{Otto}
+§

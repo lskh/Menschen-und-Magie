@@ -1,27 +1,35 @@
-#### Simulakrum
-Zaubergrad: 7
-Dauer: dauerhaft
-Reichweite: Berührung
+Simulakrum
+Klonen, Duplikat, Simulacrum
+Greyhawk
+Zauberkundige 7
+Berührung
+dauerhaft
+Den Klon einer Person erzeugen.
 Simulakrum erschafft ein Pseudoduplikat einer Kreatur. Der
 Spruch wird auf eine grobe Schnee- oder Eisform gewirkt, und
 ein beliebiges Stück der zu duplizierend en Kreatur (Haare,
 Nagel oder anderes) muss in dem Schnee oder Eis enthalten
-sein. Das Simulakrum erscheint genauso wie das Original,
-aber es hat nur die Hälfte der üblichen Trefferpunkte. Das
-Gedächtnis der Kreatur ist sehr schwach, so dass es in 30%
-der Fälle alle Details erinnert. Während der gesamten Zeit
+sein. Ist kein natürlicher Schnee oder Eis vorhanden, so kann dieser
+magisch erzeugt werden.  
+Das Simulakrum erscheint genauso wie das Original,
+aber es hat nur die Hälfte der üblichen Trefferpunkte. Um das
+Simulakrum zu beleben, muss ein *geringerer Wunsch* oder ein *Belebt
+Tote* gewirkt werden. 
+Das Simulakrum erhält 30 - 60% ((1d4+2) * 10) des Gedächtnis und der
+Erfahrung des Originals.
+
+Während der gesamten Zeit
 untersteht es der vollständigen Kontrolle des Zaubernden. Es
 existiert keine spezielle telepatische Verbindung, so dass die
 Befehle auf andere Weise mitgeteilt werden müssen. Ein
-Simulakrum kann unter keinen Umständen stärker werden. Es
-kann keine Erfahrungsstufen steigern oder seine Fähigkeiten
-erweitern. Wird jedoch Reinkarnation auf ein Simulakrum
-angewandt, erhält es 35% + 3W10% der Erinnerungen des
-Originals und zusätzlich alle Klassenfähigkeiten entsprechend
-10% + (1W4 x 10%) der Erfahrungsstufen des Originals. Wenn
-es auf 0 Trefferpunkte gesenkt wird oder anders zerstört wird,
+Simulakrum kann unter keinen Umständen stärker werden, außer das
+Original des Simulakrums stirbt, dann gewinnt langsam die Erfahrung
+und das Gedächtnis des Originals, und zwar mit einer Rate von 1% pro
+Woche, bis volle 90% erreicht sind.
+
+Wenn es auf 0 Trefferpunkte gesenkt wird oder anders zerstört wird,
 zerfällt das Simulakrum in Schnee und taut sofort komplett
 auf. Ein Simulakrum strahlt unter Magie Entdecken eine
 leichte Aura ab, Wahrer Blick zeigt die wirkliche Natur des
-Simulakrums .
-
+Simulakrums.
+§

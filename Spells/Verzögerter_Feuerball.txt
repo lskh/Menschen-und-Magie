@@ -1,11 +1,12 @@
-#### Verzögerter Feuerball
-Zaubergrad: 7
-Dauer: Siehe unten.
-Reichweite: 100' + 10' pro Erfahrungsstufe
+Verzögerter Feuerball
+Spätzündender Feuerball, Delayed Blast Fire Ball
+Greyhawk
+Zauberkundige 7
+240' (72 m)
+Siehe unten.
+Einen Feuerball bis zu 10 Runden verzögert wirken lassen.
 Im Wesentlichen gleicht dieser Zauberspruch dem normalen
-Feuerball . Jedoch erhält dieser Zauberspruch für jed en
-Schadenswürfel einen extra +1 Bonus auf den Schaden. Der
-Zauberanwender kann überdies bestimmen, dass der
-Zauberspruch erst in 1 bis 5 Runden, nachdem er gesprochen
-worden ist, zündet.
-
+*Feuerball*\index{Feuerball} siehe Seite \pageref{feuerball}. 
+Jedoch kann der Zauberkundige entscheiden, dass der Effekt
+erst bis zu 10 Kampfrunden verzögert zündet.
+§

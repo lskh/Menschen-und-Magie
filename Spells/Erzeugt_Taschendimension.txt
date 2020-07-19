@@ -1,0 +1,36 @@
+Erzeugt Taschendimension
+Taschendimension erzeugen
+Menschen & Magie
+Kleriker 7, Zauberkundige 9
+siehe Beschreibung
+Unbegrenzt
+Eine Taschendimension erzeugen
+Der Anwender erzeugt eine Taschendimension ganz nach seinen
+Vorstellungen. Von außen ist die Taschendimension zunächst nur etwa so
+groß wie eine Walnuß, sie kann aber auf die Größe eines beliebigen
+vorbestehenden Raumes ausgedehnt werden, und ist dann
+durch die Zugänge des Raums zu betreten. Um sie wieder zu verlassen
+müssen Portale von innen nach außen eingerichtet werden.
+
+Um den Zauber zu wirken, muss der Anwender 
+einem lebenden Schwertfisch, den er im Mahlstrom
+gefangen hat die Landkarte seiner
+Taschendimension auf den Rücken tätowieren. Nachdem er den Schwertfisch
+wieder frei lässt, wird er seine Taschendimension in der ersten
+Muschel finden, die er am Strand der nächst gelegenen Insel entdeckt.
+
+Die Taschendimension hat im Inneren folgende Größe:
+
+: Erzeugt Taschendimension
+
+| 1W100 | Größe der Taschendimension |
+|:-----:|----------------------------|
+| 1-20  | Die Größe eines Megadungeons |
+| 21-30 | 12 x 12 Meilen (3 Hexfelder) |
+| 31-50 | 6 x 6 Hexfelder |
+| 51-70 | 10 x 20 Hexfelder |
+| 71-89 | 20 x 30 Hexfelder |
+| 90-98 | 1 Planet (vielleicht ein Hohlplanet) |
+| 99 | Ein Sonnensystem |
+| 00 | Ein Subsector (8 x 10 Parsec) |
+§

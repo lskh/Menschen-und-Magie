@@ -1,7 +1,7 @@
 Tote beleben
 Beseelt Tote, Animate Dead
-Players Handbook
-Kleriker 3
+Men & Magic
+Kleriker 3, Zauberkundige 5
 60' (20 m)
 permanent
 1 Skelett oder Zombie pro Stufe animieren.

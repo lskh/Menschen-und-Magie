@@ -1,14 +1,17 @@
-#### Verwandelt Andere
-Andere verwandeln, Polymorph Other
+Verwandelt Andere
+Andere verwandeln, Baleful Polymorph, Polymorph Other
+Chainmail
 Zauberkundige 4
-240' (72 m)
+60' (18 m)
 Permanent, bis der Zauber gebannt wird.
 Andere Wesen verwandeln mit Rettungswurf.
 Durch diesen Zauberspruch wird ein lebendes Wesen in ein
 beliebiges anderes Lebewesen verwandelt. Dem Wesen steht
-ein Rettungswurf zu, wobei es auf diesen verzichten kann, so
-dass der Zauberspruch automatisch wirkt. Das
-verwandelte Wesen behält seine ursprünglichen Trefferpunkte
-und sein eigenes Bewußtsein. Alle anderen Eigenschaften entsprechen
-der neuen Form.
+ein Rettungswurf gegen Versteinerung zu, wobei es auf diesen verzichten kann, so
+dass der Zauberspruch automatisch wirkt. Nach Einschätzung der
+Spielleitung muss außerdem ein Überlebenswurf gelingen (Prozentwurf in
+Abhängigkeit von der Konstitution). Wird der Überlebenswurf verfehlt
+stirbt das Ziel durch die Belastung der Transformation. 
 
+Das verwandelte Wesen behält sein eigenes Bewußtsein. Alle anderen Eigenschaften entsprechen der neuen Form. 
+§

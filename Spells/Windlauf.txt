@@ -1,16 +1,13 @@
-#### Windlauf
-Stufe: 7
-Dauer: 60 Minuten pro Charakterstufe
-Reichweite: Berührung
+Windlauf
+Windwandern, Wind walk
+Greyhawk
+Kleriker 7
+Berührung
+Ein Tag, oder bis gebrochen.
+Zu einer schnell reisenden Wolke werden.
 Der Spruchwirker verwandelt seinen Körper in einen
 wolkenähnlichen Rauch und bewegt sich mit einer erstaunlich
-hohen Geschwindigkeit durch die Luft. ıDer Spruchwirker
-kann dabei eine Kreatur pro acht Charakterstufen mit sich
-nehmen. Diese Kreaturen können alle unabhängig
-voneinander agieren. Ein Windläufer kann bis zu 60 Fuß pro
-Charakterstufe und pro Runde fliegen, bis zu einem Maximum
-von 600 Fuß. Windläufer sind nicht unsichtbar, erscheinen
-jedoch leicht durchsichtig und neblig. Sind sie komplett weiß
-gekleidet, besteht eine 80%ige Chance, dass man sie für eine
-Wolke, Nebel und dergleichen hält.
-
+hohen Geschwindigkeit durch die Luft (BW 48" - 480 m pro Phase im
+Außenbereich, also rund 3 km/h und bis zu rund 6 Hexfelder pro Tag).
+Es kann eine weitere Person mitgenommen werden.
+§

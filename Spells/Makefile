@@ -1,4 +1,4 @@
-SPELLS := $(shell `grep -l "§" *.txt`)
+SPELLS := $(`grep -l "§" *.txt`)
 
 all: Spells.md
 

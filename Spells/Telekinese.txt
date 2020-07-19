@@ -1,26 +1,13 @@
-#### Telekinese
-\index{Telekinese}
-
-Stufe
-:    Zauberkundige 5
-
-Reichweite
-:
-
-Dauer
-:
-
-Wirkung
-:
-
-#### Telekinese
-Zaubergrad: 5
-Dauer: 6 Runden
-Reichweite: 120'
-Durch seinen Konzentration (wenn er währenddessen nichts
-weiter unternimmt) kann der Zauberwirker Objekte oder
-Kreaturen bewegen. 20 Pfund pro Erfahrungsstufe können bis
-zu 20' pro Runde bewegt werden. Lebende Wesen können
+Telekinese
+telekinesis
+Men & Magic
+Zauberkundige 5
+120' (36 m)
+6 Phasen (1 Stunde)
+Dinge durch Willenskraft bewegen.
+Durch reine Willenskraft kann der Zauberwirker Objekte oder
+Kreaturen bewegen. 20 Pfund (10 kg) pro Erfahrungsstufe können bis
+zu 20' (6 Meter) pro Runde bewegt werden. Lebende Wesen können
 ebenfalls bewegt werden, wobei sie einen Rettungswurf gegen
 Sprüche erhalten.
-
+§

@@ -1,16 +1,15 @@
-#### Tierwachstum
-\index{Tierwachstum}
+Tierwachstum
+Growth Animal, Animal Growth
+Greyhawk
+Zauberkundige 5, Druiden 5
+120' (36 m)
+12 Phasen (2 Stunden)
+Tiere auf gigantische Größe anwachsen lassen.
+Mit diesem Spruch kann der Anwender 1-6 normale Tiere augenblicklich
+auf Riesengröße anwachsen lassen. Die Tiere kämpfen dann für die
+Spruchdauer wie eine Riesenversion ihrere selbst.
 
-Stufe
-:    Zauberkundige 5, Druiden 5
-
-Reichweite
-:    120'
-
-Dauer
-:    12 Phasen
-
-This spell causes 1d6 normal creatures to grow immediately to giant
-size. While the spell lasts, the affected creatures can attack as per
-a giant version of themselves.
-
+Solange die Spielleitung nichts anderes bestimmt, erhalten die so
+vergrößerten Tiere die doppelte Zahl ihrer normalen Trefferpunkte, und
+verursachen doppelten Schaden.
+§

@@ -1,15 +1,18 @@
-#### Statue
-Zaubergrad: 7
-Dauer: 6 Phasen pro Erfahrungsstufe
-Reichweite: Berührung
-Statute verwandelt den Zaubernden oder jemand anderes mit
+Statue
+Statue
+Players Handbook
+Zauberkundige 7
+Berührung
+6 Phasen pro Erfahrungsstufe
+Sich selbst oder andere vorübergehend in eine Statue verwandeln.
+Statue verwandelt den Zaubernden oder jemand anderes mit
 all seiner Ausrüstung in festen Stein. Der Verzauberte kann
 normal sehen, hören und riechen, aber er muss weder essen
 noch atmen. Der Tastsinn ist auf das beschränkt, was die feste
 Granitoberfläche seiner Haut beeinflussen kann.
 Absplitterungen sind wie Kratzer, aber das Abbrechen von
-Gliedmaßen verursacht schwere Verl etzungen. Der
+Gliedmaßen verursacht schwere Verletzungen. Der
 Verzauberte kann während der Wirkungsdauer seine
 natürliche Gestalt wiedererlangen und auf Wunsch wieder zu
 einer Statue werden.
-
+§

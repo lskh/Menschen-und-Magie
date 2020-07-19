@@ -1,0 +1,16 @@
+Neutralisiert Gift
+Gift neutralisieren, Neutralize Poison
+Men & Magic
+Kleriker 4, Druiden 3
+Berührung
+sofort, permanent
+Giftwirkung aufheben
+Der Spruchwirker neutralisiert jede Art von Gift oder
+Vergiftung bei dem berührten Ziel. Eine vergiftete Person
+erleidet keine weiteren Effekte durch das Gift, sämtliche
+temporären Effekte des Gifts werden aufgehoben. Der Spruch
+kehrt jedoch keine Soforteffekte des Giftes um, wie
+beispielsweise Trefferpunktverlust oder sonstige Effekte, die
+nicht von alleine verschwinden. Um eine tötlich vergiftete Kreatur 
+zu retten, muss dieser Spruch sofort (in der selben Runde) angewandt werden.
+§

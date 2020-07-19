@@ -1,25 +1,13 @@
-#### Unsichtbarer Schleicher
-\index{Unsichtbarer Schleicher}
-
-Stufe
-:    Zauberkundige 6
-
-Reichweite
-:
-
-Dauer
-:
-
-Wirkung
-:
-
-#### Unsichtbarer Schleicher
-Zaubergrad: 6
-Dauer: siehe unten
-Reichweite: 0
-Der Zaubernde ruft einen Unsichtbaren Schl eicher herbei,
-dem ein Auftrag oder eine Mission befohlen wird. Die Kreatur
-wird alles unternehmen, um die Aufgabe zu erfüllen, es sei
-denn, sie wird vorher zerstört. Der Spruch Böses bannen
-verbannt die Kreatur zurück auf ihre Heimatebene.
-
+Unsichtbarer Schleicher
+Invisible Stalker
+Men & Magic
+Zauberkundige 6
+Nahbereich
+Bis die Mission erfüllt ist.
+Eine extradimensionale Kreatur auf einen Auftrag aussenden.
+Der Zaubernde ruft eine extradimensionale Kreatur herbei (RK 3 [16],
+TW 8, BW 12", unsichtbar), der ein Auftrag oder eine Mission befohlen
+wird. Die Kreatur wird unabhängig von Raum und Zeit alles unternehmen,
+um die Aufgabe *im Wortsinn* zu erfüllen, es sei denn, sie wird vorher
+im Kampf oder durch *Magie bannen* zerstört. 
+§

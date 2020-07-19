@@ -14,7 +14,7 @@ erscheinen 1-2 Monster.
 
 | 1W12 | Monster |
 |:--:|:-----------|
-| 1 | 1-2 Gruftbewohner (Wights, 3 TW) |
+| 1 | 1-2 Gruftbewohner (Wights, 3 TW)\index{Gruftbewohner}\index{Wights} |
 | 2 | 1-2 Stufe 4 Kämpfer (4 TW)|
 | 3 | 1-2 Stufe 5 Kämpfer (5+1 TW) |
 | 4 | 1-2 Stufe 5 Zauberkundige (3 TW) |

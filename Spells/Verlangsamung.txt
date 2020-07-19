@@ -1,15 +1,10 @@
-#### Verlangsamung
-\index{Verlangsamung}
-
-Stufe
-:    Zauberkundige 3
-
-Reichweite
-:
-
-Dauer
-:
-
-Wirkung
-:
-
+Verlangsamung*
+Verlangsamen, Slow Spell
+Men & Magic
+Zauberkundige 3
+240' (72 m)
+Aktionen eines Ziels verlangsamen
+Umkehrung des *Hast* \index{Hast} Spruchs. Ziele in einem Umkreis von
+30' (9 m) Radius können sich nur halb so schnell bewegen, und nur jede
+zweite Kampfrunde angreifen, oder einen Spruch wirken.
+§

@@ -1,17 +1,14 @@
-#### Tiere beschwören
-Stufe: 6
-Dauer: 2 Runden pro Charakterstufe
-Reichweite: 30 Fuß
-Der Spruchwirker kann normale Säugetiere beschwören, die
-von ihm benannte Gegner attackieren. Die Anzahl der
-erscheinenden Tiere steht in direktem Verhältnis zur
-Charakterstufe. ıDer Spruchwirker kann eine Anzahl an
-Trefferwürfeln gemäß seiner Stufe an Tieren beschwören. Die
-Gesamttrefferwürfel pro Tier steigen dabei mit. Hierbei gilt
-jedes zusätzliche +1 bei den Trefferwürfeln des Tieres als ein
-viertel Trefferwürfel. Zum Beispiel kann ein Kleriker d er 9.
-Stufe neun Tiere mit einem Trefferwürfel oder drei Tiere mit
-drei Trefferwürfeln oder aber zwei Tiere mit vier
-Trefferwürfeln +2 beschwören. Beschworene Tiere kämpfen
-bis zum Tod oder bis der Spruch endet.
-
+Tiere beschwören
+Beschwört Tiere, Erschaffung normaler Tiere, Conjure Animals
+Greyhawk
+Kleriker 6
+30' (9 m)
+10 Phasen (100 Minuten)
+1-6 gehorchende Tiere beschwören.
+Mit diesem Spruch beschwört der Anwender aus dem Nichts 6 kleine
+Tiere, bis etwa zur Größe eines Wolfes, 3 mittelgroße Tiere, bis etwa
+zur Größe eines Tigers oder eines Braunbären, oder 1 großes Tier, bis
+zur Größe eines Elephanten. Die Beschworenen Tiere gehorchen dem
+Kleriker aufs Wort, können auf Befehl auch für diesen kämpfen, und
+bleiben bis zum Ende der Spruchdauer, oder bis sie getötet werden.
+§
