@@ -1,12 +1,13 @@
-SPELLS := $(`grep -l "§" *.txt`)
+SPELLS=$(wildcard *.txt)
 
 all: Spells.md
 
-tmp.md: Makefile $(SPELLS) list_spells.awk
+tmp.md: Makefile ${SPELLS} list_spells.awk
 	./list_spells.awk > tmp.md
 
-Spells.md: Makefile intro.md gurps.md tmp.md endmatter.md
-	cat intro.md tmp.md gurps.md endmatter.md > Spells.md
+Spells.md: Makefile intro.md list_spells.awk ${SPELLS} endmatter.md
+	./list_spells.awk > tmp.md
+	cat intro.md tmp.md endmatter.md > Spells.md
 
 Spells.pdf: Makefile Spells.md
 	pandoc -H preamble.tex -s -t latex \

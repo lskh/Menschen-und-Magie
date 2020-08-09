@@ -1,0 +1,10 @@
+Temperaturkontrolle 10'
+Control Temperature 10'
+Eldritch Wizardry
+Druiden 4
+Berührung durch einen Mistelzweig
+3 Phasen + 1 Phase/Erfahrungsstufe
+Die Temperatur um 30°C an- oder absteigen lassen.
+Dieser Spruch lässt in einem Radius von 10' (3 m) die Temperatur um
+bis zu 30°C ab- oder zunehmen.
+§

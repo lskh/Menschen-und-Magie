@@ -54,7 +54,7 @@ Schließlich ist *Menschen & Magie* auch Open Source. Du findest die Quelldateie
 
 ## Monsterklassen
 
-: Monsterklassen
+: 1W20 Monsterklassen
 
 |  1W20   | Monsterklasse |
 |:------:|:------------------|
@@ -128,14 +128,14 @@ der Umgebung, und Geografie ab.
 Traditionell werden in der Fantasy-Welt folgende archetypische Gruppen
 angetroffen:
 
-: Menschengruppen
+: 1W10 Menschengruppen
 
 | 1W10 | Menschengruppen (Gesinnung) |
 |:---:|:-----------------|
 | 1  | Banditen/Räuber (chaotisch) |
 | 2  | Piraten (chaotisch) / Freibeuter (neutral) |
 | 3  | Berserker (+2 im Kampf, neutral/chaotisch) |
-| 4  | "Derwische"/religiöse Fanatiker (+1 im Kampf, rechtschaffen/chaotisch) |
+| 4  | religiöse Fanatiker (+1 im Kampf, rechtschaffen/chaotisch) |
 | 5  | Nomaden/Naturvölker (rechtschaffen/neutral) |
 | 6  | Höhlenmenschen (immer 2 Trefferwürfel, neutral) |
 | 7  | Pilger (rechtschaffen/chaotisch) |
@@ -192,7 +192,7 @@ bricht nach einer Inkubationszeit von 1-6 Wochen aus, und zeigt sich
 dann bei dem betroffenen Menschen das erste mal, sobald der
 entsprechende Auslöser auftritt.
 
-: Auslöser für Lykanthropie
+: 1W4 Auslöser für Lykanthropie
 
 | 1W4 | Auslöser |
 |:---:|:----------|
@@ -230,7 +230,7 @@ Siedlungsformen richten sich nach der jeweiligen Kultur - Wohnbäume
 für Elfen, Bergwerke und unterirdische Festungen für Zwergen und
 Gnome, idyllische Hügeldörfer für Halblinge sind der Standard.
 
-: besondere Eigenschaften von Fantasyvölkern
+: 1W12 besondere Eigenschaften von Fantasyvölkern
 
 | 1W12 | Eigenschaft |
 |:---:|:---------------|
@@ -250,7 +250,7 @@ Gnome, idyllische Hügeldörfer für Halblinge sind der Standard.
 Fantasyvölker können jede Gesinnung haben. Als Reittiere verwenden sie
 neben Herdentieren in passender Größe, auch Chimären oder Riesentiere.
 
-: Reittiere der Fantasyvölker
+: 1W8 Reittiere für Fantasyvölker
 
 | 1W8  | Reittiere |
 |:---:|:----------------------|
@@ -286,7 +286,7 @@ Feenwesen treten einzeln, in Kleingruppen von
 1-6, oder in Gruppen von 10-100 auf, befinden sich zu 50% in ihrem
 Lager und haben dort die Schatztypen B, C oder D.
 
-: Größe der Feenwesen
+: 1W6 Größenstufen für Feenwesen
 
 | 1W6 | Größe | Trefferwürfel |
 |:----:|:------|:-----------------|
@@ -297,7 +297,7 @@ Lager und haben dort die Schatztypen B, C oder D.
 | 5 | groß wie ein Pferd | 2-3 |
 | 6 | riesenhaft | 4-8 (doppelter Schaden) |
 
-: Eigenschaften der Feenwesen
+: 1W20 Eigenschaften der Feenwesen
 
 | 1W20 | Eigenschaften (1-4 mal würfeln) |
 |:----:|:----------------------------|
@@ -348,7 +348,7 @@ der Spielleitung auch Charakterklassen und -stufen haben, und können
 dann auch entsprechend mehr Trefferwürfel und auch magische
 Gegenstände haben.
 
-: Goblinoide Größenstufen
+: 1W6 Goblinoide Größenstufen
 
 | 1W6 | Größe | Rüstungsklasse | Trefferwürfel |
 |:----:|:-------|--------------|-------------|
@@ -359,22 +359,50 @@ Gegenstände haben.
 | 5 | Grottenschrate | 5 [14] | 3+1 |
 | 6 | Oger | 5 [14] | 4+1 |
 
-: Goblinoide Eigenschaften
+: 1W6 Goblinoide Eigenschaften
 
-| 1W4 | Eigenschaft |
+| 1W6 | Eigenschaft |
 |:---:|:---------------|
 | 1 | Dunkelsicht |
 | 2 | Lichtscheu (-1 im Kampf bei Sonnenlicht) |
 | 3 | Furcht vor Magie (RW gegen Magie -2) |
 | 4 | Berserkergang (+2 im Kampf) |
+| 5 | Nilbog (siehe Text) |
+| 6 | natürliche Magiebegabung wie Stufe 2 ZK |
 
-: Goblinoide Reit- und Wachtiere
+Nilbogs heilen verlorene Trefferpunkte, wenn
+sie verletzt werden, greifen
+an, wenn man ihnen ein Friedensangebot unterbreitet, Lachen, wenn
+etwas zum weinen ist usw. Die Nilbog Eigenschaft sollte nur 
+sehr sparsam eingesetzt werden, da
+sie sehr schnell sehr albern werden kann und sich der Effekt auch
+schnell verbraucht, wenn er einmal erkannt ist.
+
+Selbstverständlich sind Goblins immer irgendwie häßlich, unförmig,  
+haben spitze, schartige Ohren, eine fliehende Stirn und hervorstehende
+spitze Zähne. Darüber hinaus können Goblinoide aber durchaus noch
+etwas origineller Ausgestaltet werden:
+
+: 1W8 Goblinoide Haut- und Haarfarben
+
+| 1W8 | Hautfarbe | Haarfarben |
+|:---:|:----------|-----------|
+| 1 | wie Menschen | braun |
+| 2 | olivgrün | schwarz |
+| 3 | ocker | braun |
+| 4 | rostrot | kupferrot |
+| 5 | blau | dunkelblau |
+| 6 | grau | rotbraun |
+| 7 | aschfahl | grau |
+| 8 | gelblich | wie verfaulendes Gras |
+
+: 1W6 Goblinoide Reit- und Wachtiere
 
 | 1W6 | Tier |
 |:---:|:------------|
 | 1 | Wölfe |
 | 2 | Bären |
-| 3 | Ungeziefer (siehe dort) |
+| 3 | Ungeziefer in geeigneter Größe |
 | 4 | Riesentiere |
 | 5 | Drachen |
 | 6 | Raubtiere |
@@ -404,7 +432,7 @@ Richtwerte:
  Waffenschaden), 61-90: 2 Klauenangriffe (1-6/1-6), 91-00: 2
  Klauenangriffe und 1 Biss (1-6/1-6/1-6)
 
-: Eigenschaften der Tiermenschen
+: 1W6 Eigenschaften von Tiermenschen
 
 | 1W6 | Eigenschaften |
 |:---:|:--------------------|
@@ -432,7 +460,7 @@ verursachen, können sie
 wie ein Katapult mit Felsbrocken schleudern, und dabei 2-20 Punkte 
 Schaden anrichten.
 
-: Größenstufen der Riesen
+: 1W6 Größenstufen der Riesen
 
 | 1W6 | Größe | Trefferwürfel | Schaden |
 |:--:|:-------------|--------|---------|
@@ -443,7 +471,7 @@ Schaden anrichten.
 | 5 | Wolkenriese | 12+2 | 6-36 (6W6) | 
 | 6 | Titane | 12-16 | 7-72 (7W6) |
 
-: Eigenschaften der Riesen
+: 1W6 Eigenschaften für Riesen
 
 | 1W6 | Eigenschaft |
 |:---:|:--------------------|
@@ -480,7 +508,7 @@ Riesenformen der Raub- und Herdentiere
 ## Chimären und mythische Kreaturen
 
 Chimeras, Manticore, Pegasi, Hippogreifen, Greifen, Sphinxen, Trolle
-Medusen, Basilisken
+Medusen, Basilisken, Hydras
 
 ## Elementare
 
@@ -488,11 +516,75 @@ Feuer-, Erd-, Wasser-, Luftelementare
 
 ## Drachen
 
-Chromatische Drachen, Metallische Drachen, Kristalldrachen
+: 1W6 drakonische Größenstufen
+
+| 1W6 | Größe |
+|:-----:|:----------------|
+| 1 | Wyrmling |
+| 2 | Jungdrache |
+| 3 | ausgewachsener Drache |
+| 4 | alter Drache |
+| 5 | Uralter Drache |
+| 6 | Leviathan |
+
+: 1W20 drakonische Eigenschaften 
+
+| 1W20 | Eigenschaft (1W4 mal würfeln) |
+|:---:|:-------------|
+| 1 | vier Beine, zwei Flügel |
+| 2 | Schlangenartig, geflügelt |
+| 3 | zwei Beine, zwei Flügel |
+| 4 | mehr als zwei Flügel |
+| 5 | sprachbegabt, Intelligenz 9-14 (1W6+8) |
+| 6 | magiebegabt, wie ZK der 3-6. Stufe |
+| 7 | mehrköpfig (1-4 Köpfe) |
+| 8 | mit Giftstachel bewehrte Schwanzspitze |
+| 9 | *keine* Odemwaffe |
+| 10 | kann willentlich menschliche Gestalt annehmen |
+| 11 | Verbreitet Angst und Schrecken (Rettungswurf) |
+| 12 | Phasendrache: kann sich willentlich teleportieren |
+| 13 | Chamäleon: kann mit der Umgebung optisch verschmelzen | 
+| 14 | amphibisch, kann unter Wasser atmen |
+| 15 | wahrer Name | 
+| 16 | |
+| 17 | |
+| 18 | |
+| 19 | |
+| 20 | |
+
+: 1W12 drakonische Farben
+
+| 1W12 | Farbe |
+|:---:|:--------------------------|
+| 1 | rot |
+| 2 | grün |
+| 3 | weiß |
+| 4 | schwarz |
+| 5 | blau |
+| 6 | braun |
+| 7 | Kupfer |
+| 8 | Bronze |
+| 9 | Silber |
+| 10 | Gold |
+| 11 | Rubin |
+| 12 | Saphir (grün, blau, violett bis orange) |
+
+: 1W6 Odemwaffen
+
+| 1W6 | Odem |
+|:---:|:----------------|
+| 1 | Giftgas |
+| 2 | Feuer |
+| 3 | Eis |
+| 4 | Blitzschlag |
+| 5 | Gift |
+| 6 | 2 x würfeln und kombinieren |
+
 
 ## Ungeziefer
 
-Schleime, gelatinöse Kreaturen, Pilze, Insekten, Schlangen, Echsen,
+Schleime, gelatinöse Kreaturen, Pilze, monströse Pflanzen, 
+Würmer, Insekten, Schlangen, Echsen,
 Lurche, Klesche
 
 ## Urtiere
@@ -507,14 +599,45 @@ Golems, Roboter, Automata
 
 Dämonen, Teufel, Engel, Halbgötter, Diener
 
-## Kosmische Urwesen
+### Dämonen
+
+: 1W10 Dämonenklassen
+
+| 1W10 | Klasse | TW  | RK | Eigenschaft |
+|:-:|-------|:----:|----|-------------|
+| 1 | Unterdämon | 1-4 | 2 |  |
+| 2 | Kleindämon | 4-7 | 1 |  |
+| 3 | A | 8 | 0 |      |
+| 4 | B | 9 | -2 |    |
+| 5 | C | 10 | -4 |    |
+| 6 | D | 11 | -1 |    |
+| 7 | E | 7+7 | -7 |   |
+| 8 | F | 8+8 | -2 |   |
+| 9 | Lord |  |  |  |
+| 0 | Prinz |  |  |  |
+
+
+Dämonische Eigenschaften
+
+Dämonische Namen
+
+### Engel
+
+### Teufel
+
+Teuflische Größenklassen
+
+Teuflische Eigenschaften
+
+
+## Kosmische Entitäten
 
 Kosmische Schrecken, Godzilla, Götter, Dinge von denen die Menschheit nichts
 wissen darf.
 
 ## Gonzo und Slapstick
 
-Außerirdische, Laser ("piu-piu")
+Zufallsmonster, Außerirdische, Laser ("piu-piu")
 
 ### Allgemeine Verkehrskontrolle 
 Die zwei Streifenpolizisten Herbert
@@ -605,63 +728,124 @@ Alte…
 #  Schätze
 
 
-: Schatztypen
+## 1W24 Schatztypen
 
---------------------------------------------------------------------
- Typ        1000 KM   1000 SM   1000 GM   Steine und   Magie und
-                                          Geschmeide   Karten
----------- --------- --------- --------- ------------ --------------
- A (XXII)   
-
- Land:      1-6:25%   1-6:30%  2-12:35%   6-36:50%     any 3:40%
+1. **A (XXII)**   
+  Land: 1000 KM 1-6:25%, 1000 SM 1-6:30%, 1000 GM 2-12:35%, Steind und
+  Geschmeide 6-36:50%, Magische Gegenstände und Karten  any 3:40%
   
- Wüste:     1-4:20%   1-4:25%  1-6:30%   10-40:50%     3 magic:60%
+  Wüste:     1-4:20%   1-4:25%  1-6:30%   10-40:50%     3 magic:60%
 
- Meer:      nil       nil      5-30:60%  10-16:60%     1 map:50%
+  Meer:      nil       nil      5-30:60%  10-16:60%     1 map:50%
 
- B (XXI)    1-8:50%   1-6:25%  1-3:25%   1-6:25%       10%: Waffe,
+2. **B (XXI)**   1-8:50%   1-6:25%  1-3:25%   1-6:25%       10%: Waffe,
                                                        Rüstung, or
                                                        misc. weapon
 
- C (XX)
-
- D (XIX)
-
- E (XVIII)
-
- F (XVII)
-
- G (XVI)
-
- H (XV)
-
- I (XIV)
-
- J (XIII)
-
- K (XII)
-
- L (XI)
-
- M (X)
-
- N (IX)
-
- O (VIII)
-
- P (I)
-
- Q (II)
-
- R (III)
-
- S (IV)
+3. **C (XX)** 
  
- T (V)
+4. **D (XIX)**
 
- U (VI)
+5. **E (XVIII)**
 
- V (VII)
+6. F (XVII)
 
---------------------------------------------------------------------
+7. G (XVI)
+
+8. H (XV)
+
+9. I (XIV)
+
+10. J (XIII)
+
+11. K (XII)
+
+12. L (XI)
+
+13. M (X)
+
+14. N (IX)
+
+15. O (VIII)
+
+16. P (I)
+
+17. Q (II)
+
+18. R (III)
+
+19. S (IV)
+ 
+20. T (V)
+
+21. U (VI)
+
+22. V (VII)
+
+23. W
+
+24. X 
+
+## 1Wxx magische Schwerter
+
+## 1Wxx magische Schilde
+
+## 1Wxx sonstige magische Waffen
+
+## 1Wxx magische Rüstungen
+
+## 1Wxx Magische Gegenstände
+
+| Zauber | Ring | Rolle | Trank | Stab | Stecken | Rute |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 1-3 Sprüch 1-3 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| 1-3 Sprüche 4-6 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| Schutz Lykanthropen | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| Schutz +1 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 |
+| Unsichtbarkeit | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 |
+| 1 Spruch 1-4 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 |
+| 1 Spruch 1-4 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 |
+| 1 Spruch 1-4 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80 |
+| 1 Spruch 1-4 | 81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 80 |
+| 1 Spruch 1-4 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 00 |
+
+## 1.000.000 magische Artefakte
+
+\tiny
+
+| 1W30 | Gegenstand | 1W4 Eigenschaften | Material | 1W6 Mächte | 
+|:--:|:-----------|:------------|:--------------|:-------------------|
+| 01 | Kessel | Krähenfüße | Gold | 1-6 Sprüche 1-6 |
+| 02 | Amulet | Entenfüße | Kupfer | 1-4 Sprüche 4-9 |
+| 03 | Hütte | Fledermausflügel | Silber | 1-4 Wünsche |
+| 04 | Handschuhe | schwebend | Papier | Vakuumreisen |
+| 05 | Gürtel | Lumineszenz | Samt | Flammenstrahl |
+| 06 | Mantel | Gesinnungstreu | Seide | Feuerresistenz |
+| 07 | Kelch | Sprachbegabt | Ebenholz | Kälteresistenz |
+| 08 | Schale | Int. 15 | Eiche | Feuerodem |
+| 09 | Würfel | Telepatiebegabt | Eibe | Eisodem |
+| 10 | Polyhedron | unsichtbar | Leder | Zeitreisen |
+| 11 | Löffel | Taschendimension | Bernstein | Ebenenreisen |
+| 12 | Gabel | Kommandowort | Obsidian | Geräuschlosigkeit |
+| 13 | Schere | zerbrechlich | Messing | Zerstörung |
+| 14 | Tierfigur | unzerstörbar | Mithril | 1-4 Gebete 1-4 |
+| 15 | Besen | magnetisch | Federn | 1-4 Gebete 4-7 |
+| 16 | Ruderboot | giftig | Porzellan | Spurlosigkeit |
+| 17 | Kanu | verflucht | Meteorit | Int. +2 |
+| 18 | Muschel | chaotisch | Hämatit | Wei. +2 |
+| 19 | Schneckenhaus | egoistisch | Mondstein | Größenwechsel |
+| 20 | Spieluhr | rechtschaffen | Licht | Parallelweltreisen |
+| 21 | Sextant | schwer | Äther | Spähen |
+| 22 | Helm | leicht | Dunkelheit | Orientierung |
+| 23 | Stiefel | schwelend | Klang | Extrastufen 1-4 |
+| 24 | Umhang | eiskalt | Esche | Riesenschritte |
+| 25 | Zepter | geladen | Fischhaut | Adlerflug |
+| 26 | Orb | Taubenflügel | Glas | Tauchen |
+| 27 | Horn | 1-10 Augen | Platin | Festung |
+| 28 | Leier | Monstergestalt | Perlmutt | Stä. * 2 |
+| 29 | Laute | annihilierend | Karneol | Adlerflug |
+| 30 | Knopf | schillernd | Sternenhimmel | Energiestrahl |
+
+\normalsize
+
 ![](img/DnD-Black-pudding.png)

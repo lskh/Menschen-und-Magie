@@ -1,0 +1,14 @@
+Erzeugt Flamme
+Flamme erzeugen, Create Flame
+Eldritch Wizardry
+Druiden 2
+Handfläche der Spruchwirkerin
+2 Phasen pro Erfahrungsstufe
+Eine magische Flamme erzeugen, die geworfen werden kann.
+Durch wirken dieses Spruches erscheint in der Handpalme der
+Spruchwirkerin eine kleine Flamme magischen Feuers. Die Flamme kann
+bis zu 30' (10 m) weit geworfen werden, und setzt dann brennbare
+Materialien in Brand. Die magische Flamme - nicht jedoch das
+möglicherweise verursachte Feuer - erlischt so bald die
+Spruchwirkerin ihre Hand schließt.
+§

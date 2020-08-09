@@ -1,0 +1,12 @@
+Verlängerung II
+Extension II
+Greyhawk
+Zauberkundige 5
+selbst
+siehe Beschreibung
+Wirkdauer um 50% verlängern
+Mit diesem Spruch kann die Zauberkundige die
+Wirkdauer\index{Wirkdauer} eines ihrer
+anderen Sprüche um 50% verlängern. Verlängerung II wirkt auf Sprüche
+der Spruchstufen 1-4.
+§

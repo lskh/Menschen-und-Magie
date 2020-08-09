@@ -1,0 +1,13 @@
+Suggestion
+Suggestion
+Greyhawk
+Zauberkundige 3
+Rufweite
+1 Woche
+Einem Opfer eine Suggestion eingeben
+Die Spruchwirkerin ruft ihrem Opfer eine Suggestion zu, welche
+dieses innerhalb einer Woche erfüllen muss, falls ihr kein
+Rettungswurf gelingt. Der Inhalt der Suggestion muss nicht sofort
+ausgeführt werden. Dass sich das Opfer selbst tötet, ist auch mit der
+Suggestion sehr unwahrscheinlich (1%).
+§

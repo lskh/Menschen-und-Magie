@@ -7,7 +7,7 @@ Zauberkundige 8
 Eine flammende Wolke die Schaden anrichtet.
 Durch die Entzündbare Wolke wird eine wabernde Rauchwolke, in der
 glühende Funken umherschwirren, erschaffen. Der Rauch behindert jede
-Sicht und füllt einen Raum von 20' (6 m)  x 20' (6 m)  x 10' (3 m) aus.
+Sicht und füllt einen Raum von 20' x 20' x 10' (6 x 6 x 3 m) aus.
 Zusätzlich verursacht die Glut ab der dritten Runde Schaden. Anfangs
 entspricht der Schaden der halben Erfahrungsstufe des Zauberanwenders. In
 der vierten Runde erreicht die Hitze ihren Höhepunkt, so dass der

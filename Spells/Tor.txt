@@ -1,0 +1,17 @@
+Tor
+Gate
+Greyhawk
+Zauberkundige 9
+Nahbereich
+siehe Beschreibung
+Eine Beliebige Entität von einer anderen Ebene herbeirufen
+Mit diesem mächtigen Spruch öffnet die Zauberkundige ein Tor auf eine
+beliebige andere Existenzebene und ruft ein mächtiges Wesen von
+dieser Ebene hervor. Es kann sich dabei durchaus um Dämonen,
+Halb-Götter und kosmische Wesen handeln. Es besteht eine Chance von
+5%, dass eine andere Kreatur als die gewünschte erscheint, sowie eine
+Wahrscheinlichkeit von 5%, dass sich die Entität nicht für die
+Anliegen der Zauberkundigen interessiert. Die Wesenheit ist der
+Hervorruferin nicht automatisch freundlich gesonnen, und kann sich
+durch die Beschwörung sehr gestört fühlen.
+§

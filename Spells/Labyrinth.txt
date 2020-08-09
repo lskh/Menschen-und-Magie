@@ -24,5 +24,6 @@ richtet sich nach seiner Intelligenz:
 ----------------------------------------------------------
 
 Kein Rettungswurf, jedoch sind Minotauren von dem Zauber 
-nicht betroffen.
+nicht betroffen. Siehe auch *Einkerkerung*\index{Einkerkerung}
+, Seite \pageref{einkerkerung}.
 §

@@ -3,7 +3,7 @@ Bezaubert Personen, Personen bezaubern, Charm Person
 Men & Magic
 Zauberkundige 1
 120' (36 m)
-bis der Zauber gebrochen wird (!)
+siehe Beschreibung
 Personen zu gefügigen Befehlsempfängern machen.
 Eine mit diesem Spruch bezauberte Person sieht in dem
 Spruchwirker einen guten Freund und Verbündeten, für den sie sich
@@ -13,7 +13,8 @@ Spruchwirkers nachzukommen, sie wird sich aber nicht kopflos in
 den Untergang stürzen. 
 
 Der bezauberten Person steht mindestens einmal ein
-Rettungswurf zu. 
+Rettungswurf zu. Danach besteht die Bezauberung so lange bis sie
+gebrochen wird.
 Nach Entscheidung der Spielleitung 
 können je nach Intelligenz in
 bestimmten Zeitabständen weitere Rettungswurf möglich sein:

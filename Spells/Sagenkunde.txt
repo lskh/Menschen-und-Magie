@@ -1,0 +1,13 @@
+Sagenkunde
+Legend Lore
+Greyhawk
+Zauberkundige 6
+selbst
+siehe Beschreibung
+Legenden über eine Person, einen Ort oder ein Ding erfahren
+Mit dem mühevollen ausführen eines Rituals über 1W100 Tage erfährt
+die Zauberkundige geheimes oder legendäres Wissen über einen
+Person, einen Ort oder einen Gegenstand. Manchmal nicht mehr
+als einen kryptischen Satz oder ein Rätsel, manchmal sehr genaue
+Informationen.
+§

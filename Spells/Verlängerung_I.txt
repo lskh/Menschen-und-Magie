@@ -1,0 +1,12 @@
+Verlängerung I
+Extension I
+Greyhawk
+Zauberkundige 4
+selbst
+siehe Beschreibung
+Wirkdauer um 50% verlängern
+Mit diesem Spruch kann die Zauberkundige die
+Wirkdauer\index{Wirkdauer} eines ihrer
+anderen Sprüche um 50% verlängern. Verlängerung I wirkt auf Sprüche
+der Spruchstufen 1-3.
+§

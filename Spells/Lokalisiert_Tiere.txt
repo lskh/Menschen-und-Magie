@@ -1,9 +1,11 @@
 Lokalisiert Tiere
-Ermittelt Tiere, Locate Animal
+Ermittelt Tiere, Kreatur aufspüren, Locate Animal
 Eldritch Wizardry
 Druiden 1
 60' + 10' pro Stufe (18 m + 3 m)
-Richtung in der sich ein Tier einer bestimmten Art befindet.  
-Mit diesem Spruch kann der Druide die Himmelsrichtung feststellen, in
-der sich ein ein Tier einer bestimmten Art befindet.
+einige Momente
+Richtung und Distanz einer bestimmten Tierart ermitteln.  
+Mit diesem Spruch kann die Spruchwirkerin die Himmelsrichtung und die
+Distanz feststellen, in
+der sich ein Tier einer bestimmten Art befindet.
 §

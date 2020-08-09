@@ -1,0 +1,13 @@
+Blitzruf
+Call Lightning
+Eldritch Wizardry
+Druiden 3
+1.000' (300 m)
+1 Stunde
+Aus Gewitterwolken einen Blitz hervorrufen.
+Mit diesem Spruch kann die Spruchwirkerin aus natürlichen Sturm- oder
+Gewitterwolken einen Blitz hervorrufen, der ein beliebiges Ziel mit
+einem Schaden von 8W6 + 1 pro Erfahrungsstufe trifft. Es ist
+möglich mehrere Blitze hinter einander hervorzurufen, allerdings nur
+alle 10 Minuten.
+§

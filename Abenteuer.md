@@ -1,3 +1,6 @@
+
+![](img/delvers.png){width=100%}
+
 Ins Abenteuer ziehen
 ====================
 
@@ -395,7 +398,6 @@ der Schulter wird stolz auf Dich sein!
     *Axt der vielfachen Zerteilung* und durch 
     die *Handschuhe der Ogerkraft* ...
 
-
 ### Waffenknechte und Gefolgsleute
 
 Der Aufenthalt in Ortschaften ist schließlich auch immer eine gute
@@ -447,6 +449,7 @@ abends eingeteilt.
 Sobald sich das Geschehen der Handlung aber an einen 
 gefährlichen Ort wie eben ein typische Verlies - einen *Dungeon* -
 verlagert, bekommt das Spiel einen anderen Rhythmus.
+
 
 ### Spielphasen
 \index{Phase}
@@ -851,9 +854,9 @@ müssen entsprechend zum Würfelwurf addiert werden.
 
 : Angriffstabelle, aufsteigende Rüstungsklasse
 
-RK       |[10]|[11]|[12]|[13]|[14]|[15]|[16]|[17]|[18]|[19]|  
----------|----|----|----|----|----|----|----|----|----|----|  
-1W20     | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |  
+RK       |[10]|[11]|[12]|[13]|[14]|[15]|[16]|[17]|[18]|  
+---------|----|----|----|----|----|----|----|----|----|  
+1W20     | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |  
 
 
 ### Kampfrunden
@@ -1048,6 +1051,8 @@ Mit "Untote TW" ist die Anzahl an Trefferwürfel der jeweiligen
 Monsterart gemeint. Die Zahlen in der Tabelle geben an, welcher Wert
 auf 2W6 *mindestens* gewürfelt werden muss, um die jeweiligen Untoten
 erfolgreich zu beherrschen.
+
+![](img/travellers.png){width=100%}
 
 Das Spiel in der Kampagne
 =========================
@@ -1313,4 +1318,8 @@ orignalen Fantasy Rollenspiels ursprünglich geschrieben wurden.
 
 [^arsludi]:
 <http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/>
+
+\vfill
+
+![](img/castle.png){width=100%}
 

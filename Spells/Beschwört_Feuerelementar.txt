@@ -1,0 +1,20 @@
+Beschwört Feuerlementar
+Conjuration of Fire Elementals, Conjure Fire Elemental
+Eldritch Wizardry
+Druiden 6
+240' (72 m)
+Bis gebrochen oder die Konzentration endet
+Einen kooperativen 16 TW Feuer Elementar beschwören.
+Mit diesem Ritual beschwört der Spruchwirker einen Elementar
+von der Ebene des Feuers mit 16 Trefferwürfeln. Der Elementar
+ist dem Spruchwirker freundlich gesonnen, führt dessen Anweisungen
+aus, solange sich dieser konzentrieren kann, und zieht sich
+anschließend auf seine Heimatebene zurück, ohne seinen Beschwörer
+anzugreifen.
+
+Allerdings besteht eine 5% Wahrscheinlichkeit, dass der Spruchwirker
+nicht genau das Beschwört, was er erwartet: in 50% dieser Fälle
+beschwört er einen Feuerelementar mit 20 TW, ansonsten einen
+Efreet, der den Spruchwirker doch angreifen wird, sollte seine
+Konzentration nachlassen.
+§

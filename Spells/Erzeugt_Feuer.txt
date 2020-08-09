@@ -1,0 +1,12 @@
+Erzeugt Feuer*
+Feuer erzeugen, Produce Fire
+Eldritch Wizardry
+Druiden 4
+30' (10 m)
+1 Phase
+Magisches Feuer erzeugen
+Dieser Spruch erzeugt auf eine Fläche von etwa 10' x 10' (3 x 3 m)
+magisches Feuer. Dieses kann brennbare Materialien anzünden, die dann
+ganz normal brennen. Der Spruch kann auch umgekehrt genutzt werden um
+normales Feuer zu löschen.
+§

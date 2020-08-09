@@ -1,7 +1,0 @@
-Totes beleben
-Zaubergrad: 5
-Dauer: Dauerhaft
-Reichweite: 0
-Dieser Zauberspruch ist identisch mit dem gleichnamigen
-Klerikerzauberspruch.
-

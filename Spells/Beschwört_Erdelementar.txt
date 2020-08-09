@@ -1,0 +1,14 @@
+Beschwört Erdelementar
+Conjure Earth Elemental, Conjuration of Earth Elementals
+Eldritch Wizardry
+Druiden 7
+240' (72 m)
+Bis gebrochen, oder keine Konzentration mehr
+Einen kooperativen 16 TW Erdelementar beschwören.
+Mit diesem Spruch beschwört der Spruchwirker einen Erdelementar
+mit 16 Trefferwürfeln, der dem Beschwörer freundlich gesonnen
+ist. Er bleibt, solange sich der Beschwörer sich
+konzentrieren kann, führt dessen Anweisungen aus, und zeiht sich
+auf seine Heimatebene zurück, sobald der Spruch beendet ist. Er wird
+seinen Beschwörer nicht angreifen.
+§

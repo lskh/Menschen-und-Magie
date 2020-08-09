@@ -1,0 +1,12 @@
+Dunkelheit
+Darkness
+Greyhawk
+Zauberkundige 2
+120' (36 m)
+1 Stunde
+Magische Dunkelheit erzeugen
+Mit diesem Spruch erzeugt die Spruchwirkerin innerhalb eines Radius
+von 15' (5 m) magische Dunkelheit, in der nicht einmal mit Dunkelsicht
+etwas gesehen werden kann. *Licht* oder *Magie brechen* beenden die
+Spruchwirkung.
+§

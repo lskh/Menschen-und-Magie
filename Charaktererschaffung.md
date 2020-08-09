@@ -1,3 +1,8 @@
+\clearpage
+
+![](img/character.png){width=100%}
+
+
 Charaktererschaffung
 ====================
 

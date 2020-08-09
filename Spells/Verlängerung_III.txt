@@ -1,0 +1,12 @@
+Verlängerung III
+Extension III
+Greyhawk
+Zauberkundige 6
+selbst
+siehe Beschreibung
+Wirkdauer verdoppeln
+Mit diesem Spruch kann die Zauberkundige die
+Wirkdauer\index{Wirkdauer} eines ihrer
+anderen Sprüche verdoppeln. Verlängerung III wirkt auf Sprüche
+der Spruchstufen 1-5.
+§

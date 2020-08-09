@@ -1,0 +1,12 @@
+Hält Pflanzen
+Pflanzen halten, Hold Plant
+Eldritch Wizardry
+Druiden 5
+30' (10 m) pro Erfahrungsstufe
+1 Stunde (+10 Minunten pro Erfahrungsstufe)
+Pflanzenwachstum stoppen und Pflanzenkreaturen lähmen.
+Mit diesem Spruch kann die Spruchwirkerin 1W4 pflanzliche Wesen
+lähmen bzw. deren Wachstum stoppen, sofern diese ihren Rettungswurf
+verfehlen. Falls eine einzelne Pflanze fokussiert wird, ist deren
+Rettungswurf um -2 erschwert.
+§

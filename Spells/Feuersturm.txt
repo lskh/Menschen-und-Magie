@@ -1,0 +1,15 @@
+Feuersturm
+Fire Storm
+Eldritch Wizardry
+Druiden 7
+100'+10' pro Erfahrungsstufe (30 m + 3 m)
+1 Phase
+Loderndes Feuer erzeugen, welches nur schwer passiert werden kann.
+Mit diesem Spruch ruft die Spruchwirkerin auf einer Fläche von
+etwas 30' x 30' (10 m x 10 m) pro Erfahrungsstufe eine Feuersbrunst
+hervor, deren Flammen bis zu 30' (10 m) pro Erfahrungsstufe hoch
+schlagen. Wesen mit 3 Trefferwürfeln oder weniger können das Feuer
+gar nicht überwinden, solche mit mehr als 3 Trefferwürfeln erleiden
+1W6 Punkte Schaden pro 10' (3 m), die sie sich durch das Feuer
+bewegen. Untote Kreaturen erleiden den doppelten Schaden.
+§

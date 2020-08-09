@@ -1,0 +1,15 @@
+Dauerhaftigkeit
+Permanency, Permanent Spell
+Greyhawk
+Zauberkundige 8
+siehe Beschreibung
+permanent, bis gebrochen
+Die Wirkung eines anderen Spruchs dauerhaft machen
+Mit diesem Spruch kann die Zauberwirkerin die Wirkung eines anderen
+Spruchs dauerhaft machen. Nur *ein* Spruch kann dauerhaft auf ein
+Objekt gelegt werden, und nur zwei auf eine Kreatur. Die
+Dauerhaftigkeit kann nur durch Zauberkundige der doppelten
+Erfahrungsstufe gebrochen werden. Einige dauerhafte Sprüche sind
+problematisch für die Spielbalance - es gilt die Entscheidung der
+Spielleitung.
+§

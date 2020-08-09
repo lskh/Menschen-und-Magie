@@ -6,5 +6,5 @@ Nahbereich
 permanent
 Bricht einen Fluch
 Fluch brechen nimmt sofort einen Fluch vom Ziel. Verfluchte Waffen werden
-durch den Spruch zu normalen Waffen (Men & Magic).
+durch den Spruch zu normalen Waffen.
 §

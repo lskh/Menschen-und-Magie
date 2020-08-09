@@ -7,8 +7,8 @@ sofort
 Beschwört magische Pfeile +1.
 Der Zauberkundige beschwört einen oder mehrere magische Pfeile. Diese
 Pfeile funktionieren genauso wie andere magische Pfeile: Trefferbonus
-+1, 2-7 Punkte Schaden^[Optional kann der Pfeil auch automatisch treffen,
-und macht dann 2-5 Punkte Schaden.].
++1, 2-7 Punkte Schaden. Nach Ermessen der Spielleitung kann der Pfeil auch automatisch treffen,
+und macht dann 2-5 Punkte Schaden.
 Für jede fünf Erfahrungsstufen erhält der
 Zaubernde zwei weitere Geschosse, insgesamt drei auf Stufe 5, fünf auf
 Stufe 10, sieben auf Stufe 15 und so weiter. Wenn der Zauberwirker

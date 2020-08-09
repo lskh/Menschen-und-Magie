@@ -1,0 +1,35 @@
+Erhitzt Metall
+Metall erhitzen, Heat Metal
+Eldritch Wizardry
+Druiden 2
+30' (10 m)
+7 Kampfrunden
+Metall glühend heiß werden lassen.
+Mit diesem Spruch kann die Spruchwirkerin etwa 20 Pfund Metall bzw.
+Rüstung und Waffen einer Person pro Erfahrungsstufe glühend heiß
+werden lassen. Es gibt keinen Rettungswurf, gegen die Erhitzung,
+allerdings erleiden Lebewesen keinen Schaden, die natürliche oder
+magische Feuerresistenz haben.
+
+**Folgende Effekte treten durch das erhitzte Metall ein:**
+
+Runde 1
+:    heiß, aber noch nicht gefährlich 
+
+Runde 2
+:    1W4 Punkte Schaden, verbrannte Gliedmaße können für 
+     einen Tag nicht benutzt werden.
+
+Runden 3-5
+:    Schaden 1W4+1 pro Runde, die Brandverletzungen brauchen 
+     1W3 Wochen um zu heilen, so lange können verletzte Gliedmaßen
+     nicht benutzt werden.
+
+Runde 6
+:    1W4 Schaden
+
+Runde 7
+:    Das Metall ist noch spürbar heiß, verursacht aber keinen
+     Schaden mehr.
+
+§

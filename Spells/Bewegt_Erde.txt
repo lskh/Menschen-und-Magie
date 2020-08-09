@@ -2,8 +2,8 @@ Bewegt Erde
 Erde bewegen, Moving Terrain, Move Earth
 Chainmail
 Zauberkundige 6
-6 Phasen, Effekt permanent
 240' (72 m)
+6 Phasen, Effekt permanent
 Landschaft magisch verändern.
 Mit diesem Spruch kann der Zauberkundige Erde bis hin zu Landschaftsmerkmalen
 wie Hügeln mit einer Geschwindigkeit von 6' (2 m) pro Minute verschieben.

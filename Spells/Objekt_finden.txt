@@ -1,5 +1,5 @@
 Objekt finden
-Objekt lokalisieren, Gegenstand orten, Ermittelt Objekt, Locate Object
+Objekt aufspüren, Gegenstand orten, Ermittelt Objekt, Locate Object
 Men & Magic
 Zauberkundige 2, Kleriker 3
 ZK 60' + 10'/Stufe (18 m + 3 m), Kl 90' + 10'/Stufe (27 m + 3 m)

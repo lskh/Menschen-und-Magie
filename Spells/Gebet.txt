@@ -1,0 +1,15 @@
+Gebet
+Prayer
+Greyhawk
+Kleriker 3
+30' (10 m)
+folgende Kampfrunde
+Rettungswürfe der Gegener erschweren
+Mit diesem Spruch wendet die Spruchwirkerin die Gunst der Götter
+gegen die Gegner. Die Rettungswürfe aller betroffenen Kreaturen in
+einer Fläche von 20' x 20' (6 x 6 m) erschweren sich um -1
+zuzüglich
+nochmals -1 pro 10 Erfahrungsstufen der Spruchwirkerin. Kleriker bis
+zur Stufe 10 verursachen also einen Abzug von -1, Kleriker der 10.
+bis 19. Stufe -2 usw.
+§

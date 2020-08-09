@@ -16,10 +16,10 @@ Menschen & Magie - Hausregeln \newline
 Eine Hausregelsammlung für Old-School Rollenspiele \newline
 kompatibel mit *Swords & Wizardry* und allen Regeln, die auf dem
 Original Fantasy Rollenspiel von 1974 basieren.
-\newline
-Version 2020, 
-\newline
-Text und Satz: © Wanderer Bill, 2019, 2020\newline
+ 
+Datum:
+
+Text und Satz: © Wanderer Bill, 2019, 2020, 
 <wandererbill73@gmail.com>
 \small
 

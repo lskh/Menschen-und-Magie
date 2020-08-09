@@ -1,7 +1,7 @@
 Wasser teilen
 Teilt Wasser, Part Water
 Men & Magic
-Zauberkundige 6
+Zauberkundige 6, Kleriker 7
 120' (36 m)
 6 Phasen
 Wassermassen teilen, so dass ein Durchgang entsteht.

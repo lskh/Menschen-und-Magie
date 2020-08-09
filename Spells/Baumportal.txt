@@ -1,0 +1,26 @@
+Baumportal
+Passiert Pflanzen, Pflanzen passieren, Pass Plant
+Eldritch Wizardry
+Druiden 5
+Berührung des ersten Baumes
+Bis zu 1 Stunde pro Erfahrungsstufe
+Zwei Bäume gleicher Art als Portale nutzen.
+Dieser Spruch ermöglicht der Anwenderin einen Baum zu betreten, und
+einen anderen Baum der gleichen Art eine bestimmte Distanz entfernt
+wieder zu verlassen. Wahlweise, kann sie sich auch für die Spruch
+dauer in einem der Bäume aufhalten, und diese dann wieder
+verlassen.
+
+Folgende Distanzen können so überbrückt werden:
+
+: Baumportal
+
+| Baumart | maximale Distanz |
+|---------|-------------------------------|
+| Eiche, Esche, Eibe | 3.000' (1 km) |
+| Ulme, Linde | 2.000' (600 m) |
+| andere Laubbäume | 1.500' (450 m) |
+| Nadelbäume | 1.000' (300 m) |
+| sonstige Bäume | 500' (150 m) |
+
+§

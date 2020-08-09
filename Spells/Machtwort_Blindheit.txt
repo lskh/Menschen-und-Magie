@@ -1,0 +1,13 @@
+Machtwort Blindheit
+Power Word Blind
+Greyhawk
+Zauberkundige 8
+120' (36 m)
+siehe Beschreibung
+Eine Kreatur für begrenzte Zeit blenden
+Mit diesem Spruch kann die Zauberkundige ein beliebiges Opfer in
+Reichweite für eine betimmte Zeit blenden. Opfer mit 40 oder
+weniger Trefferpunkten werden für 2W4 Tage geblendet, Opfer mit 40
+bis 80 Trefferpunkten für 1W4 Tage. Kreaturen mit mehr als 80
+Trefferpunkten werden von dem Spruch nicht betroffen.
+§

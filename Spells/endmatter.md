@@ -1,1 +1,1 @@
-![](img/DnD-Invisible-Stalker.png)
+![](img/bookskull.png)

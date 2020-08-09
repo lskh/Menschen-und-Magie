@@ -1,0 +1,14 @@
+Vertreibt Holz
+Repel Wood, Turn Wood
+Eldritch Wizardry
+Druiden 6
+20' (6 m) pro Erfahrungsstufe
+1 Phase pro Erfahrungsstufe
+Holz, hölzerne Gegenstände und Wesen zurück treiben.
+Mit diesem Spruch erzeugt die Spruchwirkerin eine Welle mystischer
+Energie, die jegliches hölzernes Ding zurück drängt. Die Welle hat
+eine Breite von etwa 120' (36 m) und bewegt sich mit einer
+Geschwindigkeit von 5' (1,5 m) pro Kampfrunde vorwärts. Nur die
+Spruchwirkerin selbst kann die Welle stoppen, wenn diese sich
+einmal in Bewegung gesetzt hat.
+§

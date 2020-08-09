@@ -9,9 +9,11 @@ Der Zaubernde murmelt ein einzelnes Wort der Macht, durch
 das sein Ziel unabhängig davon betäubt wird,
 ob es das Wort hören kann oder nicht. Die Dauer des Spruchs
 hängt von der augenblicklichen Trefferpunktzahl des Ziels ab.
-Jede Kreatur mit mehr als 70 Trefferpunkten wird von dem
+Kreaturen mit mehr als 70 Trefferpunkten werde von dem
 Zauber nicht beeinträchtigt. 
+
  - 35 oder weniger Trefferpunkt: 1W6 Runden
  - 36-70 Trefferpunkte: 2W6 Runden
+
 Es ist kein Rettungswurf erlaubt.
 §

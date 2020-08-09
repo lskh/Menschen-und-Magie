@@ -1,0 +1,13 @@
+Hält Tiere
+Tiere halten, Tiere festhalten, Hold Animal
+Eldritch Wizardry
+Druiden 3
+120' (36 m)
+1 Stunde (+10 Minuten/Erfahrungsstufe)
+Bis zu 4 Tiere lähmen.
+Mit diesem Spruch kann die Spruchwirkerin bis zu 4 Tiere
+bewegungsunfähig machen, solange deren gesammten Trefferwürfel
+nicht die Erfahrungsstufe der Spruchwirkerin überschreiten. Den
+Tieren steht ein Rettungswurf zu; falls ein einzelnes Tier
+fokussiert wird, ist dieser um -2 erschwert.
+§

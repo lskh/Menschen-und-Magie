@@ -1,7 +1,7 @@
 Stöcke zu Schlangen
 Schlangen aus Stöcken, Turn Sticks to Snakes, Sticks to Snakes
 Men & Magic
-Kleriker 4
+Kleriker 4, Druiden 5
 120' (36 m)
 6 Phasen
 2W8 Stöcke in Schlangen verwandeln.

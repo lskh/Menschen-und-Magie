@@ -1,0 +1,13 @@
+Antipflanzen Schutzhülle
+Schutzhülle gegen Lebendes, Anti-Plant Shell, Anti-Plant Ward
+Eldritch Wizardry
+Druiden 5
+selbst
+2 Stunden
+Eine magische Schutzhülle gegen Pflanzen erzeugen.
+Der Spruchwirker wird von einer magischen Barriere umgeben, die jede
+Art von Pflanzen daran hindert, den Spruchwirker zu erreichen oder
+anzugreifen. Die Schutzhülle hat einen Radius von 10' (3 m). Sprüche,
+oder Angriffe, die von innerhalb der Schutzhülle nach außen gewirkt
+werden, lösen die Schutzhülle auf der Stelle auf.
+§

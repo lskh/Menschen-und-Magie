@@ -1,0 +1,12 @@
+Scheinwald
+Hallucinatory Forest
+Eldritch Wizardry
+Druiden 4
+60' (20 m)
+bis gebrochen
+Die Illusion eines Waldes erzeugen.
+Mit diesem Spruch erzeugt die Spruchwirkerin auf einer Fläche von etwa
+30' x 30' (10 x 10 m) pro Erfahrungsstufe die perfekte Illusion
+eines Waldes. Nur andere Druiden und magische Waldkreaturen
+durchschauen die Illusion.
+§

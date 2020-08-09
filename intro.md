@@ -18,7 +18,6 @@ Ein Spielerhandbuch für Old-School Rollenspiele, kompatibel mit
 *Swords & Wizardry* und allen Regeln, die auf dem Original Fantasy
 Rollenspiel von 1974 basieren.
 
-Version *beta*, 
 Datum:
 
 Text und Satz: © Wanderer Bill, 2020, 
@@ -64,6 +63,8 @@ here with kind permission.
 \tableofcontents
 
 \listoftables
+
+
 
 Vorwort
 =======
@@ -122,6 +123,10 @@ Ich hoffe, dass Ihr *Menschen & Magie* nützlich findet. Ein Spieler aus
 unserer Runde hat - nur mit diesem Heft ausgestattet - kürzlich im
 Urlaub eine spontane Runde geleitet, mit kleinen Zetteln vom
 Kellner-Notizblock als Charakterbögen ... genau so soll es sein!
+
+\clearpage
+
+![](img/entrance.png){width=100%}
 
 Einleitung
 ===========
@@ -278,4 +283,5 @@ kommen. In alten Regelheften und Abenteuermodulen wurde anstelle
 von 1W4+3 oft auch nur 4 - 7 angegeben. Der Leser musste dann
 selbst austüfteln, mit welcher Kombination von Würfel und Boni
 der entsprechende Wertebereich abgedeckt werden konnte. 
+
 

@@ -1,0 +1,11 @@
+Trübung
+Obscurement, Obscuring Mist
+Eldritch Wizardry
+Druiden 2
+20' (6 m)
+1 Phase pro Erfahrungsstufe
+Undurchsichtigen Nebel erzeugen.
+Mit diesem Spruch verschwindet die Spruchwirkerin in einer Wolke
+undurchsichtigen Nebels mit einem Radius von 20' (6 m) + 10' (3 m)
+pro Erfahrungsstufe.
+§

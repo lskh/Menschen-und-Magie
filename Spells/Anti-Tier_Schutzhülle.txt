@@ -1,0 +1,13 @@
+Anti-Tier Schutzhülle
+Schutzhülle gegen Lebendes, Anti-Animal Ward, Anti-Animal Shell
+Eldritch Wizardy
+Druiden 6
+selbst
+2 Stunden
+Eine Schutzhülle gegen Tiere wirken.
+Mit diesem Zauber wird eine magische Barriere mit 10' (3 m) Radius
+beschworen, die normale und riesige - aber nicht magische - Tiere
+daran hindert, ihn zu erreichen oder anzugreifen. Die Hülle wird
+zerstört, falls von der innerhalb der Hülle ein Spruch, oder ein
+Angriff nach außen gewirkt wird.
+§

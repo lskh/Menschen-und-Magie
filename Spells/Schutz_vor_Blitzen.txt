@@ -1,0 +1,12 @@
+Schutz vor Blitzen
+Protection from Lightning
+Eldritch Wizardry
+Druiden 4
+Berührung
+6 Phasen + 1 Phase pro Erfahrungsstufe
+Ein beliebiges Wesen vor Blitzen schützen.
+Dieser Spruch beschützt ein belibieges Wesen für die Spruchdauer vor
+jeder Art von Blitzen, so dass nur der halbe Schaden verursacht
+wird. So bald das geschützte Wesen von einem Blitz getroffen wird,
+endet die Spruchwirkung allerdings.
+§

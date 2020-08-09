@@ -1,0 +1,12 @@
+Eissturm
+Ice Storm
+Greyhawk
+Zauberkundige 4
+120' (36 m)
+1 Kampfrunde
+Ein Sturm aus Eiszapfen macht 3W10 Punkte Schaden.
+Die Zauberkundige beschwört einen wirbelnden Eissturm der auf ein
+Volumen von etwa 30' (10 m) Kantenlänge betrifft. Alle betroffenen
+Kreaturen erleiden 3W10 Schaden durch Eiszapfen. Es ist kein
+Rettungswurf möglich.
+§

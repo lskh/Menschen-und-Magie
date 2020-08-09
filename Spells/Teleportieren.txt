@@ -1,5 +1,5 @@
 Teleportation
-teleport
+Teleport
 Greyhawk
 Zauberkundige 5
 10' (3 m)
