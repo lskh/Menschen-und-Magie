@@ -21,8 +21,10 @@ all: MnM.pdf Spells.pdf Hausregeln.pdf
 MnM.md: intro.md Charaktererschaffung.md Abenteuer.md Anhang.md
 	cat $^ > MnM.md
 
-Spells.md: Spells/Spells.md Makefile
+Spells/Spells.md: Makefile
 	cd Spells ; make Spells.md
+
+Spells.md: Spells/Spells.md Makefile
 	cp Spells/Spells.md Spells.md 
 
 clean:

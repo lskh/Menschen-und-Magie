@@ -51,9 +51,9 @@ here with kind permission.
 
 \mainmatter
 
-\tableofcontents
+\tableofcontents*
 
-\listoftables
+\listoftables*
 
 # Einleitung
 
@@ -247,7 +247,6 @@ höhren Trefferpunktewerten als nach den Regeln des Supplement I
 maximal ein W10 erreicht werden.]:
 
 : Variable Trefferwürfel
-
 \index{Trefferwürfel!variable}
 
 | Konstitution | Trefferwürfel | Überleben        |
@@ -561,8 +560,7 @@ Klassenfähigkeiten
      Um Untote zu beherrschen werden 2W6 geworfen. Liegt das Ergebnis
      über einem bestimmten Wert, erlangt der Kleriker für eine 
      bestimmte Zeit die Kontrolle über die untoten Kreaturen.
-     Je nach Gesinnung bedeutet "beherrschen" etwas anderes. Kleriker
-     guter Gesinnung *vertreiben* die Untoten, während Kleriker böser
+     Kleriker guter Gesinnung *vertreiben* die Untoten, während Kleriker böser
      Gesinnung die Untoten in ihren Dienst befehlen können, zum
      Beispiel um eine bestimmte Aufgabe zu erledigen, oder einen
      bestimmten Bereich zu bewachen.
@@ -1009,83 +1007,6 @@ Klassenbeschränkungen
 | 12+   | +130.000/St | +1/St | +3 |
 
 
-#### Diebesfertigkeiten
-\index{Diebe!Diebesfertigkeiten}
-
---------------------------------------------------------------
-Stufe         Geräusche    Geheimtüren   Fallen     Schlösser
-              hören        entdecken     finden/    öffnen 
-	                                 entfernen
------------- -----------  ------------  ----------- ----------
- Nicht-      17 (1/6)     34 (2/6)       5 (1/20)    5 (1/20) 
- Diebe                                                        
-                                                              
- 1           34           35            10           15       
-                                                              
- 2           38           36            15           20       
-                                                              
- 3           42           39            20           25       
-                                                              
- 4           46           42            25           30       
-                                                              
- 5           50           45            30           35       
-                                                              
- 6           54           48            35           40       
-                                                              
- 7           58           51            40           45       
-                                                              
- 8           62           54            45           50       
-                                                              
- 9           66           57            50           54       
-                                                              
- 10+         70           60            54           58       
-                                                              
- Elfen       +17          +33           -10          0        
-                                                              
- Halb-       +17          0             +5           +10      
- linge                                                        
-                                                              
- Zwerge       0           +5            +20          +10      
-                                                              
---------------------------------------------------------------
-
-
----------------------------------------------------------------
-Stufe        Schleichen   Verstecken    Taschen-    Wände
-                                        diebstahl   erklimmen
-----------  ------------ ------------  ----------- ------------
-Nicht-       5 (1/20)     5 (1/20)      5 (1/20)    10 (1/10)
-Diebe
-
-1            20           10            20          87   
-
-2            25           15            25          88
-
-3            30           20            30          89
-
-4            35           24            35          90
-
-5            40           28            40          91
-
-6            44           32            45          92
-
-7            48           35            50          93
- 
-8            52           38            55          94
-
-9            55           41            60          95
-
-10+          58           44            65          96
-
-Elfen        +10          +10           +5          +5              
-
-Halb-        +15         +20           +5          -10
-linge
-
-Zwerge       -10         0              0          -10
-
----------------------------------------------------------------
-
 #### Ausrüstung Diebe
 \index{Diebe!Ausrüstung}
 
@@ -1290,10 +1211,6 @@ von -3.
 | 10    |     300.000 | +1W   | +2 |
 | 11+   | +150.000/St | +1/St | +3 |
 
-
-Rettungswürfe auf Stufe 1 \index{Punks!Rettungswürfe}
-:    Gift: 11, Stäbe: 11, Lähmung: 14, Odem: 16,\newline
-     Sprüche: 15
 
 #### Ausrüstung für Punks
 \index{Punks!Ausrüstung}
@@ -1764,8 +1681,12 @@ Galeasse                              65.000 GM
 
 # The Underworld & Wilderness Adventures
 
+## Dungeonerkundung
 
-## Bewegung
+Lauschen, Suchen nach Fallen und Geheimtüren werden mit Hilfe der
+Diebesfertigkeiten abgewickelt.
+
+### Bewegung
 \index{BW}\index{Bewegungsweite}
 Bei sorgfältiger Erkundung im Dungeon legen die Charaktere in einer
 Phase, also in etwa 10 Minuten ihren
@@ -1781,6 +1702,8 @@ Hexfeldern.
 Im Freien, bzw. in der Wildnis entspricht die Bewegung pro Kampfrunde
 abstrakt der Bewegung mal 10 Meter. Also zum Beispiel 60, 90 oder 120
 Meter.
+
+\renewcommand{\arraystretch}{1.5}
 
 : Belastungsstufen
 \index{Belastungsstufen}
@@ -1814,19 +1737,137 @@ genannten Belastungsstufen beladen ist noch 30 Pfund oder **300
 Münzen** an Gewicht zuladen kann, bevor er in die nächste
 Belastungskategorie fällt.
 
-## Türen öffnen 
+### Türen öffnen 
 \index{Türen öffnen}
 Türen sind in der Regel verklemmt oder verschlossen und können bei
 einem Wurf von 1 in 6 aufgebrochen werden. Monster oder andere
 Kreaturen, die sich hinter einer Tür aufhalten, können nicht überrascht
 werden, wenn eine Tür mit Gewalt geöffnet wurde.
 
-## Dungeonerkundung
+\pagestyle{plain}
 
-Lauschen, Suchen nach Fallen und Geheimtüren werden mit Hilfe der
-Diebesfertigkeiten abgewickelt.
+### Rettungswürfe
+\index{Rettungswürfe}
 
-## Magische Gegenstände identifizieren
+: Erweiterte Bedeutung für Rettungswürfe
+
+-----------------------------------------------------------------------
+Rettungswurf      Erweiterte Bedeutung       Effekt des Scheiterns  
+----------------  -------------------------- ------------------------ 
+ Gift und           schlagartig auftretende    Der Charakter wird 
+ Todesstrahlen      Ereignisse                 getroffen, in der 
+                                               Regel tödlich.
+
+
+ Stäbe              Magische Gegenstände       Der Effekt des
+                    oder Apparate              Gegenstandes
+                                               trifft den Charakter.
+
+
+ Lähmung            jegliche Art von           Der Charakter wird in 
+                    Bewegungs-                 seiner Beweglichkeit
+                    einschränkung              eingeschränkt,
+                                               verlangsamt, gefesselt
+                                               versteinert.
+
+
+ Odem               Flächeneffekte,            Der Charakter erleidet
+                    z.B. auch durch Wind,      den vollen Effekt des
+                    Wasser, oder nicht-        Ereignisses, bei Erfolg
+                    magisches Feuer            nur den halben Effekt.
+
+
+ Sprüche            Geistige Eigenschaften,    Der Charakter
+                    oder Leistungen des        unterliegt seinem 
+                    Gegners                    Gegner, wird
+                                               übertölpelt,
+                                               gebeugt oder
+                                               manipuliert.
+
+-----------------------------------------------------------------------
+
+\cleartoverso
+
+### Diebesfertigkeiten
+```{=latex}
+\index{Diebe!Diebesfertigkeiten}
+
+\begin{tabular}{lcccc}
+\toprule
+Stufe &  Lauschen &  
+\begin{minipage}{19mm}\centering Geheimtüren entdecken\strut\end{minipage} & 
+\begin{minipage}{20mm}\centering Fallen entschärfen\strut\end{minipage} & 
+\begin{minipage}{17mm}\centering Schlösser öffnen\strut\end{minipage} \\
+\midrule
+\begin{minipage}{10mm}Nicht-Diebe\strut\end{minipage} 
+& 17 (1/6) & 34 (2/6) & 5 (1/20) & 5 (1/20) \\ 
+\midrule
+  1 &  34 &  35 &   10 &  15 \\ 
+  2 &  38 &  36 &   15 &  20 \\
+  3 &  42 &  39 &   20 &  25 \\
+  4 &  46 &  42 &   25 &  30 \\
+  5 &  50 &  45 &   30 &  35 \\
+  6 &  54 &  48 &   35 &  40 \\
+  7 &  58 &  51 &   40 &  45 \\
+  8 &  62 &  54 &   45 &  50 \\
+  9 &  66 &  57 &   50 &  54 \\
+  10+ & 70 &  60 &   54 &  58 \\
+\midrule
+ Elfen & +17 & +33 &  -10 & 0 \\
+ Halblinge & +17 & 0 &    +5 &  +10 \\
+ Zwerge & 0 & +16 &   +20 & +10 \\
+\begin{minipage}{16mm}Orks und Goblins\strut\end{minipage} & +17 & 0 & 0 & -10 \\
+\bottomrule
+\end{tabular}
+
+\textit{Fallen entschärfen} schließt das finden und entfernen oder
+unschädlich machen von Fallen ein.
+Die Angaben für Elfen, Orks und Goblins gelten jeweils auch für
+Halbelfen, und Halb-Orks.
+
+\clearpage
+
+\vspace*{3pt}
+
+\begin{tabular}{lcccc}
+\toprule
+Stufe & Schleichen & Verstecken & 
+\begin{minipage}{18mm}\centering Taschen- diebstahl\strut\end{minipage} & 
+\begin{minipage}{18mm}Wände erklimmen\strut\end{minipage}
+\\
+\midrule
+\begin{minipage}{10mm}Nicht-Diebe\strut\end{minipage}
+& 5 (1/20) & 5 (1/20) & 5 (1/20) & 10 (1/10) \\
+\midrule
+1 &   20 &  10 &   20 & 87 \\
+2 &   25 &  15 &   25 & 88 \\
+3 &   30 &  20 &   30 & 89 \\
+4 &   35 &  24 &   35 & 90 \\
+5 &   40 &  28 &   40 & 91 \\
+6 &   44 &  32 &   45 & 92 \\
+7 &   48 &  35 &   50 & 93 \\
+8 &   52 &  38 &   55 & 94 \\
+9 &   55 &  41 &   60 & 95 \\
+10+ & 58 &  44 &   65 & 96 \\
+\midrule
+Elfen & +10 & +10 &  +5 & +5 \\
+Halblinge & +15 & +20 &  +5 & -10 \\
+Zwerge & -10 & 0 &  0 & -10 \\
+\begin{minipage}{16mm}Orks und Goblins\strut\end{minipage}
+& +10 & +10 & -10 & 0 \\
+\bottomrule
+\end{tabular}
+
+\renewcommand{\arraystretch}{1}
+
+Mit 1/6 ist gemeint 1 auf 1W6, 2/6 entsprechend 1-2 auf 1W6. 1/20
+entspricht 1 auf 1W20 und so lange der jeweilige Wert durch 5 teilbar
+ist, lässt sich die Probe auch mit dem W20 würfeln.
+
+\clearpage
+```
+
+### Magische Gegenstände identifizieren
 \index{Magische Gegenstände}\index{identifizieren!Magische
 Gegenstände}
 
@@ -1856,8 +1897,9 @@ höchstwahrscheinlich eine Gegenleistung für seine Mühen erwarten. Als
 Nebeneffekt ermittelt der analysierende Zauberkundige so auch das
 Rezept für den untersuchten Zaubertrank.
 
+## Kampf
 
-## Kampfrunde
+### Kampfrunde
 \index{Kampfrunde}
 
 1. Überraschung
@@ -1882,6 +1924,10 @@ Initiative
 :     1W6 pro Seite, die höhere Zahl gewinnt. Bei einem Gleichstand
       agieren beide Seiten zeitgleich.
 
+\pagestyle{headings}
+
+### Kampfmanöver
+
 
 : Kampfmanöver
 \index{Kampfmanöver}
@@ -1889,6 +1935,10 @@ Initiative
 --------------------------------------------------------------------------------
 Manöver          Effekt
 ---------------  ---------------------------------------------------------------
+Gelegenheits-    Zieht sich ein Gegner zurück (siehe Rückzug) oder passiert ein 
+angriff          Gegner in Nahkampfdistanz, ist ein zusätzlicher Angriff
+                 *außerhalb* der Initiativ-Reihenfolge erlaubt.
+
 Angriff von      Angriff +2, Rüstungsbonus durch Schild fällt weg. 
 Hinten
 
@@ -1900,7 +1950,7 @@ Stürmen          Automatischer Initiativegewinn, Schaden x2, Rüstungsklasse
 Angriff mit      Rechte Hand -2, linke Hand -4, zuzüglich 
 zwei Waffen      Geschicklichkeitsbonus
 
-Rückzugs-        Rückwärtsbewegung mit halber Geschwinigkeit, ohne einen 
+Rückzugs-        Rückwärtsbewegung mit halber Geschwinigkeit, *ohne* einen 
 gefecht          Gelegenheitsangriff zu riskieren,
                  folgt der Gegner und greift an, darf der zurückziehende
                  Charakter zuerst schlagen.
@@ -1916,14 +1966,14 @@ Deckung          Rüstungsklasse -2, nicht im Nahkampf möglich.
 
 ---------------------------------------------------------------------------------
 
-## Shields shall be splintered
+### Shields shall be splintered
 \index{Schilde}
 Schilde können zur Abwehr eines Treffers "geopfert" werden. Das Schild
 ist zerstört und kann nicht mehr benutzt werden, aber der Charakter
 kann dadurch einen Treffer komplett verhindern.
 
 
-## Fernkampf
+### Fernkampf
 \index{Fernkampf}
 
 ---------------------------------------------------------------------
@@ -1966,7 +2016,7 @@ allerdings nur jede dritte Runde geschossen werden.
 * Brennendes Öl macht *für zwei Runden* jeweils 1-8 Punkte Schaden
 \index{Öl!brennendes}
 
-## Verletzung und Todesrettungswürfe
+### Verletzung und Todesrettungswürfe
 \index{Tod}\index{Verletzung}\index{Todesrettungswürfe}
 Sinken die Trefferpunkte eines Charakters auf 0 Punkte geht er leblos
 zu Boden. Doch er ist noch nicht ganz verloren. Gelingt ihm ein
@@ -1979,6 +2029,8 @@ Phase ein neuer Rettungswurf fällig.
 
 
 ## Leben und Reisen im Off
+
+\pagestyle{plain}
 
 ### Längere Aufenthalte im Gasthaus
 \index{Gasthaus}\index{Taverne}
@@ -2044,6 +2096,7 @@ Erfahrungspunkte in Höhe des Würfelergebnis * 20 gutgeschrieben.
         bestimmt).
 ----------------------------------------------------------------------
 
+\pagestyle{headings}
 
 ### 9-to-5 Jobs für Abenteurer
 Falls ein Charakter mehr als zwei Wochen an einem Ort bleibt ohne auf
@@ -2082,6 +2135,7 @@ einer Stufe unter der Stufe des Spielercharakters haben.
 
 ## Dienstleistungen und Baukosten
 
+
 : Speisen und Getränke\index{Speisen und Getränke}
 
   ------------------ -------
@@ -2105,7 +2159,6 @@ einer Stufe unter der Stufe des Spielercharakters haben.
   Übernachtung im Einzelzimmer                3 GM
   Hafer für 1 Pferd pro Tag                   1 SM
   ----------------------------------------- ------
-
 
 
 : Handwerker und Mietlinge
@@ -2291,39 +2344,53 @@ Die Kosten von Türmen verdoppeln sich für Türme die höher als
 als ihr Durchmesser sind. Türme dürfen maximal doppelt so 
 hoch sein wie ihr Durchmesser.
 
+\enlargethispage{1cm}
+
 ![](img/DnD_Chimera.png)
 
-\cleartoverso
-\begin{adjustwidth*}{-0.5cm}{-1cm}
 \pagestyle{empty}
+```{=latex}
+\cleartoverso\begin{adjustwidth*}{-0.5cm}{-0.5cm}
 
-\begin{minipage}[t]{8cm}\vspace{0pt}
+\enlargethispage{1cm}
 
-\section{Charakterbogen}\index{Charakterbogen}
+\begin{minipage}[t]{7.8cm}\vspace{0pt}
+
+\phantomsection
+\addcontentsline{toc}{section}{Charakterbogen}
+\index{Charakterbogen}
+
+\tikz\draw (0,0) -- (6,0);\newline
+\textbf{Name des Charakters}
+
+\vspace{8pt}
 
 \begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
- & \\
-\tikz\draw (0,0) -- (3,0);\newline
-Name des Charakters
-&
-\tikz\draw (0,0) -- (3,0);\newline
-Gesinnung \\
  & \\
 \tikz\draw (0,0) -- (3,0);\newline
 Klasse
 &
 \tikz\draw (0,0) -- (3,0);\newline
-Volk \\
+Stufe \\
  & \\
 \tikz\draw (0,0) -- (3,0);\newline
-Erfahrung
+Spezies
 &
 \tikz\draw (0,0) -- (3,0);\newline
-Stufe \\
+Gesinnung \\
+ & \\
+\tikz\draw (0,0) -- (3,0);\newline
+Erfahrungsbonus
+&
+\tikz\draw (0,0) -- (3,0);\newline
+Erfahrung (XP)\\
 \end{tabular}
+
+\vspace{8pt}
 
 \begin{tabular}{p{0.5\textwidth}p{0.5\textwidth}}
 % Trefferpunkte
+\hskip 0.5cm
 \tikz [baseline = 0.6ex]
 \draw [scale=0.7] (-1,0.3) .. controls (-1,1) and (-0.2,1) .. (0,0.5)
       (0,0.5) .. controls (0.2,1) and (1,1) .. (1,0.3)
@@ -2331,6 +2398,7 @@ Stufe \\
       (0,-1) .. controls (-0.5,-0.8) and (-1,-0.4) .. (-1,0.3);
 &
 %Rüstungsklasse
+\hskip 0.5cm
 \tikz [baseline = 0.6ex]
 \draw [scale=0.7] (-1,1) -- (1,1) 
       (1,1) .. controls (1,-0.5) .. (0,-1)
@@ -2340,7 +2408,13 @@ Trefferpunkte & Rüstungsklasse \\
 \end{tabular}
 
 \end{minipage}
-\begin{minipage}[t]{4.5cm}\vspace{0pt}
+\begin{minipage}[t]{4.2cm}\vspace{0pt}
+
+\centering
+\tikz\draw (0,0) rectangle (\textwidth,3.5cm);\linebreak
+Portrait oder Symbol
+
+\vspace{8pt}
 
 \begin{tabular}{p{\textwidth}}
 \\
@@ -2351,9 +2425,6 @@ SpielerIn\\
 Spielleitung\\
 \end{tabular}
 
-\centering
-\tikz\draw (0,0) rectangle (\textwidth,3.5cm);\linebreak
-Portrait oder Symbol des Charakters
 \end{minipage}
 
 
@@ -2395,7 +2466,7 @@ Geschicklichkeit
 \textbf{Angriffstabellen (1W20 gegen RK)}
 
 \renewcommand{\arraystretch}{1.2}
-\begin{tabular}{|p{2.5cm}|c|c|c|c|c|c|c|c|c|c|c|c|c|p{2cm}|}
+\begin{tabular}{|p{2.2cm}|c|c|c|c|c|c|c|c|c|c|c|c|c|p{2cm}|}
 \hline
 Waffe &  9 & 8 & 7 & 6 & 5 & 4 & 3 & 2 & 1 & 0 & -1 & -2 &
 Schaden \\
@@ -2411,6 +2482,8 @@ Schaden \\
 \clearpage
 \thispagestyle{empty}
 
+\begin{minipage}[t]{0.6\textwidth}
+\vspace{0pt}
 \textbf{Fertigkeiten}
 
 \vspace{4cm}
@@ -2419,6 +2492,30 @@ Schaden \\
 
 \vspace{4cm}
 
+\end{minipage}
+\begin{minipage}[t]{0.4\textwidth}
+\vspace{0pt}
+\begin{tabular}{|l|p{0.8cm}|}
+\hline
+Geräusche hören & \\
+\hline
+Geheimtüren finden & \\
+\hline
+Fallen finden/entfernen & \\
+\hline
+Schlösser öffnen & \\
+\hline
+Schleichen & \\
+\hline
+Verstecken & \\
+\hline
+Taschendiebstahl & \\
+\hline
+Wände erklimmen & \\
+\hline
+\end{tabular}
+\end{minipage}
+
 \textbf{Geld und Schätze}
 
 \vspace{4cm}
@@ -2426,8 +2523,51 @@ Schaden \\
 \textbf{Notizen}
 
 \end{adjustwidth*}
-\pagebreak
+\pagebreak\pagestyle{plain}
 
-\pagestyle{plain}
+\section{Ergänzungen}
+
+\begin{tikzpicture}
+\foreach \x in {-5,-4,...,6}{
+\foreach \y in {-5,-4,...,11}{
+\fill[black!40] (\x,\y) circle[radius=0.5pt];
+}}
+\end{tikzpicture}
+
+\clearpage
+
+\mbox{}
+\vfill
+\begin{tikzpicture}
+\foreach \x in {-5,-4,...,6}{
+\foreach \y in {-5,-4,...,11}{
+\fill[black!40] (\x,\y) circle[radius=0.5pt];
+}}
+\end{tikzpicture}
+
+\clearpage
+
+\mbox{}
+\vfill
+\begin{tikzpicture}
+\foreach \x in {-5,-4,...,6}{
+\foreach \y in {-5,-4,...,11}{
+\fill[black!40] (\x,\y) circle[radius=0.5pt];
+}}
+\end{tikzpicture}
+
+\clearpage
+
+\mbox{}
+\vfill
+\begin{tikzpicture}
+\foreach \x in {-5,-4,...,6}{
+\foreach \y in {-5,-4,...,11}{
+\fill[black!40] (\x,\y) circle[radius=0.5pt];
+}}
+\end{tikzpicture}
+
+\clearpage
 
 
+```

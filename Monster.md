@@ -490,8 +490,52 @@ Aber auch jede Art von tierartigem phantastischem Wesen ist denkbar.
 
 ## Untote
 
-Skelette, Zombies, Schatten, Gruftschrecken, Ghule (?), Banshees,
-Geister, Vampire
+Untote haben einige gemeinsame Eigenschaften: sie sind bis auf
+wenige Ausnahmen immun gegen *Schlaf* und *Bezauberungs*-Sprüche.
+
+: 1W8 Machtstufen von Untoten
+
+| 1W8   | Typisches Beispiel | Anzahl | TW | RK |
+|:--:|--------------------|--------|------|----|
+| 1 | Skelett | 3-30 | 1/2-1 | 7 | 
+| 2 | Zombie | 3-30 | 1-2 | 8 |
+| 3 | Ghul | 2-24 | 2 | 6 |
+| 4 | Schatten |  | 2-3 | 7 |
+| 5 | Gruftbewohner (Wight) | 2-24 |  3 | 5 |
+| 6 | Unhold (Ghast) | 1-6 | 4 | 4 |
+| 7 | Todesalb (Wraith) | 2-16 | 4-5 | 3 |
+| 8 | Mumie | 1-12 | 5-6 | 3 |
+| 9 | Schreckgespenst (Spectre) | 1-8 | 6-7 | 2 |
+| 10 | Todesfee (Banshee) | 1 | 7 | 0 |
+| 11 | Vampir | 1-6 | 7-9 | 2 |
+| 12 | Geist | 1 | 10 | 0 |
+| 13 | Leichnam (Lich) | 1 | 11+ | 0 | 
+
+: 1W20 untote Eigenschaften
+
+| 1W20 | Eigenschaft  |
+|:--:|-----------------------------|
+| 1 | nimmt nur halben Schaden |
+| 2 | Stufenraub |
+| 3 | Stufenraub x 2 |
+| 4 | Lähmende Berührung |
+| 5 | Int. 13, magiebegabt wie ZK entsprechender Stufe |
+| 6 | Stärkeraub |
+| 7 | Geisterheulen: Rettungswurf oder *Furcht* |
+| 8 | langsam, BW 6" |
+| 9 | schnell, BW 12" |
+| 10 | Unsichtbar, nur ein Schatten |
+| 11 | gasförmig, kann duch Spalten und Schlüssellöcher gleiten |
+| 12 | Resistenz gegen nichtmagische Waffen |
+| 13 | Verursacht Krankheit |
+| 14 | Kann außer durch Magie nur durch Feuer geschädigt werden |
+| 15 | Silberwaffen machen halben Schaden | 
+| 16 | Silberwaffen machen vollen Schaden | 
+| 17 | Opfer wird nach 24 Stunden zu Untotem gleicher Art |
+| 18 | Verwesungsgestank |
+| 19 | Zauberkruke |
+| 20 | Eisige Berührung 1-10 Punkte Schaden |
+
 
 ## Raubtiere
 
@@ -597,7 +641,7 @@ Golems, Roboter, Automata
 
 ## Dämonen, Engel und Teufel
 
-Dämonen, Teufel, Engel, Halbgötter, Diener
+Teufel, Engel, Halbgötter, Diener
 
 ### Dämonen
 
@@ -625,7 +669,13 @@ Dämonische Namen
 
 ### Teufel
 
-Teuflische Größenklassen
+: Teuflische Größenklassen
+
+|  | Klasse | TW | RK |
+|:--:|----------|:---:|:---:|
+|  | niederste | 1 | 9 |
+|  | niedere | 2-10 | 
+|  | Erzteufel | 50 |
 
 Teuflische Eigenschaften
 

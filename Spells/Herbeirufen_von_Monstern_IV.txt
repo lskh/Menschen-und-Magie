@@ -5,9 +5,10 @@ Zauberkundige 6
 10' (3 m)
 Verzögerung 1 Phase, Wirkung 6 Runden (Kampfrunden)
 Eine Stufe 4 Kreatur zur Unterstützung herbeirufen.
-Der Zauberkundige ruft auf magischem Weg Kreaturen herbei, die ihm dienen
-und für ihn kämpfen, bis die Wirkdauer vorbei ist, oder die Kreaturen
-getötet werden. Es dauert eine Phase, bis die Kreaturen erscheinen. Erscheint ein Monster
+Der Zauberkundige ruft auf magischem Weg eine Kreatur herbei, die ihm
+dient
+und für ihn kämpft, bis die Wirkdauer vorbei ist, oder die Kreatur
+getötet wird. Es dauert eine Phase, bis die Kreatur erscheint.
 
 : Stufe IV Monster
 

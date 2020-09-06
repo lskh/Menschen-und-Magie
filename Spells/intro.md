@@ -46,9 +46,9 @@ Quelldateien für dieses Dokument unter
 
 \normalsize 
 
-\tableofcontents
+\tableofcontents*
 
-\listoftables
+\listoftables*
 
 \mainmatter
 
