@@ -18,9 +18,6 @@ all: MnM.pdf Spells.pdf Hausregeln.pdf
 	mv tmp.$<.pdf $@ &&\
 	rm tmp.$<.*
 
-MnM.md: intro.md Charaktererschaffung.md Abenteuer.md Anhang.md
-	cat $^ > MnM.md
-
 Spells/Spells.md: Makefile
 	cd Spells ; make Spells.md
 
@@ -28,7 +25,7 @@ Spells.md: Spells/Spells.md Makefile
 	cp Spells/Spells.md Spells.md 
 
 clean:
-	rm -f tmp* Spells.md MnM.md
+	rm -f tmp* Spells.md
 
 realclean: clean
 	cd Spells; make realclean
