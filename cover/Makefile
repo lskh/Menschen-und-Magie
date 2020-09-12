@@ -16,16 +16,18 @@ Hausregeln-cover.png: Makefile ../Hausregeln.pdf
 	-fuzz 100% tmp.png Hausregeln-back.png
 	rm -f tmp.png
 
-MnM-cover.png: Makefile ../MnM.pdf
-	pdftoppm -f 1 -l 1 ../MnM.pdf > tmp.png
+MnM-cover.png: Makefile MnM-fullcover.pdf
+	pdftoppm -f 1 -l 1 MnM-fullcover.pdf > tmp.png
 	convert +level-colors "#000000","#aa8444" \
 	tmp.png MnM-cover.png
-	convert +level-colors "#aa8444","#aa8444" \
-	-fuzz 100% tmp.png MnM-back.png
 	rm -f tmp.png
 
+MnM-fullcover.pdf: Makefile MnM-fullcover.tex
+	pdflatex MnM-fullcover.tex
+	rm *.aux *.log
+
 clean: 
-	rm -f *~
+	rm -f *~ MnM-fullcover.pdf
 
 realclean: clean
 	rm -f *.png

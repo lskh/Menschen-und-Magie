@@ -114,7 +114,25 @@ Folgende Regeln weichen von den ursprünglichen Regeln des Spiels ab:
    Sprüche Zauberkundige zu Beginn beherrschen. In vielen
    Regelvarianten haben sie zu Beginn einen oder zwei Sprüche.
 
+2. Elfen können in den Originalregeln zwar Kämpfer *und* Zauberkundige
+   sein, aber in einer Spielrunde immer nur *entweder* als Kämpfer
+   *oder* als Zauberkundiger agieren. Sie sammeln dann in der
+   jeweiligen Runde auch nur Erfahrungspunkte für die gespielte
+   Klasse.
+
+2. In den Originalregeln ist nicht genau fest gelegt, wie exakt der
+   Fernkampfbonus von Halblingen ist. Dort steht nur, dass sie
+   Geschosse mit "tötlicher Genauigkeit" abfeuern ... ich denke das
+   rechtfertigt den Bonus von +2.
+
 2. Zauberkundige können Spruchrollen erst ab der 11. Stufe herstellen.
+
+2. In den Originalregeln hießen die Rettungswurf-Kategorien anders.
+   Die Kategorie für kurze Zauberstäbe (*wands*) schloss auch 
+   Lähmung mit ein, und die Kategorie *Sprüche* auch die Wirkung von
+   langen Zauberstäben (*staves*). Wer soll da durchblicken? Die
+   Kategorien wie sie hier angegeben sind, haben sich in den späteren
+   Editionen und den Retro-Klonen allgemein etabliert.
 
 3. Die Originalregeln machen keine Angaben zu Attributsproben oder
    ähnlichem. Allerdings darf man wohl vermuten, dass die Autoren

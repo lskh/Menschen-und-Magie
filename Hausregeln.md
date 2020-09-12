@@ -17,10 +17,9 @@ Eine Hausregelsammlung für Old-School Rollenspiele \newline
 kompatibel mit *Swords & Wizardry* und allen Regeln, die auf dem
 Original Fantasy Rollenspiel von 1974 basieren.
  
+Text und Satz: © Wanderer Bill, 
+<wandererbill73@gmail.com>\newline
 Datum:
-
-Text und Satz: © Wanderer Bill, 2019, 2020, 
-<wandererbill73@gmail.com>
 \small
 
 Grafiken: LadyofHats, CC 0, public domain,
@@ -1813,10 +1812,11 @@ Stufe &  Lauschen &
   9 &  66 &  57 &   50 &  54 \\
   10+ & 70 &  60 &   54 &  58 \\
 \midrule
- Elfen & +17 & +33 &  -10 & 0 \\
+ Elfen & +17 & +33 &  0 & 0 \\
  Halblinge & +17 & 0 &    +5 &  +10 \\
  Zwerge & 0 & +16 &   +20 & +10 \\
-\begin{minipage}{16mm}Orks und Goblins\strut\end{minipage} & +17 & 0 & 0 & -10 \\
+\begin{minipage}{16mm}Orks und Goblins\strut\end{minipage} & +17 & 0 &
+0 & 0 \\
 \bottomrule
 \end{tabular}
 
@@ -1851,10 +1851,10 @@ Stufe & Schleichen & Verstecken &
 10+ & 58 &  44 &   65 & 96 \\
 \midrule
 Elfen & +10 & +10 &  +5 & +5 \\
-Halblinge & +15 & +20 &  +5 & -10 \\
-Zwerge & -10 & 0 &  0 & -10 \\
+Halblinge & +15 & +20 &  +5 & -5 \\
+Zwerge & 0 & 0 &  0 & -5 \\
 \begin{minipage}{16mm}Orks und Goblins\strut\end{minipage}
-& +10 & +10 & -10 & 0 \\
+& +10 & +10 & -4 & 0 \\
 \bottomrule
 \end{tabular}
 
@@ -2488,7 +2488,7 @@ Schaden \\
 
 \vspace{4cm}
 
-\textbf{Mitgeführte Ausrüstung}
+\textbf{Mitgeführte Ausrüstung (BW \tikz\draw (0,0) -- (1,0); ")}
 
 \vspace{4cm}
 
@@ -2496,6 +2496,10 @@ Schaden \\
 \begin{minipage}[t]{0.4\textwidth}
 \vspace{0pt}
 \begin{tabular}{|l|p{0.8cm}|}
+\hline
+Türen öffnen & \\
+\hline
+Gegner überraschen & \\
 \hline
 Geräusche hören & \\
 \hline

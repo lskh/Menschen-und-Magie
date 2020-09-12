@@ -25,7 +25,7 @@ frei halten.
 Oben in die Mitte, zwischen dem Namen des Charakters und deinem Namen
 brauchst Du etwas Platz, um *Volk*, *Klasse* und *Stufe* deines Charakters
 zu notieren. Was mit Klasse gemeint ist, besprechen wir gleich, bei Stufe
-kannst Du schon mal eine eins eintragen. Du brauchst auch noch ein Feld um
+kannst Du schon mal eine Eins eintragen. Du brauchst auch noch ein Feld um
 Deine *Gesinnung* zu notieren. Eine Zeile unter *Klasse* würde sich dafür
 anbieten.
 
@@ -80,7 +80,7 @@ Weisheit \index{Weisheit}
 
 Hat ein Charakter auch in anderen Attributen als seinem Primärattribut
 gute Werte, kann dies helfen, denn Erfahrungsbonus weiter zu steigern.
-Der Aufschlag auf das Primärattribut gilt allerdings nur für die
+Dieser Aufschlag auf das Primärattribut gilt allerdings nur für die
 Berechnung des Erfahrungsbonus.
 
 : Erfahrungsbonus durch andere Attribute 
@@ -111,7 +111,7 @@ Dies ist sicherlich eine der seltsamsten und kompliziertesten Regeln
 in der Originalausgabe des Spiels, und sie wird in vielen Retro-Klonen
 kommentarlos übergangen. Aber anhand eines Beispiels lässt
 sich gut verstehen, wie die Regel funktioniert, und warum sie sogar
-sinnvoll ist.
+sinnvoll ist:
 
 Nehmen wir zum Beispiel einen Charakter mit diesen Spielwerten: Stärke
 9, Intelligenz 17 und Weisheit 10. Wegen der außergewöhnlichen
@@ -136,9 +136,8 @@ Geschicklichkeit \index{Geschicklichkeit}
      entsprechende Angriffswürfe.
 
 Konstitution \index{Konstitution}
-:    beschreibt die Zähigkeit eines Charakters, denn sie entscheidet
-     mit welchem Würfel die Trefferpunkte des Charakters ermittelt
-     werden. Trefferpunkte stehen für die Menge an Schaden, Verletzungen,
+:    beschreibt die Zähigkeit eines Charakters. 
+     Trefferpunkte stehen für die Menge an Schaden, Verletzungen,
      Prellungen aber auch zum Beispiel Rückschlag und Frustration, die
      ein Charakter im Kampf erleiden kann. Sinken die Trefferpunkte
      auf Null geht ein Charakter leblos zu Boden. Außerdem hat die
@@ -262,9 +261,20 @@ Wahl der Klasse hängt auch unmittelbar die Anzahl der Trefferpunkte
 Mal ins Abenteuer zieht.  Den Platz für die Klasse, oben in der Mitte,
 hattest Du Dir ja schon frei gehalten. Unter den Feldern für Klasse
 und Gesinnung, also rechts neben den Attributen, solltest Du Dir nun
-Felder für Trefferpunkte (kurz TP - oder auch HP für *hit points*) und
-Rüstungsklasse (kurz RK - oder AC für *armor class*) einrichten. 
-
+Felder für Trefferpunkte\index{Trefferpunkte}\index{TP} 
+(kurz TP - oder auch HP für *hit points*) und
+Rüstungsklasse (kurz RK - oder AC für *armor
+class*)\index{RK}\index{Rüstungsklasse} einrichten. Die
+Trefferpunkte geben an, wie viel Schaden ein Charakter im Kampf
+aushalten kann, bevor er zu Boden geht. Du solltest Deine
+Trefferpunkte jetzt auswürfeln: wenn Du einen Zauberkundigen oder
+einen Kleriker spielst mit einem 6er Würfel (1W6), und wenn Du einen
+Kämpfer spielst mit einem 6er Würfel, wobei Du zu Deinem Wurf noch
+eine 1 hinzurechnest (1W6+1). Vergiss nicht ggf. auch noch den
+Konstitutionsbonus anzurechnen. Die Rüstungsklasse
+bestimmt, wie leicht oder schwer es ist, dem Charakter überhaupt
+Schaden zuzufügen. Du erfährst Deine Rüstungsklasse, sobald Du Deine
+Ausrüstung ermittelt hast.
 
 Unter dem Feld für die Rüstungsklasse kannst Du als nächstes eine
 kleine Tabelle mit deinen fünf Rettungswürfen \index{Rettungswürfe}
@@ -319,8 +329,7 @@ Klassenfähigkeiten
      nach dem Wirken vergessen werden. Der Spruch kann erst nach
      erneuter Vorbereitung wieder gewirkt werden. Zauberkundige der
      ersten Stufe können nur einen Spruch des ersten Grades pro Tag
-     wirken.
-	
+     wirken.  
      Zauberkundige der ersten Stufe haben zu Beginn 4 Sprüche in
      ihrem Zauberbuch, und zwar *Magie lesen*, einen nach Wunsch
      des Spielers ausgewählten Spruch, und zwei zufällig
@@ -381,7 +390,7 @@ Rettungswürfe
 :    Gift: 11, Stäbe: 12, Lähmung: 14,\newline
      Odem: 16, Sprüche 15
 
-
+## Wechsel der Charakterklasse
 
 Unter bestimmten Voraussetzungen kann es auch möglich sein die Klasse
 eines Charakters zu wechseln\index{Klasse!Wechsel der}. 
@@ -566,7 +575,7 @@ erforderlich.
 | 7 | Entdeckt Böses | \pageref{tag-15} |
 | 8 | ESP | \pageref{tag-13} |
 | 9 | Dauerndes Licht* | \pageref{tag-10} |
-| 10 | Klopf-Klopf | \pageref{tag-68} |
+| 10 | Klopfen | \pageref{tag-68} |
 
 
 : Klerikersprüche des 1. Grades
@@ -724,7 +733,7 @@ Gesinnung des Klerikers wird seine Gottheit unter Umständen nicht damit
 einverstanden sein, dass er seine Macht nutzt um Schaden zu verursachen.
 
 
-### Klopf-Klopf
+### Klopfen
 
 \index{Klopf-Klopf}\label{tag-68}
 \index{Klopfen}
@@ -1049,8 +1058,8 @@ Geld und Ausrüstung
 
 Üblicherweise wird das Startgeld eines Charakters ermittelt in dem ein
 Wurf von 3W6 mit 10 multipliziert wird. Dabei ergibt sich dann ein
-Betrag von 30 bis 180 Goldmünzen (GM), von dem der Charakter seine
-erste Ausrüstung kaufen kann. 
+Betrag von 30 bis 180 Goldmünzen (GM)\index{GM}\index{Goldmünzen},
+von dem der Charakter seine erste Ausrüstung kaufen kann. 
 
 In vielen Regelwerken kommen an dieser Stelle Tabellen mit diversen
 Ausrüstungsgegenständen und Preisangaben, aus der sich jeder seine
@@ -1059,70 +1068,12 @@ mühsam, besonders, wenn während eines laufenden Spiels schnell ein
 neuer Charakter erstellt werden soll. Viel einfacher ist
 es, auf einer der folgenden Tabellen die Grundausrüstung
 auszuwürfeln^[Die Idee mit der auswürfelbaren Ausrüstung wurde das erste
-mal von dem Blogger Brendan S., auch bekannt als *Necropraxis*
+Mal von Brendan S. auf seinem *Necropraxis* Blog 
 veröffentlicht. Er war so nett, mir zu erlauben sie in *Menschen &
 Magie* zu verwenden.]. Dabei entspricht zum Beispiel der Eintrag mit der
 Nummer 5 in der Klerikertablle einer soliden Ausrüstung, die sich ein
-Kleriker-Charakter von 50 Goldmünzen kaufen könnte. Was dabei nicht
+Kleriker von 50 Goldmünzen kaufen könnte. Was dabei nicht
 ausgegeben wurde, bleibt als Bargeld übrig.
-
-Wenn Dir Deine erwürfelte Ausrüstung nicht gefällt, kannst Du
-natürlich eine Ausrüstung mit einem niedrigeren Wert aussuchen, und
-Dir die Differenz in Goldmünzen gut schreiben. Sagen wir Du würfelst
-für Deinen Zauberkundigen eine 12, aber die Ausrüstung, die unter 11
-angegeben ist, gefällt Dir besser, dann nimm Einfach die Ausrüstung
-Nummer 11 und schreibe Dir noch 10 Goldmünzen extra gut.
-
-Alles was *nach* der Charaktererstellung an Ausrüstung benötigt wird, 
-muss *im Spiel* beschafft werden. Was genau ein Händler im Angebot
-hat, und zu welchen Preisen, hängt von der Situation in der Spielwelt
-ab.
-
-Waffen\index{Waffen} machen bei einem erfolgreichen Angriff
-grundsätzlich 1 - 6 Punkte Schaden\index{Schaden}. Deshalb sind für
-die einzelnen Waffen auch keine speziellen Werte angegeben, der
-Schaden wird einfach immer mit 1W6 ausgewürfelt. Es mag vielleicht
-unsinnig erscheinen, dass ein Dolch genauso viel Schaden verursachen
-soll wie eine Streitaxt, aber letztlich kann natürlich ein einzelner
-Dolchstich tödlich sein, und eine Streitaxt kann zwar treffen, aber
-dann doch nur eine Schramme verursachen. Im ersten Zusatzband zu den
-Originalspielregeln mit dem Titel *Greyhawk*\index{Greyhawk}, 
-wurde der sogenannte
-variable Waffenschaden eingeführt. Es mag vielleicht realistischer
-erscheinen, wenn ein Dolch nur 1-4 Punkte Schaden verursacht, und eine
-Streitaxt 1-8 Punkte, aber wenn man darüber nachdenkt, dann ist es
-durchaus reizvoll, die Würfel die Geschichte erzählen zu lassen. Eine
-6 beim Angriff mit einem Dolch könnte man erzählerisch als meisterlich
-geführten, hinterhältigen Angriff ausgestalten, während die Schramme
-mit der Streitaxt den furchteinflößenden Minotaurus nur zu einem
-hämischen Lachen veranlasst, bevor er zu seinem Gegenangriff ansetzt.
-
-Noch ein Wort zum Thema Rüstungsklasse\index{Rüstungsklasse}: Die
-Rüstungsklasse zeigt an, wie schwer es ist einem Charakter oder einem
-anderen Wesen Schaden zuzufügen. In den Originalspielregeln war die
-Rüstungsklasse eine Zahl zwischen 9 und 2, und zwar war die
-Rüstungsklasse um so *besser* je *niedriger* die Zahl war.
-Rüstungsklasse 9 wäre demnach ungerüstet, und Rüstungsklasse 2 wäre
-ein Charakter mit Plattenrüstung und Schild. Diese ursprüngliche
-Rüstungsklasse wird heute "absteigende Rüstungsklasse" genannt, denn
-es hat sich irgendwann auch die "aufsteigende Rüstungsklasse"
-entwickelt, die seit der 3. Edition des Originalspiels zur 
-Anwendung kommt. Bei der
-aufsteigenden Rüstungsklasse ist höher besser, was vielleicht vielen
-einfacher erscheinen mag. Um möglichst
-kompatibel zu sein, wird in *Swords & Wizardry* und vielen *modernen* 
-Old-School Publikationen
-beides angegeben, und zwar zuerst die traditionelle absteigende
-Rüstungsklasse, und dann in eckigen Klammern die entsprechende
-aufsteigende Rüstungsklasse. Demnach wäre ungerüstet RK 9 [10],
-und Plattenrüstung RK 3 [16]. Ein Schild erhöht bzw. erniedrigt die
-Rüstungsklasse jeweils um eins, also -1 [+1]. Wenn Ihr also die alte
-absteigende Rüstungsklasse benutzt, orientiert Euch an der Zahl vor
-der eckigen Klammer, wenn ihr aufsteigende Rüstungsklasse benutzt
-gilt die Zahl *in* der eckigen Klammer^[Natürlich hängen absteigende
-und aufsteigende Rüstungsklasse zusammen, es sind im Grunde zwei
-Seiten der selben Gleichung, denn aufsteigende und absteigende
-Rüstungsklasse ergeben zusammen immer 19.].
 
 ### Ausrüstung für Kämpfer
 \label{eqtab}
@@ -1355,14 +1306,73 @@ Rüstungsklasse ergeben zusammen immer 19.].
      kleiner Sack, 10 GM, BW 6"
 \label{eqtabend}
 
+
+Wenn Dir Deine erwürfelte Ausrüstung nicht gefällt, kannst Du
+natürlich eine Ausrüstung mit einem niedrigeren Wert aussuchen, und
+Dir die Differenz in Goldmünzen gut schreiben. Sagen wir Du würfelst
+für Deinen Zauberkundigen eine 12, aber die Ausrüstung, die unter 11
+angegeben ist, gefällt Dir besser, dann nimm Einfach die Ausrüstung
+Nummer 11 und schreibe Dir noch 10 Goldmünzen extra gut.
+
+Alles was *nach* der Charaktererstellung an Ausrüstung benötigt wird, 
+muss *im Spiel* beschafft werden. Was genau ein Händler im Angebot
+hat, und zu welchen Preisen, hängt von der Situation in der Spielwelt
+ab.
+
+Waffen\index{Waffen} machen bei einem erfolgreichen Angriff
+grundsätzlich 1 - 6 Punkte Schaden\index{Schaden}. Deshalb sind für
+die einzelnen Waffen auch keine speziellen Werte angegeben, der
+Schaden wird einfach immer mit 1W6 ausgewürfelt. Es mag vielleicht
+unsinnig erscheinen, dass ein Dolch genauso viel Schaden verursachen
+soll wie eine Streitaxt, aber letztlich kann natürlich ein einzelner
+Dolchstich tödlich sein, und eine Streitaxt zwar treffen, aber
+dann doch nur eine Schramme verursachen. Im ersten Zusatzband zu den
+Originalspielregeln mit dem Titel *Greyhawk*\index{Greyhawk}, 
+wurde der sogenannte
+variable Waffenschaden eingeführt. Viele finden es realistischer, 
+wenn ein Dolch nur 1-4 Punkte Schaden verursacht, und eine
+Streitaxt 1-8 Punkte, aber wenn man darüber nachdenkt, dann ist es
+durchaus reizvoll, die Würfel die Geschichte erzählen zu lassen. Eine
+6 beim Angriff mit einem Dolch könnte man erzählerisch als meisterlich
+geführten, hinterhältigen Angriff ausgestalten, während die Schramme
+mit der Streitaxt den furchteinflößenden Minotaurus nur zu einem
+hämischen Lachen veranlasst, bevor er zu seinem Gegenangriff ansetzt.
+
+Noch ein Wort zum Thema Rüstungsklasse\index{Rüstungsklasse}: Die
+Rüstungsklasse zeigt an, wie schwer es ist einem Charakter oder einem
+anderen Wesen Schaden zuzufügen. In den Originalspielregeln war die
+Rüstungsklasse eine Zahl zwischen 9 und 2, und zwar war die
+Rüstungsklasse um so *besser* je *niedriger* die Zahl war.
+Rüstungsklasse 9 wäre demnach ungerüstet, und Rüstungsklasse 2 wäre
+ein Charakter mit Plattenrüstung und Schild. Diese ursprüngliche
+Rüstungsklasse wird heute "absteigende Rüstungsklasse" genannt, denn
+es hat sich irgendwann auch die "aufsteigende Rüstungsklasse"
+entwickelt, die seit der 3. Edition des Originalspiels zur 
+Anwendung kommt. Bei der
+aufsteigenden Rüstungsklasse ist höher besser, was vielleicht vielen
+einfacher erscheinen mag. Um möglichst
+kompatibel zu sein, wird in *Swords & Wizardry* und vielen *modernen* 
+Old-School Publikationen
+beides angegeben, und zwar zuerst die traditionelle absteigende
+Rüstungsklasse, und dann in eckigen Klammern die entsprechende
+aufsteigende Rüstungsklasse. Demnach wäre ungerüstet RK 9 [10],
+und Plattenrüstung RK 3 [16]. Ein Schild erhöht bzw. erniedrigt die
+Rüstungsklasse jeweils um eins, also -1 [+1]. Wenn Ihr also die alte
+absteigende Rüstungsklasse benutzt, orientiert Euch an der Zahl vor
+der eckigen Klammer, wenn ihr aufsteigende Rüstungsklasse benutzt
+gilt die Zahl *in* der eckigen Klammer^[Natürlich hängen absteigende
+und aufsteigende Rüstungsklasse zusammen, es sind im Grunde zwei
+Seiten der selben Gleichung: aufsteigende und absteigende
+Rüstungsklasse ergeben zusammen gerechnet immer 19.].
+
 Den Charakter vollenden
 -----------------------
 
 Nach dem der Charakter nun Attribute hat, eine Klasse, die dazu
 gehörigen Trefferpunkte und Rettungswürfe ermittelt wurden, nach dem
-der Charakter vielleicht die ersten Zaubersprüche gelernt hat, und
-eine Ausrüstung gekauft wurde, kann jetzt auch noch der letzte
-wichtige Spielwert, nämlich die Rüstungsklasse auf dem Charakterbogen
+er vielleicht die ersten Zaubersprüche gelernt hat, und
+eine Ausrüstung gekauft wurde, kann jetzt also auch noch 
+die Rüstungsklasse auf dem Charakterbogen
 eingetragen werden.
 
 Ganz unten sollte noch etwas Platz eingerichtet werden, um zu

@@ -1,7 +1,7 @@
 all: MnM.pdf Spells.pdf Hausregeln.pdf 
 	cd cover; make
 
-%.pdf: %.md Makefile template.tex 
+%.pdf: %.md Makefile license.md template.tex 
 	pandoc -s -t latex --template template.tex \
 	-f markdown+implicit_figures \
 	--variable lang=de \

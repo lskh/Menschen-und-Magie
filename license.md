@@ -176,7 +176,7 @@ Delving Deeper Reference Rules Volume 2: The Referee’s Guide Copyright 2012, C
 
 Delving Deeper Reference Rules Volume 3: The Monster & Treasure Reference Copyright 2012, Cameron Dubeers and
 
-Menschen & Magie, © 2019, Wanderer Bill
+Menschen & Magie, © 2019, 2020 Wanderer Bill
 
 END OF LICENCE
 

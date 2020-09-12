@@ -4,7 +4,7 @@
 Ins Abenteuer ziehen
 ====================
 
-Grob gesagt kann man die Geschehnisse einer Spielrunde meistens
+\lettrine{G}{rob gesagt} kann man die Geschehnisse einer Spielrunde meistens
 in eine von drei Kategorien einteilen. Das Stadtabenteuer, das
 Erkunden von Höhlen und Verliesen, auch bekannt als *Dungeon
 Crawl* und drittens das Wildnisabenteuer, oder die Überlandreise.
@@ -48,7 +48,7 @@ Sechserwürfel erfolgreich ist:
 
 : 1W6 Proben
 
-| Aktion | Erfolg auf 1W6 |
+| Aktion | Erfolg bei |
 |:--------------------|:-------------------------|
 | Geräusche hören     | 1 (Halbmenschen bei 2 oder weniger) |
 | Türen aufbrechen    | 2 oder weniger |
@@ -161,14 +161,16 @@ Magie
 \index{Spruchrollen}
 
 Es kann gut sein, dass die Abenteurer auf ihren Unternehmungen
-auf Pergamentrollen geschriebene Sprüche entdecken. Vielleicht
+auf Pergamentrollen geschriebene Zaubersprüche entdecken. Vielleicht
 als Bestandteil eines Schatzes, oder man bietet ihnen 
 eine Spruchrolle zum Kauf, oder als Lohn für eine besondere
 Aufgabe an.
 
-Bei diesen Spruchrollen kann es sich um Klerikersprüche - die von
-jedem (!) gewirkt werden können - oder um Zauberkundigen-Sprüche
-handeln. Letztere können nur von Zauberkundigen benutzt werden.
+Bei diesen Spruchrollen kann es sich um Klerikersprüche
+oder um Zauberkundigen-Sprüche
+handeln, die Charakteren der jeweiligen Klasse vorbehalten sind,
+sowie manchmal auch um Schutzsprüche, die von jeder Klasse
+genutzt werden können.
 Sprüche von einer Spruchrolle werden - unabhängig von der Stufe des
 Anwenders - durch lautes Vorlesen gewirkt. Es ist also mit Hilfe
 von Spruchrollen möglich, sehr mächtige Sprüche zu wirken, zu
@@ -209,13 +211,13 @@ Zauberkundige können auch völlig neue Sprüche entwickeln. Dieses
 ist allerdings sehr aufwändig und es gibt keine Garantie für Erfolg.
 
 Wenn Du eine Idee für einen neuen, genialen Zauberspruch hast,
-besprich Deine Idee in Ruhe mit dem Spielleiter[^spells]. Vielleicht
+besprich Deine Idee in Ruhe mit der Spielleitung[^spells]. Vielleicht
 muss der Effekt noch etwas angepasst werden, um nicht zu mächtig für
 den gewünschten Spruch-Grad zu sein. Wenn ihr Euch einig seid, muss
 der Zauberkundige eine Woche Arbeit und mindestens 2.000 GM pro
 Spruch-Grad in die Forschung investieren. Selbst entwickelte Sprüche
 haben allerdings auch einen gewisse Chance fehlerhaft zu sein, die in
-der Regel von der Spielleiterin verdeckt ermittelt wird. Dem
+der Regel von der Spielleitung verdeckt ermittelt wird. Dem
 Zauberkundigen bleibt also nichts anderes übrig, als den neu
 entwickelten Spruch zu testen.
 
@@ -306,7 +308,7 @@ Beispiel, dass sich die Kleidung des Betroffenen in Luft auflöst,
 oder dessen Nase plötzlich unnatürliche Proportionen annimmt. Es
 können aber auch dramatische Dinge geschehen. 
 
-Nicht ganz selten, kann der Fluch
+Nicht ganz selten kann der Fluch
 der auf einem magischen Gegenstand liegt, seinen Träger auf eine
 bestimmte Queste zwingen, und ihn ansonsten mit immer schlimmer
 werdenden Albträumen heimsuchen, falls er nicht alles daran setzt
@@ -324,7 +326,7 @@ zu kommen.
 Während Ihr - Du
 merkst ich spreche Dich jetzt als dein Spielercharakter an - also
 in der Taverne sitzt, und Euch von dem alten einbeinigen Mann
-mit der Augenklappe sagenhafte alte Geschichten erzählen lasst,
+mit der Augenklappe sagenhafte Geschichten erzählen lasst,
 sind wir ganz klar im ersten Spielmodus, dem Stadtabenteuer. Es
 geht darum, sich zu orientieren, Gerüchte (höchst wahrscheinlich
 *Plot-Hooks*) in Erfahrung zu
@@ -403,6 +405,7 @@ der Schulter wird stolz auf Dich sein!
 Der Aufenthalt in Ortschaften ist schließlich auch immer eine gute
 Gelegenheit sich nach Verstärkung umzuschauen. Dabei wird zwischen
 Söldnern, oft Mietlinge genannt, und Gefolgsleuten unterschieden.
+\index{Mietlinge}\index{Söldner}
 
 Söldner und Mietlinge können für bestimmte Aufgaben angeheuert werden,
 und erwarten dafür typischerweise einen marktüblichen Sold.
@@ -412,7 +415,7 @@ Bogenschützen - je nach dem was sich der Charakter leisten kann.
 Tendenziell nehmen Söldner aber eher nicht an Dungeon-Abenteuern teil,
 und bleiben auch eher anonym. 
 
-Anders ist es mit den Gefolgsleuten:
+Anders ist es mit den Gefolgsleuten:\index{Gefolgsleute}
 hierbei handelt es sich um Nicht-Spieler-Charaktere, die freiwillig -
 auf Basis einer individuellen Vereinbarung -
 mit den Charakteren zusammen arbeiten, und mit diesen auf Abenteuer
@@ -423,7 +426,7 @@ Erfahrungspunkte und Stufen.
 
 Gefolgsleute können auch sehr nützlich als Vertretungs- oder
 Ersatzcharaktere sein, wenn der eigentliche Charakter eines Spielers
-gerade wo anders, oder vielleicht sogar verstorben ist. Daher kann es
+gerade woanders, oder vielleicht sogar verstorben ist. Daher kann es
 auch günstig sein, für einen Spielercharakter eine Art Testament zu
 schreiben, welches dessen Lieblings-Gefolgsmann begünstigt. So kann
 man als Spieler parallel zu den Abenteuern des Hauptcharakters einen
@@ -541,10 +544,11 @@ sagt. Sie wird zu Beispiel erzählen:
 > ..."
 
 Deine Zeichnung könnte also nun zum Beispiel ungefähr so
-aussehen wie in Abbildung 1. Ihr steht gerade da, wo die "1" ist,
+aussehen wie in Abbildung \ref{dungeon-map}. 
+Ihr steht gerade da, wo die "1" ist,
 und schaut nach Norden.
 
-![Beispiel-Dungeon Karte](img/Map1.png){ width=50% }
+![Beispiel-Dungeon Karte\label{dungeon-map}](img/Map1.png){ width=50% }
 
 10 Fuß pro Kästchen ist ein sehr üblicher Maßstab zum
 Kartenzeichnen, und 10 Fuß Breite und 10 Fuß Höhe ist auch das
@@ -606,14 +610,15 @@ einem der bekanntesten Abenteuermodule *B2 - Die Festung im Grenzland*
 vorgeschlagen wurde.
 
 Die folgende Tabelle zeigt die verschiedenen Geschwindigkeitsstufen
-eines Charakters in Abhängigkeit von der Belastung. Mit *BW* ist die
+eines Charakters in Abhängigkeit von der Belastung. Mit *BW* 
+\index{BW} ist die
 Basis Geschwindigkeit (oder auch *BeWegung* oder *Bewegungs-Weite*) 
 gemeint. Sie wurde in den
 früheren Ausgaben noch in Zoll (") - also einer Spielbrettdistanz -
 angegeben und dann je nach Umgebung auf Fuß oder Yards bzw. Meter hoch
 gerechnet. In Tabelle \ref{belastungsstufen} werden zusätzlich noch
 die BW in Meter (m), sowie in Fuß (') pro Phase und Runde angegeben.
-Der Begriff "Runde" ist nicht bedeutungsgleich mit Phase und wird im
+Der Begriff  "Runde" ist nicht bedeutungsgleich mit Phase und wird im
 Kapitel über Kämpfe erklärt.
 In der letzten Spalte findet sich die Angabe für die Anzahl an
 Kästchen, die auf einem typischen Spielfeld pro *Runde* zurück gelegt
@@ -864,6 +869,7 @@ RK       |[10]|[11]|[12]|[13]|[14]|[15]|[16]|[17]|[18]|
 
 Kommt es zu einem Kampf wird gewissermaßen auf Zeitlupe umgeschaltet,
 denn dann wird die Zeit in *Runden* gemessen, die ungefähr 
+einer Minute
 Realzeit entsprechen. Eine Minute ist
 in einem wilden Schwertkampf eine lange Zeit, sicherlich Zeit für
 mehrere abwechselnde Schwerthiebe, Finten, Zwischenrufe und ähnliches.
@@ -975,14 +981,14 @@ Wie schon gesagt werden höhere Stufen erreicht in dem Erfahrung
 gesammelt wird. Erfahrung wird durch Erfahrungspunkte (EP oder
 auch XP für *experience points*) bemessen. Wie viele
 Erfahrungspunkte zum Erreichen der nächsten Stufe angesammelt
-werden müssen geht aus den Stufentabellen ab Seite
-\pageref{tabellen} hervor.
+werden müssen geht aus den Stufentabellen 
+auf der nächsten Seite hervor.
 
 In Old-School Spielen erhält man typischerweise deutlich mehr
 Erfahrungspunkte für das erbeuten von Schätzen, als für das
 Niedermetzeln von Monstern. Letzteres ist ja auch meistens sehr
 gefährlich. Daher ist die bessere Strategie, eher trickreich
-vorzugehen, um möglichst viel Gold zu bekommen, als jedes mal mit
+vorzugehen, um möglichst viel Gold zu bekommen, als jedes Mal mit
 gezogenen Schwertern los zu stürmen. Aber das haben schon viele
 gesagt, und geschrieben. Meistens kommt es doch anders...
 
@@ -1006,11 +1012,13 @@ geschlagen, oder ähnliches. Ob ein Schnack mit einem Drachen über das
 Wetter Erfahrungspunkte bringt, liegt im Ermessen der Spielleitung.
 
 Die folgenden Tabellen geben die Werte für die ersten drei Stufen
-jeder Charakterklasse an:
+jeder Charakterklasse an. Trefferpunkte werden bei Erreichen der neuen
+Stufe mit der angebenen Anzahl Würfel neu ausgewürfelt. Sollte der
+Wert geringer sein als der bisherige Wert, bleiben die Trefferpunkte
+unverändert.
 
-: Kämpfer, Stufen 1 bis 3
 
-\label{tabellen}
+: Kämpfer, Stufen 1 bis 3 \label{tabellen}
 
 | Stufe | Erfahrungspunkte | Trefferpunkte |
 |:-----:|-----------------:|:-------------:|
@@ -1018,10 +1026,11 @@ jeder Charakterklasse an:
 | 2     |          2.000   | 2W            |
 | 3     |          4.000   | 3W            |
 
+
 : Zauberkundige, Stufen 1 bis 3 
 
 | Stufe |          EP | TP    | Grad 1 | Grad 2 |
-|:-----:|------------:|:-----:|--------|--------|
+|:-----:|------------:|:-----:|:------:|:------:|
 | 1     |           0 | 1W    | 1      |      - |
 | 2     |       2.500 | 1W+1  | 2      |      - |
 | 3     |       5.000 | 2W    | 3      |      1 |
@@ -1029,10 +1038,11 @@ jeder Charakterklasse an:
 Die Zahlen unter "Grad" geben an, wie viele Sprüche des
 entsprechenden Grades der Charakter pro Tag wirken kann.
 
+
 : Kleriker, Stufen 1 bis 3
 
 | Stufe |          EP | TP | Grad 1 |
-|:-----:|------------:|:--:|--------|
+|:-----:|------------:|:--:|:------:|
 | 1     |           0 | 1W | -      |
 | 2     |       1.500 | 2W | 1      |
 | 3     |       3.000 | 3W | 2      |
@@ -1057,7 +1067,7 @@ erfolgreich zu beherrschen.
 Das Spiel in der Kampagne
 =========================
 
-Mit Kampagne ist eine Abfolge von Spielen in der gleichen
+\lettrine{M}{it Kampagne} ist eine Abfolge von Spielen in der gleichen
 Umgebung und mit den gleichen Charakteren über mehrere
 Spielsitzungen hinweg gemeint. Die einzelnen Spielsitzungen
 können dabei kontinuierlich auf einander aufbauen, dass heißt,
@@ -1256,8 +1266,8 @@ zusammen zu trommeln, sondern sich gleich an die Konzepte des
 
 Vielleicht ist auch das ein Grund für die wieder zugenommene
 Popularität der Old-School Spiele, denn ich glaube, dass diese
-sich im Gegensatz zu moderneren Rollenspielsystemen besonders
-gut für offene Sandbox Kampagnen eignen.
+- vielleicht besser als manche moderneren Rollenspielsysteme - 
+besonders gut für offene Sandbox-Kampagnen geeignet sind.
 
 ### West Marches
 \index{West Marches}
@@ -1283,7 +1293,7 @@ Anfang der Nuller Jahre keine Selbstverständlichkeit war:
    unternehmen wollten.
 
 Die Spielwelt war so angelegt, dass es als zentralen Ausgangsort
-ein sicheres Dorf gab, in dem sich die Charaktere ausrüsten und
+ein sicheres Dorf gab, in dem sich die Charaktere ausrüsten,
 erholen, und auch zu längeren Aufenthalten einquartieren konnten 
 - sprich, wenn sie nicht an Spielsessions teilnahmen.
 Westlich des Dorfes begann die unbekannte Wildnis der *West
@@ -1316,10 +1326,100 @@ etwas neues wahrgenommen wurden, denke ich - wie schon gesagt - dass dieser Kamp
 eigentlich genau der Art zu spielen entspricht, für die die Regeln des
 orignalen Fantasy Rollenspiels ursprünglich geschrieben wurden.
 
+Also, worauf wartet Ihr noch?
+
 [^arsludi]:
 <http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/>
 
 \vfill
 
 ![](img/castle.png){width=100%}
+
+# Für Spielleiter
+
+\lettrine{U}{m mit diesem} kleinen Spielerhandbuch einen One-Shot oder auch eine
+Kampagne zu starten, wird der Spielleiter zumindest noch ein
+Monsterhandbuch benutzen wollen. Dazu wäre natürlich *Monsters &
+Treasure*, also das originale Monsterhandbuch von 1974 geeignet, aber
+genauso ginge auch das *Monster Manual* von 1977 oder ein modernes
+Monsterbuch. Im wesentlichen müssen einfach nur die Trefferwürfel als
+W6 interpretiert werden, und als Angriff werden im Zweifel die Werte
+des Kämpfers und 1W6 Schadenspunkte angenommen. Falls man schon ein
+vorbereitetes Abenteuer hat, kann man dann eigentlich gleich loslegen.
+
+Willst Du selbst ein Abenteuer entwerfen, wäre ein
+Spielleiterhandbuch hilfreich.  Dazu könnte man entsprechend
+natürlich das Originalwerk *The Underworld & Wilderness Adventures*
+benutzen, den berühmten *Dungeon Masters Guide* von 1979, oder
+wiederum ein
+modernes Regelbuch aus der OSR-Szene, wie zum Beispiel *Swords &
+Wizardry*. Das im Anhang aufgeführte *Swords & Wizardry Continual
+Light* wäre perfekt geeignet. 
+
+Falls Du oder Ihr in der Situation seid, dass ihr eine Runde
+Old-School Fantasy Rollenspiel spielen wollt, aber nichts als dieses
+Buch dabei habt, dann ist hier das Rezept um schnell ein paar Gegener
+zu erschaffen: Gebt einfach menschlichen oder menschenähnlichen
+Gegnern *einen* Trefferwürfel (also 1W6 Trefferpunkte), und die
+Eigenschaften der Kämpfer. Falls es sich um etwas größere Wesen
+handelt, wären 2 oder 3 Trefferwürfel angebracht, kleinere könnten nur
+einen halben Trefferwürfel haben (also 1-3 Trefferpunkte). Richtig
+großen Monstern könntest Du 5 Trefferwürfel, einen Angriffsbonus von
++5 und 2W6 Schaden geben. Wichtige Gegner können wie normale
+Spielercharaktere nach diesem
+Buch erstellt werden. Als "End-Boss"
+würde sich ein Zauberkundiger oder chaotischer Kleriker der Stufe 3 anbieten. 
+Die Rüstungsklasse
+richtet sich bei menschenähnlichen Kreaturen nach der Ausrüstung, und
+für Tiere kann man als Faustregel eine Rüstungsklasse von 6 annehmen.
+Speziellen Monstern könnte man einen
+zufällig gewählten Zaubertrick als Spezialfertigkeit geben und eine
+bessere Rüstungsklasse, zum Beispiel RK 2 [17] für Drachenschuppen.
+
+Wenn man nun 6 solcher Gegner zusammenstellt und die Liste
+durchnummeriert, hat man eine kleine Zufallsbegegnungstabelle, die für
+eine Spielrunde schon ausreichen sollte:
+
+1. Ein Braunbär (RK 6 [13], TW 3, Schaden 1W6). Vielleicht handelt es
+   sich um eine Braunbärmutter, die unruhig und aggressiv ist, weil
+   ihre zwei Jungtiere in eine Felsspalte gerutscht sind.
+
+2. 2W6 Wölfe (RK 6 [13], TW 2, Schaden 1W6). Wahrscheinlich haben sie
+   Hunger.
+
+3. 2W6 Skelette (RK 6 [13], TW 1, Schaden 1W6), können von Klerikern
+   vertrieben werden. Ist der Friedhof verhext worden? Von wem?
+
+4. Ein chaotischer Kämpfer mit
+   Kettenhemd, Schild und Schwert (RK 4 [15], TW 2, Schaden 1W6). Er
+   könnte von einem Schatz
+   ganz in der Nähe gehört haben und wird von 
+   3 Gefolgsleuten
+   in Lederrüstung begleitet (RK 7 [12], TW 1, Schaden 1W6).
+
+5. 2W6 Goblins oder Orks (RK 6 [13], TW 1, Schaden 1W6). Sie werden
+   von ihrem zauberkundigen Schamanen angeführt (RK 9 [10], TW 2,
+   Schaden 1W6). Dieser kennt die Zauber *Licht* und *Schlaf*.
+   Vielleicht lauern sie den Abenteurern auf, um sie auszurauben.
+
+6. Ein bösartiger Zauberkundiger (RK 9 [10], TW 3, Schaden 1W6). Er
+   kennt die Zauber *Schlaf*, *Licht*, *Halluzination* und
+   *Unsichtbarkeit*, und ist wie alle Zauberkundigen immer auf der
+   Suche nach neuen Sprüchen und magischen Schätzen.
+   Vermutlich wird er von einer Horde (3W6) kleinwüchsiger
+   Kobolde begleitet (RK 6 [13], TW 1/2, Schaden 1W6).
+
+Als simples Abenteuer schließlich geht eigentlich immer folgendes:
+Zeichne ein kleines Labyrinth - einen Dungeon - und verstecke in einem
+der Räume einen Schatz (zum Beispiel eine Spruchrolle mit zwei
+Zaubersprüchen und 200 Goldmünzen). Der Schatz könnte durch ein paar
+Tricks, Fallen und natürlich Monster "gesichert" sein. 
+Dann lässt Du den alten Mann in
+der Taverne den Spielern von eben diesem Schatz berichten, und schon kann
+es los gehen. Auf dem Weg zum Dungeon, vielleicht liegt er einige
+Meilen entfernt, könntest Du ein oder zwei 
+Begenungen aus der oben genannten Tabelle statt finden lassen.
+
+Viel Spass!
+
 
