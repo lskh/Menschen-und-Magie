@@ -8,6 +8,16 @@ Spells-cover.png: Makefile ../Spells.pdf
 	-fuzz 100% tmp.png Spells-back.png
 	rm -f tmp.png
 
+Spells-fullcover.png: Makefile Spells-fullcover.pdf
+	pdftoppm -f 1 -l 1 Spells-fullcover.pdf > tmp.png
+	convert +level-colors "#000000","#aaaa44" \
+	tmp.png Spells-fullcover.png
+	rm -f tmp.png
+
+Spells-fullcover.pdf: Makefile Spells-fullcover.tex
+	pdflatex Spells-fullcover.tex
+	rm *.aux *.log
+
 Hausregeln-cover.png: Makefile ../Hausregeln.pdf
 	pdftoppm -f 1 -l 1 ../Hausregeln.pdf > tmp.png
 	convert +level-colors "#000000","#44aaaa" \
@@ -16,10 +26,18 @@ Hausregeln-cover.png: Makefile ../Hausregeln.pdf
 	-fuzz 100% tmp.png Hausregeln-back.png
 	rm -f tmp.png
 
-MnM-cover.png: Makefile MnM-fullcover.pdf
-	pdftoppm -f 1 -l 1 MnM-fullcover.pdf > tmp.png
+MnM-cover.png: Makefile ../MnM.pdf
+	pdftoppm -f 1 -l 1 ../MnM.pdf > tmp.png
 	convert +level-colors "#000000","#aa8444" \
 	tmp.png MnM-cover.png
+	convert +level-colors "#aa8444","#aa8444" \
+	-fuzz 100% tmp.png MnM-back.png
+	rm -f tmp.png
+
+MnM-fullcover.png: Makefile MnM-fullcover.pdf
+	pdftoppm -f 1 -l 1 MnM-fullcover.pdf > tmp.png
+	convert +level-colors "#000000","#aa8444" \
+	tmp.png MnM-fullcover.png
 	rm -f tmp.png
 
 MnM-fullcover.pdf: Makefile MnM-fullcover.tex

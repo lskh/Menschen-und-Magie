@@ -12,7 +12,7 @@ getötet wird.
 
 : Stufe VII Monster
 
-| 1W12 | Monster |
+| 1W10 | Monster |
 |:--:|:-----------|
 | 1 | 1 Steingolem (12 TW) |
 | 2 | 1-3 Höllenhunde (7 TW) |

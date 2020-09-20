@@ -1,6 +1,6 @@
 ---
 title: Menschen \& Magie
-subtitle: Grenzland-Hausregeln, 2020
+subtitle: Grenzland-Hausregeln, 2021
 titlegraphic: img/DnD-Dwarf.png
 logo: img/logo.png
 rights: © 2019, 2020 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
@@ -11,7 +11,7 @@ secnumdepth: 2
 \null\vfill
 
 \Large
-Menschen & Magie - Hausregeln \newline
+Menschen & Magie - Grenzland-Hausregeln, 2021 \newline
 \normalsize
 Eine Hausregelsammlung für Old-School Rollenspiele \newline
 kompatibel mit *Swords & Wizardry* und allen Regeln, die auf dem
@@ -130,9 +130,9 @@ Berechnung des Erfahrungsbonus.
 |         | Weisheit 12 - 15 | +2 |
 |         | Weisheit 16 - 18 | +3 |
 |          |                     |    |
-| Zauberkundige | Weisheit 9 - 10 | +1 |
-|            | Weisheit 11 - 12 | +2 |
-|            | Weisheit 13 - 14 | +3 |
+| Zauberkundige, | Weisheit 9 - 10 | +1 |
+| Diebe und  | Weisheit 11 - 12 | +2 |
+| Punks      | Weisheit 13 - 14 | +3 |
 |            | Weisheit 15 - 16 | +4 |
 |            | Weisheit 17 - 18 | +5 |
 |          |                     |    |
@@ -2354,7 +2354,7 @@ hoch sein wie ihr Durchmesser.
 
 \enlargethispage{1cm}
 
-\begin{minipage}[t]{7.8cm}\vspace{0pt}
+\begin{minipage}[t]{7.7cm}\vspace{0pt}
 
 \phantomsection
 \addcontentsline{toc}{section}{Charakterbogen}
@@ -2408,7 +2408,7 @@ Trefferpunkte & Rüstungsklasse \\
 \end{tabular}
 
 \end{minipage}
-\begin{minipage}[t]{4.2cm}\vspace{0pt}
+\begin{minipage}[t]{4.1cm}\vspace{0pt}
 
 \centering
 \tikz\draw (0,0) rectangle (\textwidth,3.5cm);\linebreak

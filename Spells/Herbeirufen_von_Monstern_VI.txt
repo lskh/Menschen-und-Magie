@@ -12,7 +12,7 @@ getötet wird. Es dauert eine Phase, bis die Kreatur erscheint.
 
 : Stufe VI Monster
 
-| 1W12 | Monster |
+| 1W20 | Monster |
 |:--:|:-----------|
 | 1 | 1 Riese (8-10+2 TW) |
 | 2 | 1 Titan (15 TW, 75-100 TP) | 

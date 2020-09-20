@@ -4,7 +4,11 @@ $if(colorlinks)$
 \PassOptionsToPackage{dvipsnames,svgnames*,x11names*,table}{xcolor}
 $endif$
 %
-\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$if(beamer)$ignorenonframetext,$if(handout)$handout,$endif$$if(aspectratio)$aspectratio=$aspectratio$,$endif$$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+\documentclass[showtrims,$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$if(beamer)$ignorenonframetext,$if(handout)$handout,$endif$$if(aspectratio)$aspectratio=$aspectratio$,$endif$$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+\usepackage[x-1a]{pdfx}
+%\usepackage[x-3]{pdfx}
+\usepackage{luatex85}
+
 $if(beamer)$
 \setbeamertemplate{caption}[numbered]
 \setbeamertemplate{caption label separator}{: }
@@ -355,11 +359,25 @@ $endif$
 \usepackage{microtype}
 \usepackage{tikz}
 
-%\isopage[12]
-%\trimLmarks
-\setstocksize{210mm}{148mm}
-\settrimmedsize{206mm}{144mm}{*}
-\settrims{2mm}{2mm}
+%% Memoir Class settings
+% Seiteneinrichtung
+\trimLmarks
+\showtrimsoff
+
+\pdfpageattr{/MediaBox[0 0 420 595]
+             /BleedBox[0 10 410 585]
+%             /CropBox[10 10 410 585]
+             /TrimBox[10 10 410 585]}
+
+% A5 measures 148 × 210 millimeters or 5.83 × 8.27 inches. In
+% PostScript, its dimensions are rounded off to 420 × 595 points.
+
+\setstocksize{595pt}{420pt}
+% 2.84pt = 1mm; 1pt = 0.351mm
+\settrimmedsize{203mm}{141mm}{*}
+% \settrims{<top>}{<foreedge>}
+\settrims{3.5mm}{3.5mm} % ca. 10pt
+% Satzspiegel
 \setbinding{6mm}
 \setlrmarginsandblock{10mm}{*}{1.618}
 \setulmarginsandblock{15mm}{*}{1.618}
@@ -398,10 +416,11 @@ $endif$
 \checkandfixthelayout
 \sloppy
 %\raggedbottom
-\clubpenalty=5000
-\widowpenalty=5002
-\displaywidowpenalty=5000
-\brokenpenalty=2991
+%\clubpenalty=5000
+%\widowpenalty=5002
+\widowpenalties=4 10000 10000 150 0
+%\displaywidowpenalty=10000
+%\brokenpenalty=2991
 
 $if(title)$
 $if(beamer)$

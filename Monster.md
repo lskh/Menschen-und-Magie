@@ -15,10 +15,8 @@ Eine Hausregelsammlung für Old-School Rollenspiele \newline
 kompatibel mit *Swords & Wizardry* und allen Regeln, die auf dem
 Original Fantasy Rollenspiel von 1974 basieren.
 \newline
-Version *beta*, 
-\newline
-Text und Satz: © Wanderer Bill, 2019, 2020\newline
-<wandererbill73@gmail.com>
+Text und Satz: © Wanderer Bill, <wandererbill73@gmail.com>\newline
+Datum:
 \small
 
 Grafiken: LadyofHats, CC 0, public domain,
@@ -44,9 +42,9 @@ Schließlich ist *Menschen & Magie* auch Open Source. Du findest die Quelldateie
 
 \clearpage
 
-\tableofcontents
+\tableofcontents*
 
-\listoftables
+\listoftables*
 
 \mainmatter
 
