@@ -26,6 +26,16 @@ Hausregeln-cover.png: Makefile ../Hausregeln.pdf
 	-fuzz 100% tmp.png Hausregeln-back.png
 	rm -f tmp.png
 
+Hausregeln-fullcover.png: Makefile Hausregeln-fullcover.pdf
+	pdftoppm -f 1 -l 1 Hausregeln-fullcover.pdf > tmp.png
+	convert +level-colors "#000000","#44aaaa" -fuzz 10% \
+	tmp.png Hausregeln-fullcover.png
+	rm -f tmp.png
+
+Hausregeln-fullcover.pdf: Makefile Hausregeln-fullcover.tex
+	pdflatex Hausregeln-fullcover.tex
+	rm *.aux *.log
+
 MnM-cover.png: Makefile ../MnM.pdf
 	pdftoppm -f 1 -l 1 ../MnM.pdf > tmp.png
 	convert +level-colors "#000000","#aa8444" \
@@ -45,7 +55,7 @@ MnM-fullcover.pdf: Makefile MnM-fullcover.tex
 	rm *.aux *.log
 
 clean: 
-	rm -f *~ MnM-fullcover.pdf
+	rm -f *~ *-fullcover.pdf
 
 realclean: clean
 	rm -f *.png
