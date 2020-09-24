@@ -62,9 +62,8 @@ nicht *wie* man spielt.
 Es ist, wie üblich für die *Supplemente* zu
 den 1974er Regeln, gegliedert in *Men & Magic*, (*Monsters &
 Treasure*) und *The Underworld & Wilderness Adventures*. Diese
-Gliederung entspricht den drei Bänden der Originalregeln, die in den
-späteren Editionen als *Spielerhandbuch*, *Monster Manual* und
-*Dungeon Masters Guide* beibehalten wurde. Jeder Abschnitt ergänzt, 
+Gliederung entspricht den drei Bänden der Originalregeln, die bis zur
+aktuellen Edition beibehalten wurde. Jeder Abschnitt ergänzt, 
 klärt oder modifiziert die Regeln aus dem jeweiligen Band.
 
 Die hier beschriebenen Regeln sind von *Swords & Wizardry Complete* und 

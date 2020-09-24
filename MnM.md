@@ -29,9 +29,6 @@ OSR-Logo: [Matt S. Jackson, public domain](http://www.msjx.org/2018/11/vintage-l
 
 Übrige Grafiken: public domain
 
-*Dungeons & Dragons*, *D&D* und *AD&D* sind eingetragene
-Warenzeichen von *Wizards of the Coast*
-
 *Swords & Wizardry* ist ein eingetragenes Warenzeichen von Matthew J.
 Finch
 
@@ -40,22 +37,21 @@ Finch
 *OSRIC* ist ein eingetragenes Warenzeichen von Matthew J. Finch und Stu-
 art Marshall
 
-Der Text und die meisten Tabellen von *Menschen & Magie* sind Open Game
-Content im Sinne der Open Game License, OGL 1.0a 
-Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
-Gib es gerne weiter!  
-
-Es ist auch kein Problem, *Menschen & Magie* für deinen eigenen Open
-Game Content zu benutzen, vorausgesetzt, Du hälst Dich dabei an die
-Regeln der Open Game License.
-
-Schließlich ist *Menschen & Magie* auch Open Source. Du findest die
-Quelldateien für dieses Dokument unter <https://github.com/lskh/Hausregeln>
+Der Text und die meisten Tabellen von *Menschen & Magie* sind Open
+Game Content im Sinne der Open Game License, OGL 1.0a Das heißt, Du
+darfst dieses Buch für Dich und für andere kopieren.  Gib es gerne
+weiter!  Es ist auch kein Problem, *Menschen & Magie* für deinen
+eigenen Open Game Content zu benutzen, vorausgesetzt, Du hälst Dich
+dabei an die Regeln der Open Game License.  Schließlich ist *Menschen
+& Magie* auch Open Source. Du findest die Quelldateien für dieses
+Dokument unter <https://github.com/lskh/Hausregeln>
 
 Open Content: All text and tables of this booklet, except for the
 equipment tables on pages \pageref{eqtab} through \pageref{eqtabend},
-which are based on an idea by Brendan S. a.k.a necropraxis and used
+which are based on an idea by Brendan S. a.k.a Necropraxis and used
 here with kind permission.
+
+\clearpage
 
 \normalsize 
 
@@ -130,9 +126,13 @@ Kellner-Notizblock als Charakterbögen ... genau so soll es sein!
 
 \clearpage
 
+\mainmatter
+
+\pagestyle{empty}
+
 ![](img/entrance.png){width=100%}
 
-\mainmatter
+\pagestyle{plain}
 
 Einleitung
 ===========
@@ -3015,20 +3015,18 @@ Also, worauf wartet Ihr noch?
 Kampagne zu starten, wird der Spielleiter zumindest noch ein
 Monsterhandbuch benutzen wollen. Dazu wäre natürlich *Monsters &
 Treasure*, also das originale Monsterhandbuch von 1974 geeignet, aber
-genauso ginge auch das *Monster Manual* von 1977 oder ein modernes
+genauso ginge auch das Monster Buch von 1977 oder ein modernes
 Monsterbuch. Im wesentlichen müssen einfach nur die Trefferwürfel als
 W6 interpretiert werden, und als Angriff werden im Zweifel die Werte
 des Kämpfers und 1W6 Schadenspunkte angenommen. Falls man schon ein
 vorbereitetes Abenteuer hat, kann man dann eigentlich gleich loslegen.
 
-Willst Du selbst ein Abenteuer entwerfen, wäre ein
-Spielleiterhandbuch hilfreich.  Dazu könnte man entsprechend
-natürlich das Originalwerk *The Underworld & Wilderness Adventures*
-benutzen, den berühmten *Dungeon Masters Guide* von 1979, oder
-wiederum ein
-modernes Regelbuch aus der OSR-Szene, wie zum Beispiel *Swords &
-Wizardry*. Das im Anhang aufgeführte *Swords & Wizardry Continual
-Light* wäre perfekt geeignet. 
+Willst Du selbst ein Abenteuer entwerfen, wäre ein Spielleiterhandbuch
+hilfreich.  Dazu könnte man entsprechend natürlich das Originalwerk
+*The Underworld & Wilderness Adventures* benutzen, das berühmte
+Spielleiterhandbuch von 1979, oder wiederum ein modernes Regelbuch aus
+der OSR-Szene, wie zum Beispiel *Swords & Wizardry*. Das im Anhang
+aufgeführte *Swords & Wizardry Continual Light* wäre perfekt geeignet. 
 
 Falls Du oder Ihr in der Situation seid, dass ihr eine Runde
 Old-School Fantasy Rollenspiel spielen wollt, aber nichts als dieses
@@ -3040,15 +3038,14 @@ handelt, wären 2 oder 3 Trefferwürfel angebracht, kleinere könnten nur
 einen halben Trefferwürfel haben (also 1-3 Trefferpunkte). Richtig
 großen Monstern könntest Du 5 Trefferwürfel, einen Angriffsbonus von
 +5 und 2W6 Schaden geben. Wichtige Gegner können wie normale
-Spielercharaktere nach diesem
-Buch erstellt werden. Als "End-Boss"
-würde sich ein Zauberkundiger oder chaotischer Kleriker der Stufe 3 anbieten. 
-Die Rüstungsklasse
-richtet sich bei menschenähnlichen Kreaturen nach der Ausrüstung, und
-für Tiere kann man als Faustregel eine Rüstungsklasse von 6 annehmen.
-Speziellen Monstern könnte man einen
-zufällig gewählten Zaubertrick als Spezialfertigkeit geben und eine
-bessere Rüstungsklasse, zum Beispiel RK 2 [17] für Drachenschuppen.
+Spielercharaktere nach diesem Buch erstellt werden. Als "End-Boss"
+würde sich ein Zauberkundiger oder chaotischer Kleriker der Stufe 3
+anbieten.  Die Rüstungsklasse richtet sich bei menschenähnlichen
+Kreaturen nach der Ausrüstung, und für Tiere kann man als Faustregel
+eine Rüstungsklasse von 6 annehmen.  Speziellen Monstern könnte man
+einen zufällig gewählten Zaubertrick als Spezialfertigkeit geben und
+eine bessere Rüstungsklasse, zum Beispiel RK 2 [17] für
+Drachenschuppen.
 
 Wenn man nun 6 solcher Gegner zusammenstellt und die Liste
 durchnummeriert, hat man eine kleine Zufallsbegegnungstabelle, die für
@@ -3087,11 +3084,10 @@ Als simples Abenteuer schließlich geht eigentlich immer folgendes:
 Zeichne ein kleines Labyrinth - einen Dungeon - und verstecke in einem
 der Räume einen Schatz (zum Beispiel eine Spruchrolle mit zwei
 Zaubersprüchen und 200 Goldmünzen). Der Schatz könnte durch ein paar
-Tricks, Fallen und natürlich Monster "gesichert" sein. 
-Dann lässt Du den alten Mann in
-der Taverne den Spielern von eben diesem Schatz berichten, und schon kann
-es los gehen. Auf dem Weg zum Dungeon, vielleicht liegt er einige
-Meilen entfernt, könntest Du ein oder zwei 
+Tricks, Fallen und natürlich Monster "gesichert" sein.  Dann lässt Du
+den alten Mann in der Taverne den Spielern von eben diesem Schatz
+berichten, und schon kann es los gehen. Auf dem Weg zum Dungeon,
+vielleicht liegt er einige Meilen entfernt, könntest Du ein oder zwei
 Begenungen aus der oben genannten Tabelle statt finden lassen.
 
 Viel Spass!
@@ -3106,23 +3102,15 @@ Das Menschen & Magie Spielerhandbuch ist weitgehend kompatibel zu
 folgenden anderen Werken, sie können ohne Änderung in der gleichen
 Spielrunde genutzt werden:
 
-### Die echte nullte Edition
+### Die "echte" nullte Edition
 
-Dungeons & Dragons I - "Men & Magic"
-:    Gary Gygax and Dave Arneson, 1974, TSR 
-     
-     Das erste Heft der drei "little brown books" (LBB). 
-     Das Original mit dem alles began, auch bekannt als OD&D oder
-     0e. Originalausgaben werden als Sammlerstücke gehandelt. Um die $
-     1000 sollte man schon einplanen. Zum Glück gibt es eine
-          günstigere PDF-Version.
-
-     <https://www.drivethrurpg.com/product/28306/ODD-Dungeons--Dragons-Original-Edition-0e?it=1>
+Bei folgenden Werken handelt es sich um werkstreue Retro-Klone des
+Original-Spiels.
 
 Swords & Wizardry White Box
 :    Marv Breig, 2010, Mythmere Games
 
-     Ein Retroclon der OD&D, Gibt die Regeln der drei "little
+     Gibt die Regeln der drei "little
      brown books" (LBB) ohne die Zusatzregeln der Supplemente 
      wieder. PDF kostenlos, als Print-on-Demand rund 20 €.
 
@@ -3131,7 +3119,7 @@ Swords & Wizardry White Box
 White Box: Fantastic Medieval Adventure Game
 :    Charlie Mason, 2017, Seattle Hill Games
 
-     Ebenso ein sehr schön gestalteter OD&D Retroclon, um die 10 € als 
+     Ebenso ein sehr schön gestalteter Retroclon, um die 10 € als 
      Print-on-Demand, PDF kostenlos.
 
      <http://whiteboxgame.blogspot.com/>
@@ -3139,39 +3127,23 @@ White Box: Fantastic Medieval Adventure Game
 Delving Deeper
 :    Simon J. Bull, 2015, Immersive Ink
 
-     Ein weiterer OD&D Retroclon mit hervorragend indexiertem
+     Ein weiterer Retroclon mit hervorragend indexiertem
      Online-Regelwerk. Daneben auch als Print-on-Demand erhältlich.
 
      <http://ddo.immersiveink.com/>
 
 ### Regelerweiterungen
 
-Folgende Regelwerke sind auch noch irgendwie OD&D, aber sie schließen
+Folgende Regelwerke sind auch noch irgendwie noch nullte Edition, aber sie schließen
 Zusatzregeln ein, die in den *Supplements* veröffentlicht wurden.
 
 Swords & Wizardry Core Rules
 :    Matt Finch, 2011, Mythmere Games
 
-     Regelumfang der in etwa OD&D plus dem Greyhawk-Supplement
+     Regelumfang der in etwa dem Originalspiel plus dem Greyhawk-Supplement
      entspricht. Als PDF kostenlos, als Print-on-demand ca. 20 €.
 
      <http://www.lulu.com/shop/matthew-finch/swords-wizardry-core-rules-pdf/ebook/product-15718826.html>
-
-
-D&D Holmes Edition
-:    Die erste Überarbeitung der ursprünglichen D&D Regeln durch 
-     Eric Holmes, TSR, Lake Geneva, 1977,
-     auch bekannt als *Blue Box* Edition.
-
-     Die Regeln entsprechen bis auf wenige Abweichungen dem
-     Umfang der LBB plus Greyhawk-Supplement, allerdings werden
-     nur die Spielerstufen 1 - 3 besprochen. Enthält das
-     legendäre Porttown-Einsteiger Dungeon.  
-
-     Eine offizielle PDF-Version ist mir nicht bekannt, aber es gibt
-     einen ganz netten Video-Review auf YouTube:
-     
-     <https://www.youtube.com/watch?v=uhug8E7s210>
 
 Blueholme
 :    Retroclon der Bluebox Edition
@@ -3181,17 +3153,17 @@ Blueholme
 Swords & Wizardry Complete
 :     Matt Finch, 2012, Mythmere Games
 
-      Regelumfang von OD&D einschließlich aller Supplemente. Es
-      gibt die zusätzlichen Klassen wie Mönch, Paladin, Druide
-      und Waldläufer. Von hier aus ist es nur noch ein ganz
-      kurzer Weg zu AD&D.
+      Regelumfang des Originalspiels einschließlich aller Supplemente.
+      Es gibt die zusätzlichen Klassen wie Mönch, Paladin, Druide und
+      Waldläufer. Von hier aus ist es nur noch ein ganz kurzer Weg zu
+      den "Advanced" Editionen.
 
 
 Swords & Wizardry Continual Light, Deutsche Ausgabe
 :    Zach Glazar, James M. Spahn und Erik „Tenkar“ Stiene, 2018,
      System Matters Verlag
 
-     Mini-Rollenspiel basierend auf OD&D mit einigen modernen
+     Mini-Rollenspiel basierend auf der nullten Edition mit einigen modernen
      Elementen. Kostenloses PDF:
      
      <https://www.system-matters.de/wp-content/uploads/2018/02/SW-Continual-Light-Download.pdf>
