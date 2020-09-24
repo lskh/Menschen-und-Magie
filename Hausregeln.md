@@ -482,16 +482,16 @@ Kleidung, die sie tragen und eine Waffe, die zu ihrer Berufung passt.
 
 Rüstung bietet Schutz, indem sie allen erlittenen Schaden reduziert. Jedes Stück Rüstung reduziert Schaden um einen bestimmten Betrag. Charaktere gewinnen **Rüstungspunkte (RP)** zurück, wenn sie sich ausruhen. Wenn Monster oder Charaktere mit ihrer Rüstung Schaden im Gegenwert der Rüstungspunkte aufgefangen haben, sind sie zu erschöpft oder verletzt, um ihre Rüstung weiter effektiv einzusetzen - ab dann nehmen sie vollen Schaden.
 
-|     Typ        | Punkte |
-|:--------------:|:------:|
-| Wams           |   2    |
-| Lederrüstung   |   4    |
-| Kettenhemd     |   6    |
-| Plattenrüstung |   8    |
-| Kleiner Schild |   2    |
-| Großer Schild  |   4    |
+: Rüstungsklasse und Rüstungspunkte
 
-Monster haben 1 Rüstungspunkt für jeden **TW** über 1, also einfach für den Wert ihrer **TW** -1 rechnen - sie können außerdem Schilde tragen. (Insgesamt bis zu einem Maximum von 10 RP)
+|     Typ        | Rüstungspunkte (RP) | RK |
+|:--------------:|:------:|:---------:|
+| Wams           |   2    | 8 [11] |
+| Lederrüstung   |   4    | 7 [12] |
+| Kettenhemd     |   6    | 5 [14] |
+| Plattenrüstung |   8    | 3 [16] |
+| Kleiner Schild |   2    | -1 [+1] |
+| Großer Schild  |   4    |        |
 
 
 
@@ -549,22 +549,22 @@ Flegel und Morgensterne ignorieren den zusätzlichen Rüstungsschutz
 durch ein Schild.
 
 : Rüstungen
-\index{Rüstung}\index{Rüstungsklasse}
+\index{Rüstung}\index{Rüstungspunkte}
 
-| Rüstung                 |  Preis | RK     |  Gewicht | BW  |
+| Rüstung                 |  Preis | RP     |  Gewicht | BW  |
 |-------------------------|-------:|:------:|---------:|:---:|
-| Ungerüstet              |      - | 9 [10] |        - | 12" |
-| Waffenrock              |   4 GM | 8 [11] | 10 Pfund | 12" | 
-| Lederrüstung            |   5 GM | 7 [12] | 15 Pfund | 12" |
-| Verstärkte Lederrüstung |  30 GM | 6 [13] | 20 Pfund | 9"  |
-| Schuppenpanzer          |  45 GM | 6 [13] | 40 Pfund | 6"  |
-| Kettenhemd              |  75 GM | 5 [14] | 30 Pfund | 9"  |
-| Schienenpanzer          |  80 GM | 4 [15] | 40 Pfund | 6"  | 
-| Bänderpanzer            |  90 GM | 4 [15] | 35 Pfund | 9"  |
-| Plattenpanzer mit Helm  | 400 GM | 3 [16] | 45 Pfund | 6"  |
-| Schild                  |  10 GM | -1 [+1]| 10 Pfund |     |
-| Helm                    |  10 GM |        | 3 Pfund  |     |
-| Pferderüstung           | 150 GM | 5 [14] | 60 Pfund |     |
+| Ungerüstet              |      - | 2      |        - | 12" |
+| Waffenrock              |   4 GM | 3      | 10 Pfund | 12" | 
+| Lederrüstung            |   5 GM | 4      | 15 Pfund | 12" |
+| Verstärkte Lederrüstung |  30 GM | 5      | 20 Pfund | 9"  |
+| Schuppenpanzer          |  45 GM | 5      | 40 Pfund | 6"  |
+| Kettenhemd              |  75 GM | 6      | 30 Pfund | 9"  |
+| Schienenpanzer          |  80 GM | 7      | 40 Pfund | 6"  | 
+| Bänderpanzer            |  90 GM | 7      | 35 Pfund | 9"  |
+| Plattenpanzer mit Helm  | 400 GM | 8      | 45 Pfund | 6"  |
+| Schild                  |  10 GM | 2      | 10 Pfund |     |
+| Helm                    |  10 GM | 1      | 3 Pfund  |     |
+| Pferderüstung           | 150 GM | 6      | 60 Pfund |     |
 
 
 : Sonstige Ausrüstung
@@ -778,6 +778,7 @@ Trefferwürfeln:
 |     16     |   1W12 + 1W20 (17) |
 |     17     |   3W12 (19) |
 |     18     |   2W20 (21) |
+
 
 # The Underworld & Wilderness Adventures
 
