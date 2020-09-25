@@ -29,41 +29,34 @@ OSR-Logo: [Matt S. Jackson, public domain](http://www.msjx.org/2018/11/vintage-l
 
 Übrige Grafiken: public domain
 
-*Dungeons & Dragons*, *D&D* und *AD&D* sind eingetragene
-Warenzeichen von *Wizards of the Coast*
-
 *Swords & Wizardry* ist ein eingetragenes Warenzeichen von Matthew J.
-Finch
+Finch. Wanderer Bill ist nicht assoziiert mit Matthew J. Finch,
+Mythmere Games oder Frog God Games.
 
-*Labyrinth Lord* ist ein eingetragenes Warenzeichen von Daniel Proctor
-
-*OSRIC* ist ein eingetragenes Warenzeichen von Matthew J. Finch und Stu-
-art Marshall
-
-Der Text und die meisten Tabellen von *Menschen & Magie* sind Open Game
-Content im Sinne der Open Game License, OGL 1.0a 
-Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
-Gib es gerne weiter!  
-
-Es ist auch kein Problem, *Menschen & Magie* für deinen eigenen Open
-Game Content zu benutzen, vorausgesetzt, Du hälst Dich dabei an die
-Regeln der Open Game License.
-
-Schließlich ist *Menschen & Magie* auch Open Source. Du findest die
-Quelldateien für dieses Dokument unter <https://github.com/lskh/Hausregeln>
+Das Wanderer Bill Logo ist Product Identity, ansonsten
+sind der Text und die Tabellen von *Menschen & Magie*, mit Ausnahme
+der Ausrüstungstabellen auf den Seiten \pageref{eqtab} bis
+\pageref{eqtabend} Open
+Game Content im Sinne der Open Game License, OGL 1.0a. Das heißt, Du
+darfst dieses Buch für Dich und für andere kopieren.  Gib es gerne
+weiter!  Es ist auch kein Problem, *Menschen & Magie* für deinen
+eigenen Open Game Content zu benutzen, vorausgesetzt, Du hälst Dich
+dabei an die Regeln der Open Game License.  Schließlich ist *Menschen
+& Magie* auch Open Source. Du findest die Quelldateien für dieses
+Dokument unter <https://github.com/lskh/Hausregeln>
 
 Open Content: All text and tables of this booklet, except for the
 equipment tables on pages \pageref{eqtab} through \pageref{eqtabend},
-which are based on an idea by Brendan S. a.k.a necropraxis and used
+which are based on an idea by Brendan S. a.k.a Necropraxis and used
 here with kind permission.
+
+\clearpage
 
 \normalsize 
 
 \tableofcontents*
 
 \listoftables*
-
-
 
 Vorwort
 =======
@@ -95,24 +88,19 @@ originalen Fantasy Rollenspiels unter permissiven Lizenzbedingungen,
 neu formuliert veröffentlicht werden können. Diese neu formulierten
 Regeln werden oft als Retro-Klon bezeichnet.
 
-*Menschen & Magie* versucht, den Geist der ersten
-Ausgabe des ersten Fantasy-Rollenspiels zu vermitteln, welches 1974
-von Gary Gygax und Dave Arneson veröffentlicht wurde. Außerdem soll es
-möglichst gut kompatibel zu den Retro-Klonen der frühen Editionen sein.  
-Für die Spieler sollte es keinen Unterschied
-machen, ob der Spielleiter sein Spiel auf Grundlage der
-Original-Regeln von 1974 oder einem der Retro-Klone wie *Swords &
-Wizardry* oder *Delving Deeper* spielt. Auch für Spieler in Kampagnen,
-die auf den *Advanced*-Regeln, oder einem der B/X-Klone wie
-*Old-School Essentials* oder *Labyrinth Lord* aufbauen, sollten die
-Informationen dieses Spielerhandbuchs hilfreich sein.
+*Menschen & Magie* versucht, den Geist der ersten Ausgabe des ersten
+Fantasy-Rollenspiels zu vermitteln, welches 1974 von Gary Gygax und
+Dave Arneson veröffentlicht wurde. Außerdem soll es möglichst gut
+kompatibel zu den Retro-Klonen der frühen Editionen sein.  Für die
+Spieler sollte es keinen Unterschied machen, ob der Spielleiter sein
+Spiel auf Grundlage der Original-Regeln von 1974 oder einem der
+Retro-Klone wie zum Beispiel *Swords & Wizardry* spielt. Auch für
+Spieler in Kampagnen, die auf den *Advanced*-Regeln, oder einem der
+B/X-Klone aufbauen, sollten die Informationen dieses Spielerhandbuchs
+hilfreich sein.
 
-Grundlage für *Menschen & Magie* sind *Swords & Wizardry White Box*, und
-*Delving Deeper*, beides Retro-Klone der "three little brown books".
-Daneben habe ich mich auch an *OSRIC*, *Swords & Wizardry Complete* ,
-*Labyrinth Lord* und auch ein bisschen an *Blueholme* bedient.
-Besonders praktisch war dabei, dass Labyrinth Lord bereits in
-deutscher Übersetzung vorhanden ist. Im Anhang habe ich
+Grundlage für *Menschen & Magie* ist *Swords & Wizardry White Box*,
+ein Retro-Klon der "three little brown books".  Im Anhang habe ich
 aufgeführt, in welchen Punkten *Menschen & Magie* von den
 Original-Regeln abweicht.
 
@@ -128,11 +116,12 @@ aus unserer Runde hat kürzlich im Urlaub - nur mit diesem Heft
 ausgestattet - eine spontane Runde geleitet, mit kleinen Zetteln vom
 Kellner-Notizblock als Charakterbögen ... genau so soll es sein!
 
-\clearpage
+\pagestyle{empty}
 
 ![](img/entrance.png){width=100%}
 
 \mainmatter
+\pagestyle{plain}
 
 Einleitung
 ===========
@@ -1618,18 +1607,17 @@ die einzelnen Waffen auch keine speziellen Werte angegeben, der
 Schaden wird einfach immer mit 1W6 ausgewürfelt. Es mag vielleicht
 unsinnig erscheinen, dass ein Dolch genauso viel Schaden verursachen
 soll wie eine Streitaxt, aber letztlich kann natürlich ein einzelner
-Dolchstich tödlich sein, und eine Streitaxt zwar treffen, aber
-dann doch nur eine Schramme verursachen. Im ersten Zusatzband zu den
-Originalspielregeln mit dem Titel *Greyhawk*\index{Greyhawk}, 
-wurde der sogenannte
-variable Waffenschaden eingeführt. Viele finden es realistischer, 
-wenn ein Dolch nur 1-4 Punkte Schaden verursacht, und eine
-Streitaxt 1-8 Punkte, aber wenn man darüber nachdenkt, dann ist es
-durchaus reizvoll, die Würfel die Geschichte erzählen zu lassen. Eine
-6 beim Angriff mit einem Dolch könnte man erzählerisch als meisterlich
-geführten, hinterhältigen Angriff ausgestalten, während die Schramme
-mit der Streitaxt den furchteinflößenden Minotaurus nur zu einem
-hämischen Lachen veranlasst, bevor er zu seinem Gegenangriff ansetzt.
+Dolchstich tödlich sein, und eine Streitaxt zwar treffen, aber dann
+doch nur eine Schramme verursachen.  Viele finden es wohl 
+realistischer, wenn ein Dolch nur 1-4
+Punkte Schaden verursacht, und eine Streitaxt zum Beispiel 
+1-8 Punkte, aber wenn
+man darüber nachdenkt, dann ist es durchaus reizvoll, die Würfel die
+Geschichte erzählen zu lassen. Eine 6 beim Angriff mit einem Dolch 
+könnte man erzählerisch als meisterlich geführten, hinterhältigen
+Angriff ausgestalten, während die Schramme mit der Streitaxt den
+furchteinflößenden Minotaurus nur zu einem hämischen Lachen
+veranlasst, bevor er zu seinem Gegenangriff ansetzt.
 
 Noch ein Wort zum Thema Rüstungsklasse\index{Rüstungsklasse}: Die
 Rüstungsklasse zeigt an, wie schwer es ist einem Charakter oder einem
@@ -1640,23 +1628,18 @@ Rüstungsklasse 9 wäre demnach ungerüstet, und Rüstungsklasse 2 wäre
 ein Charakter mit Plattenrüstung und Schild. Diese ursprüngliche
 Rüstungsklasse wird heute "absteigende Rüstungsklasse" genannt, denn
 es hat sich irgendwann auch die "aufsteigende Rüstungsklasse"
-entwickelt, die seit der 3. Edition des Originalspiels zur 
-Anwendung kommt. Bei der
-aufsteigenden Rüstungsklasse ist höher besser, was vielleicht vielen
-einfacher erscheinen mag. Um möglichst
-kompatibel zu sein, wird in *Swords & Wizardry* und vielen *modernen* 
-Old-School Publikationen
-beides angegeben, und zwar zuerst die traditionelle absteigende
-Rüstungsklasse, und dann in eckigen Klammern die entsprechende
-aufsteigende Rüstungsklasse. Demnach wäre ungerüstet RK 9 [10],
-und Plattenrüstung RK 3 [16]. Ein Schild erhöht bzw. erniedrigt die
+entwickelt.  Um möglichst kompatibel zu sein, wird in *Menschen &
+Magie* beides angegeben, und zwar zuerst die absteigende
+Rüstungsklasse, und dann die entsprechende aufsteigende Rüstungsklasse
+in eckigen Klammern.  Demnach wäre ungerüstet RK 9 [10], und
+Plattenrüstung RK 3 [16]. Ein Schild erhöht bzw. erniedrigt die
 Rüstungsklasse jeweils um eins, also -1 [+1]. Wenn Ihr also die alte
 absteigende Rüstungsklasse benutzt, orientiert Euch an der Zahl vor
-der eckigen Klammer, wenn ihr aufsteigende Rüstungsklasse benutzt
-gilt die Zahl *in* der eckigen Klammer^[Natürlich hängen absteigende
-und aufsteigende Rüstungsklasse zusammen, es sind im Grunde zwei
-Seiten der selben Gleichung: aufsteigende und absteigende
-Rüstungsklasse ergeben zusammen gerechnet immer 19.].
+der eckigen Klammer, wenn ihr aufsteigende Rüstungsklasse benutzt gilt
+die Zahl *in* der eckigen Klammer^[Natürlich hängen absteigende und
+aufsteigende Rüstungsklasse zusammen, es sind im Grunde zwei Seiten
+der selben Gleichung: aufsteigende und absteigende Rüstungsklasse
+ergeben zusammen gerechnet immer 19.].
 
 Den Charakter vollenden
 -----------------------
@@ -1672,8 +1655,9 @@ Ganz unten sollte noch etwas Platz eingerichtet werden, um zu
 notieren, bei wie vielen Erfahrungspunkten die nächste Stufe erreicht
 wird, dann kann es los gehen. 
 
-
 ![](img/delvers.png){width=100%}
+
+\enlargethispage{1cm}
 
 Ins Abenteuer ziehen
 ====================
@@ -1896,7 +1880,7 @@ Zauberkundigen bleibt also nichts anderes übrig, als den neu
 entwickelten Spruch zu testen.
 
 [^spells]: Gary Gygax verlangte hierzu in
-     seinem *Dungeon Masters Guide* von 1979, dass der Spieler dem 
+     seinem Handbuch für Spielleiter von 1979, dass der Spieler dem 
      Spielleiter "eine mit Schreibmaschine geschriebene Beschreibung"
      des Spruchs vorlegen müsse, damit dieser beurteilt werden
      kann ...
@@ -3011,24 +2995,21 @@ Also, worauf wartet Ihr noch?
 
 # Für Spielleiter
 
-\lettrine{U}{m mit diesem} kleinen Spielerhandbuch einen One-Shot oder auch eine
-Kampagne zu starten, wird der Spielleiter zumindest noch ein
+\lettrine{U}{m mit diesem} kleinen Spielerhandbuch einen One-Shot oder
+auch eine Kampagne zu starten, wird der Spielleiter zumindest noch ein
 Monsterhandbuch benutzen wollen. Dazu wäre natürlich *Monsters &
-Treasure*, also das originale Monsterhandbuch von 1974 geeignet, aber
-genauso ginge auch das *Monster Manual* von 1977 oder ein modernes
+Treasure*, also das originale Monsterbuch von 1974 geeignet, aber
+genauso ginge auch das Monsterbuch von 1977 oder ein modernes
 Monsterbuch. Im wesentlichen müssen einfach nur die Trefferwürfel als
 W6 interpretiert werden, und als Angriff werden im Zweifel die Werte
 des Kämpfers und 1W6 Schadenspunkte angenommen. Falls man schon ein
 vorbereitetes Abenteuer hat, kann man dann eigentlich gleich loslegen.
 
-Willst Du selbst ein Abenteuer entwerfen, wäre ein
-Spielleiterhandbuch hilfreich.  Dazu könnte man entsprechend
-natürlich das Originalwerk *The Underworld & Wilderness Adventures*
-benutzen, den berühmten *Dungeon Masters Guide* von 1979, oder
-wiederum ein
-modernes Regelbuch aus der OSR-Szene, wie zum Beispiel *Swords &
-Wizardry*. Das im Anhang aufgeführte *Swords & Wizardry Continual
-Light* wäre perfekt geeignet. 
+Willst Du selbst ein Abenteuer entwerfen, wäre ein Spielleiterhandbuch
+hilfreich.  Dazu könnte man entsprechend natürlich das Originalwerk
+*The Underworld & Wilderness Adventures* benutzen, das berühmte
+Spielleiterhandbuch von 1979, oder wiederum ein modernes Regelbuch aus
+der OSR-Szene.
 
 Falls Du oder Ihr in der Situation seid, dass ihr eine Runde
 Old-School Fantasy Rollenspiel spielen wollt, aber nichts als dieses
@@ -3040,15 +3021,14 @@ handelt, wären 2 oder 3 Trefferwürfel angebracht, kleinere könnten nur
 einen halben Trefferwürfel haben (also 1-3 Trefferpunkte). Richtig
 großen Monstern könntest Du 5 Trefferwürfel, einen Angriffsbonus von
 +5 und 2W6 Schaden geben. Wichtige Gegner können wie normale
-Spielercharaktere nach diesem
-Buch erstellt werden. Als "End-Boss"
-würde sich ein Zauberkundiger oder chaotischer Kleriker der Stufe 3 anbieten. 
-Die Rüstungsklasse
-richtet sich bei menschenähnlichen Kreaturen nach der Ausrüstung, und
-für Tiere kann man als Faustregel eine Rüstungsklasse von 6 annehmen.
-Speziellen Monstern könnte man einen
-zufällig gewählten Zaubertrick als Spezialfertigkeit geben und eine
-bessere Rüstungsklasse, zum Beispiel RK 2 [17] für Drachenschuppen.
+Spielercharaktere nach diesem Buch erstellt werden. Als "End-Boss"
+würde sich ein Zauberkundiger oder chaotischer Kleriker der Stufe 3
+anbieten.  Die Rüstungsklasse richtet sich bei menschenähnlichen
+Kreaturen nach der Ausrüstung, und für Tiere kann man als Faustregel
+eine Rüstungsklasse von 6 annehmen.  Speziellen Monstern könnte man
+einen zufällig gewählten Zaubertrick als Spezialfertigkeit geben und
+eine bessere Rüstungsklasse, zum Beispiel RK 2 [17] für
+Drachenschuppen.
 
 Wenn man nun 6 solcher Gegner zusammenstellt und die Liste
 durchnummeriert, hat man eine kleine Zufallsbegegnungstabelle, die für
@@ -3087,11 +3067,10 @@ Als simples Abenteuer schließlich geht eigentlich immer folgendes:
 Zeichne ein kleines Labyrinth - einen Dungeon - und verstecke in einem
 der Räume einen Schatz (zum Beispiel eine Spruchrolle mit zwei
 Zaubersprüchen und 200 Goldmünzen). Der Schatz könnte durch ein paar
-Tricks, Fallen und natürlich Monster "gesichert" sein. 
-Dann lässt Du den alten Mann in
-der Taverne den Spielern von eben diesem Schatz berichten, und schon kann
-es los gehen. Auf dem Weg zum Dungeon, vielleicht liegt er einige
-Meilen entfernt, könntest Du ein oder zwei 
+Tricks, Fallen und natürlich Monster "gesichert" sein.  Dann lässt Du
+den alten Mann in der Taverne den Spielern von eben diesem Schatz
+berichten, und schon kann es los gehen. Auf dem Weg zum Dungeon,
+vielleicht liegt er einige Meilen entfernt, könntest Du ein oder zwei
 Begenungen aus der oben genannten Tabelle statt finden lassen.
 
 Viel Spass!
@@ -3099,109 +3078,6 @@ Viel Spass!
 
 \backmatter
 
-Andere Spielerhandbücher
-=========================
-
-Das Menschen & Magie Spielerhandbuch ist weitgehend kompatibel zu
-folgenden anderen Werken, sie können ohne Änderung in der gleichen
-Spielrunde genutzt werden:
-
-### Die echte nullte Edition
-
-Dungeons & Dragons I - "Men & Magic"
-:    Gary Gygax and Dave Arneson, 1974, TSR 
-     
-     Das erste Heft der drei "little brown books" (LBB). 
-     Das Original mit dem alles began, auch bekannt als OD&D oder
-     0e. Originalausgaben werden als Sammlerstücke gehandelt. Um die $
-     1000 sollte man schon einplanen. Zum Glück gibt es eine
-          günstigere PDF-Version.
-
-     <https://www.drivethrurpg.com/product/28306/ODD-Dungeons--Dragons-Original-Edition-0e?it=1>
-
-Swords & Wizardry White Box
-:    Marv Breig, 2010, Mythmere Games
-
-     Ein Retroclon der OD&D, Gibt die Regeln der drei "little
-     brown books" (LBB) ohne die Zusatzregeln der Supplemente 
-     wieder. PDF kostenlos, als Print-on-Demand rund 20 €.
-
-     <http://www.lulu.com/shop/matthew-finch/swords-wizardry-whitebox-rules-softcover/paperback/product-15991261.html>
-
-White Box: Fantastic Medieval Adventure Game
-:    Charlie Mason, 2017, Seattle Hill Games
-
-     Ebenso ein sehr schön gestalteter OD&D Retroclon, um die 10 € als 
-     Print-on-Demand, PDF kostenlos.
-
-     <http://whiteboxgame.blogspot.com/>
-
-Delving Deeper
-:    Simon J. Bull, 2015, Immersive Ink
-
-     Ein weiterer OD&D Retroclon mit hervorragend indexiertem
-     Online-Regelwerk. Daneben auch als Print-on-Demand erhältlich.
-
-     <http://ddo.immersiveink.com/>
-
-### Regelerweiterungen
-
-Folgende Regelwerke sind auch noch irgendwie OD&D, aber sie schließen
-Zusatzregeln ein, die in den *Supplements* veröffentlicht wurden.
-
-Swords & Wizardry Core Rules
-:    Matt Finch, 2011, Mythmere Games
-
-     Regelumfang der in etwa OD&D plus dem Greyhawk-Supplement
-     entspricht. Als PDF kostenlos, als Print-on-demand ca. 20 €.
-
-     <http://www.lulu.com/shop/matthew-finch/swords-wizardry-core-rules-pdf/ebook/product-15718826.html>
-
-
-D&D Holmes Edition
-:    Die erste Überarbeitung der ursprünglichen D&D Regeln durch 
-     Eric Holmes, TSR, Lake Geneva, 1977,
-     auch bekannt als *Blue Box* Edition.
-
-     Die Regeln entsprechen bis auf wenige Abweichungen dem
-     Umfang der LBB plus Greyhawk-Supplement, allerdings werden
-     nur die Spielerstufen 1 - 3 besprochen. Enthält das
-     legendäre Porttown-Einsteiger Dungeon.  
-
-     Eine offizielle PDF-Version ist mir nicht bekannt, aber es gibt
-     einen ganz netten Video-Review auf YouTube:
-     
-     <https://www.youtube.com/watch?v=uhug8E7s210>
-
-Blueholme
-:    Retroclon der Bluebox Edition
-
-     <https://www.drivethrurpg.com/product/109409/BLUEHOLMETM-Prentice-Rules>
-
-Swords & Wizardry Complete
-:     Matt Finch, 2012, Mythmere Games
-
-      Regelumfang von OD&D einschließlich aller Supplemente. Es
-      gibt die zusätzlichen Klassen wie Mönch, Paladin, Druide
-      und Waldläufer. Von hier aus ist es nur noch ein ganz
-      kurzer Weg zu AD&D.
-
-
-Swords & Wizardry Continual Light, Deutsche Ausgabe
-:    Zach Glazar, James M. Spahn und Erik „Tenkar“ Stiene, 2018,
-     System Matters Verlag
-
-     Mini-Rollenspiel basierend auf OD&D mit einigen modernen
-     Elementen. Kostenloses PDF:
-     
-     <https://www.system-matters.de/wp-content/uploads/2018/02/SW-Continual-Light-Download.pdf>
-
-Iron Falcon, Rules for Classic Fantasy Role-Playing
-:    Chris Gonnerman, 2014 
-
-     Rund 10 € als Print on Demand, und als PDF zum kostenlosen Download: 
-
-     <http://www.ironfalconrpg.com/>
 
 Abweichungen von den 1974er Regeln
 ==================================

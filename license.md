@@ -60,7 +60,8 @@ Open Game Content.
 original material as Open Game Content, You represent that Your
 Contributions are Your original creation and/or You have sufficient
 rights to grant the rights conveyed by this License.
-6.Notice of License Copyright: You must update the COPYRIGHT NOTICE
+
+6. Notice of License Copyright: You must update the COPYRIGHT NOTICE
 portion of this License to include the exact text of the COPYRIGHT NOTICE
 of any Open Game Content You are copying, modifying or distributing, and
 You must add the title, the copyright date, and the copyright holder’s

@@ -23,8 +23,9 @@ Datum:
 Grafiken: LadyofHats, CC 0, public domain,
 <https://commons.wikimedia.org/wiki/User:LadyofHats> 
 
-Die *Hausregeln* sind Open Game
-Content im Sinne der Open Game License, OGL 1.0a
+Das Wanderer Bill Logo ist Product Identity. Ansonsten sind die
+*Hausregeln* Open Game Content im Sinne der Open Game License, OGL
+1.0a.
 
 Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
 Gib es gerne weiter! 
@@ -33,7 +34,8 @@ Es ist auch kein Problem, die *Hausregeln* für deinen
 eigenen Open Game Content zu benutzen, vorausgesetzt, Du hälst Dich
 dabei an die Regeln der Open Game License.
 
-Schließlich sind die *Grenzland-Hausregeln* auch Open Source. Du findest die Quelldateien für dieses Dokument unter 
+Schließlich ist *Menschen & Magie* auch Open Source. Du findest die
+Quelldateien für dieses Dokument unter
 <https://github.com/lskh/Hausregeln>
 
 \normalsize 
@@ -50,16 +52,12 @@ Dieses Heft ist als Referenz für den Spieltisch gedacht. Es erklärt
 nicht *wie* man spielt. 
 
 Es ist, wie üblich für die *Supplemente* zu
-den 1974er Regeln, gegliedert in *Men & Magic*, *Monsters &
-Treasure* und *The Underworld & Wilderness Adventures*. Diese
-Gliederung entspricht den drei Bänden der Originalregeln, die in den
-späteren Editionen als *Spielerhandbuch*, *Monster Manual* und
-*Dungeon Masters Guide* beibehalten wurde. Jeder Abschnitt ergänzt, 
+den 1974er Regeln, gegliedert in *Men & Magic*, (*Monsters &
+Treasure*) und *The Underworld & Wilderness Adventures*. Diese
+Gliederung entspricht den drei Bänden der Originalregeln, die bis zur
+aktuellen Edition beibehalten wurde. Jeder Abschnitt ergänzt, 
 klärt oder modifiziert die Regeln aus dem jeweiligen Band.
 
-Die hier beschriebenen Regeln sind von *Swords & Wizardry Complete* und 
-*Delving Deeper* abgeleitet, und stehen somit unter der 
-*Open Game Licence*.
 
 
 # Men & Magic
@@ -833,6 +831,8 @@ und Gepäck
 
 ------------------------------------------------------------------------ 
 
+\renewcommand{\arraystretch}{1}
+
 Als Faustregel gilt, dass ein Charakter der entsprechend einer der
 genannten Belastungsstufen beladen ist noch 30 Pfund oder **300
 Münzen** an Gewicht zuladen kann, bevor er in die nächste
@@ -887,9 +887,9 @@ wird eine normale Probe gewürfelt.
 \index{Magische Gegenstände}\index{identifizieren!Magische
 Gegenstände}
 
-OD&D beinhaltet keinen Zauberspruch zum identifizieren von magischen
-Gegenständen (ein solcher Spruch wurde 1978 als Stufe 1
-Zauberkundigen-Spruch in AD&D eingeführt). Allerdings wird *read
+Die Originalregeln beinhaltet keinen Zauberspruch zum Identifizieren 
+von magischen Gegenständen (ein solcher Spruch wurde 1978 als Stufe 1
+Zauberkundigen-Spruch in den Advanced Regeln eingeführt). Allerdings wird *read
 magic* im Original wie folgt beschrieben: "the means by which the
 incantations *on an item* or scroll are read"
 
@@ -1100,6 +1100,8 @@ einer Stufe unter der Stufe des Spielercharakters haben.
 * Gefolgsleute sind hervorragende Ersatzcharaktere, und sollten als
  solche aufgebaut werden.
 
+\enlargethispage{1cm}
+
 ## Dienstleistungen und Baukosten
 
 
@@ -1202,6 +1204,8 @@ Schiffsführer (4.-7. Stufe)                100 GM + 25%
 
 -------------------------------------------------------
 
+\enlargethispage{5mm}
+
 Die Prozentangabe bei der monatlichen Heuer bezieht sich auf
 einen entsprechenden Anteil an der Prise bzw. dem Gewinn des
 Unternehmens zur See. Die Crew erwartet einen Anteil von 5 %, den
@@ -1216,6 +1220,7 @@ Die höheren Dienstgrade Maat, Offizier und Schiffsführer
 sind NSC der entsprechenden Stufen -
 meistens Kämpfer - und haben die entsprechenden Spielwerte.
 
+\enlargethispage{5mm}
 
 : Söldner, Sold pro Monat in GM \index{Söldner}
 

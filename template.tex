@@ -5,8 +5,8 @@ $if(colorlinks)$
 $endif$
 %
 \documentclass[showtrims,$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$if(beamer)$ignorenonframetext,$if(handout)$handout,$endif$$if(aspectratio)$aspectratio=$aspectratio$,$endif$$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
-\usepackage[x-1a]{pdfx}
-%\usepackage[x-3]{pdfx}
+%\usepackage[x-1a]{pdfx}
+\usepackage[x-3]{pdfx}
 \usepackage{luatex85}
 
 $if(beamer)$
@@ -374,9 +374,9 @@ $endif$
 
 \setstocksize{595pt}{420pt}
 % 2.84pt = 1mm; 1pt = 0.351mm
-\settrimmedsize{203mm}{141mm}{*}
+\settrimmedsize{206mm}{144mm}{*}
 % \settrims{<top>}{<foreedge>}
-\settrims{3.5mm}{3.5mm} % ca. 10pt
+\settrims{3mm}{3mm} % ca. 10pt
 % Satzspiegel
 \setbinding{6mm}
 \setlrmarginsandblock{10mm}{*}{1.618}
