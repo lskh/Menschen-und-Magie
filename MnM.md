@@ -33,17 +33,21 @@ OSR-Logo: [Matt S. Jackson, public domain](http://www.msjx.org/2018/11/vintage-l
 Finch. Wanderer Bill ist nicht assoziiert mit Matthew J. Finch,
 Mythmere Games oder Frog God Games.
 
-Das Wanderer Bill Logo ist Product Identity, ansonsten
-sind der Text und die Tabellen von *Menschen & Magie*, mit Ausnahme
-der Ausrüstungstabellen auf den Seiten \pageref{eqtab} bis
-\pageref{eqtabend} Open
-Game Content im Sinne der Open Game License, OGL 1.0a. Das heißt, Du
-darfst dieses Buch für Dich und für andere kopieren.  Gib es gerne
-weiter!  Es ist auch kein Problem, *Menschen & Magie* für deinen
-eigenen Open Game Content zu benutzen, vorausgesetzt, Du hälst Dich
-dabei an die Regeln der Open Game License.  Schließlich ist *Menschen
-& Magie* auch Open Source. Du findest die Quelldateien für dieses
-Dokument unter <https://github.com/lskh/Hausregeln>
+Das Wanderer Bill Logo ist Product Identity. Ansonsten ist dieses
+Spielerhandbuch Open Game Content im Sinne der Open Game License, OGL
+1.0a, mit Ausnahme der Ausrüstungstabellen auf den Seiten
+\pageref{eqtab} bis \pageref{eqtabend}. 
+
+Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
+Gib es gerne weiter!  
+
+Es ist auch kein Problem, *Menschen & Magie* für deinen eigenen Open
+Game Content zu benutzen, vorausgesetzt, Du hälst Dich dabei an die
+Regeln der Open Game License.  
+
+Schließlich ist *Menschen & Magie* auch Open Source. Du findest die
+Quelldateien für dieses Dokument unter
+<https://github.com/lskh/Hausregeln>
 
 Open Content: All text and tables of this booklet, except for the
 equipment tables on pages \pageref{eqtab} through \pageref{eqtabend},

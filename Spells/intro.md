@@ -29,7 +29,7 @@ Finch. Wanderer Bill ist nicht assoziiert mit Matthew J. Finch,
 Mythmere Games oder Frog God Games.
 
 Das Wanderer Bill Logo ist Product Identity, ansonsten ist 
-*Arkanes Wissen und Zaubersprüche* ist Open Game
+*Arkanes Wissen und Zaubersprüche* Open Game
 Content im Sinne der Open Game License, OGL 1.0a
 
 Das heißt, Du darfst dieses Heftchen für Dich und für andere kopieren.

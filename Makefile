@@ -26,6 +26,7 @@ Spells.md: Spells/Spells.md Makefile
 
 clean:
 	rm -f tmp* Spells.md
+	rm -f *.xmpi
 
 realclean: clean
 	cd Spells; make realclean

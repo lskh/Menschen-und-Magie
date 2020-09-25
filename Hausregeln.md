@@ -29,8 +29,8 @@ Grafiken: LadyofHats, CC 0, public domain,
 Finch. Wanderer Bill ist nicht assoziiert mit Matthew J. Finch,
 Mythmere Games oder Frog God Games.
 
-Das Wanderer Bill Logo ist Product Identity. Ansonsten sind die
-*Hausregeln* Open Game Content im Sinne der Open Game License, OGL
+Das Wanderer Bill Logo ist Product Identity. Ansonsten sind diese
+Hausregeln Open Game Content im Sinne der Open Game License, OGL
 1.0a, mit Ausnahme der Ausrütungstabellen auf den Seiten
 \pageref{eqtab} bis \pageref{eqtabend}.
 
