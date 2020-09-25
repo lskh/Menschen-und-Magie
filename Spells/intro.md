@@ -25,8 +25,10 @@ Datum:
 Grafiken: public domain
 
 *Swords & Wizardry* ist ein eingetragenes Warenzeichen von Matthew J.
-Finch
+Finch. Wanderer Bill ist nicht assoziiert mit Matthew J. Finch,
+Mythmere Games oder Frog God Games.
 
+Das Wanderer Bill Logo ist Product Identity, ansonsten ist 
 *Arkanes Wissen und Zaubersprüche* ist Open Game
 Content im Sinne der Open Game License, OGL 1.0a
 
@@ -63,24 +65,11 @@ benutzen.
 
 *Menschen & Magie* orientiert sich stark am sogenannten "ersten
 Fantasy Rollenspiel der Welt", auch als "nullte Edition" bekannt. Die
-Sprüche sind kompatibel zu den
+Sprüche sind inspiriert von den
 diversen Regelwerken, welche die *Old School* Rollenspiel-Szene (OSR)
-hervor gebracht hat, wie zum Beispiel *Labyrinth Lord*, *Swords &
-Wizardry* oder *Delving Deeper*. Außerdem sind sie natürlich auch
-kompatibel zur Originalveröffentlichung von 1974.
-
-Die Auswahl der Sprüche entspricht im wesentlichen dem Umfang von
-*Swords & Wizardry Complete*, einigen Sprüchen  
-aus der deutschen Übersetzung von *Labyrinth Lord*, und
-einer Handvoll Sprüchen die sich im Laufe der Grenzland-Kampagne entwickelt
-haben.
-
-Der Text der Sprüche ist zu einem Teil aus dem deutschen 
-*Labyrinth Lord*
-übernommen. Hier und da war es aber nötig die Angaben an die
-ursprünglicheren Regeln von *Swords & Wizardry* anzupassen. Dort wo es
-keine deutsche Übersetzung unter *Open Game Licence* gab, habe ich
-selbst übersetzt.
+hervor gebracht hat, und sind kompatibel mit allen Regeln, die auf dem 
+Original Fantasy Rollenspiel von 1974 basieren. Eine Handvoll Sprüche
+hat sich im Laufe der Grenzland-Kampagne entwickelt.
 
 Ich habe mich bemüht, die Angaben so offen und flexibel wie möglich zu
 gestalten. Zum Beispiel sind Längen in Zoll bzw. Fuß aber auch
@@ -146,19 +135,17 @@ Holmes Basic den ersten beiden Spruchstufen aus *Men & Magic* und
 Players Handbook
 :    Hiermit ist das Spielerhandbuch der ersten "Advanced" Edition
 gemeint, welches 1978 veröffentlicht wurde. Einige der Sprüche aus dem
-Players Handbook sind in *Labyrinth Lord* wiedergegeben, und haben so
-ihren Weg in diese Sammlung gefunden.
+Players Handbook sind in der deutschen Übersetzung eines B/X-Klons
+wiedergegeben, und haben so ihren Weg in diese Sammlung gefunden.
 
 B/X
 :    Hiermit sind zusammenfassend die *Basic* und *Expert* Editionen
 von Tom Moldvay, Dave Cook und Steve Marsh von 1981 gemeint. B/X bildet die
-Grundlage für einige sehr populäre Retroklone wie zum Beispiel *Old
-School Essentials*.
+Grundlage für einige sehr populäre Retroklone.
 
-3.5 SRD, Labyrinth Lord
+3.5 SRD
 :    Der Spruch *Steinsänger* stammt aus der unter Open Game Licence
-in 2003 veröffentlichten Edition 3.5. Er ist für Labyrinth Lord angepasst
-worden, und hat so den Weg in diese Sammlung gefunden.
+in 2003 veröffentlichten Edition 3.5. 
 
 Menschen & Magie
 :    Hierbei handelt es sich schließlich um Sprüche aus unserer
