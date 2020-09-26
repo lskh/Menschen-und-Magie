@@ -1,4 +1,4 @@
-all: MnM-cover.png Spells-cover.png Hausregeln-cover.png
+all: Spielerhandbuch-cover.png Spells-cover.png Hausregeln2020-cover.png
 
 Spells-cover.png: Makefile ../Spells.pdf
 	pdftoppm -f 1 -l 1 ../Spells.pdf > tmp.png
@@ -18,40 +18,40 @@ Spells-fullcover.pdf: Makefile Spells-fullcover.tex
 	pdflatex Spells-fullcover.tex
 	rm *.aux *.log
 
-Hausregeln-cover.png: Makefile ../Hausregeln.pdf
-	pdftoppm -f 1 -l 1 ../Hausregeln.pdf > tmp.png
+Hausregeln2020-cover.png: Makefile ../Hausregeln2020.pdf
+	pdftoppm -f 1 -l 1 ../Hausregeln2020.pdf > tmp.png
 	convert +level-colors "#000000","#44aaaa" \
-	tmp.png Hausregeln-cover.png
+	tmp.png Hausregeln2020-cover.png
 	convert +level-colors "#44aaaa","#44aaaa" \
-	-fuzz 100% tmp.png Hausregeln-back.png
+	-fuzz 100% tmp.png Hausregeln2020-back.png
 	rm -f tmp.png
 
-Hausregeln-fullcover.png: Makefile Hausregeln-fullcover.pdf
-	pdftoppm -f 1 -l 1 Hausregeln-fullcover.pdf > tmp.png
+Hausregeln2020-fullcover.png: Makefile Hausregeln2020-fullcover.pdf
+	pdftoppm -f 1 -l 1 Hausregeln2020-fullcover.pdf > tmp.png
 	convert +level-colors "#000000","#44aaaa" -fuzz 10% \
-	tmp.png Hausregeln-fullcover.png
+	tmp.png Hausregeln2020-fullcover.png
 	rm -f tmp.png
 
-Hausregeln-fullcover.pdf: Makefile Hausregeln-fullcover.tex
-	pdflatex Hausregeln-fullcover.tex
+Hausregeln2020-fullcover.pdf: Makefile Hausregeln2020-fullcover.tex
+	pdflatex Hausregeln2020-fullcover.tex
 	rm *.aux *.log
 
-MnM-cover.png: Makefile ../MnM.pdf
-	pdftoppm -f 1 -l 1 ../MnM.pdf > tmp.png
+Spielerhandbuch-cover.png: Makefile ../Spielerhandbuch.pdf
+	pdftoppm -f 1 -l 1 ../Spielerhandbuch.pdf > tmp.png
 	convert +level-colors "#000000","#aa8444" \
-	tmp.png MnM-cover.png
+	tmp.png Spielerhandbuch-cover.png
 	convert +level-colors "#aa8444","#aa8444" \
-	-fuzz 100% tmp.png MnM-back.png
+	-fuzz 100% tmp.png Spielerhandbuch-back.png
 	rm -f tmp.png
 
-MnM-fullcover.png: Makefile MnM-fullcover.pdf
-	pdftoppm -f 1 -l 1 MnM-fullcover.pdf > tmp.png
+Spielerhandbuch-fullcover.png: Makefile Spielerhandbuch-fullcover.pdf
+	pdftoppm -f 1 -l 1 Spielerhandbuch-fullcover.pdf > tmp.png
 	convert +level-colors "#000000","#aa8444" \
-	tmp.png MnM-fullcover.png
+	tmp.png Spielerhandbuch-fullcover.png
 	rm -f tmp.png
 
-MnM-fullcover.pdf: Makefile MnM-fullcover.tex
-	pdflatex MnM-fullcover.tex
+Spielerhandbuch-fullcover.pdf: Makefile Spielerhandbuch-fullcover.tex
+	pdflatex Spielerhandbuch-fullcover.tex
 	rm *.aux *.log
 
 clean: 

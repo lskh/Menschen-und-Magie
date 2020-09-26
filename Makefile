@@ -1,4 +1,4 @@
-all: MnM.pdf Spells.pdf Hausregeln.pdf 
+all: Spielerhandbuch.pdf Spells.pdf Hausregeln2020.pdf 
 	cd cover; make
 
 %.pdf: %.md Makefile license.md template.tex 

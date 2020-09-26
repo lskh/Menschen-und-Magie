@@ -35,10 +35,7 @@ Mythmere Games oder Frog God Games.
 
 Das Wanderer Bill Logo ist Product Identity. Ansonsten ist dieses
 Spielerhandbuch Open Game Content im Sinne der Open Game License, OGL
-1.0a, mit Ausnahme der Ausrüstungstabellen auf den Seiten
-\pageref{eqtab} bis \pageref{eqtabend}. 
-
-Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
+1.0a. Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
 Gib es gerne weiter!  
 
 Es ist auch kein Problem, *Menschen & Magie* für deinen eigenen Open
@@ -48,11 +45,6 @@ Regeln der Open Game License.
 Schließlich ist *Menschen & Magie* auch Open Source. Du findest die
 Quelldateien für dieses Dokument unter
 <https://github.com/lskh/Hausregeln>
-
-Open Content: All text and tables of this booklet, except for the
-equipment tables on pages \pageref{eqtab} through \pageref{eqtabend},
-which are based on an idea by Brendan S. a.k.a Necropraxis and used
-here with kind permission.
 
 \clearpage
 
@@ -1342,263 +1334,215 @@ Geld und Ausrüstung
 ---------------------
 \index{Geld}\index{Ausrüstung!Pakete}
 
-Üblicherweise wird das Startgeld eines Charakters ermittelt in dem ein
+Üblicherweise wird das Startgeld eines Charakters ermittelt, in dem ein
 Wurf von 3W6 mit 10 multipliziert wird. Dabei ergibt sich dann ein
-Betrag von 30 bis 180 Goldmünzen (GM)\index{GM}\index{Goldmünzen},
-von dem der Charakter seine erste Ausrüstung kaufen kann. 
+Betrag von 30 bis 180 Münzen\index{Münzen} - traditionell Goldmünzen
+(GM)\index{GM}\index{Goldmünzen} - aber es ist natürlich auch möglich,
+dass die Wirtschaft der Fantasy-Welt auf Silbermünzen, Gulden, Talern
+oder etwas noch ausgefallenerem basiert. Von diesem Startgeld, kann
+sich der Charakter nun aus folgender Tabelle eine erste Ausrüstung
+kaufen. Zu jeder Rüstung ist die jeweilige Rüstungsklasse
+(RK)\index{Rüstungsklasse}\index{RK}
+angegeben. Nähreres zur Rüstungsklasse findet sich auf Seite
+\pageref{rk}.
 
-In vielen Regelwerken kommen an dieser Stelle Tabellen mit diversen
-Ausrüstungsgegenständen und Preisangaben, aus der sich jeder seine
-Ausrüstung zusammenstellen kann. Dieses "Einkaufen" wird aber schnell
-mühsam, besonders, wenn während eines laufenden Spiels schnell ein
-neuer Charakter erstellt werden soll. Viel einfacher ist
-es, auf einer der folgenden Tabellen die Grundausrüstung
-auszuwürfeln^[Die Idee mit der auswürfelbaren Ausrüstung wurde das erste
-Mal von Brendan S. auf seinem *Necropraxis* Blog 
-veröffentlicht. Er war so nett, mir zu erlauben sie in *Menschen &
-Magie* zu verwenden.]. Dabei entspricht zum Beispiel der Eintrag mit der
-Nummer 5 in der Klerikertablle einer soliden Ausrüstung, die sich ein
-Kleriker von 50 Goldmünzen kaufen könnte. Was dabei nicht
-ausgegeben wurde, bleibt als Bargeld übrig.
+: Waffen
 
-### Ausrüstung für Kämpfer
-\label{eqtab}
+| Gegenstand | Preis [Münzen] | Gewicht [Pfund] |
+|:-----------|:---------:|:-------:|
+| Knüppel | - | 10 |
+| Dolch | 3 | 1 |
+| Speer | 2 | 5 |
+| Kampfstab | 1 | 5 |
+| Schwert | 10 | 10 |
+| Flegel | 8 | 10 |
+| Handaxt | 3 | 4 |
+| Streitkolben | 5 | 10 |
+| Morgenstern | 6 | 10 |
+| Kriegshammer | 11 | 10 |
+| Streitaxt | 7 | 10 |
+| Hellebarde | 7 | 15 |
+| Zweihandschwert | 30 | 15 |
+| Lanze | 10 | 10 |
+| Schleuder | 1 | 1 |
+| 20 Steine | - | 1 |
+| Kurzbogen | 25 | 5 |
+| Langbogen | 40 | 5 |
+| 20 Pfeile | 5 | 5 |
+| Köcher | 5 | - |
+| Leichte Armbrust | 15 | 5 |
+| Schwere Armbrust | 25 | 10 |
+| 30 Bolzen | 5 | 5 |
+| Silberpfeil/bolzen | 5 | - |
 
- 3.  Normale Kleidung (RK 9 [10]), Speer, 6 Fackeln, Rucksack,
-     Wasserschlauch, 7 eiserne Rationen, 15 m Seil, 4 GM, BW 12"
+: Rüstung 
 
- 4.  Lederrüstung (RK 7 [12]), Knüppel, 
-     Rucksack, Schlafsack, Wasserschlauch, 7
-     eiserne Rationen, 6 Fackeln, 3 m Holzstab, 1 GM, BW 12"
+| Gegenstand | Preis [Münzen] | Gewicht [Pfund] |
+|:-----------|:---------:|:-------:|
+| Lederrüstung (RK 7 [12]) | 15 | 25 |
+| Kettenrüstung (RK 5 [14])| 50 | 50 |
+| Plattenrüstung (RK 3 [16])| 75 | 75 |
+| Schild (RK -1 [+1])| 15 | 15 |
+| Helm | 10 | 5 |
 
- 5.  Lederrüstung (RK 7 [12]), Morgenstern, Dolch, 
+: Ausrüstung
+
+| Gegenstand | Preis [Münzen] | Gewicht [Pfund] |
+|:-----------|:---------:|:-------:|
+| Rucksack, 30 Pfund Kapazität | 5 | 2 |
+| Belladonna, 1 Bund | 10 | - |
+| Brecheisen | 5 | 5 |
+| Knoblauch | 5 | - |
+| Hammer | 2 | 1 |
+| Heiliges Symbol, Silber | 40 | 1 |
+| Heiliges Symbol, Holz | 5 | 1 |
+| Weihwasser, 1 Fläschchen | 25 | 1 |
+| 12 Eisennägel | 1 | 3 |
+| Laterne | 10 | 2 |
+| Stahlspiegel | 5 | 1 |
+| Silberspiegel | 15 | 1 |
+| Öl, 1 Fläschchen | 2 | 5 |
+| Holzstab, 3 m | 1 | 4 |
+| 7 Rationen, haltbar | 14 | 7 |
+| 7 Rationen | 7 | 14 |
+| Seil, 15 m | 1 | 15 |
+| Sack, 10 Pfund Kapazität | 1 | 1 |
+| Sack, 30 Pfund Kapazität | 2 | 1 |
+| Spaten | 5 | 10 |
+| Holzpflöcke, 1 Paar | 1 | 1 |
+| Zunderkasten | 2 | - |
+| 6 Fackeln | 1 | 5 |
+| Wasserschlauch | 1 | 2 |
+| Wein, 1 Flasche | 1 | 2 |
+| Wolfsbann, 1 Bund | 10 | - |
+| Sprüchebuch | 100 | 10 |
+
+: Tiere und Transportmittel
+
+| Gegenstand | Preis [Münzen] | Gewicht [Pfund] |
+|:-----------|:---------:|:-------:|
+| Hund | 25 | - |
+| Maultier | 20 | - |
+| Zugpferd | 30 | - |
+| Reitpferd | 40 | - |
+| Schlachtroß | 150 | - |
+| Sattel und Zaumzeug | 25 | 50 |
+| Satteltaschen, 30 Pfund Kapazität | 10 | 2 |
+| Pferderüstung (RK 5 [14]) | 150 | 75 |
+| Handwagen | 80 | - |
+| Planwagen | 160 | - |
+| Floß | 40 | - |
+| Ruderboot | 100 | - |
+| Kogge, klein | 5.000 | - |
+| Gallere, klein | 10.000 | - |
+| Langschiff | 15.000 | - |
+| Kogge, groß | 20.000 | - |
+| Gallere, groß | 30.000 | - |
+
+Während es vielen Spielern Spass macht, sich aus diesen Listen eine
+Ausrüstung zusammen zu stellen, kann dieses "Einkaufen" auch schnell
+mühsam werden, besonders wenn während des laufenden Spiels schnell ein
+neuer Charakter erstellt werden soll.  Viel einfacher ist es, auf
+einer der folgenden Tabellen die Grundausrüstung auszuwürfeln. Zu
+jedem Ausrüstungspaket ist auch angegeben, wie schnell sich ein 
+Charakter mit der jeweiligen Ausrüstung bewegen kann. Näheres zu
+dieser *Bewegungsweite* oder BW findet sich auf Seite \pageref{bw}. 
+
+### 1W6 Ausrüstungspakete für Kämpfer
+
+ 1.  Normale Kleidung (RK 9 [10]), Speer, 6 Fackeln, Rucksack,
+     Wasserschlauch, 7 eiserne Rationen, 15 m Seil, ein Beutel mit
+     10-60 Münzen^[Der Zahlenbereich 10-60 kann ausgewürfelt werden
+     mit 1W6 * 10. Entsprechend könnte man 2-20 auswürfeln mit 2W10,
+     20-120 mit 2W6 * 10 usw.], BW 12"
+
+ 2.  Lederrüstung (RK 7 [12]), Morgenstern, Dolch, 
      Rucksack, Wasserschlauch, 7 eiserne Rationen, 6 Fackeln, 15 m
-     Seil, 3 GM, BW 12"
+     Seil, ein Beutel mit 20-120 Münzen, BW 12"
 
- 6.  Lederrüstung (RK 7 [12]), Streitaxt, Handaxt, 
-     Dolch , Schleuder mit 20 Steinen, 
-     Rucksack, Wasserschlauch, 7 eiserne
-     Rationen, 6 Fackeln, 3 m Holzstab 9 GM, BW 9"
-
- 7.  Kettenrüstung (RK 5 [14]), Speer, Dolch, Schleuder mit 20
-     Steinen, 6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne
-     Rationen, 15 m Seil, 11 GM, BW 6"
-
- 8.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Schwert, Dolch,     
+ 3.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Schwert, Dolch,     
      6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen,
-     3 m Holzstab,  4 GM, BW 6"
+     3 m Holzstab, ein Beutel mit 10-60 Münzen, BW 6"
 
- 9.  Kettenrüstung (RK 5 [14]), Speer, leichte Armbrust, 30 Bolzen,
-     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen,
-     15 m Seil, 11 GM, BW 6"              
-
- 10. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Schwert, Dolch, 
+ 4.  Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Schwert, Dolch, 
      6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
-     Holzstab, 4 GM, BW 6"
+     Holzstab, ein Beutel mit 10-60 Münzen, BW 6"
  
- 11. Plattenrüstung (RK 3 [16]), Zweihandschwert, 3 Dolche, 6 Fackeln,
+ 5.  Plattenrüstung (RK 3 [16]), Zweihandschwert, 3 Dolche, 6 Fackeln,
      Rucksack, Wasserschlauch, 7 eiserne Rationen,
-     15 m Seil, 2 Ölfläschchen, 9 GM, BW 6"
+     15 m Seil, 2 Ölfläschchen, ein Beutel mit 10-60 Münzen, BW 6"
 
- 12. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Schwert, leichte Armbrust,
-     30 Bolzen, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
-     6 Fackeln, 3 m Holzstab, 2 GM, BW 6"  
-                                      
- 13. Plattenrüstung (RK 3 [16]), Flegel, Dolch, Kurzbogen, 20 Pfeile, 
-     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen,
-     15 m Seil, kleiner Sack, 10 GM, BW 6"
-
- 14. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Schwert, leichte Armbrust, 
-     30 Bolzen, Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne,
-     4 Ölfläschchen, 3 m Holzstab, 5 GM, BW 6"
-
- 15. Plattenrüstung (RK 3 [16]), Helm, zwei Streitäxte, Dolch, leichte
-     Armbrust, 30 Bolzen, 6 Fackeln, Rucksack, Wasserschlauch, 7
-     eiserne Rationen, 15 m Seil, 5 Ölfläschchen, 15 GM, BW 6"
-
- 16. Plattenrüstung (RK 3 [16]), Zweihandschwert, Dolch, Kurzbogen, 20
+ 6.  Plattenrüstung (RK 3 [16]), Zweihandschwert, Dolch, Kurzbogen, 20
      Pfeile, Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne, 4
-     Ölfläschchen, 3 m Holzstab, 2 kleine Säcke, 15 GM, BW 6"
-
- 17. Plattenrüstung (RK 3 [16]), Hellebarde, Dolch, Langbogen, 
-     20 normale Pfeile, 2 Pfeile
-     mit Silberspitzen, Rucksack, Wasserschlauch, Laterne, 4
-     Ölfläschchen, 7 eiserne Rationen, 15 m Seil, 10 GM, BW 6"
-
- 18. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Helm, Schwert, 2 Dolche,
-     leichte Armbrust, 30 normale Bolzen, 4 Bolzen mit Silberspitzen,
-     Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne, 4
-     Ölfläschchen, 3 m Holzstab, 9 GM, BW 6"
+     Ölfläschchen, 3 m Holzstab, 2 kleine Säcke, ein Beutel mit 2-20 
+     Münzen, BW 6"
 
 
-### Ausrüstung Zauberkundiger
+### 1W6 Ausrüstungspakete für Zauberkundige
 
-  3. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, Wasserschlauch, 
-     7 eiserne Rationen, 3 m Holzstab, Zauberbuch, 4GM, BW 9"
+  1. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, Wasserschlauch, 
+     7 eiserne Rationen, 3 m Holzstab, Zauberbuch, Beutel mit 
+     10-60 Münzen, BW 9"
 
-  4. Normale Kleidung (RK 9 [10]), 2 Dolche, Rucksack, Wasserschlauch, 
+  2. Normale Kleidung (RK 9 [10]), 2 Dolche, Rucksack, Wasserschlauch, 
      7 eiserne Rationen, 2 Ölfläschchen, 15 m Seil, Zauberbuch, 
-     7 GM, BW 9"
+     Beutel mit 20-120 Münzen, BW 9"
 
-  5. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
-     Wasserschlauch, 7 eiserne Rationen, Laterne, 4 Ölfläschchen,
-     Zauberbuch, 3 m Holzstab, 7 GM, BW 9"
-
-  6. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
+  3. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
      Wasserschlauch,  6 Fackeln, 7 eiserne Rationen, 15 m Seil, 
-     Zauberbuch, 1 Phiole Weihwasser, 9 GM, BW 9"
+     Zauberbuch, 1 Phiole Weihwasser, Beutel mit 10-60 Münzen, BW 9"
 
-  7. Normale Kleidung (RK 9 [10]), Dolch, 6 Fackeln, Rucksack,
+  4. Normale Kleidung (RK 9 [10]), Dolch, 6 Fackeln, Rucksack,
      Wasserschlauch, 7 eiserne Rationen, 3 m Holzstab, 5 Ölfläschchen,
-     Silberspiegel, ein Bund Belladonna, Zauberbuch, 9 GM, BW 9"
+     Silberspiegel, ein Bund Belladonna, Zauberbuch, Beutel mit 1-10
+     Münzen, BW 9"
 
-  8. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
-     Wasserschlauch, 7 eiserne Rationen, 15 m Seil, 2 Phiolen
-     Weihwasser, Zauberbuch, 4 GM, BW 9"
-
-  9. Normale Kleidung (RK 9 [10]), 3 Dolche, Rucksack, 
-    Wasserschlauch, 7 eiserne Rationen, 
-    Laterne, 4 Ölfläschchen, 3 m Holzstab, Phiole Weihwasser,
-    Zauberbuch, 16 GM, 
-    BW 9"
-
- 10. Normale Kleidung (RK 9 [10]), Dolch, 6 Fackeln, 
-    Zauberbuch, Rucksack, Wasserschlauch, 7 eiserne
-    Rationen, 15 m Seil, 2 Phiolen Weihwasser, 24 GM, BW 9"
-
- 11. Normale Kleidung (RK 9 [10]), Dolch, 
-     Zauberbuch, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
-    Laterne, 4 Ölfläschchen, 3 m Holzstab, Bund Wolfsbann, 57 GM, BW 9"
+ 5. Normale Kleidung (RK 9 [10]), Dolch, 
+    Zauberbuch, Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne,
+    4 Ölfläschchen, 3 m Holzstab, Bund Wolfsbann, 10-60 Münzen, BW 9"
     
- 12. Normale Kleidung (RK 9 [10]), Dolch, Zauberbuch, 
-     Rucksack, Wasserschlauch, 7 eiserne
-    Rationen, 1 Laterne, 4 Ölfläschchen,
-     15 m Seil, Bund Belladonna, Bund Wolfsbann 57 GM, BW 9"
-
-  13. Normale Kleidung (RK 9 [10]),  Dolch, 6 Fackeln, 
-      Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
-      Holzstab, Zauberbuch, Spruchrolle, 4 GM, BW 9"
-
-  14. Normale Kleidung (RK 9 [10]), 2 Dolche, 6 Fackeln, 
-    Rucksack, Wasserschlauch, 7 eiserne Rationen, Zauberbuch, 
-    Spruchrolle, 15 m Seil,  11 GM, BW 9"
-
-  15. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
-    Wasserschlauch, 7 eiserne Rationen, Zauberbuch, Laterne, 4
-    Ölfläschchen, Spruchrolle, 3 m Holzstab, 7 GM, BW 9"
-
-  16. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, Zauberbuch, 
-      Wasserschlauch, 7 eiserne Rationen, Laterne, 4 Ölfläschchen,
-      Spruchrolle, 15 m Seil, 17 GM, BW 9"
-
-  17. Normale Kleidung (RK 9 [10]), Dolch, Rucksack,
-    Wasserschlauch, 7 eiserne Rationen, 
-    Laterne, 4 Ölfläschchen, Zauberbuch, 
-    Spruchrolle, 3 m Holzstab, Bund Wolfsbann, 17 GM
-
-  18. Normale Kleidung (RK 9 [10]), Dolch, Rucksack,
-    Wasserschlauch, 7 eiserne Rationen, 
-    Laterne, 4 Ölfläschchen, Zauberbuch, 15 m Seil, 
-    Spruchrolle, Phiole Weihwasser, 12 GM, BW 9" 
+ 6. Normale Kleidung (RK 9 [10]), Dolch, Zauberbuch, 
+     Rucksack, Wasserschlauch, 7 eiserne Rationen, 1 Laterne, 4
+     Ölfläschchen, 15 m Seil, Bund Belladonna, Bund Wolfsbann, 
+     Beutel mit 10-60 Münzen , BW 9"
 
 
-### Ausrüstung für Kleriker
+### 1W6 Ausrüstungspakete für Kleriker
 
- 3.  Normale Kleidung (RK 9 [10]), Knüppel, 
+ 1.  Normale Kleidung (RK 9 [10]), Knüppel, 
      6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
      3 m Holzstab, hölzernes heiliges Symbol,   
-     4 GM, BW 12"
+     ein Beutel mit 10-60 Münzen, BW 12"
 
- 4.  Normale Kleidung (RK 9 [10]), Schild (RK -1 [+1]), Knüppel, 
-     6 Fackeln, Rucksack,
-     Wasserschlauch, 7 eiserne Rationen, 15 m Seil,
-     hölzernes Heiliges Symbol, 4 GM, BW 12"
-
- 5.  Lederrüstung (RK 7 [12]), Streitkolben, 
-     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
-     Holzstab, hölzernes Heiliges Symbol, 5 GM, BW 9"
-
- 6.  Lederrüstung (RK 7 [12]), Kampfstab, 
+ 2.  Lederrüstung (RK 7 [12]), Kampfstab, 
      Rucksack, Wasserschlauch,  
      6 Fackeln, 7 eiserne Rationen,
      15 m Seil, 12 Eisennägel, hölzernes 
      heiliges Symbol, 3 Pflöcke & Hammer, Stahlspiegel,
-     10 GM, BW 9"
+     ein Beutel mit 2-20 Münzen, BW 9"
 
- 7.  Kettenrüstung (RK 5 [14]), Kriegshammer, 
-     Rucksack, Wasserschlauch, 
-     6 Fackeln, 7 eiserne Rationen, 3 m Holzstab, 
-     hölzernes heiliges Symbol, 2 kleine Säcke, 8 GM, BW 6"
-
- 8.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Streitkolben, 
+ 3.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Streitkolben, 
      7 eiserne Rationen, 
      Rucksack, Wasserschlauch, 6 Fackeln, hölzernes heiliges Symbol, 
-     15 m Seil, 2 kleine Säcke, 8 GM, BW 6"
+     15 m Seil, 2 kleine Säcke, ein Beutel mit 10-60 Münzen, BW 6"
 
- 9.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Kriegshammer, 
-     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3
-     m Holzstab, hölzernes heiliges Symbol, 2 kleine Säcke, 3
-     Pflöcke und Hammer, Stahlspiegel, 10 GM, BW 6"
-
- 10. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), 
+ 4. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), 
      Streitkolben, 
      Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,   
      15 m Seil, 
-     hölzernes heiliges Symbol, 10 GM, BW 6"
+     hölzernes heiliges Symbol, ein Beutel mit 10-60 Münzen, BW 6"
 
- 11. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Kriegshammer, 
+ 5. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Kriegshammer, 
      Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 7 eiserne
      Rationen, 3 m Holzstab, hölzernes Heiliges Symbol, kleiner Sack, 
-     2 GM, BW 6"
+     ein Beutel mit 10-60 Münzen, BW 6"
 
- 12. Plattenrüstung (RK 3 [16]), Kampfstab, 
-     Rucksack, Wasserschlauch, 
-     Laterne, 4 Ölfläschchen, 7 eiserne Rationen,
-     15 m Seil, silbernes heiliges Symbol, 
-     4 GM, BW 6"
-
- 13. Normale Kleidung (RK 9 [10]), Knüppel, Rucksack, 
-     Wasserschlauch, 3 m Holzstab, 
-     6 Fackeln, 7 eiserne Rationen,
-     hölzernes heiliges Symbol,
-     Spruchrolle (!), 4 GM, BW 12"
-
- 14. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), 
-     Streitkolben, Rucksack, Wasserschlauch, 
-     Laterne, 4 Ölfläschchen, 7 eiserne Rationen, 
-     silbernes heiliges Symbol, 15 m Seil, 
-     10 GM, BW 6"
-
- 15. Lederrüstung (RK 7 [12]), Streitkolben,
-     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,
-     hölzernes heiliges Symbol, 3 m Holzstab, Spruchrolle (!), 2
-     Ölfläschchen, 1 GM 
-
- 16. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Helm, Kriegshammer, 
+ 6. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Helm, Kriegshammer, 
      Rucksack, Wasserschlauch, Laterne, 4
      Ölfläschchen, 7 eiserne Rationen, 15 m Seil, silbernes
      heiliges Symbol, 3 Pflöcke und Hammer, 
-     Stahlspiegel, 12 GM, BW 6"
+     Stahlspiegel, ein Beutel mit 1-20 Münzen, BW 6"
 
- 17. Kettenrüstung (RK 5 [14]), Kriegshammer, 
-     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,
-     hölzernes heiliges Symbol, 
-     Spruchrolle (!), 10 GM, BW 9"
-
- 18. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Helm,   
-     Streitkolben, Rucksack, Wasserschlauch, Laterne, 4
-     Ölfläschchen, 7 eiserne Rationen, 15 m Seil, 1 Phiole Weihwasser,
-     silbernes heiliges Symbol, 12 Eisennägel, 3 Pflöcke und Hammer,
-     kleiner Sack, 10 GM, BW 6"
-\label{eqtabend}
-
-
-Wenn Dir Deine erwürfelte Ausrüstung nicht gefällt, kannst Du
-natürlich eine Ausrüstung mit einem niedrigeren Wert aussuchen, und
-Dir die Differenz in Goldmünzen gut schreiben. Sagen wir Du würfelst
-für Deinen Zauberkundigen eine 12, aber die Ausrüstung, die unter 11
-angegeben ist, gefällt Dir besser, dann nimm Einfach die Ausrüstung
-Nummer 11 und schreibe Dir noch 10 Goldmünzen extra gut.
 
 Alles was *nach* der Charaktererstellung an Ausrüstung benötigt wird, 
 muss *im Spiel* beschafft werden. Was genau ein Händler im Angebot
@@ -1623,7 +1567,7 @@ Angriff ausgestalten, während die Schramme mit der Streitaxt den
 furchteinflößenden Minotaurus nur zu einem hämischen Lachen
 veranlasst, bevor er zu seinem Gegenangriff ansetzt.
 
-Noch ein Wort zum Thema Rüstungsklasse\index{Rüstungsklasse}: Die
+Noch ein Wort zum Thema Rüstungsklasse\label{rk}\index{Rüstungsklasse}: Die
 Rüstungsklasse zeigt an, wie schwer es ist einem Charakter oder einem
 anderen Wesen Schaden zuzufügen. In den Originalspielregeln war die
 Rüstungsklasse eine Zahl zwischen 9 und 2, und zwar war die
@@ -1648,20 +1592,22 @@ ergeben zusammen gerechnet immer 19.].
 Den Charakter vollenden
 -----------------------
 
-Nach dem der Charakter nun Attribute hat, eine Klasse, die dazu
-gehörigen Trefferpunkte und Rettungswürfe ermittelt wurden, nach dem
-er vielleicht die ersten Zaubersprüche gelernt hat, und
-eine Ausrüstung gekauft wurde, kann jetzt also auch noch 
-die Rüstungsklasse auf dem Charakterbogen
-eingetragen werden.
+Dein Charakter hat nun also Attribute, eine Klasse, die dazu gehörigen
+Trefferpunkte und Rettungswürfe. Vielleicht hat er ein paar
+Zaubersprüche gelernt und sich eine Ausrüstung gekauft, und so seine
+Rüstungsklasse ermittelt.
 
-Ganz unten sollte noch etwas Platz eingerichtet werden, um zu
+Hat sie oder er einen klangvollen Namen? Wie ist die Gesinnung Deines
+Charakters? Wonach strebt er? Woher kommt er, und warum zieht er auf
+Abenteuer aus?
+
+Wenn Du Dir über all' dies noch ein paar Gedanken gemacht hast,
+solltest Du als letztes ganz unten auf dem Charakterbogen noch
 notieren, bei wie vielen Erfahrungspunkten die nächste Stufe erreicht
 wird, dann kann es los gehen. 
 
 ![](img/delvers.png){width=100%}
 
-\enlargethispage{1cm}
 
 Ins Abenteuer ziehen
 ====================
@@ -2273,7 +2219,7 @@ vorgeschlagen wurde.
 
 Die folgende Tabelle zeigt die verschiedenen Geschwindigkeitsstufen
 eines Charakters in Abhängigkeit von der Belastung. Mit *BW* 
-\index{BW} ist die
+\index{BW}\label{bw} ist die
 Basis Geschwindigkeit (oder auch *BeWegung* oder *Bewegungs-Weite*) 
 gemeint. Sie wurde in den
 früheren Ausgaben noch in Zoll (") - also einer Spielbrettdistanz -
