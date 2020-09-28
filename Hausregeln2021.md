@@ -48,16 +48,23 @@ Quelldateien für dieses Dokument unter
 
 # Einleitung
 
-Dieses Heft ist als Referenz für den Spieltisch gedacht. Es erklärt
-nicht *wie* man spielt. 
+Nicht alles neu, aber vieles. Die Hausregeln 2021 verstehen sich
+einerseits weiterhin eindeutig in der Tradition des Originalspiels von
+1974, machen aber einen deutlichen Sprung ins 21. Jahrhundert und
+beinhalten Elemente aus verschiendenen "modernen" Systemen aus der
+OSR-, DIY- und Indie-Szene. Hier und da wurde auch aus den Erfahrungen
+mit den 2020er Grenzland-Hausregeln nachjustiert. Wenn Charaktere aus
+anderen ähnlichen Systemen übernommen werden sollen, können Attribute,
+Stufen, Ausrüstung und Zaubersprüche einfach beibehalten werden. Die
+Rettungswürfe entfallen, und die Rüstungsklasse muss wie in diesem
+Heft beschrieben in Rüstungspunkte umgeschrieben werden.
 
-Es ist, wie üblich für die *Supplemente* zu
-den 1974er Regeln, gegliedert in *Men & Magic*, (*Monsters &
-Treasure*) und *The Underworld & Wilderness Adventures*. Diese
-Gliederung entspricht den drei Bänden der Originalregeln, die bis zur
-aktuellen Edition beibehalten wurde. Jeder Abschnitt ergänzt, 
-klärt oder modifiziert die Regeln aus dem jeweiligen Band.
-
+Dieses *Supplement* ist  wie üblich für die 1974er Regeln, gegliedert
+in *Men & Magic*, *Monsters & Treasure* und *The Underworld &
+Wilderness Adventures*. Diese Gliederung entspricht den drei Bänden
+der Originalregeln, die bis zur aktuellen Edition beibehalten wurde.
+Jeder Abschnitt ergänzt, klärt oder modifiziert die Regeln aus dem
+jeweiligen Band.
 
 
 # Men & Magic
@@ -384,57 +391,204 @@ neutral.
 
 ## Ausrüstung
 
-: Start-Ausrüstung
+Charaktere beginnen ihre Karriere mit folgenden Dingen, die plausibel
+zu Kultur und Berufung des Charakters passen müssen:
 
-----------------------------------------------------------------------
- Intelligenz   Stärke           Weisheit         Geschicklichkeit 
-------------- ----------------- ---------------- ---------------------
- 3
+ - Ein Satz Kleidung
+ - eine Rüstung mit maximal 6 RP
+ - ein Rucksack
+ - ein Besonderer Gegenstand (z.B. ein Zauberbuch, ein Zweihandschwert
+   oder ein heiliges Symbol).
 
+Außerdem
+können für jeden Charakter auf folgender Tabelle weitere
+Ausrüstungsgegenstände und Hintergrunddetails ermittelt werden. Dazu
+wird die Zeile passend zum besten Attribut des Charakters gewählt, und
+die Spalte, die der Anzahl Trefferpunkte des Charakters entspricht. 
+Wurde ein Paket erst kürzlich von einem Charakter gewählt, gilt
+jeweils das Pakte eine Stelle weiter links.
 
- 4
+\renewcommand{\arraystretch}{1.5}
 
+### Start-Ausrüstung, 1-3 TP
 
- 5
+\footnotesize
 
+\begin{tabular}{%
+c%
+>{\raggedright\arraybackslash}p{0.26\textwidth}%
+>{\raggedright\arraybackslash}p{0.26\textwidth}%
+>{\raggedright\arraybackslash}p{0.26\textwidth}%
+}
+\toprule
+ & 1 TP & 2 TP & 3 TP \\
+\midrule
+3-9 &
+Du bist adeliger Abstammung, Goldener Ring (20 GM), ein Dolch, 30-180
+GM 
+&
+1 Laterne, 1 Dolch, 1 Rubin (50 GM), Du zuckst nervös 
+&
+Getrockneter Fisch für 7 Tage, eine Mandoline, 10-60 GM
+\\
+10 &
+Ein Drachenei, eine Armbrust mit 20 Bolzen, 10-60 GM
+&
+Pergament, Feder und Tinte, Du legst Wert auf Dein Äußeres, 20-80 GM 
+&
+Eine Abhandlung über Schwarzpulver, 3 Krähenfüße, 10-100 GM 
+\\
+11 &
+Eine Laterne, 2 Flaschen Öl, 1 Schwert, Geschicklichkeit +1 
+&
+1 Flasche Weihwasser, Empfehlungsschreiben vom Bischoff, 10-60 GM 
+&
+6 Fackeln, 1 Paar Würfel, ein magischer Gegenstand, 3 SM
+\\
+12 &
+Eine Landkarte der Region, ein Kochtopf, 20-120 GM
+&
+Du fürchtest Dich in geschlossenen Räumen, eine Schleuder und 20
+Steine, 10-100 GM
+&
+Ein Buch über Dämonen, ein Kampfstab, 10-60 GM 
+\\
+13 &
+Ein Glas mit einer konservierten Schlange, eine Schutzrolle, 20-120 GM
+&
 
- 6
+&
 
+\\
+14 &
 
- 7
+&
 
+&
 
- 8
+\\
+15 &
 
+&
 
- 9
+&
 
+\\
+16 &
 
- 10
+&
 
+&
 
- 12
+\\
+17 &
 
+&
 
- 13
+&
 
- 
- 14
+\\
+18 &
 
+&
 
- 15
+&
 
+\\
+\bottomrule
+\end{tabular}
 
- 16
+\normalsize
 
+### Start-Ausrüstung, 4-6 TP
 
- 17
+\footnotesize
 
+\begin{tabular}{%
+c%
+>{\raggedright\arraybackslash}p{0.26\textwidth}%
+>{\raggedright\arraybackslash}p{0.26\textwidth}%
+>{\raggedright\arraybackslash}p{0.26\textwidth}%
+}
+\toprule
+ & 4 TP & 5 TP & 6 TP \\
+\midrule
+3-9 &
 
- 18
+&
 
+&
 
-----------------------------------------------------------------------
+\\
+10 &
+
+&
+
+&
+
+\\
+11 &
+
+&
+
+&
+
+\\
+12 &
+
+&
+
+&
+
+\\
+13 &
+
+&
+
+&
+
+\\
+14 &
+
+&
+
+&
+
+\\
+15 &
+
+&
+
+&
+
+\\
+16 &
+
+&
+
+&
+
+\\
+17 &
+
+&
+
+&
+
+\\
+18 &
+
+&
+
+&
+Ein edler Fellumhang, 1W100 Münzen einer unbekannten Währung, Du
+bist fremd hier.
+\\
+\bottomrule
+\end{tabular}
+
+\renewcommand{\arraystretch}{1}
+\normalsize
 
 ## Erfahrung
 \index{Erfahrung}
