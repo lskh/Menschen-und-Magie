@@ -866,9 +866,9 @@ Fuhrwerk, einachsig                      100 GM
 
 Fuhrwerk, zweiachsig                     200 GM  
 
-Floß, pro Quadratmeter                     1 GM  
+Floß                                      30 GM  
 
-Ruderboot (Prahm)                         20 GM
+Ruderboot (Prahm)                        100 GM
 
 Kanu                                      55 GM  
 
