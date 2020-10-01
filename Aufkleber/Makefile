@@ -1,6 +1,6 @@
-all: sticker1.pdf
+all: sticker1.pdf sticker2.pdf sticker3.pdf
 
-sticker1.pdf: Listen.md ../template.tex Makefile
+%.pdf: %.md ../template.tex Makefile
 	pandoc -s -t latex --template ../template.tex \
 	-f markdown+implicit_figures \
 	--variable lang=de \
@@ -8,3 +8,6 @@ sticker1.pdf: Listen.md ../template.tex Makefile
 	--variable classoption="titlepage,twoside,a5paper,12pt" \
 	--variable subparagraph \
 	$< -o $@
+
+realclean: 
+	rm -f *.pdf *~
