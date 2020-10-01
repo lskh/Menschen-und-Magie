@@ -1,4 +1,4 @@
-all: sticker1.pdf sticker2.pdf sticker3.pdf
+all: sticker1.pdf sticker2.pdf sticker3.pdf notizseite.pdf
 
 %.pdf: %.md ../template.tex Makefile
 	pandoc -s -t latex --template ../template.tex \
