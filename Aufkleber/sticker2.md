@@ -24,7 +24,7 @@
 | Rucksack, 30 Pfund Kapazität | 5 | 2 |
 | Belladonna, 1 Bund | 10 | - |
 | Brecheisen | 5 | 5 |
-| Knoblauch | 5 | - |
+| Knoblauch, 1 Bund | 5 | - |
 | Hammer | 2 | 1 |
 | Heiliges Symbol, Silber | 40 | 1 |
 | Heiliges Symbol, Holz | 5 | 1 |

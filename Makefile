@@ -33,7 +33,7 @@ clean:
 realclean: clean
 	cd Spells; make realclean
 	cd cover; make realclean
-	rm -f *.pdf
+	rm -f *.pdf *.xmpi
 	rm -f *.log *~ 
 
 archive: realclean
