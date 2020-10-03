@@ -8,8 +8,8 @@ Spells-cover.png: Makefile ../Spells.pdf
 	-fuzz 100% tmp.png Spells-back.png
 	rm -f tmp.png
 
-Hausregeln-cover.png: Makefile ../Hausregeln.pdf
-	pdftoppm -f 1 -l 1 ../Hausregeln.pdf > tmp.png
+Hausregeln-cover.png: Makefile ../Hausregeln2020.pdf
+	pdftoppm -f 1 -l 1 ../Hausregeln2020.pdf > tmp.png
 	convert +level-colors "#000000","#44aaaa" \
 	tmp.png Hausregeln-cover.png
 	convert +level-colors "#44aaaa","#44aaaa" \

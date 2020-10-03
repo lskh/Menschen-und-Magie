@@ -11,7 +11,7 @@ secnumdepth: 2
 \null\vfill
 
 \Large
-Menschen & Magie - Hausregeln \newline
+Menschen & Magie - Grenzland-Hausregeln, 2020 \newline
 \normalsize
 Eine Hausregelsammlung für Old-School Rollenspiele \newline
 kompatibel mit *Swords & Wizardry* und allen Regeln, die auf dem
@@ -26,10 +26,13 @@ Grafiken: LadyofHats, CC 0, public domain,
 <https://commons.wikimedia.org/wiki/User:LadyofHats> 
 
 *Swords & Wizardry* ist ein eingetragenes Warenzeichen von Matthew J.
-Finch
+Finch. Wanderer Bill ist nicht assoziiert mit Matthew J. Finch,
+Mythmere Games oder Frog God Games.
 
-Die *Hausregeln* sind Open Game
-Content im Sinne der Open Game License, OGL 1.0a
+Das Wanderer Bill Logo ist Product Identity. Ansonsten sind diese
+Hausregeln Open Game Content im Sinne der Open Game License, OGL
+1.0a, mit Ausnahme der Ausrütungstabellen auf den Seiten
+\pageref{eqtab} bis \pageref{eqtabend}.
 
 Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
 Gib es gerne weiter! 
@@ -38,12 +41,13 @@ Es ist auch kein Problem, die *Hausregeln* für deinen
 eigenen Open Game Content zu benutzen, vorausgesetzt, Du hälst Dich
 dabei an die Regeln der Open Game License.
 
-Schließlich sind die *Grenzland-Hausregeln* auch Open Source. Du findest die Quelldateien für dieses Dokument unter 
+Schließlich ist *Menschen & Magie* auch Open Source. Du findest die
+Quelldateien für dieses Dokument unter
 <https://github.com/lskh/Hausregeln>
 
 Open Content: All text and tables of *this booklet*, except for the
 equipment tables on pages \pageref{eqtab} through \pageref{eqtabend},
-which are based on an idea by Brendan S. a.k.a necropraxis and used
+which are based on an idea by Brendan S. a.k.a Necropraxis and used
 here with kind permission.
 
 \normalsize 
@@ -62,14 +66,10 @@ nicht *wie* man spielt.
 Es ist, wie üblich für die *Supplemente* zu
 den 1974er Regeln, gegliedert in *Men & Magic*, (*Monsters &
 Treasure*) und *The Underworld & Wilderness Adventures*. Diese
-Gliederung entspricht den drei Bänden der Originalregeln, die in den
-späteren Editionen als *Spielerhandbuch*, *Monster Manual* und
-*Dungeon Masters Guide* beibehalten wurde. Jeder Abschnitt ergänzt, 
+Gliederung entspricht den drei Bänden der Originalregeln, die bis zur
+aktuellen Edition beibehalten wurde. Jeder Abschnitt ergänzt, 
 klärt oder modifiziert die Regeln aus dem jeweiligen Band.
 
-Die hier beschriebenen Regeln sind von *Swords & Wizardry Complete* und 
-*Delving Deeper* abgeleitet, und stehen somit unter der 
-*Open Game Licence*.
 
 
 # Men & Magic
@@ -130,9 +130,9 @@ Berechnung des Erfahrungsbonus.
 |         | Weisheit 12 - 15 | +2 |
 |         | Weisheit 16 - 18 | +3 |
 |          |                     |    |
-| Zauberkundige | Weisheit 9 - 10 | +1 |
-|            | Weisheit 11 - 12 | +2 |
-|            | Weisheit 13 - 14 | +3 |
+| Zauberkundige, | Weisheit 9 - 10 | +1 |
+| Diebe und  | Weisheit 11 - 12 | +2 |
+| Punks      | Weisheit 13 - 14 | +3 |
 |            | Weisheit 15 - 16 | +4 |
 |            | Weisheit 17 - 18 | +5 |
 |          |                     |    |
@@ -182,8 +182,8 @@ außergewöhnlich Stärke haben.
 
 ---------------------------------------------------------
 
-Kämpfer mit einer Stärke von 18/76 oder mehr haben eine Chance auch
-magisch verschlossene Türen zu öffnen - Angaben in Klammern.
+Kämpfer mit einer Stärke von 18/76 oder mehr haben eine Chance 
+auch magisch verschlossene Türen zu öffnen - Angaben in Klammern.
 
 ### Intelligenz
 \index{Intelligenz}
@@ -567,6 +567,7 @@ Klassenfähigkeiten
 Klassenbeschränkungen
 :    Kleriker dürfen nur stumpfe Waffen benutzen.
 
+\enlargethispage{1cm}
 
 : Kleriker Stufen
 
@@ -1871,9 +1872,9 @@ ist, lässt sich die Probe auch mit dem W20 würfeln.
 \index{Magische Gegenstände}\index{identifizieren!Magische
 Gegenstände}
 
-OD&D beinhaltet keinen Zauberspruch zum identifizieren von magischen
-Gegenständen (ein solcher Spruch wurde 1978 als Stufe 1
-Zauberkundigen-Spruch in AD&D eingeführt). Allerdings wird *read
+Die Originalregeln beinhaltet keinen Zauberspruch zum Identifizieren 
+von magischen Gegenständen (ein solcher Spruch wurde 1978 als Stufe 1
+Zauberkundigen-Spruch in den Advanced Regeln eingeführt). Allerdings wird *read
 magic* im Original wie folgt beschrieben: "the means by which the
 incantations *on an item* or scroll are read"
 
@@ -2133,6 +2134,8 @@ einer Stufe unter der Stufe des Spielercharakters haben.
 * Gefolgsleute sind hervorragende Ersatzcharaktere, und sollten als
  solche aufgebaut werden.
 
+\enlargethispage{1cm}
+
 ## Dienstleistungen und Baukosten
 
 
@@ -2235,6 +2238,8 @@ Schiffsführer (4.-7. Stufe)                100 GM + 25%
 
 -------------------------------------------------------
 
+\enlargethispage{5mm}
+
 Die Prozentangabe bei der monatlichen Heuer bezieht sich auf
 einen entsprechenden Anteil an der Prise bzw. dem Gewinn des
 Unternehmens zur See. Die Crew erwartet einen Anteil von 5 %, den
@@ -2249,6 +2254,7 @@ Die höheren Dienstgrade Maat, Offizier und Schiffsführer
 sind NSC der entsprechenden Stufen -
 meistens Kämpfer - und haben die entsprechenden Spielwerte.
 
+\enlargethispage{5mm}
 
 : Söldner, Sold pro Monat in GM \index{Söldner}
 
@@ -2354,7 +2360,7 @@ hoch sein wie ihr Durchmesser.
 
 \enlargethispage{1cm}
 
-\begin{minipage}[t]{7.8cm}\vspace{0pt}
+\begin{minipage}[t]{7.7cm}\vspace{0pt}
 
 \phantomsection
 \addcontentsline{toc}{section}{Charakterbogen}
@@ -2408,7 +2414,7 @@ Trefferpunkte & Rüstungsklasse \\
 \end{tabular}
 
 \end{minipage}
-\begin{minipage}[t]{4.2cm}\vspace{0pt}
+\begin{minipage}[t]{4.1cm}\vspace{0pt}
 
 \centering
 \tikz\draw (0,0) rectangle (\textwidth,3.5cm);\linebreak

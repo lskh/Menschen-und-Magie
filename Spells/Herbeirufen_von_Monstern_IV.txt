@@ -12,7 +12,7 @@ getötet wird. Es dauert eine Phase, bis die Kreatur erscheint.
 
 : Stufe IV Monster
 
-| 1W12 | Monster |
+| 1W20 | Monster |
 |:--:|:-----------|
 | 1 | 1 Doppelgänger (4 TW) |
 | 2 | 1 Todesalb \index{Todesalb}\index{Wraith}(Wraith, 4 TW) | 

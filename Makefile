@@ -1,4 +1,4 @@
-all: MnM.pdf Spells.pdf Hausregeln.pdf 
+all: Spielerhandbuch.pdf Spells.pdf Hausregeln2020.pdf 
 	cd cover; make
 
 %.pdf: %.md Makefile license.md template.tex 
@@ -17,9 +17,6 @@ all: MnM.pdf Spells.pdf Hausregeln.pdf
 	pdflatex tmp.$<.tex
 	mv tmp.$<.pdf $@ &&\
 	rm tmp.$<.*
-
-MnM.md: intro.md Charaktererschaffung.md Abenteuer.md Anhang.md
-	cat $^ > MnM.md
 
 Spells/Spells.md: Makefile
 	cd Spells ; make Spells.md
