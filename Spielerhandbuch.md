@@ -4,15 +4,14 @@ subtitle: Wanderer Bills Spielerhandbuch für Old-School Rollenspiele
 titlegraphic: img/DnD-Dragon.png
 logo: img/logo.png
 rights: © 2020 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
-titlepagecolor: purple
-titlepagetextcolor: lightgray
 lang: de
 ---
 
 \null\vfill
 \noindent
 \Large
-Menschen & Magie \newline
+Menschen & Magie: Wanderer Bills Spielerhandbuch für Old-School
+Rollenspiele, überarbeitete Ausgabe\newline
 \normalsize
 Ein Spielerhandbuch für Old-School Rollenspiele, kompatibel mit
 *Swords & Wizardry* und allen Regeln, die auf dem Original Fantasy
@@ -57,60 +56,24 @@ Quelldateien für dieses Dokument unter
 Vorwort
 =======
 
-\lettrine{A}{m Anfang} war mein Plan einfach nur eine Liste mit Hausregeln
-für unsere Rollenspiel-Runde zu verfassen. Dann dachte ich, dass es ganz
-schön wäre, wenn alle Spieler ein kleines Heftchen mit den wichtigsten
-Tabellen zur Hand hätten. Schließlich ist daraus dieses kleine
-Spielerhandbuch, ein Band mit Hausregeln und ein Buch mit Zaubersprüchen
-geworden. Und das schöne ist, alle drei Bücher können ausgedruckt und
-kopiert werden, und völlig legal als PDF weiter gereicht werden.
+\lettrine{M}{enschen & Magie} ist aus der Idee hervorgegangen eine
+kleine Regel-Referenz für das Original Fantasy Rollenspiel zu
+schreiben, um sie in unserer Spielrunde zu nutzen. Seit Januar 2019
+ist daraus ein größeres Projekt geworden, bestehend aus einem
+Spielerhandbuch, einer Hausregelsammlung und einer Sammlung von
+Zaubersprüchen die alle Sprüche der Old-School Spiele abdeckt. Ein
+Monsterbuch und ein Spielleiterbuch sind in Arbeit, so dass *Menschen
+& Magie* auf dem Weg ist, eine eigenständige deutschsprachige
+OSR-Edition zu werden.
 
-Schließlich wurde dann auch noch der Zine-Contest des System-Matters
-Verlags angekündigt, was mich motiviert hat, "das Ding endlich über
-die Rampe zu bringen" und dieses Spielerhandbuch zum Contest
-einzureichen.
-
-Ermöglicht wird dieses Projekt durch die Veröffentlichung der *Open Game
-License* und der *System Reference Documents* durch *Wizards of the Coast*
-(siehe Seite \pageref{open-game-license-version-1.0a}) und die Vorarbeit
-vieler Mitglieder einer Bewegung, die sich *Old School Renaissance* (OSR)
-nennt. Eine Bewegung die seit etwa Mitte der Nuller Jahre die alten
-Regelwerke neu formuliert veröffentlicht, und darüber hinaus eine
-unglaubliche Menge spannender, origineller und zum Teil in eindrucksvoller
-künstlerischer Qualität gearbeiteter Werke hervor gebracht hat.
-
-Die Open Game License machte es möglich, dass die Spielregeln des
-originalen Fantasy Rollenspiels unter permissiven Lizenzbedingungen,
-neu formuliert veröffentlicht werden können. Diese neu formulierten
-Regeln werden oft als Retro-Klon bezeichnet.
-
-*Menschen & Magie* versucht, den Geist der ersten Ausgabe des ersten
-Fantasy-Rollenspiels zu vermitteln, welches 1974 von Gary Gygax und
-Dave Arneson veröffentlicht wurde. Außerdem soll es möglichst gut
-kompatibel zu den Retro-Klonen der frühen Editionen sein.  Für die
-Spieler sollte es keinen Unterschied machen, ob der Spielleiter sein
-Spiel auf Grundlage der Original-Regeln von 1974 oder einem der
-Retro-Klone wie zum Beispiel *Swords & Wizardry* spielt. Auch für
-Spieler in Kampagnen, die auf den *Advanced*-Regeln, oder einem der
-B/X-Klone aufbauen, sollten die Informationen dieses Spielerhandbuchs
-hilfreich sein.
-
-Grundlage für *Menschen & Magie* ist *Swords & Wizardry White Box*,
-ein Retro-Klon der "three little brown books".  Im Anhang habe ich
-aufgeführt, in welchen Punkten *Menschen & Magie* von den
-Original-Regeln abweicht.
-
-Aufgebaut ist das Heft aus einem einfach gehaltenen Abschnitt über die
-Erschaffung von Charakteren der ersten Stufe, den Regeln um den so
-erschaffenen Charakter auf Abenteuer ausziehen zu lassen, sowie einem
-ausführlichen Abschnitt über das Spiel in einer groß angelegten offenen
-Fantasy-Kampagne. Ein Thema, welches in vielen Regelwerken für meinen
-Geschmack zu kurz kommt.
-
-Ich hoffe, dass Ihr *Menschen & Magie* nützlich findet. Ein Spieler
-aus unserer Runde hat kürzlich im Urlaub - nur mit diesem Heft
-ausgestattet - eine spontane Runde geleitet, mit kleinen Zetteln vom
-Kellner-Notizblock als Charakterbögen ... genau so soll es sein!
+Dieses Spielerhandbuch ist für Neulinge gedacht, sowie als
+leichtgewichtiges Mini-Regelsystem für offene Runden mit
+niedrigstufigen Charakteren, die sich bezüglich der Regeln möglichst
+nah am Originalspiel von 1974 orientieren. Diese überarbeitete Version
+unterscheidet sich von der ersten Ausgabe nur durch die geänderten
+Ausrüstungstabellen. Ansonsten ist alles in diesem Spielerhandbuch
+kompatibel zu *Swords & Wizardry*, den anderen Büchern aus der
+*Menschen & Magie*-Reihe, und natürlich zu den Regeln von 1974!
 
 \pagestyle{empty}
 

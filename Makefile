@@ -33,6 +33,7 @@ realclean: clean
 	cd cover; make realclean
 	rm -f *.pdf
 	rm -f *.log *~ 
+	rm -f *.xmpi
 
 archive: realclean
 	zip -rv  ../MnM.zip . -x \.git/
