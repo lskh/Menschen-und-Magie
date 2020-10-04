@@ -38,15 +38,15 @@ Hausregeln2021-fullcover.pdf: Makefile Hausregeln2021-fullcover.tex
 
 Spielerhandbuch-cover.png: Makefile ../Spielerhandbuch.pdf
 	pdftoppm -f 1 -l 1 ../Spielerhandbuch.pdf > tmp.png
-	convert +level-colors "#000000","#aa8444" \
+	convert +level-colors "#000000","#cca666" \
 	tmp.png Spielerhandbuch-cover.png
-	convert +level-colors "#aa8444","#aa8444" \
+	convert +level-colors "#cca666","#cca666" \
 	-fuzz 100% tmp.png Spielerhandbuch-back.png
 	rm -f tmp.png
 
 Spielerhandbuch-fullcover.png: Makefile Spielerhandbuch-fullcover.pdf
 	pdftoppm -f 1 -l 1 Spielerhandbuch-fullcover.pdf > tmp.png
-	convert +level-colors "#000000","#aa8444" \
+	convert +level-colors "#000000","#cca666" \
 	tmp.png Spielerhandbuch-fullcover.png
 	rm -f tmp.png
 

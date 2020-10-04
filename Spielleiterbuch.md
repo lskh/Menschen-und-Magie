@@ -7,6 +7,8 @@ rights: © 2020 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
 lang: de
 ---
 
+\null\vfill
+\noindent
 \Large
 Menschen & Magie - Die Spielleiter-Referenz\newline
 \normalsize
@@ -14,40 +16,36 @@ Menschen & Magie - Die Spielleiter-Referenz\newline
 Rollenspiele, 
 kompatibel mit *Swords & Wizardry* und allen Regeln, die auf dem
 Original Fantasy Rollenspiel von 1974 basieren.
-\newline
+
+Text und Satz: © Wanderer Bill,
+<wandererbill73@gmail.com>,\newline
 Datum:
-\newline
-Text und Satz: © Wanderer Bill, 2020\newline
-<wandererbill73@gmail.com>
 \small
 
 Grafiken: LadyofHats, CC 0, public domain,
 <https://commons.wikimedia.org/wiki/User:LadyofHats> 
 
 *Swords & Wizardry* ist ein eingetragenes Warenzeichen von Matthew J.
-Finch
+Finch. Wanderer Bill ist nicht assoziiert mit Matthew J. Finch,
+Mythmere Games oder Frog God Games.
 
-Die *Menschen & Magie* ist Open Game
-Content im Sinne der Open Game License, OGL 1.0a
-
-Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
-Gib es gerne weiter! 
-
-Es ist auch kein Problem, die *Hausregeln* für deinen
+Das Wanderer Bill Logo ist Product Identity, ansonsten
+sind der Text und die Tabellen von *Menschen & Magie* Open
+Game Content im Sinne der Open Game License, OGL 1.0a. Das heißt, Du
+darfst dieses Buch für Dich und für andere kopieren.  Gib es gerne
+weiter!  Es ist auch kein Problem, *Menschen & Magie* für deinen
 eigenen Open Game Content zu benutzen, vorausgesetzt, Du hälst Dich
-dabei an die Regeln der Open Game License.
+dabei an die Regeln der Open Game License.  Schließlich ist *Menschen
+& Magie* auch Open Source. Du findest die Quelldateien für dieses
+Dokument unter <https://github.com/lskh/Hausregeln>
 
-Schließlich ist *Menschen & Magie* auch Open Source. Du findest die Quelldateien für dieses Dokument unter 
-<https://github.com/lskh/Hausregeln>
-
+\clearpage
 
 \normalsize 
 
-\mainmatter
+\tableofcontents*
 
-\tableofcontents
-
-\listoftables
+\listoftables*
 
 Vorwort
 =======
@@ -162,6 +160,8 @@ Holmes und AD&D, *Labyrinth Lord* von Daniel Proctor, einem
 B/X-Klon, der auch auf Deutsch erschienen ist, sowie 
 *Lamentations of the Flame Princess* (LotFP) eine radikalere 
 B/X-Überarbeitung von James Raggi IV.
+
+\mainmatter
 
 Charaktererschaffung
 ====================
@@ -673,24 +673,6 @@ of Dice   Sided   Sided   Sided    Sided    Sided     Sided
 ------------------------------------------------------------
 
 
-Das sichere Dorf
-----------------
-
-Old School Rollenspiele brauchen ein Basislager für Charaktere. Es muss
-ein geschützter Ort sein mit einem Treffpunkt, an dem die Charaktere
-Pläne schmieden können, um zu neuen Abenteuern aufzubrechen. Aber sie
-müssen auch Rasten und Verweilen können, um plausibel zu machen, dass
-nicht bei jeder Expedition jeder Chatakter dabei sein muss. Am besten
-sollten sich an dem Ort auch Möglichkeiten finden, um zu trainieren,
-studieren, zu lernen und zu meditieren, um plausibel höhrere Level
-erreichen zu können, und Spielzeit verstreichen zu lassen.
-
-Damit eine Kampagne als offene Spielrunde funktionieren kann, sollten
-die Abenteuerorte so gelegen sein, dass die Abenteurer am Ende der
-Spielrunde wieder zurück im Ausgangsort sind. Oder genauer gesagt, der
-Ort und die umgebenden Abenteurorte sollten so arrangiert sein, dass
-sich eine Spielrunde entsprechend gestalten lässt.
-
 ### Struktur einer offenen Spielrunde
 
 -   Zusammenfinden der Abenteurer, auswürfeln neuer Charaktere
@@ -807,6 +789,24 @@ ausgelagert und die Planung der Spielabende wird von den Spielern
 
 Referenz:
 <http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/>
+
+Das sichere Dorf
+----------------
+
+Old School Rollenspiele brauchen ein Basislager für Charaktere. Es muss
+ein geschützter Ort sein mit einem Treffpunkt, an dem die Charaktere
+Pläne schmieden können, um zu neuen Abenteuern aufzubrechen. Aber sie
+müssen auch Rasten und Verweilen können, um plausibel zu machen, dass
+nicht bei jeder Expedition jeder Chatakter dabei sein muss. Am besten
+sollten sich an dem Ort auch Möglichkeiten finden, um zu trainieren,
+studieren, zu lernen und zu meditieren, um plausibel höhrere Level
+erreichen zu können, und Spielzeit verstreichen zu lassen.
+
+Damit eine Kampagne als offene Spielrunde funktionieren kann, sollten
+die Abenteuerorte so gelegen sein, dass die Abenteurer am Ende der
+Spielrunde wieder zurück im Ausgangsort sind. Oder genauer gesagt, der
+Ort und die umgebenden Abenteurorte sollten so arrangiert sein, dass
+sich eine Spielrunde entsprechend gestalten lässt.
 
 
 Ein Setting generieren
@@ -1252,40 +1252,39 @@ ergreift es die Flucht, ergibt sich, o.ä.
 
 : Moral
 
------------------------------------------------------------
- Moral (ML)   Charakter-Typ/Monster        Score to remain
-------------  --------------------------- -----------------
- 2            animals that will always     12
-              run
+-------------------------------------------------------------
+ Moral (ML)   Charakter-Typ/Monster        Standhaft bei ...
+------------  --------------------------- -------------------
+ 2            Fluchttiere, die immmer      12
+              flüchten
 
- 3            animals that will fight      11
-              when cornered
+ 3            Fluchttiere, die sich ver-   11
+              teidigen wenn in die Enge
+              getrieben
  
- 4            herbivores defending their   10
-              young
+ 4            Fluchttiere, die ihre        10
+              Jungen verteigiden
  
- 5            carnivores, cowards          9
+ 5            Raubtiere, Feiglinge          9
  
- 6            cautious people,             8
-              light foot/horse, peasants
+ 6            Vorsichtige normale             8
+              Menschen, Bauern
  
- 7            normal men, heavy foot        7
-              medium horse
+ 7            Normale Menschen,             7
+              Soldaten
  
- 8            well led humanoids,           6
-              armored foot
+ 8            Gut geführte Truppen           6
  
- 9            disciplined troops           5
-              swiss pike men  
+ 9            Elitetruppen                   5
 
- 10           fanatics, heavy horse        4
-              norman knights 
+ 10           Fanatiker,                     4
+              Ritter 
 
- 11           lunatics                     3   
+ 11           Verrückte                     3   
  
- 12           unnatural creatures          2
+ 12           Unnatürliche Kreaturen          2
 
------------------------------------------------------------
+-------------------------------------------------------------
 
 
 Fernkampfreichweite
@@ -1334,6 +1333,8 @@ Untote vertreiben
 
 Probe mit 2W6, Erfolg wenn Wurf größer oder gleich Zielwert, V -
 automatisch vertrieben, N - nie vertrieben:
+
+
 
 []{#t.6104a4222e112c9249d65c56870e0471dfd33a79}[]{#t.2}
 
@@ -1779,4 +1780,3 @@ some tales of the campaign posted by Deogolf.
 
 ![](img/DnD-Gargoyle.png)
 
-\printindex

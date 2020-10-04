@@ -1472,7 +1472,7 @@ hoch sein wie ihr Durchmesser.
 
 \enlargethispage{1cm}
 
-![](img/DnD_Chimera.png)
+![](img/DnD-Chimera.png)
 
 \pagestyle{empty}
 ```{=latex}
