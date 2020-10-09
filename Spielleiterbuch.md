@@ -1,6 +1,6 @@
 ---
 title: Menschen \& Magie
-subtitle: Die Spielleiter-Referenz
+subtitle: Geheimes Wissen
 titlegraphic: img/DnD-Cockatrice.png
 logo: img/logo.png
 rights: © 2020 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
@@ -10,8 +10,8 @@ lang: de
 \null\vfill
 \noindent
 \Large
-Menschen & Magie - Die Spielleiter-Referenz\newline
-\normalsize
+Menschen & Magie - Geheimes Wissen
+\normalsize\newline
 *Menschen & Magie* ist eine Hausregelsammlung für Old-School
 Rollenspiele, 
 kompatibel mit *Swords & Wizardry* und allen Regeln, die auf dem
@@ -47,170 +47,219 @@ Dokument unter <https://github.com/lskh/Hausregeln>
 
 \listoftables*
 
-Vorwort
-=======
-
-Artefakte & Abenteuer ist das Spielleiterhandbuch zu meinem
-Spielerhandbuch *Menschen & Magie*. Ursprünglich wollte ich nur eine
-kleine Sammlung von Hausregeln zusammenstellen, dann kamen Tabellen
-dazu, und schließlich ist Menschen & Magie ein vollständiges kleines
-Spielerhandbuch geworden. Spielern steht es in meinen Kampagnen zwar
-frei jedes andere Spielerhandbuch zu benutzen, welches grob mit den
-ersten Ausgaben von Dungeons & Dragons bzw. deren neuzeitlicher Klone
-kompatibel ist, sie *benötigen* jedoch zumindest für die ersten Stufen
-kein anderes Spielerhandbuch als Menschen & Magie.
-
-Obwohl dieses Heftchen, *Abenteuer & Artefakte*, nicht den Anspruch
-erhebt ein vollständiges Spielleiterhandbuch zu sein, stellen beide
-Hefte zusammen - so sehe ich es jedenfalls ganz unbescheiden - eine
-eigene kleine Edition des ersten Rollenspiels der Welt dar.
-
-Das hat Tradition, denn auf die ursprüngliche Veröffentlichung von der
-ersten Ausgabe von Dungeons & Dragons durch Gary Gygax und Dave
-Arneson 1974, folgten beim selben Verlag mehrere weitere Editionen, um
-den ausufernden Regelwust irgendwie unter Kontrolle zu bringen, und so
-dem Endverbraucher zugänglich zu machen. Denn zur ersten Version von
-D&D, die auch OD&D \index{OD\&D} für *original D&D*, 0e \index{0e} für
-*nullte Edition*, *white box* \index{white box} wegen der mit einem
-weißen Label versehenen Pappschachtel, oder *LBB* für *"little brown
-books"* genannt wird, erschienen schnell mehrere Supplemente wie zum
-Beispiel *Greyhawk* \index{Greyhawk}, *Blackmoor* \index{Blackmoore}
-oder *Eldritch Wizardry* in denen Regeländerungen, -erweiterungen, und
-neue Monster und magische Gegenstände beschrieben wurden.
-
-Die erste Edition nach der 0e war 1977 "Dungeons & Dragons" in der
-Ausgabe von Eric Holmes\index{Holmes-Edition}, wegen ihrer Verpackung
-auch *blue box*-Edition \index{blue box} genannt. Sie war als
-Einsteiger-Edition für das zu diesem Zeitpunkt noch nicht vollständig
-veröffentlichte, von Gary Gygax selbst heraus gegebene, wesentlich
-umfangreichere *Advanced Dungeons & Dragons*, kurz AD&D \index{AD\&D}
-oder 1e\index{1e}, gedacht. Die Holmes-Edition gab nur Regeln für die
-Spielstufen 1-3 an, war aber ansonsten bezüglich der Spielwerte
-praktisch noch identisch mit der Nullten Edition. Ohne Probleme konnte
-das gleichzeitig mit der Holmes-Edition als erster Band von AD&D
-erschienene *Monster Manual* mit der nullten Edition, oder auch mit
-der Holmes-Edition kombiniert werden, da alle Spielwerte voll
-kompatibel waren. Ein Jahr später folgte dann das AD&D
-Spielerhandbuch, in welchem als wesentliche spielmechanische Änderung
-ein deutlich erweitertes System von Attributs-Modifikatoren und höhere
-Grundwerte für die Trefferwürfel einiger Charakterklassen eingeführt
-wurden.  In 1979 wurde dann schließlich mit dem berühmt-berüchtigten
-*Dungeon Masters Guide* das Grundregelwerk von AD&D abgeschlossen,
-und AD&D war dann auch die erste auf Deutsch erhältliche Version von
-Dungeons & Dragons.
-
-Doch weil vielleicht das unübersichtliche Regel-Flagschiff AD&D doch 
-nicht so jedermanns Sache war, wurde 1981 eine Überarbeitung der 
-Holmes-Edition durch Tom Moldvay \index{Moldvay} heraus gegeben. Die
-*Dungeons & Dragons Basic Rules*, auch bekannt als *purple box*
-\index{purple box}. Die Moldvay-Edition deckte wie die Holmes-Edition
-nur die Spielstufen 1-3 ab, vereinfachte die in AD&D eingeführten
-Attributsmodifikatoren und übernahm die ebenfalls in AD&D eingeführten
-Regeln für variablen Waffenschaden. Allerdings wurden weiterhin die
-niedrigeren Trefferwürfel der Charakterklassen aus der Holmes-Edition
-übernommen, so dass vor allem in diesem Punkt Moldvays Basic D&D und
-AD&D nicht mehr wirklich kompatibel waren. Man musste sich nun
-entscheiden, ob man AD&D oder Basic D&D spielen wollte. Ergänzt wurde
-die Moldvay-Edition von den *Expert Rules*, zusammengestellt von David
-Cook, einer Regelerweiterung bis zur 14. Spielstufe in der auch Regeln
-für Reisen und Wildnisabenteur angegeben wurden. Moldvay und Cook
-werden zusammengefasst auch "B/X" \index{B/X} genannt, und sind
-wahrscheinlich die in der OSR am weitesten verbreitete Variante von
-D&D.
-
-Die nächst Ausgabe von D&D, die auch wieder bei FSV auf Deutsch
-erschien, war 1983 die Überarbeitung von B/X durch Frank Menzter. 
-Diese Ausgabe wird auch *red box* \index{red box} oder *BECMI*
-\index{BECMI} genannt, letzteres wegen der auf einander folgenden
-Boxen der Regelstufen *basic*, *expert*, *companion*, *master* und
-schließlich *immortals*. Das Master Set reichte immerhin bis
-zur 34. Spielstufe, und im Immortals-Set wurde letzlich ein eigenes
-Spiel für die Darstellung gottartiger Figuren entwickelt. Die
-Mentzer-Edition ist wahrscheinlich die in Deutschland bekannteste
-Ausgabe von Old-School D&D, und unterscheidet sich zumindest in den
-unteren Spielstufen regeltechnisch nur
-marginal von der in der internationalen OSR verbreiteten B/X-Variante.
-
-Selbstverständlich wurden bei jeder Edition ein paar Änderungen in den
-Regeln vorgenommen, und so entwickelte sich das System über die zweite
-Edition von AD&D (2e) \index{2e} von 1989 und die *Rules Cyclopedia*
-(RC) \index{RC} von 1991, einer Zusammenfassung der BECMI-Regeln in
-einem Band,
-dynamisch-chaotisch weiter, bis *Tactical Studies Rules*
-(TSR)\index{TSR}, der Verlag den Gary Gygax mitbegründet hatte, 
-1997 wirtschaftlich in die Knie ging, und von *Wizards of the Coast*, 
-den heutigen Herausgebern von Dungeons & Dragons, aufgekauft wurde.
-
-Es ist dem besonderen Umstand zu verdanken, dass Wizards of the Coast
-die 3. Edition von Dungeons & Dragons unter einem besonderen
-Lizenzmodell, nämlich der Open Gaming Licence heraus
-gaben, dass es heute möglich ist, ohne Aushandeln einer Lizenz mit
-Wizards of the Coast, eigenes Material zu D&D zu veröffentlichen.
-
-Während es schon in den frühen Jahren von D&D von dritten 
-veröffentlichte Regelvarianten, wie zum Beispiel *Tunnels & Trolls*
-gegeben hatte, ermöglichte die Open Gaming Licence, die Entstehnung
-zahlreicher "Klone" der alten Regelwerke, die legal in Umlauf gebracht
-weren können, und sicherlich zur Entstehung und Popularisierung des
-Old School Rollenspiels beigetragen hat.
-
-Hervorzuheben wären *Swords & Wizardry* von Matt Finch, aus meiner
-Sicht eine Überarbeitung und Zusammenfassung von Nullter Edition,
-Holmes und AD&D, *Labyrinth Lord* von Daniel Proctor, einem 
-B/X-Klon, der auch auf Deutsch erschienen ist, sowie 
-*Lamentations of the Flame Princess* (LotFP) eine radikalere 
-B/X-Überarbeitung von James Raggi IV.
-
 \mainmatter
 
-Charaktererschaffung
-====================
+# Einleitung
 
-Attribute & Modifikatoren
--------------------------
+*Geheimes Wissen* ist ein Spielleiterbuch für DIY Abenteuer Spiele!
 
-### OD&D + Greyhawk
+...
 
-3W6, niedrige Modifikatoren
+# Charaktererschaffung
+
+## Attribute
+
+Charaktere in Old-School Rollenspielen werden durch ihre Attribute
+definiert.
+
+Die klassischen sechs Attribute sind *Stärke, Intelligenz, Weisheit,
+Geschicklichkeit, Konstitution* und *Charisma*. Diese Attribute können
+natürlich auch anders genannt werden, und es ist auch möglich zum
+Beispiel nur drei oder vielleicht auch acht oder mehr Attribute fest
+zu legen. 
+
+: Die sechs klassischen Attribute
+
+------------------- ------------------- -------------------
+ Stärke                  Intelligenz        Weisheit
+ Geschicklichkeit    Konstitution        Charisma 
+------------------- ------------------- -------------------
+
+Allgemein bezeichnen Attribute Eigenschaften, *die Grundsätzlich jeder
+Charakter hat*, im Gegensatz zu Fertigkeiten, Vor- oder Nachteilen, die
+nur bestimmte Personen haben können. Jeder Charakter vefügt über ein
+bestimmtes Maß an Geschicklichkeit, aber nur bestimmte Personen sind
+im Bootsbau geübt, oder in der Anwengung von Magie ausgebildet.
+
+Ein Beispiel für ein System mit nur drei Attributen wäre 
+*Stärke, Geschicklichkeit* und *Willenskraft*. Ein System mit nur zwei
+Attributen könnte alle geistigen Attribute zu *Psyche* und alle
+körperlichen Attribute zu *Physis* zusammenfassen. Andere Attribute könnten
+zum Beispiel *Sozialstatus*, *Bildung*, *Gesundheit* oder *Korruption*
+sein, je nach dem, was in dem geplanten Spiel hervorgehoben werden
+soll.
+
+: Alternative Attribute
+
+------------------- ------------------- -------------------
+ Gesundheit          Lebenspunkte        Korruption
+ Bildung             Sozialstatus        IQ
+ Gewandtheit         Fingerfertigkeit    Psyche
+ Physis              Willenskraft        Körperkraft
+ Geschwindigkeit     Resistenz           Glück
+------------------- ------------------- -------------------
+
+Die Qualität der Attribute wird in den allermeisten Spielen numerisch
+angegeben.  Und zwar in einem Wertebereich, der durch eine bestimmte
+Kombination von Würfeln voregeben wird. Weit verbreitet, und Standard
+in Old-School Rollenspielen ist der Wertebereich 3-18, der mit 3W6
+erzeugt wird, und der sich hervorragend eigenet um Proben mit 1W20
+oder 2-4 W6 zu würfeln. Daneben ist auch der Wertebereich 2-12
+wichtig, da er mit 2W6 abgedeckt werden kann - einer
+Würfelkombination, die in *der ersten* Fantasy-Kampagne bis heute
+verwendet wird, und auch in einigen modernen Spielen wieder eine
+gewissen Renaissance erfahren hat. Den genannten Würfelkombinationen
+ist gemeinsam, dass sie eine Glockenkurve erzeugen, dass heißt:
+mittlere Werte sind häufiger als extreme Werte. Entsprechend werden
+auch in einigen Spielen, die grundsätzlich auf dem Wertebereich 1-100
+basieren, die Attribute nicht mit W% ausgewürfelt, sondern mit 3W6*5,
+was eine Glockenkurve für den Wertebereich 15-90 produziert.
+
+: Wertebereiche
+
+---------------------------------------------------
+ Wertebereich        Würfelformel 
+--------------- -----------------------------------
+ 3-18               3W6
+
+                    4W6, beste drei Würfel
+
+ 2-12               2W6
+
+ 1-100              W%
+
+ 15-90              3W6*5
+
+ 1-6                1W6
+
+---------------------------------------------------
+
+Alternativ können Attribute auch verbal ausgedrückt werden (z.B.
+von *schwach* über *durchschnittlich, gut, sehr gut, exzellent,* bis
+hin zu *übernatürlich*), oder sie werden anhand verschiedener Größen
+oder Mengen von Würfeln angegeben (W4 in Geschicklichkeit, W6 in
+Stärke, W8 in Intelligenz usw, oder z.B. 2W6 in Geschicklichkeit, 3W6
+Stärke oder 4W6 in Intelligenz). Letzlich geht es darum, jedes
+Attribut zu qualifiziereni, und ihm einen Wert zu geben, der mit einer
+zufällig erzeugten Zahl verglichen werden kann. Die
+Wahrscheinlichkeit, dass dabei der Attributswert und die zufällig
+generierte Zahl einander gleichen, größer oder kleiner sind,
+entscheiden über den Ausgang einer Probe und damit über das Geschehen
+in der gespielten Geschichte.
+
+## Würfelproben
+
+Um ein bestimmtes Attribut auf die Probe zu stellen, wird deren Wert
+mit einem Würfelwurf verglichen. Eine der einfachsten
+
+### *roll low*
+
+Probenmechanismen wird häufig als *roll under* oder *roll low*
+bezeichnet: Eine Probe ist dann erfolgreich, wenn die gewürfelte Zahl
+kleiner oder gleich dem getesteten Attribut ist. Diese Methode ist
+einfach und charmant, da sie nur den Würfel und den Attributswert
+benötigt. 
+
+### *roll high under*
+
+Durch eine einfache Erweiterung lässt sich diese Mechanik um
+graduierten Erfolg erweitern. Es muss für einen Erfolg weiterhin
+höchstens der Attributswert gewürfelt werden, jedoch ist der Erfolg um
+so besser, je näher die Zahl am Attributswert liegt. Genau der
+Attributswert ist ein *kritischer Erfolg*, eine eins ist der schwächst
+mögliche Teilerfolg. Die höchste Zahl auf dem Würfel ist immer ein
+Fehlschlag, oder sogar ein *kritischer Fehlschlag*.
+
+: Würfelmechaniken
+
+------------------------------------------------------------
+ Bezeichnung  Würfelmechanik
+------------- ----------------------------------------------
+ roll low     Erfolg, wenn die gewürfelte Zahl kleiner oder
+              gleich dem Zielwert ist.
+
+ roll high    Erfolg, wenn die gewürfelte Zahl größer
+              oder gleich dem Zielwert ist.
+
+ roll high    Erfolg, wenn die gewürfelte Zahl kleiner oder
+ under        gleich dem Zielwert ist, aber je höher die
+              gewürfelte Zahl desto besser, genau der 
+              Zielwert ist ein kritischer Erfolg
+
+ PbtA         Je höher die gewürfelte Zahl desto besser. 
+              Unter unterem cut-off: Fehlschlag,
+              über oberem cut-off: voller Erfolg,
+              dazwischen: Teilerfolg
+
+------------------------------------------------------------
+
+### *roll high*
+
+Bei dieser Würfelmechanik bedeutet ein Wurf höher oder gleich einem
+bestimmten Wert einen Erfolg. Einfache *roll-high* Proben sind zum
+Beispiel die Angriffswürfe, oder die Rettungswürfe in den klassischen
+Regeln. Dabei kann der Zielwert die Rüstungsklasse eines
+Gegners sein, die mit dem Würfelwurf erreicht oder überschritten werden
+muss. Oder die Spielleitung legt willkürlich einen Zielwert fest,
+welcher der jeweiligen Situation angemessen erscheint. Zum Beispiel:
+
+> "um die Felsspalte zu überspringen benötigt Ihr einen Wert von 8 oder
+> mehr 2W6".
+
+Der Nachteil von *roll high* Proben ist, dass sie sich zunächst nicht
+auf irgendein Attribut des Charakters beziehen. Um einen Attributswert
+dennoch einfließen zu lassen, hat es sich in vielen Spielen etabliert,
+von dem eigentlichen Attributswert einen Modifikator abzuleiten, der
+dann dem Würfelergebnis zugeschlagen wird. Zum Beispiel:
+
+> "um die Felsspalte zu überspringen benötigt Ihr einen Wert von 8
+> oder mehr auf 2W6, Geschicklichkeit von 10 oder mehr gibt einen 
+> Bonus von +1 auf den Wurf.
+
+Für den klassischen Zahlenbereich für Attribute von 3-18 haben sich
+verschiedenen Systeme von Modifikatoren etabliert, die man sogar
+den verschiedenen Entwicklungsstufen des Originalspiels zuordnen kann:
+
+: Modifikatoren
+
+-----------------------------------------------------------
+ Wert      Originalregeln     Old-School      New-School
+--------- ---------------- --------------- ----------------
+ 3             -1
+ 4             -1
+ 5             -1
+ 6             -1
+ 7             
+ 8    
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15            +1
+ 16            +1
+ 17            +1
+ 18            +1
+-----------------------------------------------------------
 
 
 
-### AD&D
+### Reaktionswürfe
 
-4W6 drop lowest, niedrige Modifikatoren
+### Situationswürfe
 
-### Basic D&D
+## Rettungswürfe
 
-3W6, hohe Modifikatoren
+## Fertigkeiten
 
-----------------------
-Attribut   Modifikator
---------   -----------
- 3           -3
+## Trefferpunkte, Trefferwürfel
 
- 4-5         -2
+## Erfahrung und Stufen
 
- 6-8         -1
+## Vor- und Nachteile
 
- 9-12         0
-
- 13-15       +1
-
- 16-17       +2
-
- 18          +3
-
-----------------------
-
-### 3.5e
-
-4W6 drop lowest, hohe Modifikatoren
-
-
-
-
-Klassen
--------
+## Charakterklassen
 
 : Andere Klassen 
 
@@ -232,8 +281,7 @@ Waldläufer   KO 15, IN 12,            W8 (beginnend mit 2W8)
 ------------------------------------------------------------
 
 
-Ausrüstung & Geld
------------------
+## Ausrüstung & Geld
 
 : Münzwert bezogen auf eine Goldmünze (GM)
 
@@ -257,8 +305,13 @@ AD&D 2	1/5	1	2	10	100
 -----------------------------------------------
 
 
-# Monsters & Treasure
+# Antagonisten
 
+## Monster und Antagonisten entwerfen
+
+TODO: Tabellen und Regeln zur Monsterentwicklung
+
+## Beispielmonster
 
 1. **Androids**, 1-8 (3-18), AC 9, Move 12, HD 2, Lair nearby 15%,
    Treasure A2, Alignment Any
@@ -627,10 +680,15 @@ Zombies     3-30  n/a 9 6 1  n/a  n/a N
 
 ---------------------------------------------------------------------------
 
+# Schätze
 
+## Schätze entwickeln
 
-Underground & Wilderness Adventures
-===================================
+TODO: Tabellen um Schätze und magische Gegenstände zu entwickeln
+
+## Beispielschätze
+
+# Szenen, Aufhänger, Abenteuer und die Welt
 
 ## Dungeons
 
@@ -650,28 +708,19 @@ Underground & Wilderness Adventures
 
 ### Zufallsbegegnungen im Dungeon
 
+### One-Page Dungeon
 
+TODO: Kopiervorlage One-Page-Dungeon
 
-: Dice to Roll for Number Ranges
+### Five-Room Dungeon
 
-------------------------------------------------------------
-Number    Four    Six     Eight    Ten      Twelve    Twenty 
-of Dice   Sided   Sided   Sided    Sided    Sided     Sided 
--------- ------- ------ -------- -------- ---------  ------- 
-1          1-4     1-6     1-8     1-10      1-12     1-20 
+### Megadungeons
 
-1+1        2-5     2-7     2-9     2-11      2-13     2-21 
+TODO: Beispielskizze vertikale Dungeonkarte
 
-1+2        3-6     3-8     3-10    3-12      3-14     3-22 
+### Ein Deskriptiver Dungeongenerator
 
-2          2-8    2-12     2-16    2-20      2-24     2-40 
-
-2+1        3-9    3-13     3-17    3-21      3-25     3-41 
-
-3         3-12    3-18     3-24    3-30      3-36     3-60
-
-------------------------------------------------------------
-
+Zufällige Beschreibung von Dungeons
 
 ### Struktur einer offenen Spielrunde
 
@@ -1027,12 +1076,12 @@ Einzelzimmer.
 ### Stallungen
 
 
-Die Wildnis
------------
+## Die Wildnis
+
+### One-Page Wildnis-Karte
 
 
-Würfeln
--------
+# Würfelproben
 
 Die Würfel werden in Old School Rollenspielen etwas anderes genutzt
 als in modernen Rollenspielen. Während es in letzteren typischerweise
@@ -1067,6 +1116,28 @@ grenzwertig, mäßiges Risiko     sagt "ja, aber" und führt ohne
 
 hohes Risiko                    fordert einen Rettungswurf
 ------------------------------------------------------------------------------
+
+
+: Dice to Roll for Number Ranges
+
+------------------------------------------------------------
+Number    Four    Six     Eight    Ten      Twelve    Twenty 
+of Dice   Sided   Sided   Sided    Sided    Sided     Sided 
+-------- ------- ------ -------- -------- ---------  ------- 
+1          1-4     1-6     1-8     1-10      1-12     1-20 
+
+1+1        2-5     2-7     2-9     2-11      2-13     2-21 
+
+1+2        3-6     3-8     3-10    3-12      3-14     3-22 
+
+2          2-8    2-12     2-16    2-20      2-24     2-40 
+
+2+1        3-9    3-13     3-17    3-21      3-25     3-41 
+
+3         3-12    3-18     3-24    3-30      3-36     3-60
+
+------------------------------------------------------------
+
 
 
 Fertigkeiten
@@ -1134,6 +1205,17 @@ Wizardry, der 5. Edition, so weit wie möglich kompatibel zu sein,
 entspricht ein AB von 0 einer Thac0 von 19, und wie o.g.
 entspricht die absteigende Rüstungsklasse 9 der aufsteigenden
 Rüstungsklasse 10.
+
+# Story-Telling
+
+## Schicksalspunkte
+
+## Verbindungen
+
+## Aspekte
+
+
+# Spielroutinen
 
 Eine Spielphase (10 min.)
 -------------------------------------------------
@@ -1334,23 +1416,28 @@ Untote vertreiben
 Probe mit 2W6, Erfolg wenn Wurf größer oder gleich Zielwert, V -
 automatisch vertrieben, N - nie vertrieben:
 
+: Untote vertreiben
 
+| Untote TW:     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10+ |
+|:--------------:|:-:|:-:|:-:|:-:|:-:|:-:|:--|:-:|:-:|:---:|
+| Kleriker Stufe |   |   |   |   |   |   |   |   |   |     |
+| 1              | 7 | 9 |11 | - | - | - | - | - | - | -   |
+| 2              | 5 | 7 | 9 | 11| - | - | - | - | - | -   |
+| 3              | 3 | 5 | 7 | 9 | 11| - | - | - | - | -   |
+| 4              | V | 3 | 5 | 7 | 9 |11 | - | - | - | -   |
+| 5              | V | V | 3 | 5 | 7 | 9 |11 | - | - | -   |
+| 6              | Z | V | V | 3 | 5 | 7 | 9 |11 | - | -   |
+| 7              | Z | Z | V | V | 3 | 5 | 7 | 9 |11 | -   |
+| 8              | Z | Z | Z | V | V | 3 | 5 | 7 | 9 | 11  |
+| 9              | Z | Z | Z | Z | V | V | 3 | 5 | 7 |  9  |
+| 10             | Z | Z | Z | Z | Z | V | V | 3 | 5 |  7  |
+| 11             | Z | Z | Z | Z | Z | Z | V | V | 3 | 5   |
+| 12             | Z | Z | Z | Z | Z | Z | Z | V | V | 3   |
+| 13             | Z | Z | Z | Z | Z | Z | Z | Z | V | V   |
+| 14+            | Z | Z | Z | Z | Z | Z | Z | Z | Z | V   |
 
-[]{#t.6104a4222e112c9249d65c56870e0471dfd33a79}[]{#t.2}
+\index{Untote vertreiben}
 
-+-------------+-------------+-------------+-------------+-------------+
-| [Stufe]{.c0 | [Skelett]{. | [Zombie]{.c | [Ghul]{.c0} | [Gruftbe-]{ |
-| }           | c0}         | 0}          |             | .c0}        |
-|             |             |             |             |             |
-|             |             |             |             | [wohner]{.c |
-|             |             |             |             | 0}          |
-+-------------+-------------+-------------+-------------+-------------+
-| [1]{.c0}    | [7]{.c0}    | [9]{.c0}    | [11]{.c0}   | [N]{.c0}    |
-+-------------+-------------+-------------+-------------+-------------+
-| [2]{.c0}    | [V]{.c0}    | [7]{.c0}    | [9]{.c0}    | [11]{.c0}   |
-+-------------+-------------+-------------+-------------+-------------+
-| [3]{.c0}    | [V]{.c0}    | [V]{.c0}    | [7]{.c0}    | [9]{.c0}    |
-+-------------+-------------+-------------+-------------+-------------+
 
 Es werden 2W6 Trefferwürfel an Untoten vertrieben
 
@@ -1360,16 +1447,28 @@ Wurfgeschosse
 Weihwasser: Trefferwurf wie Fernkampf, 1W8 Schaden bei Untoten.
 
 Öl: Trefferwurf wie Fernkampf, tropft innerhalb von 2 Runden ab,
-brennendes Öl macht 1W8 Schaden]{.c0}
+brennendes Öl macht 1W8 Schaden.
 
 Flucht und Verfolgung
 -----------------------------------------
 
-Rückzugsgefecht: Rückwärts bewegen mit halber Normalgeschwindigkeit
-(z.B. 60' bei normalem Tempo 120'/Phase)]{.c0}
+--------------------------------------------------------------------------------
+Manöver          Effekt
+---------------  ---------------------------------------------------------------
+Rückzugs-        Rückwärtsbewegung mit halber Geschwinigkeit, *ohne* einen 
+gefecht          Gelegenheitsangriff zu riskieren,
+                 folgt der Gegner und greift an, darf der zurückziehende
+                 Charakter zuerst schlagen.
 
-Rückzug: Flucht mit voller Normalgeschwindigkeit pro Kampfrunde (also
-rennen), der Angreifer erhält dadurch einen freien Angriff +2.]{.c0}
+Rückzug          Flucht mit voller Geschwindigkeit, der Gegner erhält einen 
+                 Gelegenheitsangriff
+
+Flucht           Flucht mit Laufgeschwindigkeit, die flüchtende Partei erhält 
+                 eine Runde Vorsprung. Erwäge Ausrüstung, Nahrung oder Wert-
+                 gegenstände abzuwerfen.
+
+--------------------------------------------------------------------------------
+
 
 Die flüchtende Partei bekommt eine Runde Vorsprung.
 
@@ -1591,6 +1690,12 @@ Anzahl Monster
 +-----------------------+-----------------------+-----------------------+
 
 []{.c30}
+
+## Massengefechte
+
+
+## Fahrzeuge, Luftkampf, Seegefechte
+
 
 ### Charakter-Tod interessanter machen
 

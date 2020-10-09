@@ -1,5 +1,9 @@
 all: Spielerhandbuch-cover.png Spells-cover.png Hausregeln2020-cover.png Hausregeln2021-cover.png
 
+%-fullcover.pdf: %-fullcover.tex Makefile
+	pdflatex $<
+	rm *.aux *.log
+
 Spells-cover.png: Makefile ../Spells.pdf
 	pdftoppm -f 1 -l 1 ../Spells.pdf > tmp.png
 	convert +level-colors "#000000","#aaaa44" \
@@ -8,15 +12,11 @@ Spells-cover.png: Makefile ../Spells.pdf
 	-fuzz 100% tmp.png Spells-back.png
 	rm -f tmp.png
 
-Spells-fullcover.png: Makefile Spells-fullcover.pdf
-	pdftoppm -f 1 -l 1 Spells-fullcover.pdf > tmp.png
+Spells-fullcover.png: Spells-fullcover.pdf Makefile
+	pdftoppm -f 1 -l 1 $< > tmp.png
 	convert +level-colors "#000000","#aaaa44" \
-	tmp.png Spells-fullcover.png
+	tmp.png $@
 	rm -f tmp.png
-
-Spells-fullcover.pdf: Makefile Spells-fullcover.tex
-	pdflatex Spells-fullcover.tex
-	rm *.aux *.log
 
 Hausregeln2020-cover.png: Makefile ../Hausregeln2020.pdf
 	pdftoppm -f 1 -l 1 ../Hausregeln2020.pdf > tmp.png
@@ -26,14 +26,11 @@ Hausregeln2020-cover.png: Makefile ../Hausregeln2020.pdf
 	-fuzz 100% tmp.png Hausregeln2020-back.png
 	rm -f tmp.png
 
-Hausregeln2020-fullcover.png: Makefile Hausregeln2020-fullcover.pdf
-	pdftoppm -f 1 -l 1 Hausregeln2020-fullcover.pdf > tmp.png
+Hausregeln2020-fullcover.png: Hausregeln2020-fullcover.pdf Makefile
+	pdftoppm -f 1 -l 1 $< > tmp.png
 	convert +level-colors "#000000","#44aaaa" -fuzz 10% \
-	tmp.png Hausregeln2020-fullcover.png
+	tmp.png $@
 	rm -f tmp.png
-
-Hausregeln2020-fullcover.pdf: Makefile Hausregeln2020-fullcover.tex
-	pdflatex Hausregeln2020-fullcover.tex
 
 Hausregeln2021-cover.png: Makefile ../Hausregeln2021.pdf
 	pdftoppm -f 1 -l 1 ../Hausregeln2021.pdf > tmp.png
@@ -43,14 +40,11 @@ Hausregeln2021-cover.png: Makefile ../Hausregeln2021.pdf
 	-fuzz 100% tmp.png Hausregeln2021-back.png
 	rm -f tmp.png
 
-Hausregeln2021-fullcover.png: Makefile Hausregeln2021-fullcover.pdf
-	pdftoppm -f 1 -l 1 Hausregeln2021-fullcover.pdf > tmp.png
-	convert +level-colors "#000000","#44f4a4" -fuzz 10% \
-	tmp.png Hausregeln2021-fullcover.png
+Hausregeln2021-fullcover.png: Hausregeln2021-fullcover.pdf Makefile 
+	pdftoppm -f 1 -l 1 $< > tmp.png
+	convert +level-colors "#000000","#84a4a4" -fuzz 10% \
+	tmp.png $@
 	rm -f tmp.png
-
-Hausregeln2021-fullcover.pdf: Makefile Hausregeln2021-fullcover.tex
-	pdflatex Hausregeln2021-fullcover.tex
 
 Spielerhandbuch-cover.png: Makefile ../Spielerhandbuch.pdf
 	pdftoppm -f 1 -l 1 ../Spielerhandbuch.pdf > tmp.png
@@ -60,15 +54,24 @@ Spielerhandbuch-cover.png: Makefile ../Spielerhandbuch.pdf
 	-fuzz 100% tmp.png Spielerhandbuch-back.png
 	rm -f tmp.png
 
-Spielerhandbuch-fullcover.png: Makefile Spielerhandbuch-fullcover.pdf
-	pdftoppm -f 1 -l 1 Spielerhandbuch-fullcover.pdf > tmp.png
-	convert +level-colors "#000000","#cca666" \
-	tmp.png Spielerhandbuch-fullcover.png
+Spielerhandbuch-fullcover.png: Spielerhandbuch-fullcover.pdf Makefile 
+	pdftoppm -f 1 -l 1 $< > tmp.png
+	convert +level-colors "#000000","#bb9555" \
+	tmp.png $@
 	rm -f tmp.png
 
-Spielerhandbuch-fullcover.pdf: Makefile Spielerhandbuch-fullcover.tex
-	pdflatex Spielerhandbuch-fullcover.tex
-	rm *.aux *.log
+Spielleiterbuch-fullcover.png: Spielleiterbuch-fullcover.pdf Makefile 
+	pdftoppm -f 1 -l 1 $< > tmp.png
+	convert +level-colors "#ffffff","#000000" \
+	        +level-colors "#000000","#ff0000" \
+	tmp.png $@
+	rm -f tmp.png
+
+Monster-fullcover.png: Monster-fullcover.pdf Makefile
+	pdftoppm -f 1 -l 1 $< > tmp.png
+	convert +level-colors "#000000","#449966" \
+	tmp.png $@
+	rm -f tmp.png
 
 clean: 
 	rm -f *~ *-fullcover.pdf
