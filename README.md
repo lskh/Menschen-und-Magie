@@ -11,9 +11,10 @@ article](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_retro-clones).
 
 You can have a look at the current versions of the formatted books here:
 
-- [Menschen & Magie (the players handbook)](https://betola.de/uploads/MnM.pdf)
+- [Menschen & Magie (the players
+  handbook)](https://betola.de/uploads/Spielerhandbuch.pdf)
 - [Grenzland-Hausregeln (house rules for our
-  campaign)](https://betola.de/uploads/Hausregeln.pdf)
+  campaign)](https://betola.de/uploads/Hausregeln2020.pdf)
 - [Arkanes Wissen & Zaubersprüche (the spell
   book)](https://betola.de/uploads/Spells.pdf)
 
@@ -30,7 +31,14 @@ copies at cost to your friends.
 However, before you publish a derivative of *Menschen & Magie* really have
 a close look at the license and the front matters of the books. You can use
 most parts for your own work, but not all of it, and you might have to ask
-some people for permission. If you have any questions about this contact
+some people for permission. 
+
+Also, don't take for granted that I applied the OGL properly. If you
+reprint these books or publish derivatives be sure that you've
+understood all implications and take care for proper
+application of all licenses yourself!
+
+If you have any questions about this contact
 wandererbill73@gmail.com.
 
 # Dependencies

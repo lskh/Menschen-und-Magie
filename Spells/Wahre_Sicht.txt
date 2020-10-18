@@ -1,6 +1,6 @@
 Wahre Sicht*
 Wahres Sehen, True Seeing, True Sight
-Players Handbook
+Erste Edition
 Kleriker 5
 Nahbereich
 1 Runde pro Charakterstufe
@@ -13,7 +13,7 @@ Gegenstände, durchschaut Illusionen und erkennt sämtliche
 vielgestaltige, verwandelte oder veränderte Kreaturen und
 Gegenstände in ihrer wahren Form. Weiterhin kann das Ziel
 sich darauf konzentrieren, in die ätherische Ebene zu blicken
-(jedoch nicht in extradimensionale Räume)^[Im Players Handbook 
+(jedoch nicht in extradimensionale Räume)^[In der *Ersten Edition* 
 wird zwischen *Wahres Sehen*, dem hier
 beschriebenen Klerikerspruch, und *Wahre Sicht* einem
 Illusionistenspruch unterschieden. Die Sprüche unterscheiden sich

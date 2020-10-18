@@ -17,10 +17,15 @@ Eine Hausregelsammlung für Old-School Rollenspiele \newline
 kompatibel mit *Swords & Wizardry* und allen Regeln, die auf dem
 Original Fantasy Rollenspiel von 1974 basieren.
 
-Text und Satz: © Wanderer Bill, 
+Text: Wanderer Bill sowie Daniel Proctor in Übersetzung von Thorsten
+Gresser, Moritz Mehlem, Clem Carlos Schermann, Alex Schröder, Marcus
+Sollmann und Jörg Theobald --- großen Dank an Euch alle!
+
+\small
+
+Bearbeitung und Satz: © Wanderer Bill, 
 <wandererbill73@gmail.com>\newline
 Datum:
-\small
 
 Grafiken: public domain
 
@@ -40,7 +45,7 @@ eigenen Open Game Content zu benutzen, vorausgesetzt, Du hälst Dich
 dabei an die Regeln der Open Game License.
 
 Schließlich ist *Menschen & Magie* auch Open Source. Du findest die
-Quelldateien für dieses Dokument unter 
+Quelldateien für dieses Buch unter 
 <https://github.com/lskh/Hausregeln>
 
 \clearpage
@@ -132,10 +137,10 @@ veröffentlicht wurde. Ganz überwiegend entsprechen die Sprüche in
 Holmes Basic den ersten beiden Spruchstufen aus *Men & Magic* und
 *Greyhawk*
 
-Players Handbook
+Erste Edition
 :    Hiermit ist das Spielerhandbuch der ersten "Advanced" Edition
-gemeint, welches 1978 veröffentlicht wurde. Einige der Sprüche aus dem
-Players Handbook sind in der deutschen Übersetzung eines B/X-Klons
+gemeint, welches 1978 veröffentlicht wurde. Einige dieser Sprüche 
+sind in der deutschen Übersetzung eines B/X-Klons
 wiedergegeben, und haben so ihren Weg in diese Sammlung gefunden.
 
 B/X
@@ -152,4 +157,4 @@ Menschen & Magie
 eigenen Spielrunde. Sie sind zum Teil inspiriert aus anderen in den
 letzten Jahren veröffentlichten Regelsystemen oder Blog-Beiträgen.
 
-
+\cleartorecto

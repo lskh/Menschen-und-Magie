@@ -38,7 +38,7 @@ wurden ja im Gelände in jeweils 10 Fuß umgerechnet. In *Swords &
 Wizardry* wird eine Umrechnung in 300 Quadratfuß (27 m²) vorgeschlagen,
 eine lächerlich kleine Fläche für diesen Zauber. Korrekter erscheint mir
 die hier gewählte Umrechnung 30 square inches = 3000 square feet, was
-zumindest der Größenordnung nach auch den Angaben im *Players Handbook*
+zumindest der Größenordnung nach auch den Angaben in der *Ersten Edition*
 von 2" x 2" (also 20' x 20') pro Stufe entsprechen würde. Schließlich bestünde
 noch die Möglichkeit, dass 30" x 30" in gemeint war, was auch in *Swords
 & Wizardry* als Alternative angeführt wird. Das wären dann 90.000

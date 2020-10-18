@@ -11,7 +11,8 @@ lang: de
 \noindent
 \Large
 Menschen & Magie: Wanderer Bills Spielerhandbuch für Old-School
-Rollenspiele, überarbeitete Ausgabe\newline
+Rollenspiele\newline
+Die Print on Demand-Ausgabe\newline
 \normalsize
 Ein Spielerhandbuch für Old-School Rollenspiele, kompatibel mit
 *Swords & Wizardry* und allen Regeln, die auf dem Original Fantasy
@@ -53,6 +54,8 @@ Quelldateien für dieses Dokument unter
 
 \listoftables*
 
+\cleartorecto
+
 Vorwort
 =======
 
@@ -69,12 +72,17 @@ OSR-Edition zu werden.
 Dieses Spielerhandbuch ist für Neulinge gedacht, sowie als
 leichtgewichtiges Mini-Regelsystem für offene Runden mit
 niedrigstufigen Charakteren, die sich bezüglich der Regeln möglichst
-nah am Originalspiel von 1974 orientieren. Diese überarbeitete Version
+nah am Originalspiel von 1974 orientieren. 
+
+Wanderer Bills Spielerhandbuch wurde im Rahmen eines Fanzine
+Wettbewerbes das erste Mal veröffentlicht. Diese überarbeitete Version
+ist nun als PDF und Print on Demand erhältlich, und
 unterscheidet sich von der ersten Ausgabe nur durch die geänderten
 Ausrüstungstabellen. Ansonsten ist alles in diesem Spielerhandbuch
 kompatibel zu *Swords & Wizardry*, den anderen Büchern aus der
 *Menschen & Magie*-Reihe, und natürlich zu den Regeln von 1974!
 
+\cleartoverso
 \pagestyle{empty}
 
 ![](img/entrance.png){width=100%}
@@ -92,11 +100,11 @@ fiktive Figur - üblicherweise Charakter genannt - durch eine
 abenteuerliche Fantasywelt voller unwägbarer Gefahren, geheimnisvoller
 Magie und fabelhafter Schätze. Die Welt selbst, das Verhalten von
 seltsamen Fabelwesen, Monstern aber auch zum Beispiel vom Tavernenwirt
-oder der Händlerin an der Ecke wird vom Spielleiter beschrieben.
+oder der Händlerin an der Ecke wird von der Spielleitung beschrieben.
 
 Das funktioniert zum Beispiel so: 
 
-> Spielleiter: ... nachdem Ihr die Kellertreppe herunter gestiegen
+> Spielleitung: ... nachdem Ihr die Kellertreppe herunter gestiegen
 > seid, steht ihr in einem kleinen Raum, vielleicht 3 x 4 Meter groß,
 > nur von euren Fackeln erleuchtet.
 > In der Südost-Ecke stehen zwei Holzfässer die nach Sauerkraut
@@ -112,7 +120,7 @@ Das funktioniert zum Beispiel so:
 > Spielerin von Etzo dem Zwerg: ich sehe mir die Fässer genauer an,
 > und hebe mal den Sack hoch.
 >
-> Spielleiter: die Fässer sehen aus wie normale Weinfässer. Was
+> Spielleitung: die Fässer sehen aus wie normale Weinfässer. Was
 > besonderes kannst Du nicht erkennen. Der Sack ist leichter als er
 > aussieht. Er scheint auch keine Kartoffeln zu enthalten, sondern
 > etwas weiches, vielleicht Stoff oder Kleidung, als Du ihn wieder
@@ -121,11 +129,11 @@ Das funktioniert zum Beispiel so:
 > Spieler von Hedwig der Kämpferin: ich gehe zu der Tür und lausche,
 > was höre ich?
 >
-> Spielleiter: Du hörst leises Murmeln, menschliche Stimmen ...
+> Spielleitung: Du hörst leises Murmeln, menschliche Stimmen ...
 >
 > Hedwig: kann ich etwas verstehen? Erkenne ich eine von den Stimmen?
 >
-> Spielleiter: ... ja, doch ... Du hörst eine Stimme die sich genau anhört
+> Spielleitung: ... ja, doch ... Du hörst eine Stimme die sich genau anhört
 > wie die von Haken-Ede ...
 >
 > Hedwig: ich gebe Etzo ein Zeichen und flüstere ihm zu: "sieht so aus
@@ -196,7 +204,7 @@ suchen willst - großartig! Und falls Du dabei wirklich erfolgreich
 sein solltest, bring Dein Geld auf die Bank, spare ein wenig, und kauf
 Dir eines Tages deine eigene Burg, kein Problem!
 
-Allerdings kann es sehr gut passieren, dass die Spielleiterin von Dir
+Allerdings kann es sehr gut passieren, dass die Spielleitung von Dir
 verlangt zu würfeln, um zu sehen ob Dir dein kühnes Vorhaben gelingt.
 Nun hängt das Schicksal von den Würfeln ab, und die können
 gnadenlos sein. Die Wahrscheinlichkeit für eine erfolgreiche
@@ -204,7 +212,7 @@ Würfelprobe liegt bei Old-School Rollenspielen oft in einer
 Größenordnung von 25 %, vielleicht etwas besser, wenn
 die Figur gute Spielwerte hat.
 
-Tendenziell bedeutet also die Aufforderung der Spielleiterin zu
+Tendenziell bedeutet also die Aufforderung der Spielleitung zu
 würfeln in etwa: "was Du hier vor hast funktioniert mit großer
 Wahrscheinlichkeit **nicht**, oder ist sehr **gefährlich**, dieser
 Würfelwurf ist Deine letzte Chance damit irgendwie davon zukommen".
@@ -259,7 +267,7 @@ alle Eintragungen können sich im Laufe des Spiels verändern.
 Oben links brauchst Du etwas Platz für den Namen deines Charakters.
 Lasse das Feld noch offen, denn Du weißt ja noch nicht was für eine
 Figur Du spielen wirst. Oben rechts kannst Du Deinen Namen und
-vielleicht auch den Namen des Spielleiters eintragen.  Darunter,
+vielleicht auch den Namen der Spielleitung eintragen.  Darunter,
 solltest Du Dir ein bisschen Platz für eine kleine Skizze deiner Figur
 frei halten.
 
@@ -406,7 +414,7 @@ Charisma \index{Charisma}
      Charisma wirkt sich auf die Anzahl und die Loyalität von
      Gefolgsleuten aus, die ein Charakter in seinen Dienst nehmen
      kann. Für alle Gefolgsleute wird zu Beginn ein bestimmter
-     Loyalitätswert ermittelt, den der Spielleiter bei Bedarf auf die
+     Loyalitätswert ermittelt, den die Spielleitung bei Bedarf auf die
      Probe stellen kann. Wenn zum Beispiel ein  Spielercharakter eine
      besonders gefährliche Handlung von seinen Leuten
      verlangt, könnte mit einem Würfelwurf entschieden werden, ob sich
@@ -603,7 +611,7 @@ Klassenfähigkeiten
      Um Untote zu beherrschen werden 2W6 geworfen. Liegt das Ergebnis
      über einem bestimmten Wert, erlangt der Kleriker für eine 
      bestimmte Zeit die Kontrolle über die untoten Kreaturen.
-     Der Spielleiter stellt fest, wie viele Untote tatsächlich
+     Die Spielleitung stellt fest, wie viele Untote tatsächlich
      beherrscht werden.
      Wenn Du einen Kleriker spielst, notiere Dir folgende kleine
      Tabelle auf deinem Charakterbogen:
@@ -710,7 +718,7 @@ Du solltest Dir also jetzt eine Gesinnung für Deinen
 Charakter überlegen, und sie auf Deinem Charakterbogen notieren. Es
 ist o.k. Deine Mitspieler zunächst im unklaren zu lassen, wenn Du Dich
 zum Beispiel für eine chaotische Gesinnung entschieden hast. Du
-solltest aber in jedem Fall Deiner Spielleiterin die gewählte
+solltest aber in jedem Fall Deiner Spielleitung die gewählte
 Gesinnung mitteilen, da sie sich auf manche Regeln
 auswirken kann.
 
@@ -1440,7 +1448,6 @@ dieser *Bewegungsweite* oder BW findet sich auf Seite \pageref{bw}.
      Ölfläschchen, 3 m Holzstab, 2 kleine Säcke, ein Beutel mit 2-20 
      Münzen, BW 6"
 
-
 ### 1W6 Ausrüstungspakete für Zauberkundige
 
   1. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, Wasserschlauch, 
@@ -1582,11 +1589,11 @@ Crawl* und drittens das Wildnisabenteuer, oder die Überlandreise.
 
 In einem typischen Old School Spiel gibt es keinen vorgefertigten
 Plot für ein bestimmtes Abenteuer. Vielmehr kannst Du davon
-ausgehen, dass die Spielleiterin eine sogenannte *Sandbox*
+ausgehen, dass die Spielleitung eine sogenannte *Sandbox*
 vorbereitet hat. Das ist ein mehr oder weniger großer Ausschnitt
 einer Fantasy-Welt mit allen möglichen interessanten Orten,
 gefährlichen Kreaturen und verborgenen Schätzen, in der sich die
-Spielerfiguren frei bewegen können. Der Spielleiter wird
+Spielerfiguren frei bewegen können. Die Spielleitung wird
 vielleicht mehr oder weniger offensichtlich 
 sogenannte "Plot-Hooks" \index{Plot-Hook}- also Aufhänger - 
 anbieten. Was ihr
@@ -1600,10 +1607,10 @@ Würfelproben
 
 In Old-School Rollenspielen wird in erster Linie durch die
 Spieler beschrieben und erzählt was die Charaktere unternehmen
-und die Spielleiterin wird dann, mal spontan, mal anhand einer
+und die Spielleitung wird dann, mal spontan, mal anhand einer
 verdeckten Würfelprobe entscheiden was passiert.
 
-Wie aber bereits in der Einleitung erwähnt, kann die Spielleiterin
+Wie aber bereits in der Einleitung erwähnt, kann die Spielleitung
 gelegentlich auch Würfelproben durch die Spieler verlangen, 
 um festzustellen, ob ein bestimmtes Ereignis eintritt, oder eine
 Aktion gelingt. Manchmal wird dazu einfach ein beliebiger Würfel
@@ -1642,7 +1649,7 @@ Todesstrahlen" wird von einer giftigen Schlange gebissen. Würfelt
 er eine 12, hat er Glück und überlebt die Wirkung des Giftes, bei
 einer 11 jedoch hätte sein letztes Stündlein geschlagen.
 
-Viele Spielleiter interpretieren die Anlässe für einen Rettungswurf auch
+Viele Spielleiterinnen interpretieren die Anlässe für einen Rettungswurf auch
 etwas flexibler. Der Rettungswurf gegen Todesstrahlen ist zum Beispiel der
 Universal-Rettungswurf für alle möglichen Dinge, die einen Charakter eher
 zufällig und schlagartig treffen können, und die häufig eine tödlich
@@ -1715,7 +1722,7 @@ gleich** dem jeweiligen Attributswert gewürfelt werden.
 
 Versucht beispielsweise ein Charakter mit Geschicklichkeit 12 auf 
 einen Baum zu klettern,
-kann die Spielleiterin eine *Probe gegen Geschicklichkeit*
+kann die Spielleitung eine *Probe gegen Geschicklichkeit*
 verlangen. Würfelt der Spieler eine 8 gelingt es dem Charakter
 den Baum zu erklettern. Ergibt der Wurf dagegen eine 13 scheitert
 der Charakter - vielleicht war seine Rüstung zu sperrig, oder ein
@@ -1915,10 +1922,10 @@ Stimme, probiere verschiedene Stimmlagen aus, vielleicht einen
 Akzent, eine ulkige Redensart, lass ihn oder sie persönliche 
 Markenzeichen entwickeln. Und noch ein kleines Geheimnis 
 zum *Alten Mann*: er ist das Sprachrohr der
-Spielleiterin. Es könnte sein, dass sie Euch - in der
+Spielleitung. Es könnte sein, dass sie Euch - in der
 Rolle des alten Mannes - entscheidende Hinweise zu raunt. Aber
 umgekehrt könnt ihr auch den alten Mann fragen, wenn ihr Fragen
-an den Spielleiter habt. Insbesondere wenn Du noch nie so ein
+an die Spielleitung habt. Insbesondere wenn Du noch nie so ein
 Rollenspiel gespielt hast, und alles ganz schön verwirrend
 findest. Versuche Deine Frage aus Sicht deiner Spielerfigur zu
 formulieren, und frag' den alten Mann in der Taverne!
@@ -1927,7 +1934,7 @@ natürlich gerne auch jeden anderen NSC ansprechen (so
 werden die Nicht-Spieler-Charaktere\index{NSC}, also die Figuren, 
 die von
 der Spielleitung geführt werden, genannt). Alle NSC
-können als geheime Telegrafieleitung zum Spielleiter genutzt
+können als geheime Telegrafieleitung zur Spielleitung genutzt
 werden. Insbesondere der Aufenthalt in der Taverne dient letztlich
 dazu, Euch eine Idee zu geben, was ihr unternehmen könntet, und
 so dem Spiel eine Richtung zu geben.
@@ -1947,7 +1954,7 @@ gegenüber vom Kontor des Stadtkämmerers nachdenken, oder zumindest
 über die Schatulle des Tavernenwirts.
 
 Womit wir bei einem wichtigen Aspekt des Stadtabenteuers wären:
-Aufenthalte in der Stadt kosten Geld. Tu' dem Spielleiter einen
+Aufenthalte in der Stadt kosten Geld. Tu' der Spielleitung einen
 riesigen Gefallen und führe während der Phase des Stadtabenteuers
 selbst Buch über deine Ausgaben. Jede Übernachtung kostet ein paar
 Münzen, und auch jede Mahlzeit. Der Wirt wird Dir schon sagen,
@@ -2015,7 +2022,7 @@ Der Dungeon Crawl
 \index{Dungeon Crawl}
 
 Im Stadtabenteuer wird der Verlauf der Zeit häufig stark
-abstrahiert. Der Spielleiter erzählt vielleicht einfach, dass ihr
+abstrahiert. Die Spielleitung erzählt vielleicht einfach, dass ihr
 "noch zwei weitere Tage" mit Vorbereitungen verbringt, um dann
 aufzubrechen. Vielleicht wird grob in vormittags, nachmittags und
 abends eingeteilt.
@@ -2028,7 +2035,7 @@ verlagert, bekommt das Spiel einen anderen Rhythmus.
 ### Spielphasen
 \index{Phase}
 
-Der Spielleiter beginnt nun das Geschehen in jeweils 10-minütige
+Die Spielleitung beginnt nun das Geschehen in jeweils 10-minütige
 Phasen einzuteilen. Alles wofür die Spielercharaktere *in der
 Spielwelt* ungefähr 10 Minuten benötigen, wird als Phase gezählt.
 Das kann in Realzeit schnell abgehandelt sein, zum Beispiel wenn
@@ -2064,8 +2071,8 @@ prüfen ob es zu einer zufälligen Begegnung,
 \index{Zufallsbegegnung} zum Beispiel mit einem sogenannten
 "wandernden" Monster \index{Monster!wandernde} kommt.  Wandernde
 Monster - dabei kann es sich um ein oder mehrere echte Monster,
-aber auch sonstige NSC, oder auch mal um eine konkurrierende, vom
-Spielleiter geführte Abenteurergruppe handeln - lassen die
+aber auch sonstige NSC, oder auch mal um eine konkurrierende, von der
+Spielleitung geführte Abenteurergruppe handeln - lassen die
 Spielwelt lebendig erscheinen. Es wäre ja ungewöhnlich wenn die
 Monster immer nur dann in Erscheinung träten, wenn sie von den
 Abenteurern aktiv aufgesucht werden. Sicherlich haben auch
@@ -2150,7 +2157,7 @@ Spielleiter ja auch gar keine Karte und improvisiert gerade - wer
 weiß das schon. 
 
 Wenn Dir etwas zu den räumlichen Bedingungen unklar ist, kannst
-Du den Spielleiter fragen - am besten solltest Du dies in eine
+Du die Spielleitung fragen - am besten solltest Du dies in eine
 Handlung deines Charakters verpacken:
 
 > "ich konnte nicht genau erkennen, ob nicht auf der Südseite
@@ -2251,11 +2258,11 @@ In diesem Spielmodus wird nicht jeder einzelne Schritt
 ausgespielt, sondern ihr erklärt wie, ob zu Fuß oder zu Pferd, und 
 in welche Richtung ihr Euch bewegen wollt, und die Reise findet
 dann quasi im Zeitraffer statt. 
-Der Spielleiter beschreibt Euch die
+Die Spielleiterin beschreibt Euch die
 Landschaft, durch die ihr reist, und erzählt, wem ihr
 begegnet, und was sich sonst an Ereignissen auf Eurer Reise
 ergibt. Auch wenn ihr in der Wildnis unterwegs seid,
-würfelt der Spielleiter in bestimmten Intervallen auf
+würfelt die Spielleitung in bestimmten Intervallen auf
 Zufallsbegegnungen.
 
 Seid darauf gefasst, dass Begegnungen in der Wildnis durchaus
@@ -2277,7 +2284,7 @@ genannt.  Meistens wird das Raster so ausgerichtet, dass die Hexfelder
 auf der Seite liegen (und nicht auf der Spitze stehen). Entsprechend
 hätte also jedes Hexfeld eine Nord- eine Süd-, eine Nordost-, eine
 Südost, und eine Nordwest- und eine Südwest-Seite. Und an genau diese
-Himmelsrichtungen wird sich der Spielleiter in seiner Beschreibung
+Himmelsrichtungen wird sich die Spielleitung in seiner Beschreibung
 halten.
 
 Auch beim Wildnisabenteuer solltet ihr versuchen einen Karte zu
@@ -2503,7 +2510,7 @@ wenn ihm nicht so schnell wie möglich geholfen wird.
 Spielmechanisch bedeuten Null oder weniger
 Trefferpunkte\index{Trefferpunkte!null oder weniger}, dass der
 Spieler die Kontrolle über seinen Charakter verliert. Es liegt
-nun am Spielleiter, zu entscheiden was geschieht. 
+nun an der Spielleitung, zu entscheiden was geschieht. 
 
 Traditionell sind Old-School Rollenspiele hart, was diese Frage
 angeht: null Trefferpunkte bedeutet tot - mausetot. Aber es
@@ -2588,6 +2595,7 @@ Stufe mit der angebenen Anzahl Würfel neu ausgewürfelt. Sollte der
 Wert geringer sein als der bisherige Wert, bleiben die Trefferpunkte
 unverändert.
 
+\clearpage
 
 : Kämpfer, Stufen 1 bis 3 \label{tabellen}
 
@@ -2906,10 +2914,10 @@ Also, worauf wartet Ihr noch?
 
 ![](img/castle.png){width=100%}
 
-# Für Spielleiter
+# Spielleitung
 
 \lettrine{U}{m mit diesem} kleinen Spielerhandbuch einen One-Shot oder
-auch eine Kampagne zu starten, wird der Spielleiter zumindest noch ein
+auch eine Kampagne zu starten, wird die Spielleitung zumindest noch ein
 Monsterhandbuch benutzen wollen. Dazu wäre natürlich *Monsters &
 Treasure*, also das originale Monsterbuch von 1974 geeignet, aber
 genauso ginge auch das Monsterbuch von 1977 oder ein modernes

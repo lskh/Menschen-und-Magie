@@ -3,7 +3,7 @@ Mass Charm
 Greyhawk
 Zauberkundige 8
 120' (36 m)
-wie *Personen bezaubern* Seite \pageref{personen-bezaubern}
+wie *Personen bezaubern* Seite \pageref{person-bezaubern}
 30 Trefferwürfel an Personen oder Monstern bezaubern.
 Dieser Spruch wirkt genauso wie Personen bezaubern, oder Monster bezaubern, nur
 dass er sich auf 30 Trefferwürfel an Kreaturen in jeder beliebigen Kombination

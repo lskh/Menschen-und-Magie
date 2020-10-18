@@ -52,7 +52,6 @@ Spielerhandbuch-cover.png: Makefile ../Spielerhandbuch.pdf
 	tmp.png Spielerhandbuch-cover.png
 	convert +level-colors "#cca666","#cca666" \
 	-fuzz 100% tmp.png Spielerhandbuch-back.png
-	rm -f tmp.png
 
 Spielerhandbuch-fullcover.png: Spielerhandbuch-fullcover.pdf Makefile 
 	pdftoppm -f 1 -l 1 -r 300 $< > tmp.png
