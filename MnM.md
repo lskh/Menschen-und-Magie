@@ -4,15 +4,15 @@ subtitle: Wanderer Bills Spielerhandbuch für Old-School Rollenspiele
 titlegraphic: img/DnD-Dragon.png
 logo: img/logo.png
 rights: © 2020 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
-titlepagecolor: purple
-titlepagetextcolor: lightgray
 lang: de
 ---
 
 \null\vfill
 \noindent
 \Large
-Menschen & Magie \newline
+Menschen & Magie: Wanderer Bills Spielerhandbuch für Old-School
+Rollenspiele\newline
+Die Print on Demand-Ausgabe\newline
 \normalsize
 Ein Spielerhandbuch für Old-School Rollenspiele, kompatibel mit
 *Swords & Wizardry* und allen Regeln, die auf dem Original Fantasy
@@ -35,10 +35,7 @@ Mythmere Games oder Frog God Games.
 
 Das Wanderer Bill Logo ist Product Identity. Ansonsten ist dieses
 Spielerhandbuch Open Game Content im Sinne der Open Game License, OGL
-1.0a, mit Ausnahme der Ausrüstungstabellen auf den Seiten
-\pageref{eqtab} bis \pageref{eqtabend}. 
-
-Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
+1.0a. Das heißt, Du darfst dieses Buch für Dich und für andere kopieren.
 Gib es gerne weiter!  
 
 Es ist auch kein Problem, *Menschen & Magie* für deinen eigenen Open
@@ -49,11 +46,6 @@ Schließlich ist *Menschen & Magie* auch Open Source. Du findest die
 Quelldateien für dieses Dokument unter
 <https://github.com/lskh/Hausregeln>
 
-Open Content: All text and tables of this booklet, except for the
-equipment tables on pages \pageref{eqtab} through \pageref{eqtabend},
-which are based on an idea by Brendan S. a.k.a Necropraxis and used
-here with kind permission.
-
 \clearpage
 
 \normalsize 
@@ -62,64 +54,35 @@ here with kind permission.
 
 \listoftables*
 
+\cleartorecto
+
 Vorwort
 =======
 
-\lettrine{A}{m Anfang} war mein Plan einfach nur eine Liste mit Hausregeln
-für unsere Rollenspiel-Runde zu verfassen. Dann dachte ich, dass es ganz
-schön wäre, wenn alle Spieler ein kleines Heftchen mit den wichtigsten
-Tabellen zur Hand hätten. Schließlich ist daraus dieses kleine
-Spielerhandbuch, ein Band mit Hausregeln und ein Buch mit Zaubersprüchen
-geworden. Und das schöne ist, alle drei Bücher können ausgedruckt und
-kopiert werden, und völlig legal als PDF weiter gereicht werden.
+\lettrine{M}{enschen & Magie} ist aus der Idee hervorgegangen eine
+kleine Regel-Referenz für das Original Fantasy Rollenspiel zu
+schreiben, um sie in unserer Spielrunde zu nutzen. Seit Januar 2019
+ist daraus ein größeres Projekt geworden, bestehend aus einem
+Spielerhandbuch, einer Hausregelsammlung und einer Sammlung von
+Zaubersprüchen die alle Sprüche der Old-School Spiele abdeckt. Ein
+Monsterbuch und ein Spielleiterbuch sind in Arbeit, so dass *Menschen
+& Magie* auf dem Weg ist, eine eigenständige deutschsprachige
+OSR-Edition zu werden.
 
-Schließlich wurde dann auch noch der Zine-Contest des System-Matters
-Verlags angekündigt, was mich motiviert hat, "das Ding endlich über
-die Rampe zu bringen" und dieses Spielerhandbuch zum Contest
-einzureichen.
+Dieses Spielerhandbuch ist für Neulinge gedacht, sowie als
+leichtgewichtiges Mini-Regelsystem für offene Runden mit
+niedrigstufigen Charakteren, die sich bezüglich der Regeln möglichst
+nah am Originalspiel von 1974 orientieren. 
 
-Ermöglicht wird dieses Projekt durch die Veröffentlichung der *Open Game
-License* und der *System Reference Documents* durch *Wizards of the Coast*
-(siehe Seite \pageref{open-game-license-version-1.0a}) und die Vorarbeit
-vieler Mitglieder einer Bewegung, die sich *Old School Renaissance* (OSR)
-nennt. Eine Bewegung die seit etwa Mitte der Nuller Jahre die alten
-Regelwerke neu formuliert veröffentlicht, und darüber hinaus eine
-unglaubliche Menge spannender, origineller und zum Teil in eindrucksvoller
-künstlerischer Qualität gearbeiteter Werke hervor gebracht hat.
+Wanderer Bills Spielerhandbuch wurde im Rahmen eines Fanzine
+Wettbewerbes das erste Mal veröffentlicht. Diese überarbeitete Version
+ist nun als PDF und Print on Demand erhältlich, und
+unterscheidet sich von der ersten Ausgabe nur durch die geänderten
+Ausrüstungstabellen. Ansonsten ist alles in diesem Spielerhandbuch
+kompatibel zu *Swords & Wizardry*, den anderen Büchern aus der
+*Menschen & Magie*-Reihe, und natürlich zu den Regeln von 1974!
 
-Die Open Game License machte es möglich, dass die Spielregeln des
-originalen Fantasy Rollenspiels unter permissiven Lizenzbedingungen,
-neu formuliert veröffentlicht werden können. Diese neu formulierten
-Regeln werden oft als Retro-Klon bezeichnet.
-
-*Menschen & Magie* versucht, den Geist der ersten Ausgabe des ersten
-Fantasy-Rollenspiels zu vermitteln, welches 1974 von Gary Gygax und
-Dave Arneson veröffentlicht wurde. Außerdem soll es möglichst gut
-kompatibel zu den Retro-Klonen der frühen Editionen sein.  Für die
-Spieler sollte es keinen Unterschied machen, ob der Spielleiter sein
-Spiel auf Grundlage der Original-Regeln von 1974 oder einem der
-Retro-Klone wie zum Beispiel *Swords & Wizardry* spielt. Auch für
-Spieler in Kampagnen, die auf den *Advanced*-Regeln, oder einem der
-B/X-Klone aufbauen, sollten die Informationen dieses Spielerhandbuchs
-hilfreich sein.
-
-Grundlage für *Menschen & Magie* ist *Swords & Wizardry White Box*,
-ein Retro-Klon der "three little brown books".  Im Anhang habe ich
-aufgeführt, in welchen Punkten *Menschen & Magie* von den
-Original-Regeln abweicht.
-
-Aufgebaut ist das Heft aus einem einfach gehaltenen Abschnitt über die
-Erschaffung von Charakteren der ersten Stufe, den Regeln um den so
-erschaffenen Charakter auf Abenteuer ausziehen zu lassen, sowie einem
-ausführlichen Abschnitt über das Spiel in einer groß angelegten offenen
-Fantasy-Kampagne. Ein Thema, welches in vielen Regelwerken für meinen
-Geschmack zu kurz kommt.
-
-Ich hoffe, dass Ihr *Menschen & Magie* nützlich findet. Ein Spieler
-aus unserer Runde hat kürzlich im Urlaub - nur mit diesem Heft
-ausgestattet - eine spontane Runde geleitet, mit kleinen Zetteln vom
-Kellner-Notizblock als Charakterbögen ... genau so soll es sein!
-
+\cleartoverso
 \pagestyle{empty}
 
 ![](img/entrance.png){width=100%}
@@ -137,11 +100,11 @@ fiktive Figur - üblicherweise Charakter genannt - durch eine
 abenteuerliche Fantasywelt voller unwägbarer Gefahren, geheimnisvoller
 Magie und fabelhafter Schätze. Die Welt selbst, das Verhalten von
 seltsamen Fabelwesen, Monstern aber auch zum Beispiel vom Tavernenwirt
-oder der Händlerin an der Ecke wird vom Spielleiter beschrieben.
+oder der Händlerin an der Ecke wird von der Spielleitung beschrieben.
 
 Das funktioniert zum Beispiel so: 
 
-> Spielleiter: ... nachdem Ihr die Kellertreppe herunter gestiegen
+> Spielleitung: ... nachdem Ihr die Kellertreppe herunter gestiegen
 > seid, steht ihr in einem kleinen Raum, vielleicht 3 x 4 Meter groß,
 > nur von euren Fackeln erleuchtet.
 > In der Südost-Ecke stehen zwei Holzfässer die nach Sauerkraut
@@ -157,7 +120,7 @@ Das funktioniert zum Beispiel so:
 > Spielerin von Etzo dem Zwerg: ich sehe mir die Fässer genauer an,
 > und hebe mal den Sack hoch.
 >
-> Spielleiter: die Fässer sehen aus wie normale Weinfässer. Was
+> Spielleitung: die Fässer sehen aus wie normale Weinfässer. Was
 > besonderes kannst Du nicht erkennen. Der Sack ist leichter als er
 > aussieht. Er scheint auch keine Kartoffeln zu enthalten, sondern
 > etwas weiches, vielleicht Stoff oder Kleidung, als Du ihn wieder
@@ -166,11 +129,11 @@ Das funktioniert zum Beispiel so:
 > Spieler von Hedwig der Kämpferin: ich gehe zu der Tür und lausche,
 > was höre ich?
 >
-> Spielleiter: Du hörst leises Murmeln, menschliche Stimmen ...
+> Spielleitung: Du hörst leises Murmeln, menschliche Stimmen ...
 >
 > Hedwig: kann ich etwas verstehen? Erkenne ich eine von den Stimmen?
 >
-> Spielleiter: ... ja, doch ... Du hörst eine Stimme die sich genau anhört
+> Spielleitung: ... ja, doch ... Du hörst eine Stimme die sich genau anhört
 > wie die von Haken-Ede ...
 >
 > Hedwig: ich gebe Etzo ein Zeichen und flüstere ihm zu: "sieht so aus
@@ -241,7 +204,7 @@ suchen willst - großartig! Und falls Du dabei wirklich erfolgreich
 sein solltest, bring Dein Geld auf die Bank, spare ein wenig, und kauf
 Dir eines Tages deine eigene Burg, kein Problem!
 
-Allerdings kann es sehr gut passieren, dass die Spielleiterin von Dir
+Allerdings kann es sehr gut passieren, dass die Spielleitung von Dir
 verlangt zu würfeln, um zu sehen ob Dir dein kühnes Vorhaben gelingt.
 Nun hängt das Schicksal von den Würfeln ab, und die können
 gnadenlos sein. Die Wahrscheinlichkeit für eine erfolgreiche
@@ -249,7 +212,7 @@ Würfelprobe liegt bei Old-School Rollenspielen oft in einer
 Größenordnung von 25 %, vielleicht etwas besser, wenn
 die Figur gute Spielwerte hat.
 
-Tendenziell bedeutet also die Aufforderung der Spielleiterin zu
+Tendenziell bedeutet also die Aufforderung der Spielleitung zu
 würfeln in etwa: "was Du hier vor hast funktioniert mit großer
 Wahrscheinlichkeit **nicht**, oder ist sehr **gefährlich**, dieser
 Würfelwurf ist Deine letzte Chance damit irgendwie davon zukommen".
@@ -304,7 +267,7 @@ alle Eintragungen können sich im Laufe des Spiels verändern.
 Oben links brauchst Du etwas Platz für den Namen deines Charakters.
 Lasse das Feld noch offen, denn Du weißt ja noch nicht was für eine
 Figur Du spielen wirst. Oben rechts kannst Du Deinen Namen und
-vielleicht auch den Namen des Spielleiters eintragen.  Darunter,
+vielleicht auch den Namen der Spielleitung eintragen.  Darunter,
 solltest Du Dir ein bisschen Platz für eine kleine Skizze deiner Figur
 frei halten.
 
@@ -451,7 +414,7 @@ Charisma \index{Charisma}
      Charisma wirkt sich auf die Anzahl und die Loyalität von
      Gefolgsleuten aus, die ein Charakter in seinen Dienst nehmen
      kann. Für alle Gefolgsleute wird zu Beginn ein bestimmter
-     Loyalitätswert ermittelt, den der Spielleiter bei Bedarf auf die
+     Loyalitätswert ermittelt, den die Spielleitung bei Bedarf auf die
      Probe stellen kann. Wenn zum Beispiel ein  Spielercharakter eine
      besonders gefährliche Handlung von seinen Leuten
      verlangt, könnte mit einem Würfelwurf entschieden werden, ob sich
@@ -648,7 +611,7 @@ Klassenfähigkeiten
      Um Untote zu beherrschen werden 2W6 geworfen. Liegt das Ergebnis
      über einem bestimmten Wert, erlangt der Kleriker für eine 
      bestimmte Zeit die Kontrolle über die untoten Kreaturen.
-     Der Spielleiter stellt fest, wie viele Untote tatsächlich
+     Die Spielleitung stellt fest, wie viele Untote tatsächlich
      beherrscht werden.
      Wenn Du einen Kleriker spielst, notiere Dir folgende kleine
      Tabelle auf deinem Charakterbogen:
@@ -755,7 +718,7 @@ Du solltest Dir also jetzt eine Gesinnung für Deinen
 Charakter überlegen, und sie auf Deinem Charakterbogen notieren. Es
 ist o.k. Deine Mitspieler zunächst im unklaren zu lassen, wenn Du Dich
 zum Beispiel für eine chaotische Gesinnung entschieden hast. Du
-solltest aber in jedem Fall Deiner Spielleiterin die gewählte
+solltest aber in jedem Fall Deiner Spielleitung die gewählte
 Gesinnung mitteilen, da sie sich auf manche Regeln
 auswirken kann.
 
@@ -1342,263 +1305,215 @@ Geld und Ausrüstung
 ---------------------
 \index{Geld}\index{Ausrüstung!Pakete}
 
-Üblicherweise wird das Startgeld eines Charakters ermittelt in dem ein
+Üblicherweise wird das Startgeld eines Charakters ermittelt, in dem ein
 Wurf von 3W6 mit 10 multipliziert wird. Dabei ergibt sich dann ein
-Betrag von 30 bis 180 Goldmünzen (GM)\index{GM}\index{Goldmünzen},
-von dem der Charakter seine erste Ausrüstung kaufen kann. 
+Betrag von 30 bis 180 Münzen\index{Münzen} - traditionell Goldmünzen
+(GM)\index{GM}\index{Goldmünzen} - aber es ist natürlich auch möglich,
+dass die Wirtschaft der Fantasy-Welt auf Silbermünzen, Gulden, Talern
+oder etwas noch ausgefallenerem basiert. Von diesem Startgeld, kann
+sich der Charakter nun aus folgender Tabelle eine erste Ausrüstung
+kaufen. Zu jeder Rüstung ist die jeweilige Rüstungsklasse
+(RK)\index{Rüstungsklasse}\index{RK}
+angegeben. Nähreres zur Rüstungsklasse findet sich auf Seite
+\pageref{rk}.
 
-In vielen Regelwerken kommen an dieser Stelle Tabellen mit diversen
-Ausrüstungsgegenständen und Preisangaben, aus der sich jeder seine
-Ausrüstung zusammenstellen kann. Dieses "Einkaufen" wird aber schnell
-mühsam, besonders, wenn während eines laufenden Spiels schnell ein
-neuer Charakter erstellt werden soll. Viel einfacher ist
-es, auf einer der folgenden Tabellen die Grundausrüstung
-auszuwürfeln^[Die Idee mit der auswürfelbaren Ausrüstung wurde das erste
-Mal von Brendan S. auf seinem *Necropraxis* Blog 
-veröffentlicht. Er war so nett, mir zu erlauben sie in *Menschen &
-Magie* zu verwenden.]. Dabei entspricht zum Beispiel der Eintrag mit der
-Nummer 5 in der Klerikertablle einer soliden Ausrüstung, die sich ein
-Kleriker von 50 Goldmünzen kaufen könnte. Was dabei nicht
-ausgegeben wurde, bleibt als Bargeld übrig.
+: Waffen
 
-### Ausrüstung für Kämpfer
-\label{eqtab}
+| Gegenstand | Preis [Münzen] | Gewicht [Pfund] |
+|:-----------|:---------:|:-------:|
+| Knüppel | - | 10 |
+| Dolch | 3 | 1 |
+| Speer | 2 | 5 |
+| Kampfstab | 1 | 5 |
+| Schwert | 10 | 10 |
+| Flegel | 8 | 10 |
+| Handaxt | 3 | 4 |
+| Streitkolben | 5 | 10 |
+| Morgenstern | 6 | 10 |
+| Kriegshammer | 11 | 10 |
+| Streitaxt | 7 | 10 |
+| Hellebarde | 7 | 15 |
+| Zweihandschwert | 30 | 15 |
+| Lanze | 10 | 10 |
+| Schleuder | 1 | 1 |
+| 20 Steine | - | 1 |
+| Kurzbogen | 25 | 5 |
+| Langbogen | 40 | 5 |
+| 20 Pfeile | 5 | 5 |
+| Köcher | 5 | - |
+| Leichte Armbrust | 15 | 5 |
+| Schwere Armbrust | 25 | 10 |
+| 30 Bolzen | 5 | 5 |
+| Silberpfeil/bolzen | 5 | - |
 
- 3.  Normale Kleidung (RK 9 [10]), Speer, 6 Fackeln, Rucksack,
-     Wasserschlauch, 7 eiserne Rationen, 15 m Seil, 4 GM, BW 12"
+: Rüstung 
 
- 4.  Lederrüstung (RK 7 [12]), Knüppel, 
-     Rucksack, Schlafsack, Wasserschlauch, 7
-     eiserne Rationen, 6 Fackeln, 3 m Holzstab, 1 GM, BW 12"
+| Gegenstand | Preis [Münzen] | Gewicht [Pfund] |
+|:-----------|:---------:|:-------:|
+| Lederrüstung (RK 7 [12]) | 15 | 25 |
+| Kettenrüstung (RK 5 [14])| 50 | 50 |
+| Plattenrüstung (RK 3 [16])| 75 | 75 |
+| Schild (RK -1 [+1])| 15 | 15 |
+| Helm | 10 | 5 |
 
- 5.  Lederrüstung (RK 7 [12]), Morgenstern, Dolch, 
+: Ausrüstung
+
+| Gegenstand | Preis [Münzen] | Gewicht [Pfund] |
+|:-----------|:---------:|:-------:|
+| Rucksack, 30 Pfund Kapazität | 5 | 2 |
+| Belladonna, 1 Bund | 10 | - |
+| Brecheisen | 5 | 5 |
+| Knoblauch | 5 | - |
+| Hammer | 2 | 1 |
+| Heiliges Symbol, Silber | 40 | 1 |
+| Heiliges Symbol, Holz | 5 | 1 |
+| Weihwasser, 1 Fläschchen | 25 | 1 |
+| 12 Eisennägel | 1 | 3 |
+| Laterne | 10 | 2 |
+| Stahlspiegel | 5 | 1 |
+| Silberspiegel | 15 | 1 |
+| Öl, 1 Fläschchen | 2 | 5 |
+| Holzstab, 3 m | 1 | 4 |
+| 7 Rationen, haltbar | 14 | 7 |
+| 7 Rationen | 7 | 14 |
+| Seil, 15 m | 1 | 15 |
+| Sack, 10 Pfund Kapazität | 1 | 1 |
+| Sack, 30 Pfund Kapazität | 2 | 1 |
+| Spaten | 5 | 10 |
+| Holzpflöcke, 1 Paar | 1 | 1 |
+| Zunderkasten | 2 | - |
+| 6 Fackeln | 1 | 5 |
+| Wasserschlauch | 1 | 2 |
+| Wein, 1 Flasche | 1 | 2 |
+| Wolfsbann, 1 Bund | 10 | - |
+| Sprüchebuch | 100 | 10 |
+
+: Tiere und Transportmittel
+
+| Gegenstand | Preis [Münzen] | Gewicht [Pfund] |
+|:-----------|:---------:|:-------:|
+| Hund | 25 | - |
+| Maultier | 20 | - |
+| Zugpferd | 30 | - |
+| Reitpferd | 40 | - |
+| Schlachtroß | 150 | - |
+| Sattel und Zaumzeug | 25 | 50 |
+| Satteltaschen, 30 Pfund Kapazität | 10 | 2 |
+| Pferderüstung (RK 5 [14]) | 150 | 75 |
+| Handwagen | 80 | - |
+| Planwagen | 160 | - |
+| Floß | 40 | - |
+| Ruderboot | 100 | - |
+| Kogge, klein | 5.000 | - |
+| Gallere, klein | 10.000 | - |
+| Langschiff | 15.000 | - |
+| Kogge, groß | 20.000 | - |
+| Gallere, groß | 30.000 | - |
+
+Während es vielen Spielern Spass macht, sich aus diesen Listen eine
+Ausrüstung zusammen zu stellen, kann dieses "Einkaufen" auch schnell
+mühsam werden, besonders wenn während des laufenden Spiels schnell ein
+neuer Charakter erstellt werden soll.  Viel einfacher ist es, auf
+einer der folgenden Tabellen die Grundausrüstung auszuwürfeln. Zu
+jedem Ausrüstungspaket ist auch angegeben, wie schnell sich ein 
+Charakter mit der jeweiligen Ausrüstung bewegen kann. Näheres zu
+dieser *Bewegungsweite* oder BW findet sich auf Seite \pageref{bw}. 
+
+### 1W6 Ausrüstungspakete für Kämpfer
+
+ 1.  Normale Kleidung (RK 9 [10]), Speer, 6 Fackeln, Rucksack,
+     Wasserschlauch, 7 eiserne Rationen, 15 m Seil, ein Beutel mit
+     10-60 Münzen^[Der Zahlenbereich 10-60 kann ausgewürfelt werden
+     mit 1W6 * 10. Entsprechend könnte man 2-20 auswürfeln mit 2W10,
+     20-120 mit 2W6 * 10 usw.], BW 12"
+
+ 2.  Lederrüstung (RK 7 [12]), Morgenstern, Dolch, 
      Rucksack, Wasserschlauch, 7 eiserne Rationen, 6 Fackeln, 15 m
-     Seil, 3 GM, BW 12"
+     Seil, ein Beutel mit 20-120 Münzen, BW 12"
 
- 6.  Lederrüstung (RK 7 [12]), Streitaxt, Handaxt, 
-     Dolch , Schleuder mit 20 Steinen, 
-     Rucksack, Wasserschlauch, 7 eiserne
-     Rationen, 6 Fackeln, 3 m Holzstab 9 GM, BW 9"
-
- 7.  Kettenrüstung (RK 5 [14]), Speer, Dolch, Schleuder mit 20
-     Steinen, 6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne
-     Rationen, 15 m Seil, 11 GM, BW 6"
-
- 8.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Schwert, Dolch,     
+ 3.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Schwert, Dolch,     
      6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen,
-     3 m Holzstab,  4 GM, BW 6"
+     3 m Holzstab, ein Beutel mit 10-60 Münzen, BW 6"
 
- 9.  Kettenrüstung (RK 5 [14]), Speer, leichte Armbrust, 30 Bolzen,
-     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen,
-     15 m Seil, 11 GM, BW 6"              
-
- 10. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Schwert, Dolch, 
+ 4.  Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Schwert, Dolch, 
      6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
-     Holzstab, 4 GM, BW 6"
+     Holzstab, ein Beutel mit 10-60 Münzen, BW 6"
  
- 11. Plattenrüstung (RK 3 [16]), Zweihandschwert, 3 Dolche, 6 Fackeln,
+ 5.  Plattenrüstung (RK 3 [16]), Zweihandschwert, 3 Dolche, 6 Fackeln,
      Rucksack, Wasserschlauch, 7 eiserne Rationen,
-     15 m Seil, 2 Ölfläschchen, 9 GM, BW 6"
+     15 m Seil, 2 Ölfläschchen, ein Beutel mit 10-60 Münzen, BW 6"
 
- 12. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Schwert, leichte Armbrust,
-     30 Bolzen, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
-     6 Fackeln, 3 m Holzstab, 2 GM, BW 6"  
-                                      
- 13. Plattenrüstung (RK 3 [16]), Flegel, Dolch, Kurzbogen, 20 Pfeile, 
-     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen,
-     15 m Seil, kleiner Sack, 10 GM, BW 6"
-
- 14. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Schwert, leichte Armbrust, 
-     30 Bolzen, Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne,
-     4 Ölfläschchen, 3 m Holzstab, 5 GM, BW 6"
-
- 15. Plattenrüstung (RK 3 [16]), Helm, zwei Streitäxte, Dolch, leichte
-     Armbrust, 30 Bolzen, 6 Fackeln, Rucksack, Wasserschlauch, 7
-     eiserne Rationen, 15 m Seil, 5 Ölfläschchen, 15 GM, BW 6"
-
- 16. Plattenrüstung (RK 3 [16]), Zweihandschwert, Dolch, Kurzbogen, 20
+ 6.  Plattenrüstung (RK 3 [16]), Zweihandschwert, Dolch, Kurzbogen, 20
      Pfeile, Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne, 4
-     Ölfläschchen, 3 m Holzstab, 2 kleine Säcke, 15 GM, BW 6"
-
- 17. Plattenrüstung (RK 3 [16]), Hellebarde, Dolch, Langbogen, 
-     20 normale Pfeile, 2 Pfeile
-     mit Silberspitzen, Rucksack, Wasserschlauch, Laterne, 4
-     Ölfläschchen, 7 eiserne Rationen, 15 m Seil, 10 GM, BW 6"
-
- 18. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Helm, Schwert, 2 Dolche,
-     leichte Armbrust, 30 normale Bolzen, 4 Bolzen mit Silberspitzen,
-     Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne, 4
-     Ölfläschchen, 3 m Holzstab, 9 GM, BW 6"
+     Ölfläschchen, 3 m Holzstab, 2 kleine Säcke, ein Beutel mit 2-20 
+     Münzen, BW 6"
 
 
-### Ausrüstung Zauberkundiger
+### 1W6 Ausrüstungspakete für Zauberkundige
 
-  3. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, Wasserschlauch, 
-     7 eiserne Rationen, 3 m Holzstab, Zauberbuch, 4GM, BW 9"
+  1. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, Wasserschlauch, 
+     7 eiserne Rationen, 3 m Holzstab, Zauberbuch, Beutel mit 
+     10-60 Münzen, BW 9"
 
-  4. Normale Kleidung (RK 9 [10]), 2 Dolche, Rucksack, Wasserschlauch, 
+  2. Normale Kleidung (RK 9 [10]), 2 Dolche, Rucksack, Wasserschlauch, 
      7 eiserne Rationen, 2 Ölfläschchen, 15 m Seil, Zauberbuch, 
-     7 GM, BW 9"
+     Beutel mit 20-120 Münzen, BW 9"
 
-  5. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
-     Wasserschlauch, 7 eiserne Rationen, Laterne, 4 Ölfläschchen,
-     Zauberbuch, 3 m Holzstab, 7 GM, BW 9"
-
-  6. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
+  3. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
      Wasserschlauch,  6 Fackeln, 7 eiserne Rationen, 15 m Seil, 
-     Zauberbuch, 1 Phiole Weihwasser, 9 GM, BW 9"
+     Zauberbuch, 1 Phiole Weihwasser, Beutel mit 10-60 Münzen, BW 9"
 
-  7. Normale Kleidung (RK 9 [10]), Dolch, 6 Fackeln, Rucksack,
+  4. Normale Kleidung (RK 9 [10]), Dolch, 6 Fackeln, Rucksack,
      Wasserschlauch, 7 eiserne Rationen, 3 m Holzstab, 5 Ölfläschchen,
-     Silberspiegel, ein Bund Belladonna, Zauberbuch, 9 GM, BW 9"
+     Silberspiegel, ein Bund Belladonna, Zauberbuch, Beutel mit 1-10
+     Münzen, BW 9"
 
-  8. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
-     Wasserschlauch, 7 eiserne Rationen, 15 m Seil, 2 Phiolen
-     Weihwasser, Zauberbuch, 4 GM, BW 9"
-
-  9. Normale Kleidung (RK 9 [10]), 3 Dolche, Rucksack, 
-    Wasserschlauch, 7 eiserne Rationen, 
-    Laterne, 4 Ölfläschchen, 3 m Holzstab, Phiole Weihwasser,
-    Zauberbuch, 16 GM, 
-    BW 9"
-
- 10. Normale Kleidung (RK 9 [10]), Dolch, 6 Fackeln, 
-    Zauberbuch, Rucksack, Wasserschlauch, 7 eiserne
-    Rationen, 15 m Seil, 2 Phiolen Weihwasser, 24 GM, BW 9"
-
- 11. Normale Kleidung (RK 9 [10]), Dolch, 
-     Zauberbuch, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
-    Laterne, 4 Ölfläschchen, 3 m Holzstab, Bund Wolfsbann, 57 GM, BW 9"
+ 5. Normale Kleidung (RK 9 [10]), Dolch, 
+    Zauberbuch, Rucksack, Wasserschlauch, 7 eiserne Rationen, Laterne,
+    4 Ölfläschchen, 3 m Holzstab, Bund Wolfsbann, 10-60 Münzen, BW 9"
     
- 12. Normale Kleidung (RK 9 [10]), Dolch, Zauberbuch, 
-     Rucksack, Wasserschlauch, 7 eiserne
-    Rationen, 1 Laterne, 4 Ölfläschchen,
-     15 m Seil, Bund Belladonna, Bund Wolfsbann 57 GM, BW 9"
-
-  13. Normale Kleidung (RK 9 [10]),  Dolch, 6 Fackeln, 
-      Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
-      Holzstab, Zauberbuch, Spruchrolle, 4 GM, BW 9"
-
-  14. Normale Kleidung (RK 9 [10]), 2 Dolche, 6 Fackeln, 
-    Rucksack, Wasserschlauch, 7 eiserne Rationen, Zauberbuch, 
-    Spruchrolle, 15 m Seil,  11 GM, BW 9"
-
-  15. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, 
-    Wasserschlauch, 7 eiserne Rationen, Zauberbuch, Laterne, 4
-    Ölfläschchen, Spruchrolle, 3 m Holzstab, 7 GM, BW 9"
-
-  16. Normale Kleidung (RK 9 [10]), Dolch, Rucksack, Zauberbuch, 
-      Wasserschlauch, 7 eiserne Rationen, Laterne, 4 Ölfläschchen,
-      Spruchrolle, 15 m Seil, 17 GM, BW 9"
-
-  17. Normale Kleidung (RK 9 [10]), Dolch, Rucksack,
-    Wasserschlauch, 7 eiserne Rationen, 
-    Laterne, 4 Ölfläschchen, Zauberbuch, 
-    Spruchrolle, 3 m Holzstab, Bund Wolfsbann, 17 GM
-
-  18. Normale Kleidung (RK 9 [10]), Dolch, Rucksack,
-    Wasserschlauch, 7 eiserne Rationen, 
-    Laterne, 4 Ölfläschchen, Zauberbuch, 15 m Seil, 
-    Spruchrolle, Phiole Weihwasser, 12 GM, BW 9" 
+ 6. Normale Kleidung (RK 9 [10]), Dolch, Zauberbuch, 
+     Rucksack, Wasserschlauch, 7 eiserne Rationen, 1 Laterne, 4
+     Ölfläschchen, 15 m Seil, Bund Belladonna, Bund Wolfsbann, 
+     Beutel mit 10-60 Münzen , BW 9"
 
 
-### Ausrüstung für Kleriker
+### 1W6 Ausrüstungspakete für Kleriker
 
- 3.  Normale Kleidung (RK 9 [10]), Knüppel, 
+ 1.  Normale Kleidung (RK 9 [10]), Knüppel, 
      6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 
      3 m Holzstab, hölzernes heiliges Symbol,   
-     4 GM, BW 12"
+     ein Beutel mit 10-60 Münzen, BW 12"
 
- 4.  Normale Kleidung (RK 9 [10]), Schild (RK -1 [+1]), Knüppel, 
-     6 Fackeln, Rucksack,
-     Wasserschlauch, 7 eiserne Rationen, 15 m Seil,
-     hölzernes Heiliges Symbol, 4 GM, BW 12"
-
- 5.  Lederrüstung (RK 7 [12]), Streitkolben, 
-     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3 m
-     Holzstab, hölzernes Heiliges Symbol, 5 GM, BW 9"
-
- 6.  Lederrüstung (RK 7 [12]), Kampfstab, 
+ 2.  Lederrüstung (RK 7 [12]), Kampfstab, 
      Rucksack, Wasserschlauch,  
      6 Fackeln, 7 eiserne Rationen,
      15 m Seil, 12 Eisennägel, hölzernes 
      heiliges Symbol, 3 Pflöcke & Hammer, Stahlspiegel,
-     10 GM, BW 9"
+     ein Beutel mit 2-20 Münzen, BW 9"
 
- 7.  Kettenrüstung (RK 5 [14]), Kriegshammer, 
-     Rucksack, Wasserschlauch, 
-     6 Fackeln, 7 eiserne Rationen, 3 m Holzstab, 
-     hölzernes heiliges Symbol, 2 kleine Säcke, 8 GM, BW 6"
-
- 8.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Streitkolben, 
+ 3.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Streitkolben, 
      7 eiserne Rationen, 
      Rucksack, Wasserschlauch, 6 Fackeln, hölzernes heiliges Symbol, 
-     15 m Seil, 2 kleine Säcke, 8 GM, BW 6"
+     15 m Seil, 2 kleine Säcke, ein Beutel mit 10-60 Münzen, BW 6"
 
- 9.  Kettenrüstung (RK 5 [14]), Schild (RK -1 [+1]), Kriegshammer, 
-     6 Fackeln, Rucksack, Wasserschlauch, 7 eiserne Rationen, 3
-     m Holzstab, hölzernes heiliges Symbol, 2 kleine Säcke, 3
-     Pflöcke und Hammer, Stahlspiegel, 10 GM, BW 6"
-
- 10. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), 
+ 4. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), 
      Streitkolben, 
      Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,   
      15 m Seil, 
-     hölzernes heiliges Symbol, 10 GM, BW 6"
+     hölzernes heiliges Symbol, ein Beutel mit 10-60 Münzen, BW 6"
 
- 11. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Kriegshammer, 
+ 5. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Kriegshammer, 
      Rucksack, Wasserschlauch, Laterne, 4 Ölfläschchen, 7 eiserne
      Rationen, 3 m Holzstab, hölzernes Heiliges Symbol, kleiner Sack, 
-     2 GM, BW 6"
+     ein Beutel mit 10-60 Münzen, BW 6"
 
- 12. Plattenrüstung (RK 3 [16]), Kampfstab, 
-     Rucksack, Wasserschlauch, 
-     Laterne, 4 Ölfläschchen, 7 eiserne Rationen,
-     15 m Seil, silbernes heiliges Symbol, 
-     4 GM, BW 6"
-
- 13. Normale Kleidung (RK 9 [10]), Knüppel, Rucksack, 
-     Wasserschlauch, 3 m Holzstab, 
-     6 Fackeln, 7 eiserne Rationen,
-     hölzernes heiliges Symbol,
-     Spruchrolle (!), 4 GM, BW 12"
-
- 14. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), 
-     Streitkolben, Rucksack, Wasserschlauch, 
-     Laterne, 4 Ölfläschchen, 7 eiserne Rationen, 
-     silbernes heiliges Symbol, 15 m Seil, 
-     10 GM, BW 6"
-
- 15. Lederrüstung (RK 7 [12]), Streitkolben,
-     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,
-     hölzernes heiliges Symbol, 3 m Holzstab, Spruchrolle (!), 2
-     Ölfläschchen, 1 GM 
-
- 16. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Helm, Kriegshammer, 
+ 6. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Helm, Kriegshammer, 
      Rucksack, Wasserschlauch, Laterne, 4
      Ölfläschchen, 7 eiserne Rationen, 15 m Seil, silbernes
      heiliges Symbol, 3 Pflöcke und Hammer, 
-     Stahlspiegel, 12 GM, BW 6"
+     Stahlspiegel, ein Beutel mit 1-20 Münzen, BW 6"
 
- 17. Kettenrüstung (RK 5 [14]), Kriegshammer, 
-     Rucksack, Wasserschlauch, 6 Fackeln, 7 eiserne Rationen,
-     hölzernes heiliges Symbol, 
-     Spruchrolle (!), 10 GM, BW 9"
-
- 18. Plattenrüstung (RK 3 [16]), Schild (RK -1 [+1]), Helm,   
-     Streitkolben, Rucksack, Wasserschlauch, Laterne, 4
-     Ölfläschchen, 7 eiserne Rationen, 15 m Seil, 1 Phiole Weihwasser,
-     silbernes heiliges Symbol, 12 Eisennägel, 3 Pflöcke und Hammer,
-     kleiner Sack, 10 GM, BW 6"
-\label{eqtabend}
-
-
-Wenn Dir Deine erwürfelte Ausrüstung nicht gefällt, kannst Du
-natürlich eine Ausrüstung mit einem niedrigeren Wert aussuchen, und
-Dir die Differenz in Goldmünzen gut schreiben. Sagen wir Du würfelst
-für Deinen Zauberkundigen eine 12, aber die Ausrüstung, die unter 11
-angegeben ist, gefällt Dir besser, dann nimm Einfach die Ausrüstung
-Nummer 11 und schreibe Dir noch 10 Goldmünzen extra gut.
 
 Alles was *nach* der Charaktererstellung an Ausrüstung benötigt wird, 
 muss *im Spiel* beschafft werden. Was genau ein Händler im Angebot
@@ -1623,7 +1538,7 @@ Angriff ausgestalten, während die Schramme mit der Streitaxt den
 furchteinflößenden Minotaurus nur zu einem hämischen Lachen
 veranlasst, bevor er zu seinem Gegenangriff ansetzt.
 
-Noch ein Wort zum Thema Rüstungsklasse\index{Rüstungsklasse}: Die
+Noch ein Wort zum Thema Rüstungsklasse\label{rk}\index{Rüstungsklasse}: Die
 Rüstungsklasse zeigt an, wie schwer es ist einem Charakter oder einem
 anderen Wesen Schaden zuzufügen. In den Originalspielregeln war die
 Rüstungsklasse eine Zahl zwischen 9 und 2, und zwar war die
@@ -1648,20 +1563,22 @@ ergeben zusammen gerechnet immer 19.].
 Den Charakter vollenden
 -----------------------
 
-Nach dem der Charakter nun Attribute hat, eine Klasse, die dazu
-gehörigen Trefferpunkte und Rettungswürfe ermittelt wurden, nach dem
-er vielleicht die ersten Zaubersprüche gelernt hat, und
-eine Ausrüstung gekauft wurde, kann jetzt also auch noch 
-die Rüstungsklasse auf dem Charakterbogen
-eingetragen werden.
+Dein Charakter hat nun also Attribute, eine Klasse, die dazu gehörigen
+Trefferpunkte und Rettungswürfe. Vielleicht hat er ein paar
+Zaubersprüche gelernt und sich eine Ausrüstung gekauft, und so seine
+Rüstungsklasse ermittelt.
 
-Ganz unten sollte noch etwas Platz eingerichtet werden, um zu
+Hat sie oder er einen klangvollen Namen? Wie ist die Gesinnung Deines
+Charakters? Wonach strebt er? Woher kommt er, und warum zieht er auf
+Abenteuer aus?
+
+Wenn Du Dir über all' dies noch ein paar Gedanken gemacht hast,
+solltest Du als letztes ganz unten auf dem Charakterbogen noch
 notieren, bei wie vielen Erfahrungspunkten die nächste Stufe erreicht
 wird, dann kann es los gehen. 
 
 ![](img/delvers.png){width=100%}
 
-\enlargethispage{1cm}
 
 Ins Abenteuer ziehen
 ====================
@@ -1673,11 +1590,11 @@ Crawl* und drittens das Wildnisabenteuer, oder die Überlandreise.
 
 In einem typischen Old School Spiel gibt es keinen vorgefertigten
 Plot für ein bestimmtes Abenteuer. Vielmehr kannst Du davon
-ausgehen, dass die Spielleiterin eine sogenannte *Sandbox*
+ausgehen, dass die Spielleitung eine sogenannte *Sandbox*
 vorbereitet hat. Das ist ein mehr oder weniger großer Ausschnitt
 einer Fantasy-Welt mit allen möglichen interessanten Orten,
 gefährlichen Kreaturen und verborgenen Schätzen, in der sich die
-Spielerfiguren frei bewegen können. Der Spielleiter wird
+Spielerfiguren frei bewegen können. Die Spielleitung wird
 vielleicht mehr oder weniger offensichtlich 
 sogenannte "Plot-Hooks" \index{Plot-Hook}- also Aufhänger - 
 anbieten. Was ihr
@@ -1691,10 +1608,10 @@ Würfelproben
 
 In Old-School Rollenspielen wird in erster Linie durch die
 Spieler beschrieben und erzählt was die Charaktere unternehmen
-und die Spielleiterin wird dann, mal spontan, mal anhand einer
+und die Spielleitung wird dann, mal spontan, mal anhand einer
 verdeckten Würfelprobe entscheiden was passiert.
 
-Wie aber bereits in der Einleitung erwähnt, kann die Spielleiterin
+Wie aber bereits in der Einleitung erwähnt, kann die Spielleitung
 gelegentlich auch Würfelproben durch die Spieler verlangen, 
 um festzustellen, ob ein bestimmtes Ereignis eintritt, oder eine
 Aktion gelingt. Manchmal wird dazu einfach ein beliebiger Würfel
@@ -1733,7 +1650,7 @@ Todesstrahlen" wird von einer giftigen Schlange gebissen. Würfelt
 er eine 12, hat er Glück und überlebt die Wirkung des Giftes, bei
 einer 11 jedoch hätte sein letztes Stündlein geschlagen.
 
-Viele Spielleiter interpretieren die Anlässe für einen Rettungswurf auch
+Viele Spielleiterinnen interpretieren die Anlässe für einen Rettungswurf auch
 etwas flexibler. Der Rettungswurf gegen Todesstrahlen ist zum Beispiel der
 Universal-Rettungswurf für alle möglichen Dinge, die einen Charakter eher
 zufällig und schlagartig treffen können, und die häufig eine tödlich
@@ -1806,7 +1723,7 @@ gleich** dem jeweiligen Attributswert gewürfelt werden.
 
 Versucht beispielsweise ein Charakter mit Geschicklichkeit 12 auf 
 einen Baum zu klettern,
-kann die Spielleiterin eine *Probe gegen Geschicklichkeit*
+kann die Spielleitung eine *Probe gegen Geschicklichkeit*
 verlangen. Würfelt der Spieler eine 8 gelingt es dem Charakter
 den Baum zu erklettern. Ergibt der Wurf dagegen eine 13 scheitert
 der Charakter - vielleicht war seine Rüstung zu sperrig, oder ein
@@ -2006,10 +1923,10 @@ Stimme, probiere verschiedene Stimmlagen aus, vielleicht einen
 Akzent, eine ulkige Redensart, lass ihn oder sie persönliche 
 Markenzeichen entwickeln. Und noch ein kleines Geheimnis 
 zum *Alten Mann*: er ist das Sprachrohr der
-Spielleiterin. Es könnte sein, dass sie Euch - in der
+Spielleitung. Es könnte sein, dass sie Euch - in der
 Rolle des alten Mannes - entscheidende Hinweise zu raunt. Aber
 umgekehrt könnt ihr auch den alten Mann fragen, wenn ihr Fragen
-an den Spielleiter habt. Insbesondere wenn Du noch nie so ein
+an die Spielleitung habt. Insbesondere wenn Du noch nie so ein
 Rollenspiel gespielt hast, und alles ganz schön verwirrend
 findest. Versuche Deine Frage aus Sicht deiner Spielerfigur zu
 formulieren, und frag' den alten Mann in der Taverne!
@@ -2018,7 +1935,7 @@ natürlich gerne auch jeden anderen NSC ansprechen (so
 werden die Nicht-Spieler-Charaktere\index{NSC}, also die Figuren, 
 die von
 der Spielleitung geführt werden, genannt). Alle NSC
-können als geheime Telegrafieleitung zum Spielleiter genutzt
+können als geheime Telegrafieleitung zur Spielleitung genutzt
 werden. Insbesondere der Aufenthalt in der Taverne dient letztlich
 dazu, Euch eine Idee zu geben, was ihr unternehmen könntet, und
 so dem Spiel eine Richtung zu geben.
@@ -2038,7 +1955,7 @@ gegenüber vom Kontor des Stadtkämmerers nachdenken, oder zumindest
 über die Schatulle des Tavernenwirts.
 
 Womit wir bei einem wichtigen Aspekt des Stadtabenteuers wären:
-Aufenthalte in der Stadt kosten Geld. Tu' dem Spielleiter einen
+Aufenthalte in der Stadt kosten Geld. Tu' der Spielleitung einen
 riesigen Gefallen und führe während der Phase des Stadtabenteuers
 selbst Buch über deine Ausgaben. Jede Übernachtung kostet ein paar
 Münzen, und auch jede Mahlzeit. Der Wirt wird Dir schon sagen,
@@ -2106,7 +2023,7 @@ Der Dungeon Crawl
 \index{Dungeon Crawl}
 
 Im Stadtabenteuer wird der Verlauf der Zeit häufig stark
-abstrahiert. Der Spielleiter erzählt vielleicht einfach, dass ihr
+abstrahiert. Die Spielleitung erzählt vielleicht einfach, dass ihr
 "noch zwei weitere Tage" mit Vorbereitungen verbringt, um dann
 aufzubrechen. Vielleicht wird grob in vormittags, nachmittags und
 abends eingeteilt.
@@ -2119,7 +2036,7 @@ verlagert, bekommt das Spiel einen anderen Rhythmus.
 ### Spielphasen
 \index{Phase}
 
-Der Spielleiter beginnt nun das Geschehen in jeweils 10-minütige
+Die Spielleitung beginnt nun das Geschehen in jeweils 10-minütige
 Phasen einzuteilen. Alles wofür die Spielercharaktere *in der
 Spielwelt* ungefähr 10 Minuten benötigen, wird als Phase gezählt.
 Das kann in Realzeit schnell abgehandelt sein, zum Beispiel wenn
@@ -2155,8 +2072,8 @@ prüfen ob es zu einer zufälligen Begegnung,
 \index{Zufallsbegegnung} zum Beispiel mit einem sogenannten
 "wandernden" Monster \index{Monster!wandernde} kommt.  Wandernde
 Monster - dabei kann es sich um ein oder mehrere echte Monster,
-aber auch sonstige NSC, oder auch mal um eine konkurrierende, vom
-Spielleiter geführte Abenteurergruppe handeln - lassen die
+aber auch sonstige NSC, oder auch mal um eine konkurrierende, von der
+Spielleitung geführte Abenteurergruppe handeln - lassen die
 Spielwelt lebendig erscheinen. Es wäre ja ungewöhnlich wenn die
 Monster immer nur dann in Erscheinung träten, wenn sie von den
 Abenteurern aktiv aufgesucht werden. Sicherlich haben auch
@@ -2241,7 +2158,7 @@ Spielleiter ja auch gar keine Karte und improvisiert gerade - wer
 weiß das schon. 
 
 Wenn Dir etwas zu den räumlichen Bedingungen unklar ist, kannst
-Du den Spielleiter fragen - am besten solltest Du dies in eine
+Du die Spielleitung fragen - am besten solltest Du dies in eine
 Handlung deines Charakters verpacken:
 
 > "ich konnte nicht genau erkennen, ob nicht auf der Südseite
@@ -2273,7 +2190,7 @@ vorgeschlagen wurde.
 
 Die folgende Tabelle zeigt die verschiedenen Geschwindigkeitsstufen
 eines Charakters in Abhängigkeit von der Belastung. Mit *BW* 
-\index{BW} ist die
+\index{BW}\label{bw} ist die
 Basis Geschwindigkeit (oder auch *BeWegung* oder *Bewegungs-Weite*) 
 gemeint. Sie wurde in den
 früheren Ausgaben noch in Zoll (") - also einer Spielbrettdistanz -
@@ -2342,11 +2259,11 @@ In diesem Spielmodus wird nicht jeder einzelne Schritt
 ausgespielt, sondern ihr erklärt wie, ob zu Fuß oder zu Pferd, und 
 in welche Richtung ihr Euch bewegen wollt, und die Reise findet
 dann quasi im Zeitraffer statt. 
-Der Spielleiter beschreibt Euch die
+Die Spielleiterin beschreibt Euch die
 Landschaft, durch die ihr reist, und erzählt, wem ihr
 begegnet, und was sich sonst an Ereignissen auf Eurer Reise
 ergibt. Auch wenn ihr in der Wildnis unterwegs seid,
-würfelt der Spielleiter in bestimmten Intervallen auf
+würfelt die Spielleitung in bestimmten Intervallen auf
 Zufallsbegegnungen.
 
 Seid darauf gefasst, dass Begegnungen in der Wildnis durchaus
@@ -2368,7 +2285,7 @@ genannt.  Meistens wird das Raster so ausgerichtet, dass die Hexfelder
 auf der Seite liegen (und nicht auf der Spitze stehen). Entsprechend
 hätte also jedes Hexfeld eine Nord- eine Süd-, eine Nordost-, eine
 Südost, und eine Nordwest- und eine Südwest-Seite. Und an genau diese
-Himmelsrichtungen wird sich der Spielleiter in seiner Beschreibung
+Himmelsrichtungen wird sich die Spielleitung in seiner Beschreibung
 halten.
 
 Auch beim Wildnisabenteuer solltet ihr versuchen einen Karte zu
@@ -2594,7 +2511,7 @@ wenn ihm nicht so schnell wie möglich geholfen wird.
 Spielmechanisch bedeuten Null oder weniger
 Trefferpunkte\index{Trefferpunkte!null oder weniger}, dass der
 Spieler die Kontrolle über seinen Charakter verliert. Es liegt
-nun am Spielleiter, zu entscheiden was geschieht. 
+nun an der Spielleitung, zu entscheiden was geschieht. 
 
 Traditionell sind Old-School Rollenspiele hart, was diese Frage
 angeht: null Trefferpunkte bedeutet tot - mausetot. Aber es
@@ -2679,6 +2596,7 @@ Stufe mit der angebenen Anzahl Würfel neu ausgewürfelt. Sollte der
 Wert geringer sein als der bisherige Wert, bleiben die Trefferpunkte
 unverändert.
 
+\clearpage
 
 : Kämpfer, Stufen 1 bis 3 \label{tabellen}
 
@@ -2997,10 +2915,10 @@ Also, worauf wartet Ihr noch?
 
 ![](img/castle.png){width=100%}
 
-# Für Spielleiter
+# Spielleitung
 
 \lettrine{U}{m mit diesem} kleinen Spielerhandbuch einen One-Shot oder
-auch eine Kampagne zu starten, wird der Spielleiter zumindest noch ein
+auch eine Kampagne zu starten, wird die Spielleitung zumindest noch ein
 Monsterhandbuch benutzen wollen. Dazu wäre natürlich *Monsters &
 Treasure*, also das originale Monsterbuch von 1974 geeignet, aber
 genauso ginge auch das Monsterbuch von 1977 oder ein modernes
