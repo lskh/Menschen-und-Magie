@@ -13,7 +13,7 @@ Spells-cover.png: Makefile ../Spells.pdf
 	rm -f tmp.png
 
 Spells-fullcover.png: Spells-fullcover.pdf Makefile
-	pdftoppm -f 1 -l 1 $< > tmp.png
+	pdftoppm -f 1 -l 1 -r 300 $< > tmp.png
 	convert +level-colors "#000000","#aaaa44" \
 	tmp.png $@
 	rm -f tmp.png
@@ -27,8 +27,8 @@ Hausregeln2020-cover.png: Makefile ../Hausregeln2020.pdf
 	rm -f tmp.png
 
 Hausregeln2020-fullcover.png: Hausregeln2020-fullcover.pdf Makefile
-	pdftoppm -f 1 -l 1 $< > tmp.png
-	convert +level-colors "#000000","#44aaaa" -fuzz 10% \
+	pdftoppm -f 1 -l 1 -r 300 $< > tmp.png
+	convert +level-colors "#000000","#44aaaa" \
 	tmp.png $@
 	rm -f tmp.png
 
@@ -41,7 +41,7 @@ Hausregeln2021-cover.png: Makefile ../Hausregeln2021.pdf
 	rm -f tmp.png
 
 Hausregeln2021-fullcover.png: Hausregeln2021-fullcover.pdf Makefile 
-	pdftoppm -f 1 -l 1 $< > tmp.png
+	pdftoppm -f 1 -l 1 -r 300 $< > tmp.png
 	convert +level-colors "#000000","#84a4a4" -fuzz 10% \
 	tmp.png $@
 	rm -f tmp.png
@@ -55,20 +55,20 @@ Spielerhandbuch-cover.png: Makefile ../Spielerhandbuch.pdf
 	rm -f tmp.png
 
 Spielerhandbuch-fullcover.png: Spielerhandbuch-fullcover.pdf Makefile 
-	pdftoppm -f 1 -l 1 $< > tmp.png
+	pdftoppm -f 1 -l 1 -r 300 $< > tmp.png
 	convert +level-colors "#000000","#bb9555" \
 	tmp.png $@
 	rm -f tmp.png
 
 Spielleiterbuch-fullcover.png: Spielleiterbuch-fullcover.pdf Makefile 
-	pdftoppm -f 1 -l 1 $< > tmp.png
+	pdftoppm -f 1 -l 1 -r 300 $< > tmp.png
 	convert +level-colors "#ffffff","#000000" \
 	        +level-colors "#000000","#ff0000" \
 	tmp.png $@
 	rm -f tmp.png
 
 Monster-fullcover.png: Monster-fullcover.pdf Makefile
-	pdftoppm -f 1 -l 1 $< > tmp.png
+	pdftoppm -f 1 -l 1 -r 300 $< > tmp.png
 	convert +level-colors "#000000","#449966" \
 	tmp.png $@
 	rm -f tmp.png

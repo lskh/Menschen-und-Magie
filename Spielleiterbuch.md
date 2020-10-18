@@ -3,7 +3,7 @@ title: Menschen \& Magie
 subtitle: Geheimes Wissen
 titlegraphic: img/DnD-Cockatrice.png
 logo: img/logo.png
-rights: © 2020 Wanderer Bill <wandererbill73@gmail.com>, OGL 1.0a
+rights: © 2020 Wanderer Bill <wandererbill73@gmail.com>, CC-BY-SA 4.0
 lang: de
 ---
 
@@ -14,7 +14,7 @@ Menschen & Magie - Geheimes Wissen
 \normalsize\newline
 *Menschen & Magie* ist eine Hausregelsammlung für Old-School
 Rollenspiele, 
-kompatibel mit *Swords & Wizardry* und allen Regeln, die auf dem
+kompatibel mit allen Regeln, die auf dem
 Original Fantasy Rollenspiel von 1974 basieren.
 
 Text und Satz: © Wanderer Bill,
@@ -25,17 +25,12 @@ Datum:
 Grafiken: LadyofHats, CC 0, public domain,
 <https://commons.wikimedia.org/wiki/User:LadyofHats> 
 
-*Swords & Wizardry* ist ein eingetragenes Warenzeichen von Matthew J.
-Finch. Wanderer Bill ist nicht assoziiert mit Matthew J. Finch,
-Mythmere Games oder Frog God Games.
+Das Wanderer Bill-Logo ist © 2020 Wanderer Bill, der gesamte Text von
+*Geheimes Wissen*, dem Spielleiterbuch zur *Menschen & Magie*-Reihe
+steht unter der Creative Commons-Lizenz CC-BY-SA 4.0 
+<http://creativecommons.org/licenses/by-sa/4.0/>
 
-Das Wanderer Bill Logo ist Product Identity, ansonsten
-sind der Text und die Tabellen von *Menschen & Magie* Open
-Game Content im Sinne der Open Game License, OGL 1.0a. Das heißt, Du
-darfst dieses Buch für Dich und für andere kopieren.  Gib es gerne
-weiter!  Es ist auch kein Problem, *Menschen & Magie* für deinen
-eigenen Open Game Content zu benutzen, vorausgesetzt, Du hälst Dich
-dabei an die Regeln der Open Game License.  Schließlich ist *Menschen
+Schließlich ist *Menschen
 & Magie* auch Open Source. Du findest die Quelldateien für dieses
 Dokument unter <https://github.com/lskh/Hausregeln>
 
@@ -93,7 +88,7 @@ soll.
 
 ------------------- ------------------- -------------------
  Gesundheit          Lebenspunkte        Korruption
- Bildung             Sozialstatus        IQ
+ Bildung             Sozialstatus        Empathie
  Gewandtheit         Fingerfertigkeit    Psyche
  Physis              Willenskraft        Körperkraft
  Geschwindigkeit     Resistenz           Glück
