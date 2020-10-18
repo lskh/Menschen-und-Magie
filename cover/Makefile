@@ -38,15 +38,15 @@ Hausregeln-fullcover.pdf: Makefile Hausregeln-fullcover.tex
 
 MnM-cover.png: Makefile ../MnM.pdf
 	pdftoppm -f 1 -l 1 ../MnM.pdf > tmp.png
-	convert +level-colors "#000000","#aa8444" \
+	convert +level-colors "#000000","#bb9555" \
 	tmp.png MnM-cover.png
-	convert +level-colors "#aa8444","#aa8444" \
+	convert +level-colors "#bb9555","#bb9555" \
 	-fuzz 100% tmp.png MnM-back.png
 	rm -f tmp.png
 
 MnM-fullcover.png: Makefile MnM-fullcover.pdf
 	pdftoppm -f 1 -l 1 MnM-fullcover.pdf > tmp.png
-	convert +level-colors "#000000","#aa8444" \
+	convert +level-colors "#000000","#bb9555" \
 	tmp.png MnM-fullcover.png
 	rm -f tmp.png
 
