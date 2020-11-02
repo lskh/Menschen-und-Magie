@@ -59,6 +59,13 @@ Spielerhandbuch-fullcover.png: Spielerhandbuch-fullcover.pdf Makefile
 	tmp.png $@
 	rm -f tmp.png
 
+Spielleiterbuch-cover.png: ../Spielleiterbuch.pdf Makefile
+	pdftoppm -f 1 -l 1 -r 150 $< > tmp.png
+	convert +level-colors "#ffffff","#000000" \
+	        +level-colors "#000000","#ff0000" \
+	tmp.png $@
+	rm -f tmp.png
+
 Spielleiterbuch-fullcover.png: Spielleiterbuch-fullcover.pdf Makefile 
 	pdftoppm -f 1 -l 1 -r 300 $< > tmp.png
 	convert +level-colors "#ffffff","#000000" \

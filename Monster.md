@@ -36,7 +36,7 @@ eigenen Open Game Content zu benutzen, vorausgesetzt, Du hälst Dich
 dabei an die Regeln der Open Game License.
 
 Schließlich ist *Menschen & Magie* auch Open Source. Du findest die Quelldateien für dieses Dokument unter 
-<https://github.com/lskh/Hausregeln>
+<https://github.com/lskh/Menschen-und-Magie>
 
 \normalsize 
 

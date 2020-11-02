@@ -32,7 +32,7 @@ steht unter der Creative Commons-Lizenz CC-BY-SA 4.0
 
 Schließlich ist *Menschen
 & Magie* auch Open Source. Du findest die Quelldateien für dieses
-Dokument unter <https://github.com/lskh/Hausregeln>
+Dokument unter <https://github.com/lskh/Menschen-und-Magie>
 
 \clearpage
 
@@ -49,6 +49,10 @@ Dokument unter <https://github.com/lskh/Hausregeln>
 *Geheimes Wissen* ist ein Spielleiterbuch für DIY Abenteuer Spiele!
 
 ...
+
+Zahl+ bedeutet: "dieser Wert oder mehr", Zahl- bedeutet: "dieser Wert oder
+weniger". +Zahl bedeutet: diese Zahl soll hinzu gerechnet werden,
+-Zahl bedeutet: diese Zahl soll abgezogen werden.
 
 # Charaktererschaffung
 
@@ -142,138 +146,410 @@ generierte Zahl einander gleichen, größer oder kleiner sind,
 entscheiden über den Ausgang einer Probe und damit über das Geschehen
 in der gespielten Geschichte.
 
-## Würfelproben
+> Ich habe Lust ein neues Spiel zu starten, ich denke an Steampunk
+> Fantasy. Es braucht also auf jeden Fall Regeln für Magie, für
+> Schusswaffen und auch für Fahrzeuge. Ein Luftkampf im Zeppelin
+> sollte schon dabei sein. Aber erst mal zu den
+> Charaktereigenschaften:
+>
+> Ich mag Systeme mit weniger Attributen. Vielleicht wären vier gut
+> für dieses Spiel, und da verrückte Technik und Mathematik ein
+> wichtiges Thema im Steampunk sind, suche ich mir folgende Attribute
+> aus: Kraft (KRA), Gewandtheit (GEW), Intuition (INT) und Bildung
+> (BIL). Außerdem mag ich die klassischen sechseitigen Würfel, und
+> besonders klassisch finde ich 2W6. Also entscheide ich mich für den
+> Wertebereich 2-12.
 
-Um ein bestimmtes Attribut auf die Probe zu stellen, wird deren Wert
-mit einem Würfelwurf verglichen. Eine der einfachsten
+## Modifikatoren
 
-### *roll low*
-
-Probenmechanismen wird häufig als *roll under* oder *roll low*
-bezeichnet: Eine Probe ist dann erfolgreich, wenn die gewürfelte Zahl
-kleiner oder gleich dem getesteten Attribut ist. Diese Methode ist
-einfach und charmant, da sie nur den Würfel und den Attributswert
-benötigt. 
-
-### *roll high under*
-
-Durch eine einfache Erweiterung lässt sich diese Mechanik um
-graduierten Erfolg erweitern. Es muss für einen Erfolg weiterhin
-höchstens der Attributswert gewürfelt werden, jedoch ist der Erfolg um
-so besser, je näher die Zahl am Attributswert liegt. Genau der
-Attributswert ist ein *kritischer Erfolg*, eine eins ist der schwächst
-mögliche Teilerfolg. Die höchste Zahl auf dem Würfel ist immer ein
-Fehlschlag, oder sogar ein *kritischer Fehlschlag*.
-
-: Würfelmechaniken
-
-------------------------------------------------------------
- Bezeichnung  Würfelmechanik
-------------- ----------------------------------------------
- roll low     Erfolg, wenn die gewürfelte Zahl kleiner oder
-              gleich dem Zielwert ist.
-
- roll high    Erfolg, wenn die gewürfelte Zahl größer
-              oder gleich dem Zielwert ist.
-
- roll high    Erfolg, wenn die gewürfelte Zahl kleiner oder
- under        gleich dem Zielwert ist, aber je höher die
-              gewürfelte Zahl desto besser, genau der 
-              Zielwert ist ein kritischer Erfolg
-
- PbtA         Je höher die gewürfelte Zahl desto besser. 
-              Unter unterem cut-off: Fehlschlag,
-              über oberem cut-off: voller Erfolg,
-              dazwischen: Teilerfolg
-
-------------------------------------------------------------
-
-### *roll high*
-
-Bei dieser Würfelmechanik bedeutet ein Wurf höher oder gleich einem
-bestimmten Wert einen Erfolg. Einfache *roll-high* Proben sind zum
-Beispiel die Angriffswürfe, oder die Rettungswürfe in den klassischen
-Regeln. Dabei kann der Zielwert die Rüstungsklasse eines
-Gegners sein, die mit dem Würfelwurf erreicht oder überschritten werden
-muss. Oder die Spielleitung legt willkürlich einen Zielwert fest,
-welcher der jeweiligen Situation angemessen erscheint. Zum Beispiel:
-
-> "um die Felsspalte zu überspringen benötigt Ihr einen Wert von 8 oder
-> mehr 2W6".
-
-Der Nachteil von *roll high* Proben ist, dass sie sich zunächst nicht
-auf irgendein Attribut des Charakters beziehen. Um einen Attributswert
-dennoch einfließen zu lassen, hat es sich in vielen Spielen etabliert,
-von dem eigentlichen Attributswert einen Modifikator abzuleiten, der
-dann dem Würfelergebnis zugeschlagen wird. Zum Beispiel:
-
-> "um die Felsspalte zu überspringen benötigt Ihr einen Wert von 8
-> oder mehr auf 2W6, Geschicklichkeit von 10 oder mehr gibt einen 
-> Bonus von +1 auf den Wurf.
+Während einige Spielsysteme nur mit den Werten der Attribute
+auskommen, benötigen manche Würfelmechniken Modifikatoren, die
+traditionell von den Attributen abgeleitet werden. Mehr zu
+Würfelmechaniken und Spielsystemen im Kapitel [Würfelproben].
 
 Für den klassischen Zahlenbereich für Attribute von 3-18 haben sich
 verschiedenen Systeme von Modifikatoren etabliert, die man sogar
 den verschiedenen Entwicklungsstufen des Originalspiels zuordnen kann:
 
-: Modifikatoren
+: Modifikatoren für 3W6
 
------------------------------------------------------------
- Wert      Originalregeln     Old-School      New-School
---------- ---------------- --------------- ----------------
- 3             -1
- 4             -1
- 5             -1
- 6             -1
- 7             
- 8    
- 9
+----------------------------------------------------------------
+ Wert      Originalregeln     Old-School     (n/2 abgerundet)-5  
+--------- ---------------- --------------- ---------------------
+ 3             -1                -3               -4
+
+ 4             -1                -2               -3
+ 
+ 5             -1                -2               -3
+ 
+ 6             -1                -1               -2
+ 
+ 7                               -1               -2
+ 
+ 8                               -1               -1
+ 
+ 9                                                -1
+ 
  10
+ 
  11
- 12
- 13
- 14
- 15            +1
- 16            +1
- 17            +1
- 18            +1
------------------------------------------------------------
+ 
+ 12                                               +1
+ 
+ 13                              +1               +1
+ 
+ 14                              +1               +2
+ 
+ 15            +1                +1               +2
+ 
+ 16            +1                +2               +3
+ 
+ 17            +1                +2               +3
+ 
+ 18            +1                +3               +4
+
+----------------------------------------------------------------
+
+Je nach dem für welches System man sich hier entscheidet, werden die
+Attribute und ihre Modifikatoren in ihrer Wichtigkeit mehr oder 
+weniger betont.
+
+Für den Wertebereich 2-12, also für 2W6 basierte Systeme wären zum
+Beispiel folgende Modifikatoren denkbar:
+
+: Modifikatoren für 2W6
+
+| 2W6 | n/5 abgerundet | (n/3 abgerundet)-2 |
+|:---:|:----------:|:-------------:|
+| 2 |    |   -2  |
+| 3 |    |   -1 |
+| 4 |    |   -1 |
+| 5 | +1  |  -1 |
+| 6 | +1 | |
+| 7 | +1 | |
+| 8 | +1 |  |
+| 9 | +1 |   +1 |
+| 10 | +2 |  +1 |
+| 11 | +2 | +1 |
+| 12 | +2 | +2 |
+
+> Für mein Steampunkspiel stelle ich mir vor, dass alle mehr Lust
+> haben hoch zu würfeln. Es macht einfach mehr Spass Sechsen zu
+> würfeln als Einsen. Daher braucht mein Spiel Modifikatoren mit deren
+> Hilfe der Attributswert in die Proben einfließen kann. Ich
+> entscheide mich für das feiner granulierte System: 2: -2, 3 bis 5:
+> -1, 6 bis 8: kein Modifikator, 9 bis 11: +1, 12: +2
+
+## Modifikatoren als Attribute
+
+Wenn man es sich genau überlegt, braucht man eigentlich in einem Spiel
+dessen Proben auf Modifikatoren beruhen gar keine Attribute. Man kann
+auch einfach den entsprechenden Modifikator als Attributswert her
+nehmen. Das hat auch den Vorteil, dass die Zahlen dann kleiner sind.
+In solch einem Spiel könnten die Spielwerte eines Zauberkundigen zum
+Beispiel so aussehen: 
+
+> Körperkraft 0, Intelligenz +3, Magie +2
+
+Die entsprechenden Werte könnten zur Charaktererschaffung nach einem
+Punktesystem gekauft werden, in dem zum Beispiel neue Charaktere mit
+20 Charakterpunkten ausgestattet werden, und jede "Stufe" eines
+Attributs jeweils einen Charakterpunkt kostet.
+
+Alternativ können auch Tabellen wie die Folgende benutzt werden um
+Charaktere zufällig zu generieren.
+
+ 1W6   Körperkraft     Reflexe          Willen
+----- --------------- --------------- ---------------
+  1       +1            -1                +2 
+  2       +1            +2                -1
+  3       -1            +2                +1
+  4       -1            +1                 +2
+  5       +2            -1                 +1
+  6       +2            +1                 -1
 
 
-
-### Reaktionswürfe
-
-### Situationswürfe
-
-## Rettungswürfe
+Attributs jeweils einen Charakterpunkt kostet.
 
 ## Fertigkeiten
 
-## Trefferpunkte, Trefferwürfel
+Als Fertigkeiten werden in Rollenspielen allgemein Eigenschaften
+Verstanden, die im Gegensatz zu Attributen, nicht unbedingt jeder
+Charakter hat. Meistens sind dies Fähigkeiten oder Qualitäten, die
+erlernt werden. Während zum Beispiel jeder Charakter eine mehr oder
+weniger ausgeprägte Geschicklichkeit hat, können nur manche Charaktere
+Gold schmieden, und nur andere wiederum sind in einer bestimmten
+esoterischen Geheimlehre geschult.
 
-## Erfahrung und Stufen
+: Typische Fertigkeiten
+
+------------------- ------------------- -------------------
+ Fährten lesen       Rudern              Diplomatie
+ Taschendiebstahl    Klettern            Fallenkunde
+ Architektur         Wildnisleben        Navigation
+ Kryptografie        Tiere bändigen      Pflanzenkunde
+ Reiten              Boot fahren         Tauchen
+------------------- ------------------- -------------------
+
+Fertigkeiten können als Modifikatoren angegeben werden, die
+für eine Probe, je nach Situation,  mit einem bestimmten 
+Attributswert kombiniert werden.
+Zum Beispiel könnte die Fertigkeit *Klettern +2* mit dem Attribut
+*Geschicklichkeit* kombiniert werden, um an einer schmalen Felskante
+entlang zu klettern, oder mit dem Attribut *Stärke* wenn es darum
+geht, einen Klimmzug an einem Ast zu machen, um beladen mit schwerem
+Marschgepäck einen Baum hinauf zu klettern.
+
+Eine andere Möglichkeit besteht darin, Fertigkeiten Werte aus dem
+gleichen Zahlenbereich wie dem der Attribute zu geben. Entsprechend
+könnte in einem 2W6 System ein Charakter *Klettern 6* und *Diplomatie
+8* haben. Proben könnten dann als einfache *roll under* Würfe
+ausgeführt werden^[Näheres zu Proben siehe Seite
+\pageref{wuerfelproben}]. Fertigkeiten und Fertigkeitsproben werden
+allgemein als Element eher modernerer Rollenspiele angesehen.
+
+Je nachdem wie das Kampfsystem aussieht, könnte es auf Kampfbezogene 
+Fertigkeiten geben:
+
+: Kampfbezogene Fertigkeiten
+
+------------------- ------------------- -------------------
+ Nahkampf            Fernkampf           Angriff
+ Verteidigung        Ausweichen          Blocken
+ Fechten             Schusswaffen        Kung-Fu
+ Balistik            Laser               Geschütze
+------------------- ------------------- -------------------
+
+In solch einem Spiel könnte dann der Kampf mit dezidierten Proben auf
+bestimmte Kampftechniken abgewickelt werden, und ein Treffer könnte
+durch einen erfolgreichen Wurf auf eine defensive Fertigkeit abgewert
+werden.
+
+## Lebenspunkte und Trefferwürfel
+
+Trefferpunkte, oder auch Lebenspunkte sind ein besonderes Attribut,
+welches anzeigt, wieviel Schaden ein Charakter aushalten kann, bevor
+er handlungsunfähig wird, oder sogar stirbt. 
+
+In den alten Zinnsoldaten-Spielen, die allgemein als Vorläufer der
+Rollenspiele angesehen werden, genügte ein Treffer, um eine Einheit
+auszuschalten. Wenn man so will hatte also jeder Zinnsoldat *einen*
+Lebenspunkt, und wenn dieser vergeudet war, dann war Feierabend - für
+den einen Zinnsoldaten. Aber immerhin es stand *ein Treffer* gegen
+*ein Leben*. Ein Spiel, in dem jeder Spieler *einen* Zinnsoldaten mit
+*einem* Lebenspunkt spielen würde, wäre ziemlich schnell vorbei und
+wohl wenig erbaulich. Die Rechnung geht aber auf, wenn man nicht wie die
+Zinnsoldaten-Spieler *viele* Zinnsoldaten mit jeweils *einem*
+Lebenspunkte spielt, sondern *einen* Charakter mit *vielen*
+Lebenspunkten.
+
+Da es bereits zu Zeiten der Zinnsoldaten nicht unüblich war, dass
+mit 1W6 gewürfelt wird, um die Anzahl an Treffern zu ermitteln, die
+eine bestimmte Einheit verursachte, war also der nächste, in der Tat
+recht bedeutende Schritt, dass jeder Charakter nicht nur einen
+Treffer, sondern 1-6 (also 1W6) Treffer aushalten konnte. Nun stand es
+also 1-6 Punkte Schaden gegen 1-6 Punkte Leben, was schon viel
+spannender ist, da ein einzelner Schwerthieb den Gegner töten *kann*
+aber *nicht muss*. Vermutlich wegen des ursprünglich engen
+Zusammenhangs zwischen den Treffern die eine Einheit austeilen konnte,
+und dem Schaden, den eben diese Einheit einstecken konnte, hat
+sich der etwas irreführende Begriff "Trefferpunkte" für das etabliert,
+was man eigentlich eher *Gesundheit* oder *Lebenspunkte* nennen
+sollte. Tatsächlich wurde im ersten veröffentlichten Fantasy
+Rollenspiel dieser Zusammenhang noch weiter betont, in dem klar
+gemacht wurde, dass *die 1-6 Punkte* die durch einen W6 dargestellt werden -
+seien es Schadens- oder Lebenspunkte - *einen* menschlichen Charakter
+repräsentierten --- kurz: 1W6 = 1 Mensch!
+
+: Standardregel für Trefferpunkte
+
+------------------------------------------------------------ 
+ Ein menschengroßes Wesen hat 1W6 Trefferpunkte.
+
+ Eine Kreatur mit der Kampffähigkeit von 2 Menschen 
+ entsprechend 2W6,
+
+ ein Held der für vier Kämpft 4W6,
+
+ usw.
+
+------------------------------------------------------------
+
+
+Entsprechend ergibt sich, dass eine Gruppe von 4 Menschen durch 4W6
+repräsentiert werden können, und 8 Menschen durch 8W6, womit der
+Zirkelschluss zu den Zinnsoldaten erreicht wäre. Aber es wird noch
+besser, denn vier oder mehr W6 können natürlich genau so gut eine
+*einzelne* Figur darstellen, die so gut kämpft und entsprechend viel
+Schaden anrichtet, wie vier oder mehr Menschen. Und damit wäre der
+entscheidende Schritt zum Spiel mit heroischen Charakteren und
+fantastischen Monstern getan, denn nun kann der Superheld mit 8W6
+Trefferpunkten - oder auch 8 *Trefferwürfeln* - gegen den gigantischen
+Drachen kämpfen, der mit jedem Feuerstoß 10W6 Punkte an Schaden
+anrichtet. Mehr dazu im Abschnitt über [Erfahrung und Stufen].
+
+Alternativ, und in den neueren Editionen bekannter Fantasy
+Rollenspiele inzwischen Standard, kann auch ein W8 als
+Basis-Trefferwürfel benutzt werden. In solch einem System wird also
+eine menschengroße Kreatur durch 1W8 dargestellt, und ein heroischer
+Charakter oder ein fantastisches Monster könnte 4W8 Trefferpunkte
+haben.
+
+Aus meiner Sicht ist das Prinzip der Trefferwürfel gerade für
+Old-School Rollenspiele sehr zentral. Ich würde sogar sagen, es ist
+*der eine gemeinsame Regelkern*, denn sobald klar ist, wie viele
+Trefferwürfel eine Kreatur hat, wird sie bereits zu einem spielbaren
+Charakter. Die Angaben *Ork: 1 TW, Goblin: 1-1 TW, Kobold: 1/2 TW*
+oder *Oger: 5 TW* reichen bereits aus, um diese vier verschiedenen
+Monster auftreten zu lassen, solange das Regelsystem einen
+Anhaltspunkte gibt wie viel Schaden ein Treffer verursacht, und wie,
+gegebenenfalls in Abhängigkeit von der Anzahl der Trefferwürfel, die
+Trefferwahrscheinlichkeit einer bestimmten Kreatur ist.
+
+### Leben ohne Trefferwürfel
+
+Abweichend vom Prinzip der Trefferwürfel kann ein Spiel auch
+Lebenspunkte als willkürlich festgelegtes Attribut vorsehen. Dieses
+Attribut könnte durch eine spezielle Würfelmechanik ausgewürfelt
+werden, zum Beispiel 1W20+10, was einem Wertebereich von 11 - 30
+entsprechen würde, und in einem heroischen Spiel noch ganz gut zu der
+Vorstellung passen könnte, dass ein Kurzschwert 1W6 Schadenspunkte
+verursacht. Den Helden bliebe in diesem Spiel also fürs erste das
+traurige Schicksal erspart, in den ersten fünf Spielminuten durch
+einen einzelnen gegnerischen Schwerthieb aus dem Spiel
+auszuscheiden. Das kann durchaus wünschenswert sein.
+
+Es könnte aber auch schlicht ein körperliches Attribut wie *Stärke*
+oder *Physis* als Wert für die Lebenspunkte angesehen werden. 
+Das würde dann auch nahe legen, dass nach dem Erleiden von körperlichen 
+Schaden die Proben auf körperliche Leistungen schwerer 
+werden --- da sozusagen das Attribut selbst beschädigt wird.
+
+Schließlich werden in einigen Spielen auch die Summe mehrerer
+Attribute als Lebenspunkte aufgefasst, also zum Beispiel der Summe aus
+*Kraft*, *Willen* und *Gewandtheit*. So könnte sich das Erleiden von
+Schaden je nach Art der Verletzung mehr auf die Ausdauer, die
+Präzision der Gegenangriffe oder auch die Moral auswirken.
+Entsprechend wären dann wahrscheinlich auch unterschiedliche Maßnahmen
+zur Heilung des erlittenen Schadens erforderlich. Erst wenn zum
+Beispiel alle betroffenen Attribute auf Null reduziert sind würde der 
+Charakter schließlich sterben.
+
+### Zustände und Wundstufen
+
+Eine weitere bewährte Möglichkeit besteht darin, nicht nur Punkte
+vorzusehen, sondern eskalierende Zustände, die durch eine Folge von
+Treffern verursacht werden können. So könnte ein Charakter zum
+Beispiel 3 *Kratzer* und 2 *Wunden* aushalten, nach erleiden einer
+Wunde vorübergegend *benommen* sein,
+nach einem schweren Treffer handlungsunfähig werden, da er einen 
+*Zusammenbruch* erleidet, bevor er schließlich durch einen letzten
+Treffer *getötet* wird. Hier können bloße Treffer gezählt werden, es
+wäre aber auch denkbar, dass zum Beispiel ein oder zwei Schadenspunkte
+nur jeweils "Kratzer" verursachen, während fünf Schadenspunkte
+sicherlich schon eine "Wunde" hinterlassen würden. Sind erst einmal
+zwei Wunden gesetzt wird jeder weitere Treffer zu Handlungsunfähigkeit
+oder gar Tod führen.
+
+Wundstufen bieten auch die Möglichkeit, dem Spiel das ganze Grauen zu
+nehmen, in dem man den Zustand "tot" einfach nicht vorsieht:
+
+: Alternative Wundstufen für ein kinderfreundliches Spiel
+
+----------------------------------------------------------------------
+Erster Treffer           Zweiter Treffer          Dritter Treffer 
+------------------------ ------------------------ --------------------
+Nur ein Kratzer, war
+das alles Du 
+Schwächling?
+
+                         KAWUMM! Aua!
+                         sieht Sterne, für 
+                         eine Runde -1 auf alle
+                         Proben.
+
+                                                   K.O., muss von den
+                                                   Sanitätern weg 
+                                                   getragen werden.
+
+----------------------------------------------------------------------
+
+Einfache Gegner könnten schon beim ersten Treffer K.O. gehen, und der
+fiese Endboss, könnte vielleicht noch einen vierten Zustand haben:
+*verwandelt sich in violetten Schleim, der mit ulkigem blubbern
+langsam zu harmlosem Nichts verpufft*.
 
 ## Vor- und Nachteile
 
+In Systemen mit Charakterpunkten können Vorteile gekauft und mit
+Nachteilen verrechnet werden. In Systemen mit zufälliger
+Charaktererschaffung werden häufig Charakterklassen benutzt, denen
+bestimmte Vor- und Nachteile fest zugeordnet sind.
+
+: typische Vorteile
+
+------------------------ ------------------------ --------------------
+ Dunkelsicht              Zähigkeit                Magieresistenz
+ Magiebegabung            Gespür für Geheimtüren   Verbündete
+ +2 auf Fernkampf         +2 gegen Riesen          perfekte Balance
+ Göttlicher Segen         Adel                     +1 Trefferpunkte
+------------------------ ------------------------ --------------------
+
+
+: typische Nachteile
+
+------------------------ ------------------------ --------------------
+ Völlerei                 Habsucht                 Geiz
+ Jähzorn                  Kampfstarre              Abhängigkeit
+ Leichtsinn               Eitelkeit                Treueschwur
+ -1 Trefferpunkte         einbeinig                Blindheit
+------------------------ ------------------------ --------------------
+
 ## Charakterklassen
 
-: Andere Klassen 
+Kämpfer
 
-------------------------------------------------------------
-Klasse       Mindestwerte             Trefferwürfel
------------- ------------------------ ----------------------
-Assassine    ST 12, GE 12,            W6
-             IN 12
+Zauberkundige
 
-Druide       WE 12, CH 14             W6
+Kleriker
 
-Mönch        ST 12, GE 15,            W4 (beginnend mit 2W4)
-             WE 15
+Diebe, Spezialisten
 
-Paladin      CH 17                    W10
+## Erfahrung und Stufen
 
-Waldläufer   KO 15, IN 12,            W8 (beginnend mit 2W8)
-             WE 12 
-------------------------------------------------------------
+: Eine generische Stufenleiter
+
+ Stufe   Erfahrungspunkte
+------- -------------------
+ 1             0   
+ 2             2
+ 3             4
+ 4             8
+ 5            16
+ 6            32
+ 7            64
+ 8           128
+ 9           256
+ 10          512
+
+Je nach System kann es sich bei den Erfahrungspunkten um den in der
+Tabelle angegebenen Wert handeln, die Erfahrungspunkte lassen sich
+dann gut zum Beispiel mit Charakterpunkten verrechnen, oder es handelt
+sich um 100er Werte (also 200, 400, 800, 1600 usw.), oder traditionell
+sehr fein gegliedert um 1.000er Werte (also 2.000, 4.000, 8.000 usw.).
+
+### Erfahrung durch Überwundene Gegner
+
+### Erfahrung für Gold
+
+### Erfahrung durch gutes Rollenspiel
+
+### Erfahrung durch erfolgreiche Proben
+
+### Erfahrung durch Fehlschläge
+
+### Meilensteine
+
 
 
 ## Ausrüstung & Geld
@@ -299,6 +575,541 @@ AD&D 2	1/5	1	2	10	100
 
 -----------------------------------------------
 
+# Würfelproben
+
+Die Würfel werden in Old School Rollenspielen etwas anderes genutzt
+als in modernen Rollenspielen. Während es in letzteren typischerweise
+Fertigkeiten gibt in denen ein Charakter besonders gut ist - das wird
+durch eine hohe Wahrscheinlichkeit abgebildet, dass der
+Fertigkeitswurf auch gelingt - ist die übliche Mechanik in Old School
+Rollenspielen der Rettungswurf. Ein Rettungswurf hat typischerweise
+eine geringe Erfolgswahrscheinlichkeit, denn er dient wirklich nur der
+letzten Rettung, wenn alles andere schon schief gegangen ist. 
+
+Es ist sehr wichtig, sich diesen Unterschied klar zu machen, denn wenn man
+die Rettungswürfe als Fertigkeitswürfe missbraucht, werden die Spieler
+nicht glücklich und beschweren sich zurecht, wie es sein kann, dass
+ein ein "Dieb" nur eine Wahrscheinlichkeit von 15% haben soll, 
+erfolgreich ein Schloss zu knacken. 
+
+In Old School Rollenspielen zählt an erster Stelle die erzählerische
+Darstellung, und wenn ein Spieler beschreibt, wie er sich nach
+gründlicher Vorbereitung an ein kompliziertes Schloss macht, dann
+sollte er - wenn nicht deutlich etwas dagegen spricht - ohne einen
+Würfelwurf erfolgreich sein.
+
+: Fausregel um fragliche Situationen zu lösen
+
+------------------------------------------------------------------------------
+Erfolgswahrscheinlichkeit       Reaktion des Spielleiters
+-----------------------------   ----------------------------------------------
+hoch, eine Routineaufgabe       sagt "ja", kein würfeln nötig
+
+grenzwertig, mäßiges Risiko     sagt "ja, aber" und führt ohne 
+                                Würfeln eine Komplikation ein
+
+hohes Risiko                    fordert eine Würfelprobe
+
+------------------------------------------------------------------------------
+
+
+Um allgemein ein bestimmtes Attribut oder eine Fertigkeit 
+auf die Probe zu stellen, wird deren Wert
+mit einem Würfelwurf verglichen. 
+
+: Würfelmechaniken
+
+------------------------------------------------------------
+ Bezeichnung  Würfelmechanik
+------------- ----------------------------------------------
+ roll low     Erfolg, wenn die gewürfelte Zahl kleiner oder
+              gleich dem Zielwert ist.
+
+ roll high    Erfolg, wenn die gewürfelte Zahl größer
+              oder gleich dem Zielwert ist.
+
+ roll high    Erfolg, wenn die gewürfelte Zahl kleiner oder
+ under        gleich dem Zielwert ist, aber je höher die
+              gewürfelte Zahl desto besser, genau der 
+              Zielwert ist ein kritischer Erfolg
+
+ PbtA         Je höher die gewürfelte Zahl desto besser. 
+              Unter unterem cut-off: Fehlschlag,
+              über oberem cut-off: voller Erfolg,
+              dazwischen: Teilerfolg
+
+------------------------------------------------------------
+
+### *roll low*
+
+Eine der einfachsten
+Probenmechanismen wird häufig als *roll under* oder *roll low*
+bezeichnet: Eine Probe ist dann erfolgreich, wenn die gewürfelte Zahl
+kleiner oder gleich dem getesteten Attribut ist. Diese Methode ist
+einfach und charmant, da sie nur den Würfel und den Attributswert
+benötigt. 
+
+Im Grunde lässt sich nur mit den 6 Standard-Attributen und der *roll
+low* Mechanik ein komplettes Abenteuerspiel bestreiten.
+
+: Chancen - roll low
+
+ Wert    1W20   1W6   2W6   3W6   4W6   5W6   
+------- ------ ----- ----- ----- ----- ----- 
+ 20      100%                     97%   78%
+ 19       95%                     95%   69%
+ 18       90%              100%   90%   60%
+ 17       85%              99%    84%   50%
+ 16       80%              98%    76%   40%
+ 15       75%              95%    66%   31%
+ 14       70%              90%    56%   22%
+ 13       65%              83%    44%   15%
+ 12       60%        100%  74%    34%   10%
+ 11       55%        97%   63%    24%   6%
+ 10       50%        92%   50%    16%   3%
+ 9        45%        83%   38%    10%   2%
+ 8        40%        72%   26%    5%    1%
+ 7        35%        58%   16%    3%    .3%
+ 6        30%  100%  42%   9%     1%    .1%
+ 5        25%  83%   28%   5%     .4%   .01%
+ 4        20%  67%   17%   2%
+ 3        15%  50%   8%    .5%
+ 2        10%  33%   3%
+ 1         5%  17%
+
+### *roll high*
+
+Bei dieser Würfelmechanik bedeutet ein Wurf höher oder gleich einem
+bestimmten Wert einen Erfolg. Einfache *roll-high* Proben sind zum
+Beispiel die Angriffswürfe, oder die Rettungswürfe in den klassischen
+Regeln. Dabei kann der Zielwert die Rüstungsklasse eines
+Gegners sein, die mit dem Würfelwurf erreicht oder überschritten werden
+muss. Oder die Spielleitung legt willkürlich einen Zielwert fest,
+welcher der jeweiligen Situation angemessen erscheint. Zum Beispiel:
+
+> "um die Felsspalte zu überspringen benötigt Ihr einen Wert von 8 oder
+> mehr 2W6".
+
+Der Nachteil von *roll high* Proben ist, dass sie sich zunächst nicht
+auf irgendein Attribut des Charakters beziehen. Um einen Attributswert
+dennoch einfließen zu lassen, hat es sich in vielen Spielen etabliert,
+von dem eigentlichen Attributswert einen Modifikator abzuleiten, der
+dann dem Würfelergebnis zugeschlagen wird. Zum Beispiel:
+
+> "um die Felsspalte zu überspringen benötigt Ihr einen Wert von 8
+> oder mehr auf 2W6, Geschicklichkeit von 10 oder mehr gibt einen 
+> Bonus von +1 auf den Wurf.
+
+In einem 1W20 System entspricht dabei ein Bonus von +1 einer 5%igen
+Erleichterung, ein Bonus von +2 einer 10%igen usw. Entsprechend können
+die Boni in einem 1W100 System in 5% oder 10% angesetzt werden. Bei
+Systemen mit mehreren Würfeln wie 2W6 oder 3W6 variiert der Effekt der 
+Boni entsprechend der Glockenkurvenverteilung. 
+Als Faustregel sollten Boni im 2W6 System in 1er
+Schritten, und im 3W6 System in 2er Schritten angesetzt werden.
+
+: Schwierigkeitsgrade
+
+ Schwierigkeit   1W20      2W6      1W100   Chance
+--------------- -------- -------- -------- --------
+ sehr leicht                 5       18      83%
+                    5                21      80%
+ leicht             6                26      75%         
+                             6       29      72%
+                    7                31      70%
+                    8                36      65%
+ ungewiss           9                41      60%
+                             7       43      58%
+                   10                46      55%
+                   11                51      50%
+                   12                56      45%
+                             8       60      41%
+ schwer            13                61      40%
+                   14                66      35%
+                   15                71      30%
+                             9       73      28%
+ sehr schwer       16                76      25%
+                   17                81      20%
+                             10      84      17%
+                   18                86      15%
+ fast unmöglich    19                91      10%
+                             11      93       8%
+                   20                96       5%
+                             12      98       3%
+ nur mit Bonus     
+ möglich           21+       13+     101+                 
+
+Je nachdem wie häufig Boni in einem System sind, wird sich die die
+Schwierigkeitsskala nach oben aufspreizen. In einem Spiel in dem 
+Boni von +4 bis +6 an der Tagesordnung sind, wäre zum Beispiel 
+ein Schwierigkeitsgrad von 10
+*einfach*, einer von 15 *ungewiss* und ein Schwierigkeitsgrad von 20
+*schwer* usw. 
+
+In vielen Spielen werden die Zielwerte auch als *Schwierigkeitsgrad*,
+kurz *SG* bezeichnet --- in Anlehnung an die Abkürzung *RK* für die 
+den Begriff *Rüstungsklasse*. Legt man fest, dass der Rüstungswert
+nicht den Schaden reduziert, sondern die Wahrscheinlichkeit bestimmt,
+dass überhaupt Schaden angerichtet wird, ist die Rüstungsklasse
+tatsächlich ja auch nichts anderes als der *Schwierigkeitsgrad*, bei
+dem jeweiligen Gegener Schaden anzurichten.
+
+
+### PtbA
+
+Das Spiel *Apocalypse World* von Vincent Baker führte eine besondere
+2W6-Mechanik ein, die sich seit dem großer Beliebtheit erfreut: eine 6
+oder weniger bedeutet: Fehlschlag, die Spielleitung entscheidet was
+passiert. Eine 7-9 bedeutet: Teilerfolg, der Charakter erreicht sein
+Ziel, muss aber einen Preis dafür zahlen, bzw. einen Rückschlag in
+Kauf nehmen. Eine 10 oder mehr bedeutet: voller Erfolg, dem Charakter
+gelingt, was er versucht hat. Diese Mechanik nenne ich der Einfachheit
+halber *PtbA*. Dieses Akronym steht eigentlich für *Powered by the
+Apocalypse*, also für das gesamte Spielsystem, welches *Apocalypse
+World* zu Grunde liegt.
+
+Insbesondere die Teilerfolge sind, was dieses System so populär macht,
+denn sie treiben die Geschichte an. Wie erreicht der Charakter sein
+Ziel *gerade so*? Welchen Preis müssen er oder seine Gefährten dafür
+zahlen?
+
+Seit dem haben viele Spielsysteme die unterschiedlichsten Mechaniken
+entwickelt, die einen Wertebereich für Teilerfolge beinhalten.
+Ein Beispiel ist folgende Kombination aus *Roll high under*
+und *PtbA*:
+
+### *roll high under*
+
+Bei dieser Mechanik muss ebenfalls grundsätzlich ein Wert *kleiner
+oder gleich* dem Zielwert gewürfelt werden, jedoch gilt eine Probe um
+so besser bestanden, je näher die gewürfelte Zahl am Zielwert liegt.
+Wenn als Beispiel eine
+Geschicklichkeitsprobe gefordert ist, und der betreffende Charakter
+eine Geschicklichkeit von 12 hat, dann ist jede gewürfelte Zahl von 1
+bis 12 ein Erfolg, und zwar je höher desto besser: 1 wäre der
+schwächste Erfolg, genau eine 12 (also der Attributswert selbst) wäre
+ein kritischer Erfolg. Jede Zahl über dem Attributswert verfehlt die
+Probe und eine 20 ist immer ein kritischer Misserfolg.
+
+: Kombination aus *Roll high under* und *PtbA*-Mechanik
+
+| 1W20 | Effekt |
+|------|---------|
+| 1-8 | Teilerfolg |
+| 9+ | Normaler Erfolg |
+| Attributswert | Kritischer Erfolg |
+| > Attributswert | Fehlschlag |
+| 20 | Kritischer Fehlschlag |
+
+
+## Rettungswürfe
+
+Während normale Würfelproben typischer Weise ausgeführt werden, wenn
+ein Charakter aktiv versucht, etwas zu erreichen, kommen Rettungswürfe
+eher dann zum tragen, wenn ein Charakter passiv oder zumindestens
+unfreiwillig einer Gefahr ausgesetzt wird. Rettungswürfe sind - wie
+die Bezeichnung schon suggeriert - oft die letzte Chance unbeschadet
+davon zu kommen. Entsprechend sind die Wahrscheinlichkeiten auf einen
+erfolgreichen Rettungswurf meistens schlechter als die einer normalen
+Würfelprobe - zum Beispiel in der Größenordnung von 25%.
+
+In den klassischen Old-School-Regeln werden Rettungswürfe als *roll
+high* Probe mit 1W20 gewürfelt. Als Ausgangswert kann man sich an der
+15 orientieren, was einer 25%igen Erfolgswahrscheinlichkeit
+entspricht.
+
+## Reaktionswürfe
+
+Reaktionswürfe sind ein typisches Spielelement von Old-School
+Regelsystemen. Anhand eines Würfelwurfes wird dabei entschieden, wie
+sich ein Nicht-Spielercharakter (NSC) verhält. Bei diesen NSC kann es
+sich um Gegener handeln, aber auch um Verbündete oder untergeordnete
+Begleiter der Spielercharaktere. Meistens werden Reaktionswürfe mit
+mehreren Würfeln gewürfelt, um eine Wahrscheinlichkeitsverteilung mit
+Glockenkurve zu erhalten. Ungewisse Reaktionen mit mittleren Werten
+sind häufiger als extreme Reaktionen. Der Klassische Wurd erfolgt mit
+2W6 - vielleicht der ältesten Würfelmechanik in diesem Genre.
+
+: Reaktionswürfe
+
+-----------------------------------------------------------
+ 1W%       2W6       3W6    Reaktion
+------- --------- --------- -------------------------------
+ 1-3        2       3-4     katastrophal, 
+                            sofortiger Angriff,
+                            massive Ablehnung
+                            Panikreaktion
+
+ 4-28      3-5      5-8     schlecht, feindseelig, skeptisch,
+                            ängstlich
+            
+ 29-72     6-8      9-12    mittelwertig, unklar, unentschieden
+
+ 73-97     9-11     13-16   gut, freundlich, hilfsbereit, mutig
+
+ 98-100     12      17-18   best möglich, enthusiastisch, 
+                            dienstverpflichtet, 
+                            unerschrocken
+
+-----------------------------------------------------------
+
+
+## Situationswürfe
+
+Mit Situationswürfen ist etwas ähnliches gemeint wie mit
+*Reaktionswürfen*. Man könnte auch sagen, dass Situationswürfe eine
+Verallgemeinerung der Reaktionswürfe sind.
+Der Schwierigkeitsgrad einer Situation wird schlicht ausgewürfelt, an
+statt dass die Spielleitung ihn willkührlich festlegt. Grundsätzlich sind
+für Situationswürfe Würfelkombinationen wie 2W6 oder 3W6, die eine
+Glockenkurve ergeben, besser geeignet, da mittlere Werte dann
+wesentlich häufiger sind als sehr niedrige oder sehr hohe.
+
+> Ein kleiner Roboter versucht sich unbemerkt in das Computernetz
+> einer gewaltigen mörderischen Raumstation einzuhacken.
+>
+> Die Spielleiterin hat keine Ahnung wie schwer dieser Versuch sein
+> könnte. Immerhin handelt es sich um völlig fremdartige
+> Alien-Technologie, und welcher normalsterbliche menschliche
+> Spielleiter weiß schon, was so ein Androide alles kann. Also
+> entscheidet sie sich für einen Situationswurf mit 3W6,
+> der eine 10 ergibt - das Computernetzwerk scheint für unseren kleinen
+> Roboter kein all zu großes Hindernis zu sein.
+>
+> Der Spieler des Robters würfelt 1W20 und darf wegen seiner
+> speziellen Fähigkeiten auch noch einen Bonus
+> von +3 hinzuzählen. Leider würfelt er eine 6. 
+> Er kann sich zwar verbinden, bemerkt aber sofort, wie ein
+> Sicherheitsalgoritmus seine Signatur registriert ... verdammt, er
+> ist erwischt worden.
+
+Benutzt man für den Situationswurf die gleichen Würfel wie für die
+eigentliche Probe ergeben sich ausgewogene opponierende Würfe. Zum
+Beispiel 2W6 versus 2W6, oder 3W6 versus 3W6.
+
+Eine sehr einfache Mechanik für Erzählrollenspiele mit opponierenden
+Würfen geht so: 
+
+: Opponierte 2W6 Proben
+
+------------------- --- ---------------------------
+ Du würfelst hoch    =   Du erzählst was passiert
+ ich würfel hoch     =   ich erzähle was passiert
+ fast Gleichstand    =    wir verhandeln
+------------------- --- ---------------------------
+
+Besondere Fähigkeiten, Vorteile oder Nachteile können als 
+Bonus von +1 bis +2, oder als entsprechende Abzüge 
+berücksichtigt werden.
+
+## Modifikatorwürfe
+
+Eine weitere Würfelmechanik kommt in einigen Spielen vor, die ich hier
+"Modifikatorwurf" nenne, da sie einen Wertebereich abdeckt, der
+typischerweise symmetrisch und glockenkurvenartig um Null variiert,
+und dessen Wertebereich große Ähnlichkeit zu den typischen
+Modifikatoren hat.
+
+: Modifikatorwürfe
+
+ Würfel     Wertebereich
+--------- ----------------
+ W6-W6      -5 bis +5 
+ 4WF        -4 bis +4
+ W4-W4      -3 bis +3
+ 2WF        -2 bis +2
+
+In der Regel werden zwei verschiedenfarbige Würfel der gleichen
+Größe geworfen. Einer der Würfel wird dabei positiv gewertet und der
+andere negativ. Anders gesagt wird der Wert des *negativen Würfels*
+von dem des *positiven* Würfels abgezogen. Eine besondere Mechanik,
+die zu ähnlichen Werten führt ist das werfen von 4 *Fudge*-Würfeln,
+auch bekannt als *Fate*-Würfel (in der oben stehenden Tabelle als WF
+angegeben). Dabei handelt es sich um sechsseitige
+Würfel, bei denen jeweils zwei Seiten leer sind, zwei Seiten mit einem
+"+" markiert sind, und zwei Seiten mit einem "-". 
+
+Modifikatorwürfe können als Situationswürfe eingesetzt werden um eine
+Erleichterung oder Erschwernis in einer bestimmten Situation zufällig
+zu bestimmen. Eine andere Einsatzmöglichkeit wäre das direkte
+Auswürfeln von Modifikatorwerten, die als Attributswerte eingesetzt
+werden sollen (siehe dazu auch [Modifikatoren als Attribute]). 
+
+## Schicksalswürfe
+
+Schicksalswürfe sind vielleicht die simpelste Mechanik die man sich
+vorstellen kann. Eine einfache Variante wäre "gerade ist gut". Dazu
+kann ein beliebieger Würfel geworden werden und jedes gerade Ergebnis
+ist "gut" für die Spielercharaktere --- zeigt also eine günstige
+Wendung im Handlungsverlauf an --- und jedes ungerade Ergebnis zeigt
+ein ungünstiges Ergebnis für die Spielercharaktere an. 
+
+Schicksalswürfe können aber auch noch weiter ausgestaltet werden. Zum
+Beispiel könnte eine Situation um so günstiger sein, je höher der
+gewürfelte Wert auf einem W6.
+
+Tatsächlich sind Würfe um die Initiative im Kampf, oder Würfe um zu
+klären ob eine Gruppe von Charakteren von einer Situation überrascht
+wird Schicksalswürfe. 
+
+Schließlich werden Schicksalswürfe auch in einigen Spielregeln
+eingesetzt, um im Falle einer kritischen Verletzung das Schicksal des
+verletzten Charakters zu bestimmen:
+
+: Tod und Verstümmelung
+
+--------------------------------------------------------------------
+ 2W6   Resultat
+------ -------------------------------------------------------------
+ 2     **Sofortiger Tod**: Kopf abgeschlagen oder ähnliches; das
+       Opfer kann auch durch Magie nicht wieder zum Leben 
+       erweckt werden.
+
+ 3     **Fatale Wunde und Tod**: in 1d6 Runden: Lungendurchstich,
+       Wirbelsäulenbruch oder ähnliches; das Opfer kann durch 
+       Magie wiederbelebt werden .
+
+ 4     **Verlust eines Gliedes und Tod**: in 3W6 Runden; W4:
+       1 -- Schwertarm, 2 -- Schildarm, 3, 4 -- Bein; 
+       der Tod kann mit Kauterisierung durch Feuer oder einem 
+       Tourniquet verhindert werden; bei der Verwendung von 
+       Magie bleibt das Glied verloren.
+
+ 5     **Schmerzlicher Verlust**: 1 -- Nase, 2 -- Auge, 3 -- Ohr, 
+       4 -- Finger, 5 -- 1W6 Zähne, 6 -- nur eine Fleischwunde, 
+       aber es bleibt eine fette Narbe; bei der Verwendung von 
+       Magie bleibt der Verlust bestehen.
+
+ 6     **Knochenbruch**: 1 -- Schwertarm, 2 -- Schildarm, 3 -- Bein, 
+       4 -- Rippe; Heilung dauert 2W4+9 Wochen; bei der Verwendung von
+       Magie bleibt das Glied gebrochen.
+
+7, 8   **Ohnmächtig**: wehrlos für 2W6 Runden; mit Helm nur eine
+       Runde lang betäubt.
+
+9      **Betäubt**: wehrlos für eine Runde; mit Helm wird man einfach
+       nur niedergeschlagen (weitere Feinde erhalten +4).
+
+10     **Niedergeschlagen**: kann sich in der nächsten Runde entweder 
+       bewegen oder angreifen aber nicht beides.
+
+11     **Knapp dem Tod entkommen!**
+
+12     **Adrenalinschub!** Für jede zwei Stufen (aufgerundet) erhält
+       man 1W4 Punkte Lebensenergie; nach dem Kampf verliert man 
+       allerdings alle Lebensenergie und fällt für 2W6 Runden in 
+       Ohnmacht.
+--------------------------------------------------------------------
+
+## Zahlenbereiche
+
+: Dice to Roll for Number Ranges
+
+------------------------------------------------------------
+Number    Four    Six     Eight    Ten      Twelve    Twenty 
+of Dice   Sided   Sided   Sided    Sided    Sided     Sided 
+-------- ------- ------ -------- -------- ---------  ------- 
+1          1-4     1-6     1-8     1-10      1-12     1-20 
+
+1+1        2-5     2-7     2-9     2-11      2-13     2-21 
+
+1+2        3-6     3-8     3-10    3-12      3-14     3-22 
+
+2          2-8    2-12     2-16    2-20      2-24     2-40 
+
+2+1        3-9    3-13     3-17    3-21      3-25     3-41 
+
+3         3-12    3-18     3-24    3-30      3-36     3-60
+
+------------------------------------------------------------
+
+
+
+
+
+
+### Angriffsbonus und ThacO
+
+ThacO \index{ThacO} ist ein Akronym für ``to hit armor class zero''. 
+ThacO bezieht sich
+auf die absteigende Rüstungsklasse und kann benutzt werden, um den
+erforderlichen Wurf für einen Treffer zu berechnen:
+
+Trefferwurf = ThacO - RK
+
+Entsprechend trifft ein Kämpfer mit ThacO 19 einen Kontrahenten in
+Kettenhemd, also mit Rüstungsklasse 5 auf einen Wurf von 14.
+
+Der Angriffsbonus (AB) oder Grundangriffsbonus (GAB) ist das
+Gegenstück der ThacO für aufsteigende Rüstungsklassen.
+
+Trefferwurf = RK - AB
+
+Um mit den klassischen TSR Editionen, aber auch Swords &
+Wizardry, der 5. Edition, so weit wie möglich kompatibel zu sein,
+entspricht ein AB von 0 einer Thac0 von 19, und wie o.g.
+entspricht die absteigende Rüstungsklasse 9 der aufsteigenden
+Rüstungsklasse 10.
+
+# Story-Telling
+
+## Schicksalspunkte
+
+Charaktere können zum Beispiel mit 3 Schicksalspunkten pro Runde
+starten.
+
+: Mögliche Einsätze für Schicksalspunkte
+
+-----------------------------------------------------------------
+Einsatz             Effekt
+------------------- ---------------------------------------------
+ Dem Tod entgehen   Anstatt  zu Sterben stabilisiert sich der 
+                    Charakter bei 1 Lebenspunkt
+
+ Probe wiederholen  Der Spieler darf einfach nochmal würfeln.
+
+ Bonus bekommen     Je nach System ist der Punkt einen Bonus von 
+                    z.B. +2 oder 10% wert.
+
+ Detail hinzufügen  Der Spieler darf den Schicksalspunkt ausgeben
+                    um zu einer Szene ein Detail hinzu zu fügen.
+
+ Gegnerische        Die Probe eines Gegnerst um -2 oder -10% 
+ Probe erschweren   oder entsprechend erschweren.
+-----------------------------------------------------------------
+
+Schicksalspunkte können gewonnen werden, in dem zum Beispiel eine
+Komplikation zu lasten eines Charakters in Kauf genommen wird, als
+besondere Belohnung für gutes Rollenspiel, oder im Tausch gegen
+Erfahrungspunkte.
+
+## Verbindungen und Überzeugungen
+
+: Beispiele für Verbindungen
+
+--------------------------------------------------------------
+Beowulf war immer mein Vorbild, ich verdanke ihm viel!
+Eines Tages werde ich es Kassandra heimzahlen!
+Ludwig kann viel von mir lernen!
+Solveig hat nicht nur mein Herz gestohlen!
+--------------------------------------------------------------
+
+Wann immer eine Verbindung rollenspielerisch eingesetzt wird, kann
+dies mit besonderen Erfahrungspunkten, oder auch Schicksalspunkten
+belohnt werden. Wenn eine Verbindung aufgelöst oder geklärt wird,
+könnte dies einen Meilenstein in der Charakterentwicklung markieren.
+
+## Aspekte
+
+Aspekte spielen im *Fate System* eine zentrale Rolle. Bei Aspekten
+kann es sich um Vor- oder Nachteile, Verbindungen oder Überzeugungen
+handeln. Aspekte können Erzählrecht begründen, wenn es zum Beispiel
+darum geht ob ein Charakter eine bestimmte Begabung hat, oder nicht.
+
+Aspekte können auch einfach begründen, dass bestimmte Würfelproben mit
+einem Bonus oder mit *Vorteil* gewürfelt werden dürfen. Ein Beruf oder
+eine kulturelle Zugehörigkeit könnte zum Beispiel solch ein Aspekt
+sein.
 
 # Antagonisten
 
@@ -866,7 +1677,19 @@ Ein Setting generieren
 6. am Rand der Wüste
 7. in einer Oase
 
-### 
+\cleartoverso
+
+## Eine Hexkarte
+
+![](gridmaps/hexgrid1.png)
+
+**Legende**
+
+\cleartorecto
+
+**Kartenschlüssel**
+
+\cleartoverso
 
 
 
@@ -1075,139 +1898,6 @@ Einzelzimmer.
 
 ### One-Page Wildnis-Karte
 
-
-# Würfelproben
-
-Die Würfel werden in Old School Rollenspielen etwas anderes genutzt
-als in modernen Rollenspielen. Während es in letzteren typischerweise
-Fertigkeiten gibt in denen ein Charakter besonders gut ist - das wird
-durch eine hohe Wahrscheinlichkeit abgebildet, dass der
-Fertigkeitswurf auch gelingt - ist die übliche Mechanik in Old School
-Rollenspielen der Rettungswurf. Ein Rettungswurf hat typischerweise
-eine geringe Erfolgswahrscheinlichkeit, denn er dient wirklich nur der
-letzten Rettung, wenn alles andere schon schief gegangen ist. 
-
-Es ist sehr wichtig, sich diesen Unterschied klar zu machen, denn wenn man
-die Rettungswürfe als Fertigkeitswürfe missbraucht, werden die Spieler
-nicht glücklich und beschweren sich zurecht, wie es sein kann, dass
-ein ein "Dieb" nur eine Wahrscheinlichkeit von 15% haben soll, 
-erfolgreich ein Schloss zu knacken. 
-
-In Old School Rollenspielen zählt an erster Stelle die erzählerische
-Darstellung, und wenn ein Spieler beschreibt, wie er sich nach
-gründlicher Vorbereitung an ein kompliziertes Schloss macht, dann
-sollte er - wenn nicht deutlich etwas dagegen spricht - ohne einen
-Würfelwurf erfolgreich sein.
-
-Als Fausregel sollten fragliche Aktionen wie folgt abgehandelt werden:
-
-------------------------------------------------------------------------------
-Erfolgswahrscheinlichkeit       Reaktion des Spielleiters
------------------------------   ----------------------------------------------
-hoch, eine Routineaufgabe       sagt "ja", kein würfeln nötig
-
-grenzwertig, mäßiges Risiko     sagt "ja, aber" und führt ohne 
-                                Würfeln eine Komplikation ein
-
-hohes Risiko                    fordert einen Rettungswurf
-------------------------------------------------------------------------------
-
-
-: Dice to Roll for Number Ranges
-
-------------------------------------------------------------
-Number    Four    Six     Eight    Ten      Twelve    Twenty 
-of Dice   Sided   Sided   Sided    Sided    Sided     Sided 
--------- ------- ------ -------- -------- ---------  ------- 
-1          1-4     1-6     1-8     1-10      1-12     1-20 
-
-1+1        2-5     2-7     2-9     2-11      2-13     2-21 
-
-1+2        3-6     3-8     3-10    3-12      3-14     3-22 
-
-2          2-8    2-12     2-16    2-20      2-24     2-40 
-
-2+1        3-9    3-13     3-17    3-21      3-25     3-41 
-
-3         3-12    3-18     3-24    3-30      3-36     3-60
-
-------------------------------------------------------------
-
-
-
-Fertigkeiten
-------------
-
-### d6 Proben
-
-### d% Proben
-
-### d20 Attributsproben
-
-### xd6 Attributsproben
-
-### d20 Fertigkeitsproben
-
-### d20 System
-
-#### SRD 3.5
-
-: Difficulty Classes (DC), Edition 3.5 / Pathfinder
-
-Very easy (0) 	Notice something large in plain sight (Spot)
-Easy (5) 	Climb a knotted rope (Climb)
-Average (10) 	Hear an approaching guard (Listen)
-Tough (15) 	Rig a wagon wheel to fall off (Disable Device)
-Challenging (20) 	Swim in stormy water (Swim)
-Formidable (25) 	Open an average lock (Open Lock)
-Heroic (30) 	Leap across a 30-foot chasm (Jump)
-Nearly impossible (40) 	Track a squad of orcs across hard ground after 24 hours of rainfall (Survival)
-
-#### SRD 5 - bounded accuracy
-
-: Difficulty Classes (DC), Edition 5
-
-Very easy 	5
-Easy 	10
-Medium 	15
-Hard 	20
-Very hard 	25
-a
-Nearly impossible 	30
-
-
-
-
-### Angriffsbonus und ThacO
-
-ThacO \index{ThacO} ist ein Akronym für ``to hit armor class zero''. 
-ThacO bezieht sich
-auf die absteigende Rüstungsklasse und kann benutzt werden, um den
-erforderlichen Wurf für einen Treffer zu berechnen:
-
-Trefferwurf = ThacO - RK
-
-Entsprechend trifft ein Kämpfer mit ThacO 19 einen Kontrahenten in
-Kettenhemd, also mit Rüstungsklasse 5 auf einen Wurf von 14.
-
-Der Angriffsbonus (AB) oder Grundangriffsbonus (GAB) ist das
-Gegenstück der ThacO für aufsteigende Rüstungsklassen.
-
-Trefferwurf = RK - AB
-
-Um mit den klassischen TSR Editionen, aber auch Swords &
-Wizardry, der 5. Edition, so weit wie möglich kompatibel zu sein,
-entspricht ein AB von 0 einer Thac0 von 19, und wie o.g.
-entspricht die absteigende Rüstungsklasse 9 der aufsteigenden
-Rüstungsklasse 10.
-
-# Story-Telling
-
-## Schicksalspunkte
-
-## Verbindungen
-
-## Aspekte
 
 
 # Spielroutinen
@@ -1467,88 +2157,35 @@ Flucht           Flucht mit Laufgeschwindigkeit, die flüchtende Partei erhält
 
 Die flüchtende Partei bekommt eine Runde Vorsprung.
 
-Verirren in der Wildnis
----------------------------------------
+## Verirren in der Wildnis
 
-]{#t.3fb5361ef5199340d1f28e0ae4a86376a0564377}[
+Landschaft                Verirrt bei ... auf 1W6
+------------------------ -------------------------
+Offen / Steppe             1
+Sumpf, Dschungel, Wüste    1-3
+alle anderen               1-2
 
-+-----------------------------------+-----------------------------------+
-| 1W6
-+-----------------------------------+-----------------------------------+
-| 1
-+-----------------------------------+-----------------------------------+
-| 1-3
-+-----------------------------------+-----------------------------------+
-| 1-2
-+-----------------------------------+-----------------------------------+
+## Ausweichen in der Wildnis
 
-Ausweichen in der Wildnis
--------------------------------------------
+Falls die Gruppe *nicht* überrascht ist, wird mit 1W% gewürfelt, ob
+ein Ausweichen gelingt.
 
-Nur wenn Gruppe nicht überrascht:
-
-]{#t.e390197ef92e5eae92eac7e1d3249755a2705030}[
-
-]{.c0}
-
-Gruppenstärke
-
-Chance
-
-]{.c0}
-
-1-4
-
-5-12
-
-13-24
-
-%
-
-Anzahl Monster
-
-]{.c0}
-
-]{.c0}
-
-1-6
-
-25
-
-]{.c0}
-
-[1-3]{.c0}
-
-[7-16]{.c0}
-
-[35]{.c0}
-
-[1]{.c0}
-
-[4-8]{.c0}
-
-[17+]{.c0}
-
-[50]{.c0}
-
-[2-3]{.c0}
-
-[9+]{.c0}
-
-[]{.c0}
-
-[70]{.c0}
-
-[4+]{.c0}
-
-[]{.c0}
-
-[]{.c0}
-
-[90]{.c0}
-
-[]{.c0}
-
+```{=latex}
+\begin{center}
+\begin{tabular}{lcccc}
+\toprule
+ & \multicolumn{3}{c}{Gruppenstärke} & Chance \\
+ &                 1-4 & 5-12 & 13-24 &  \\
+\midrule
+       Anzahl &     &       &  1-6  &  25\% \\
+     Monster  &  &   1-3 &  7-16 &  35\% \\
+               &   1 &  4-8 &  17+ &   50\% \\
+               &  2-3 & 9+ &      &    70\% \\
+               &  4+ &    &     &      90\% \\
+\bottomrule
+\end{tabular}
+\end{center}
+```
 
 [Rettungswürfe]{.c18} {#h.20sd6nl0kmig .c7}
 ---------------------------------
@@ -1556,43 +2193,41 @@ Anzahl Monster
 []{#t.cdbf3b0cfb15801ea21b792ce3e3de0f94ebf644}[]{#t.0}
 
 +-----------+-----------+-----------+-----------+-----------+-----------+
-| [Klasse,  | [Gift]{.c | [Stäbe]{. | [Lähmung] | [Odem]{.c | [Sprüche] |
-| Level]{.c | 0}        | c0}       | {.c0}     | 0}        | {.c0}     |
-| 0}        |           |           |           |           |           |
+| Klasse,  | Gift    | Stäbe    | Lähmung  | Odem     | Sprüche  |
+| Level    |           |           |           |           |           |
+|           |           |           |           |           |           |
 +-----------+-----------+-----------+-----------+-----------+-----------+
-| [Kämpfer, | [12]{.c0} | [13]{.c0} | [14]{.c0} | [15]{.c0} | [16]{.c0} |
-| 1-3]{.c0} |           |           |           |           |           |
+| Kämpfer, | 12      | 13       | 14       | 15       | 16       |
+| 1-3      |           |           |           |           |           |
 +-----------+-----------+-----------+-----------+-----------+-----------+
-| [Kleriker | [11]{.c0} | [12]{.c0} | [14]{.c0} | [16]{.c0} | [15]{.c0} |
+| Kleriker | 11      | 12       | 14       | 16       | 15       |
 | ,         |           |           |           |           |           |
-| 1-4]{.c0} |           |           |           |           |           |
+| 1-4{.c0} |           |           |           |           |           |
 +-----------+-----------+-----------+-----------+-----------+-----------+
-| [Dieb,    | [13]{.c0} | [14]{.c0} | [13]{.c0} | [16]{.c0} | [15]{.c0} |
+| Dieb,    | 13      | 14       | 13       | 16       | 15       |
 | 1-4 /     |           |           |           |           |           |
-| ]{.c0}    |           |           |           |           |           |
+|          |           |           |           |           |           |
 |           |           |           |           |           |           |
-| [Zauberku |           |           |           |           |           |
+| Zauberku |           |           |           |           |           |
 | ndiger,   |           |           |           |           |           |
-| 1-5]{.c0} |           |           |           |           |           |
+| 1-5      |           |           |           |           |           |
 +-----------+-----------+-----------+-----------+-----------+-----------+
-| [Elf,     | [12]{.c0} | [13]{.c0} | [13]{.c0} | [15]{.c0} | [15]{.c0} |
-| 1-3]{.c0} |           |           |           |           |           |
+| Elf,     | 12      | 13       | 13       | 15       | 15       |
+| 1-3      |           |           |           |           |           |
 +-----------+-----------+-----------+-----------+-----------+-----------+
-| [Zwerg,   | [8]{.c0}  | [9]{.c0}  | [10]{.c0} | [13]{.c0} | [12]{.c0} |
+| Zwerg,   | 8       | 9        | 10       | 13       | 12       |
 | 1-3 /     |           |           |           |           |           |
-| ]{.c0}    |           |           |           |           |           |
+|          |           |           |           |           |           |
 |           |           |           |           |           |           |
-| [Halbling |           |           |           |           |           |
+| Halbling |           |           |           |           |           |
 | ,         |           |           |           |           |           |
-| 1-3]{.c0} |           |           |           |           |           |
+| 1-3      |           |           |           |           |           |
 +-----------+-----------+-----------+-----------+-----------+-----------+
 
-[]{.c3}
 
 [Angriffsbonus]{.c29} {#h.jcbn44d5k0qh .c7}
 -----------------------------------
 
-[]{#t.26f6584dbe172f3f707f45091915b917208fc9f0}[]{#t.1}
 
 +-------------+-------------+-------------+-------------+-------------+
 | [AB]{.c0}   | [Monster    | [Kämpfer/]{ | [Kleriker/] | [Zauber-]{. |
@@ -1649,7 +2284,6 @@ Anzahl Monster
 |                                   | einer Hydra]{.c0}                 |
 +-----------------------------------+-----------------------------------+
 
-[]{.c0}
 
 [Rüstungsklasse]{.c18} {#h.raaqmkwanymk .c7}
 ------------------------------------

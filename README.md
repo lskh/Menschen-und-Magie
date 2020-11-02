@@ -18,6 +18,11 @@ You can have a look at the current versions of the formatted books here:
 - [Arkanes Wissen & Zaubersprüche (the spell
   book)](https://betola.de/uploads/Spells.pdf)
 
+If you'd like to have a hardcopy, or just feel like throwing some
+money in my direction, Wanderer Bills stuff is available
+digitally and for print on demand on
+[DrivethroughRPG](https://www.drivethrurpg.com/browse/pub/17898/Wanderer-Bill).
+
 # License
 
 Most parts of *Menschen & Magie* are released under the [Open Gaming

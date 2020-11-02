@@ -53,4 +53,4 @@ realclean: clean
 	rm -f *.xmpi
 
 archive: realclean
-	zip -rv  ../MnM.zip . -x \.git/
+	zip -rv  ../Hausregeln.zip . -x ".git/*" -x ".gitignore"

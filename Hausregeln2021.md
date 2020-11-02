@@ -36,7 +36,7 @@ dabei an die Regeln der Open Game License.
 
 Schließlich ist *Menschen & Magie* auch Open Source. Du findest die
 Quelldateien für dieses Dokument unter
-<https://github.com/lskh/Hausregeln>
+<https://github.com/lskh/Menschen-und-Magie>
 
 \normalsize 
 
@@ -456,9 +456,11 @@ Ein Buch über Dämonen, ein Kampfstab, 10-60 GM
 13 &
 Ein Glas mit einer konservierten Schlange, eine Schutzrolle, 20-120 GM
 &
-
+Du hast ein Gespür für Tiere, eine Glaskugel die seltsame 
+Kaulquappen enthält, 10-16 GM
 &
-
+Immer wieder fallen dir besondere Zahlen auf, ein Astrolabium, 
+2 Edelsteine (jeweils 2W10 GM).
 \\
 14 &
 
