@@ -277,6 +277,8 @@ werden.
 > (BW 12"/18"), an das Feenreich gebunden, kann einen 
 > *begrenzten Wunsch* wirken.
 
+![](img/pixie.png){center}
+
 > **Pukka:** RK 6 [13], TW 1, Unverträglichkeit von Eisen,
 > Magiebegabt, Menschenfresser
 
@@ -547,6 +549,8 @@ Rehe, Hirsche, Elche, Pferde, Kamele, Llamas, Elefanten, Wale
 
 Riesenformen der Raub- und Herdentiere
 
+![](img/direbat.png)
+
 ## Chimären und mythische Kreaturen
 
 Chimeras, Manticore, Pegasi, Hippogreifen, Greifen, Sphinxen, Trolle
@@ -629,6 +633,8 @@ Schleime, gelatinöse Kreaturen, Pilze, monströse Pflanzen,
 Würmer, Insekten, Schlangen, Echsen,
 Lurche, Klesche
 
+![](img/tarantula.png)
+
 ## Urtiere
 
 Dinosaurier, prähistorische Säugetiere, Dodos
@@ -662,6 +668,8 @@ Teufel, Engel, Halbgötter, Diener
 Dämonische Eigenschaften
 
 Dämonische Namen
+
+![](img/demondog.png)
 
 ### Engel
 

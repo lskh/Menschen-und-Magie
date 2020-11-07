@@ -48,14 +48,14 @@ Hausregeln2021-fullcover.png: Hausregeln2021-fullcover.pdf Makefile
 
 Spielerhandbuch-cover.png: Makefile ../Spielerhandbuch.pdf
 	pdftoppm -f 1 -l 1 ../Spielerhandbuch.pdf > tmp.png
-	convert +level-colors "#000000","#cca666" \
+	convert +level-colors "#000000","#aa8444" \
 	tmp.png Spielerhandbuch-cover.png
-	convert +level-colors "#cca666","#cca666" \
+	convert +level-colors "#aa8444","#aa8444" \
 	-fuzz 100% tmp.png Spielerhandbuch-back.png
 
 Spielerhandbuch-fullcover.png: Spielerhandbuch-fullcover.pdf Makefile 
 	pdftoppm -f 1 -l 1 -r 300 $< > tmp.png
-	convert +level-colors "#000000","#bb9555" \
+	convert +level-colors "#000000","#aa8444" \
 	tmp.png $@
 	rm -f tmp.png
 
@@ -80,7 +80,7 @@ Monster-fullcover.png: Monster-fullcover.pdf Makefile
 	rm -f tmp.png
 
 clean: 
-	rm -f *~ *-fullcover.pdf
+	rm -f *~ 
 
 realclean: clean
-	rm -f *.png
+	rm -f *.png *.pdf
