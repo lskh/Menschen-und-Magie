@@ -5,15 +5,31 @@
                marklength=1mm,
                12pt]{bookcover}
 \usepackage[osf]{coelacanth}
-\definecolor{background}{HTML}{449966}
+\definecolor{background}{HTML}{FF8844}
 
 \begin{document}
 \begin{bookcover}
 \bookcovercomponent{color}{bg whole}{color=background}
 \bookcovercomponent{normal}{front}{
-\input{Monster-core.tex}
+
+\vspace{10mm}
+
+\begin{center}
+\fontsize{40}{48}\selectfont Menschen \& Magie
+
+\large{Basic Rules!}
+
+\vspace{20mm}
+
+\includegraphics[height=90mm]{Basic.coverart.png}
+
+\vspace{25mm}
+
+\includegraphics[height=1.9cm]{../img/logo.png}
+\end{center}
+}
 \bookcovercomponent{center}{spine}{
-\rotatebox[origin=c]{270}{Menschen \& Magie - Monster und Schätze}
+\rotatebox[origin=c]{270}{Menschen \& Magie - Basic Rules!} 
 \vfill
 \includegraphics[width=5mm]{../img/wb.png}
 }

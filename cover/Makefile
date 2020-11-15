@@ -73,11 +73,19 @@ Spielleiterbuch-fullcover.png: Spielleiterbuch-fullcover.pdf Makefile
 	tmp.png $@
 	rm -f tmp.png
 
-Monster-fullcover.png: Monster-fullcover.pdf Makefile
-	pdftoppm -f 1 -l 1 -r 300 $< > tmp.png
+Monster-fullcover.png: Monster.coverart.png Monster-fullcover.pdf Makefile
+	pdftoppm -f 1 -l 1 -r 300 Monster-fullcover.pdf > $@
+
+Monster.coverart.png:
 	convert +level-colors "#000000","#449966" \
-	tmp.png $@
-	rm -f tmp.png
+	../img/DnD-kobold.png $@
+
+Basic-fullcover.png: Basic.coverart.png Basic-fullcover.pdf Makefile
+	pdftoppm -f 1 -l 1 -r 300 Basic-fullcover.pdf > $@
+
+Basic.coverart.png:
+	convert +level-colors "#000000","#FF8844" \
+	../img/dragonfight.png $@
 
 clean: 
 	rm -f *~ 

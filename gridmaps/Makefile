@@ -1,2 +1,5 @@
 %.png: %.svg Makefile
-	inkscape -e $@ $<
+	inkscape -o $@ $<
+
+realclean:
+	rm -f *~ *.png

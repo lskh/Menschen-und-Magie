@@ -121,6 +121,8 @@ alle Soldaten mit Fernkampfwaffen (Bögen, Armbrust, Wurfspeeren)
 ausgerüstet, und zu 10% mit größeren Belagerungsmaschinen wie z.B.
 Katapulten oder Rammböcken.
 
+![Ein Söldner](img/pd/mercenary.png)
+
 Die kulturellen Eingenheiten der angetroffenen Menschen hängen, von
 der Umgebung, und Geografie ab. 
 Traditionell werden in der Fantasy-Welt folgende archetypische Gruppen
@@ -277,10 +279,12 @@ werden.
 > (BW 12"/18"), an das Feenreich gebunden, kann einen 
 > *begrenzten Wunsch* wirken.
 
-![](img/pixie.png){center}
+![Eine Fee mit Libelle als Reittier](img/pixie.png)
 
 > **Pukka:** RK 6 [13], TW 1, Unverträglichkeit von Eisen,
 > Magiebegabt, Menschenfresser
+
+![Pukkas und eine Hexe](img/pd/witchandpukkas.png)
 
 Feenwesen treten einzeln, in Kleingruppen von
 1-6, oder in Gruppen von 10-100 auf, befinden sich zu 50% in ihrem
@@ -324,12 +328,11 @@ Lager und haben dort die Schatztypen B, C oder D.
 
 ## Goblinoide
 
-Goblinoide sind in Fantasy-Rollenspielen traditionell die "bösen" menschenartigen Kreaturen. In
-der Geschichte der Mythologien und Märchen gibt es zahlreiche
-Überschneidungen mit den Feenwesen, so dass zur Ausgestaltung
-ausgefallener
-Goblinoide auch die Tabelle *Eigenschaften der Feenwesen* (siehe dort)
-genutzt werden kann. 
+Goblinoide sind in Fantasy-Rollenspielen traditionell die "bösen"
+menschenartigen Kreaturen. In der Geschichte der Mythologien und
+Märchen gibt es zahlreiche Überschneidungen mit den Feenwesen, so dass
+zur Ausgestaltung ausgefallener Goblinoide auch die Tabelle
+*Eigenschaften der Feenwesen* (siehe dort) genutzt werden kann. 
 
 Goblinoide so wie Fantasyvölker in großen Gruppen von 40-400
 Individuen auf, und sie haben in der Regel ebenfalls *einen*
@@ -338,6 +341,8 @@ Gruppen, werden jeweils bis zu 30 Individuen von einem Individuum der
 jeweils nächsten Größenstufe angeführt, und falls sich mehr als 60
 Individuen in einer Gruppe finden, wird der Stamm von einem Anführer
 jeweils 2 Größenstufen höher angeführt. 
+
+![Ein tanzender Goblin](img/pd/dancinggoblin.png)
 
 Goblinoide befinden sich zu 50% in ihrem Lager und haben dann dort
 einen Schatz der Klasse D. Außerdem tragen einzelne Individuen 3-18
@@ -358,6 +363,8 @@ Gegenstände haben.
 | 4 | Hobgoblins | 5 [14] | 2 |
 | 5 | Grottenschrate | 5 [14] | 3+1 |
 | 6 | Oger | 5 [14] | 4+1 |
+
+![Ein grübelnder Oger](img/pd/sittingogre.png){width=.5\pagewidth}
 
 : 1W6 Goblinoide Eigenschaften
 
@@ -482,20 +489,46 @@ Schaden anrichten.
 | 5 | feiner Geruchssinn (Wahrnehmung 4/6) |
 | 6 | Wahrer Name |
 
+![Dieser Riese schläft zum Glück](img/pd/sleepinggiant.png)
+
 Riesen sind an den erstaunlichsten Orten anzutreffen und nennen
 Behausungen von unterirdischen Höhlen, über Tierställe und gewaltige
 Burgen bis hin zu Wolkenpalästen ihr Heim. Als Haus-, Wach- und
 Hütetiere halten sie oft sehr große normale Tiere oder Riesentiere.
 Aber auch jede Art von tierartigem phantastischem Wesen ist denkbar.
 
+#### Elementardruiden
+
+Manche Riesen hängen einem besonderen druidischen Glauben an. In
+diesem Glaubenssystem werden die Elemente verehrt, es gibt zum
+Beispiel Eis-, Wasser-, Feuer- und Erddruiden unter den Riesenvölkern.
+Diese Elementardruiden beherrschen neben den üblichen druidischen
+Sprüchen auch die Zauberkundingensprüche, die sich auf ihr jeweiliges
+Element beziehen.
+
+#### Geschichten mit Riesen
+
+: 1W6 Abenteuer-Aufhänger mit Riesen
+
+| 1W6 | Aufhänger |
+|:---:|:----------------------------------------------------------|
+| 1 | |
+| 2 | |
+| 3 | |
+| 4 | |
+| 5 | |
+| 6 | |
+
 ## Untote
 
 Untote haben einige gemeinsame Eigenschaften: sie sind bis auf
 wenige Ausnahmen immun gegen *Schlaf* und *Bezauberungs*-Sprüche.
 
-: 1W8 Machtstufen von Untoten
+![Tanz der Untoten](img/pd/totentanz.png)
 
-| 1W8   | Typisches Beispiel | Anzahl | TW | RK |
+: 1Wx Machtstufen von Untoten
+
+| 1Wx   | Typisches Beispiel | Anzahl | TW | RK |
 |:--:|--------------------|--------|------|----|
 | 1 | Skelett | 3-30 | 1/2-1 | 7 | 
 | 2 | Zombie | 3-30 | 1-2 | 8 |
@@ -536,10 +569,110 @@ wenige Ausnahmen immun gegen *Schlaf* und *Bezauberungs*-Sprüche.
 | 19 | Zauberkruke |
 | 20 | Eisige Berührung 1-10 Punkte Schaden |
 
+#### Geschichten mit Untoten
 
 ## Raubtiere
 
-Raubkatzen, Bären, Wölfe, Haie, Raubvögel
+### Wölfe 
+
+Wölfe und andere hundeartige Raubtiere kommen fast in jedem Ökosystem
+vor. Normale Wölfe sind etwas zähere Kämpfer als Menschen, daher
+bekommen sie zwei Trefferwürfel. Als Rüstungsklasse kann man, wie für
+alle wilden Tiere 6 annehmen, für scheue und eher harmlose Wölfe
+vielleicht eher eine 7, für sehr gefährliche, kampferprobte und
+erfahrene Wölfe eher eine 5.
+
+> **Normale Wölfe** Anzahl 2-20, RK 7[12], TW 2, S:1-6, BW 
+> 16"/54 m
+
+Ein Rudel wolfsartiger Raubtiere besteht in der Regel aus einem
+Alpha-Tier (+1 TW) und einigen Jungtieren (-1 TW), die ungefähr 
+1/4 der Rudelstärke entsprechen. Gefangene Jungtiere können gezähmt
+und Abgerichtet werden.
+
+: 1W20 Eigenschaften wolfsartiger Raubtiere
+
+| 1W20  | Eigenschaft, 1W4 mal würfeln             |
+|:---:|:-----------------------------------------|
+| 1 | 3 TW, S:2-8                               |
+| 2 | 1 TW (es handelt sich um Schakale o.ä.) |
+| 3 | 6 TW, S:2-12 (furchtbare Riesenwölfe) |
+| 4 | ungewöhnlich Intelligent  |
+| 5 | psionisch begabt  |
+|   | Schaden entsprechend der TW. |
+| 6 | Besondere Verteidigung: Flimmern, siehe Text. |
+| 7 | Anzahl 3-12 |
+| 8 | Anzahl 2-8 |
+| 9 | Anzahl 4-40 |
+| 10 | untot, necromantisch animierte Monster |
+| 12 | Aasfresser, wo sie auftauchen geht der Tod um. |
+| 13 | Dämonenhunde, diese Wölfe sind durch ein 
+|    | Ritual beschworden worden, TW+3, Schaden +2 |
+| 14 | Sehr gute Tarnung, Überraschung auf 4 in 6 |
+| 15 | Blutrausch, diese Wölfe greifen sofort an! |
+| 16 | gutes Fell, es bringt TW x 10 GM ein. |
+| 17 | besonders edles Fell, es bringt TW x 100 GM ein. |
+| 18 | Elementarwesen 1-3: Eis, 4-6: Feuer, immun gegen |
+|    | entsprechenden Schaden, Odemwaffe S: TW |
+|    | das Fell bringt TW x 1000 GM ein. |
+| 19 | RK 6 [13] | 
+| 20 | RK 5 [14] |
+
+![Ein dämonischer Hund](img/demondog.png)
+
+#### Flimmern
+
+Beim Flimmern handelt es sich um die besondere Eigenschaft
+der sogenannten *Flimmerhunde*. Bei einem Wurf von 7 oder mehr auf 1W12
+teleportieren sich die Hunde während eines Angriffs spontan, und zwar:
+
+: Flimmern
+
+| 1W12 | Position zu der teleportiert wird |
+|:----:|:---------------------------------:|
+| 1    | unmittelbar vor den Gegner |
+| 2  | links vor den Gegner |
+| 3 | rechts vor den Gegner |
+| 4-12 | hinter den Gegener |
+
+Ist eine Gruppe Flimmerhunde ernsthaft in Gefahr flimmert sie sich
+zu Beginn der nächsten Kampfrunde dauerhaft weg.
+
+#### Wolfsgeschichten
+
+: 1W6 Aufhänger für Wolfsabenteuer
+
+| 1W6  | Aufhänger |
+|:----:|:----------------------------------------|
+| 1 | Es gibt kaum noch Beutetiere, die Wölfe haben Hunger. |
+| 2 | In den letzten Wochen werden immer wieder Weidetiere 
+|   | gerissen. |
+| 3 | Den Abenteurern begegnet ein einsamer Wolf. Irgend etwas |
+|   | veranlasst ihn, den Abenteurern zu folgen. |
+| 4 | Der Baron wünscht ein besonderes Wolfsfell als Trophäe. |
+| 5 | Wolfsfelle sind in letzter Zeit begehrt, auf dem nahe |
+|   | gelegenen Markt bringen sie das doppelte des üblichen |
+|   | Preises ein. |
+| 6 | Der Gemahl einer Adeligen soll in einen Wolf verwandelt |
+|   | worden sein. Sie hat einen hohen Preis darauf ausgesetzt, |
+|   | ihn zu finden, und den Fluch zu brechen. |
+
+
+### Raubkatzen
+
+![Ein Jaguar](img/pd/jaguar.png)
+
+### Bären
+
+![Ein Braunbär](img/pd/grizzlybear.png)
+
+![Ein Schwarzbär](img/pd/blackbear.png)
+
+### Raubvögel
+
+![Geier](img/pd/vultures.png)
+
+### Haie 
 
 ## Herdentiere
 
@@ -549,12 +682,18 @@ Rehe, Hirsche, Elche, Pferde, Kamele, Llamas, Elefanten, Wale
 
 Riesenformen der Raub- und Herdentiere
 
-![](img/direbat.png)
+![Eine Riesenfledermaus](img/direbat.png)
 
 ## Chimären und mythische Kreaturen
 
 Chimeras, Manticore, Pegasi, Hippogreifen, Greifen, Sphinxen, Trolle
 Medusen, Basilisken, Hydras
+
+![Ein Greif](img/pd/griffon.png)
+
+![Ein Schreckhahn](img/pd/cockatrice.png)
+
+![Ein Einhorn](img/pd/unicorn.png)
 
 ## Elementare
 
@@ -633,7 +772,7 @@ Schleime, gelatinöse Kreaturen, Pilze, monströse Pflanzen,
 Würmer, Insekten, Schlangen, Echsen,
 Lurche, Klesche
 
-![](img/tarantula.png)
+![Eine Riesentarantel](img/tarantula.png)
 
 ## Urtiere
 
@@ -643,9 +782,32 @@ Dinosaurier, prähistorische Säugetiere, Dodos
 
 Golems, Roboter, Automata
 
-## Dämonen, Engel und Teufel
+: 1W20 Eigenschaften magischer Konstrukte
 
-Teufel, Engel, Halbgötter, Diener
+| 1W20 | Eigenschaften (1W4+2) |
+|:----:|:--------------------------------------------------|
+| 1 | kugelförmig |
+| 2 | polyhedrisch |
+| 3 | in der Luft schwebend |
+| 4 | unter wasser schwebend |
+| 5 | tierförmig |
+| 6 | humanoid |
+| 7 | Tentakel |
+| 8 | 1W20 gestielte Augen, die je einen Zauberspruch wirken können. |
+| 9 | ein großes Antimagie-Strahl-Auge |
+| 10 | wahlweise Unsichtbar |
+| 11 | an Erzeuger gebunden |
+| 12 | unabhängig von seinem Erzeuger |
+| 13 | psionisch begabt |
+| 14 | kann sich willentlich teleportieren |
+| 15 | zu Ebenenreisen in der Lage |
+| 16 | chaotisch und habgierig |
+| 17 | altruistisch |
+| 18 | willentlich gasförmig |
+| 19 | kann sich selbst klonen |
+| 20 | |
+
+## Dämonen, Engel und Teufel
 
 ### Dämonen
 
@@ -665,11 +827,19 @@ Teufel, Engel, Halbgötter, Diener
 | 0 | Prinz |  |  |  |
 
 
-Dämonische Eigenschaften
+: 1Wx Dämonische Eigenschaften
 
-Dämonische Namen
+| 1Wx |                                           |
+|:---:|:------------------------------------------|
+|  1 | | 
+| 2 | |
+| 3 | |
+| 4 | |
+| 5 | |
+| 6 | |
 
-![](img/demondog.png)
+: 1Wx Dämonische Namen
+
 
 ### Engel
 
@@ -688,8 +858,96 @@ Teuflische Eigenschaften
 
 ## Kosmische Entitäten
 
-Kosmische Schrecken, Godzilla, Götter, Dinge von denen die Menschheit nichts
+### Meschenähnliche Halbgötter
+
+Halbgötter, irgendwie menschenförmige göttliche Entitäten, oder auch
+die humanoiden Avatare kosmischer Schrecken können als sehr mächtige
+menschliche Charaktere mit folgenden Sonderregeln dargestellt werden.
+
+#### Multiple Klassen
+
+Die übernatürlichen Fähigkeiten von Halbgöttern können gut dargestellt
+werden, in dem der Entität mehrere Klassen zugeteilt werden, und zwar
+in beliebiger Kombination, auf jeweils passenden Stufen. 
+
+Zum Beispiel könnte der Halbgott *Jagdala*, eine spirituelle Kreatur
+der Schneeland-Elfen wie folgt dargestellt werden:
+
+>**Jagdala, Seher des Eiswindes**: ST 16 IN 16 WE 17 GE 11 KO 9 CH
+>10, RK 3 [16], Kämpfer Stufe 20, Zauberkundiger Stufe 22, Druide
+>Stufe 25
+
+Damit hat Jagdala im Spiel einen hohen Angriffsbonus (je nach
+Regelsystem zum Beispiel +10), und beherrscht Zauberkundigensprüche
+und Druidenzauber der höchsten Stufen.
+
+Aus der Überlegung, dass ein Halbgott mehrere Klassen gleichzeitig
+verkörpert, lässt sich auch eine Möglichkeit ableiten, wie man 
+zu göttlicher Macht aufsteigen kann. Nämlich, in dem man den langen
+und beschwerlichen Weg geht, über das dual-classing eine
+Klasse nach der anderen erwirbt. Sobald der Charakter in mindestens
+zwei Klassen die Stufe 20 überschreitet, darf er alle bis dahin
+akquirierten Trefferwürfel neu werfen, um seine neue Anzahl an
+Trefferpunkten zu ermitteln.
+
+#### Trefferwürfel / Trefferpunkte
+
+Menschliche Helden, die zu einem gottartigen Status aufgestiegen sind,
+haben sehr hohe Trefferpunkte die mindestens 42 Charakterstufen
+entsprechen. Um diese große Zahl an Trefferpunkten zu ermitteln,
+werden mit Aufstieg zu göttlichem Status alle Trefferwürfel für alle 
+Klassen, in welcher der Charakter erfahren ist, neu geworfen. 
+
+> Für Jagdala könnte die Rechnung zum Beispiel so aussehen:
+> 
+> Kämpfer Stufe 20: 9W6+20 = 51
+> Zauberkundiger Stufe 22: 6W6+18 = 39
+> Druide Stufe 25: 8W6+17 = 45
+> Gesamt: 135 TP
+
+Der Einfachheit halber können für Monster und Nichtspielercharaktere 
+auch folgende kosmische Charakterstufen angesetzt werden:
+
+: 1W10 kosmische Charakterstufen
+
+| Stufe [1W10] | Trefferpunkte | Angriffsbonus |
+|:------------:|:-------------:|:-------------:|
+| 1 | 100 | +10 |
+| 2 | 125 | +10 |
+| 3 | 150 | +10 |
+| 4 | 175 | +10 |
+| 5 | 200 | +11 |
+| 6 | 225 | +11 |
+| 7 | 250 | +11 |
+| 8 | 275 | +11 |
+| 9 | 300 | +12 |
+| 10 | 325 | +12 |
+
+#### Avatare
+
+Menschenähnliche Halbgötter werden in der Regel ein oder mehrere
+Tiere oder Monstergestalten haben, die sie willentlich annehmen
+können. Hierzu einfach 1-4 passende Menschen, Menschenähnliche oder
+Tiere aussuchen. 
+
+> Für Jagdala würde sicher eine geheimnisvolle
+> weißhaarige Greisin, ein Eisbär und ein gehörnter Narwal passen.
+
+#### Artefakte
+
+Für jeden göttliche Kreatur sollte auch ein Artefakt ermittelt werden,
+welches die besonderen Fähigkeiten der Entität unterstreicht, und
+vielleicht auch geeignet ist Begehrlichkeiten unter den Göttern
+plausibel zu machen, oder anzuheizen.
+
+> Für Jagdala habe ich folgendes Artefakt ermittelt:
+
+### Kosmische Schrecken
+
+Godzilla, Götter, Dinge von denen die Menschheit nichts
 wissen darf.
+
+![Der Krabben-Gott](img/crabgod.png)
 
 ## Gonzo und Slapstick
 

@@ -1,7 +1,10 @@
 all: Spielerhandbuch.pdf Spells.pdf Hausregeln2020.pdf Hausregeln2021.pdf
 	cd cover; make
 
-Spielleiterbuch.pdf: Spielleiterbuch.md Makefile template.tex 
+gridmaps:
+	cd gridmaps ; make all
+
+Spielleiterbuch.pdf: Spielleiterbuch.md Makefile template.tex gridmaps
 	pandoc -s -t latex --template template.tex \
 	-f markdown+implicit_figures \
 	--variable lang=de \
@@ -46,6 +49,7 @@ clean:
 	rm -f *.xmpi
 
 realclean: clean
+	cd gridmaps ; make realclean
 	cd Spells; make realclean
 	cd cover; make realclean
 	rm -f *.pdf

@@ -515,22 +515,118 @@ Kleriker
 
 Diebe, Spezialisten
 
+### Beispiel für eine eigene Charakterklasse
+
+
+#### Primärattribute
+
+Weisheit + Geschicklichkeit
+
+#### Mindestwerte
+
+Stärke 12
+
+Weisheit 9
+
+Geschicklichkeit 14
+
+#### Klassenfertigkeiten
+
+##### Wahrnehmung
+
+Drachenblütige haben einen besonders ausgeprägten Geruchssinn. Sie
+nehmen die Anwesenheit anderer Lebewesen in geschlossenen Räumen bis zu
+einer Distanz von 60' auch in völliger Dunkelheit bei 1-2/W6 beiläufig
+wahr, und bei 1-4/W6 wenn sie sich konzentrieren.
+
+Im Gelände hängt die Reichweite vom Wind ab: 100 m gegen den Wind, 1
+Meile bei Windstille, 3 Meilen mit dem Wind.
+
+Entsprechend sind Drachenblütige nur bei 1/W6 überrascht.
+
+Außerdem können Drachenblütige riechen, ob ein Gegner Angst hat. Sie
+dürfen in einem Kampf vor der ersten Kampfrunde einen Moralwurf für die
+Gegner ausführen. Wird der Wurf verfehlt, "weiss" der Dracheblütige,
+dass die Gegner Angst haben, und versuchen werden, dem Kampf zu
+entgehen, sobald sie den ersten Schaden erleiden. Erleidet die Seite des
+Drachenblütigen dennoch zuerst den größeren Schaden, gelten wieder die
+normalen Moral-Regeln.
+
+##### Qi-Punkte
+
+Drachenblütige erhalten eine bestimmte Anzahl an Qi-Punkten pro Tag, die
+sie zum Wirken von Klerikersprüchen oder zur Verbesserung ihrer
+Kampfmanöver einsetzen können. Beides muss tageweise durch intensive
+Meditation vorbereitet werden.
+
+##### Klerikersprüche
+
+Für einen Qi-Punkt kann jeweils eine Stufe an Klerikerzauber gewirkt
+werden. Für 3 Qi-Punkte also z.B. 3 Stufe-1-Sprüche, 1 Stufe-3-Spruch,
+oder auch 1 Stufe-2- und 1 Stufe-1-Spruch
+
+##### Waffenloser Kampf
+
+Drachenblütige sind hervorragende natürliche Kämpfer: sie haben
+unbewaffnet zwei Angriffe 1-4/1-4 zuzüglich Geschicklichkeits- und
+Stärkebonus und eingesetzten Qi-Punkten. Ansonsten bevorzugen
+Drachenblütige als Waffe den selbst gefertigten Kampfstab (1W8), zu
+dessen Schaden sie ebenfalls die genannten Zuschläge addieren können.
+
+##### Odemwaffe
+
+Drachenblütige müssen sich bei der Charaktererschaffung für eine
+Odemwaffe der Drachen entscheiden. Sie können diese 1 x täglich
+einsetzen: Schaden entsprechend der eigenen aktuellen TP, Reichweite und
+Rettungswürfe wie bei den entsprechenden Drachen.
+
+##### Natürliche Rüstung
+
+Durch ihr Schuppenkleid haben Drachenblütige einen natürlichen
+Rüstungsbonus +2 gegenüber Stich- und Schnittverletzungen. Sie können je
+einen Qi-Punkt für 2 weitere Punkte Rüstungsbonus einsetzen.
+
+#### Einschränkungen
+
+-   Drachenblütige benutzen keine geschmiedeten Waffen.
+
+-   Drachenblütige tragen keine Rüstungen.
+
+-   Drachenblütige haben immer einen Reaktionsabzug von -2 gegenüber
+    Menschen, anderen Halbmenschen und allen Humanoiden.
+
+: Stufentabelle der Drachenblütigen
+
+ Stufe	 Erfahrung     TP   Stufe   Erfahrung   TP
+------- ----------- ------ ------- ----------- ------
+ 1          0         2W6     11    1.100.800    +1
+ 2         4.300     +1W6     12    1.376.000    +1
+ 3        8.600      +1W6     13    1.651.200    +1
+ 4        17.200     +1W6     14    1.926.400    +1
+ 5        34.400     +1W6     15    2.201.600    +1
+ 6        68.800     +1W6     16    2.476.800    +1
+ 7        137.600    +1W6     17    2.752.000    +1
+ 8        275.200    +1W6     18    3.027.200    +1
+ 9        550.400    +1W6     19    3.302.400    +1
+ 10       825.600     +1      20    3.577.600    +1
+
+
 ## Erfahrung und Stufen
 
-: Eine generische Stufenleiter
+: Eine generische Stufentabelle
 
- Stufe   Erfahrungspunkte
-------- -------------------
- 1             0   
- 2             2
- 3             4
- 4             8
- 5            16
- 6            32
- 7            64
- 8           128
- 9           256
- 10          512
+ Stufe   Erfahrungspunkte   Stufe   Erfahrungspunkte  
+------- ------------------ ------- ------------------
+ 1             0              6            32
+ 2             2              7            64
+ 3             4              8           128
+ 4             8              9           256
+ 5            16              10          512
+
+
+
+
+
 
 Je nach System kann es sich bei den Erfahrungspunkten um den in der
 Tabelle angegebenen Wert handeln, die Erfahrungspunkte lassen sich
@@ -1898,7 +1994,146 @@ Einzelzimmer.
 
 ### One-Page Wildnis-Karte
 
+### Reiseereignisse
 
+: 1W10 Szenen auf der Reise
+
+ 1W10  Szene
+------ ------------------------------------
+  0    nichts
+  1    Hindernis
+  2    Wildtiere (evtl. Wahrnehmungsprobe)
+  3    andere Reisegruppe
+  4    eine Falle (Sinnenschärfeprobe)
+  5    ein Überfall
+  6    Händler
+  7    Spuren
+  8    Fluchtszene
+  9    Drachenszene
+
+: 1W6 Hindernisse
+
+ 1W6  Hindernis oder Problem
+----- ---------------------------------------------------------
+  1   kritischer Ausrüstungsgegenstand geht kaputt
+  2   Weg überschwemmt oder von Erdrutsch/Verwehung blockiert
+  3   eingestürzte Brücke
+  4   Kontrollposten/Straßensperre
+  5   umgestürzter Baum
+  6   Weg zerstört/nicht mehr zu erkennen
+
+
+: 1W6 Wildtier-Begegnungen
+
+ 1W6  Begegnung
+----- -----------------------------------------------
+  1   1 Fluchttier mit Jungen
+  2   2W6 Fluchttiere
+  3   1 einzelnes Jungtier (Muttertier in der Nähe)
+  4   1 kleines Raubtier
+  5   1W6 Rudel-Raubtiere
+  6   1 großes Raubtier
+
+Eine gelungene Wahrnehmungsprobe lässt die SC das Tiere/die Tiere
+zuerst entdecken
+
+
+: 1W6 Andere Reisegruppen
+
+ 1W6  Andere Reisegruppen
+----- -----------------------------------------------
+  2   1w6 offensichtlich zwielichtige Landstreicher
+  3   Bauer/Landarbeiter mit Fuhrwerk
+  4   einzelner Jäger
+  5   einzelner verrückter Schatzsucher
+  6   Soldaten/Milizen der benachbarten Lokalmacht
+
+Eine gelungene Wahrnehmungsprobe lässt die SC die andere Gruppe zuerst
+entdecken. Bei 1-2 verhält man sich feindselig, bei 3-4 neutral, bei 5
+freundschaftl., bei 6 konspirativ. Alle geeignet Gerüchte zu
+verbreiten
+
+: 1W6 Fallen
+
+ 1W6  Falle
+----- --------------------------------------------
+  1   eine Fallgrube
+  2   eine Stolperleine
+  3   ein herunterfallender Gegenstand
+  4   Ein Netz was sich zusammenzieht
+  5   eine schon eingestürzte Fallgrube
+  6   ein Geschoss streift die betroffene Person
+
+Eine gelungene Wahrnehmungsprobe lässt die SC die Falle rechtzeitig
+entdecken.
+
+: 1Wx Überfallszenen
+
+ 1Wx  Szene
+----- -------------------------------------------
+  1   
+  2   
+  3   
+  4   
+  5   
+  6   
+
+
+: 1W6 Händler
+
+ 1W6  Waren oder Metier der angetroffenen Händler
+----- ----------------------------------------------------
+  1   Lebensmittel und Wasser
+  2   magische Gegenstände (vielleicht auch Fälschungen)
+  3   Einfache Ausrüstung bis zu Dolchen
+  4   ein Waffenhändler
+  5   ein Quacksalber
+  6   ein Buchhändler
+
+alle Geeignet Gerüchte zu verbreiten
+
+
+: 1W6 Seltsame Spuren
+
+ 1W6  Spur oder Hinweis
+----- -------------------------------------------------------------
+  1   Spuren einer Fluchttierherde
+  2   Spuren eines sehr großen Tieres
+  3   Cadaver eines Fluchttieres
+  4   ein umgestürztes Fuhrwerk, hier hat ein Kampf stattgefunden
+  5   Ein niedergebrannter/gespaltener Baum (Drache/Gewitter?)
+  6   Spuren eines magischen Ereignis
+
+
+: 1W6 Fluchtszenen
+
+ 1W6  Szene
+----- --------------------------------------------------------------------
+  1   1w10 + 1w20 Fluchttiere kreuzen den Weg gefolgt von 1w10 Raubtieren
+  2   1 kleine Maus flitzt quietschend vor den Füßen entlang
+  3   ein Reiter wird in Reiserichtung von einem anderen verfolgt
+  4   1 Raubtier flüchtet vor einem anderen - ein Revierkampf
+  5   eine Gruppe von 3w6 Menschen befindet sich auf langsamer Flucht 
+      in einem Planwagen o.ä. - sie können Gerüchte mitteilen
+  6   eine Schlange o.ä. flüchtet vor den Füßen des Wanderers
+
+
+: 1W6 Drachenszenen
+
+ 1W6  Szene
+----- -------------------------------------------------------------------------
+  1   ein großer Drache zieht majestätisch seine Bahn hoch am Himmel
+  2   eine erschwerte Wahrnehmungsprobe lässt eine Drachenschuppe entdecken
+  3   ein Drache fliegt feuerspuckend dicht über den SC hinweg, reagiert 
+      mit heftigem Angriff falls er Grund bekommt sich bedroht zu fühlen.
+  4   ein intelligenter, gut gelaunter Drache landet vor den SC, will diese 
+      zur Unterhaltung mitnehmen oder behalten, testet sie mit Rätseln 
+      und/oder Rechenaufgaben, lässt schließlich gelangweilt von
+      Ihnen/Ihm ab.
+  5   ein Schild oder Hinweis am Wegesrand, welches vor einem schrecklichen 
+      Drachen warnt
+  6   Spuren eines Kampfes und niedergebrannte Pflanzen, hier hat ein 
+      Drachenkampf stattgefunden.
 
 # Spielroutinen
 
