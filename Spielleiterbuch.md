@@ -50,6 +50,21 @@ Dokument unter <https://github.com/lskh/Menschen-und-Magie>
 
 ...
 
+Dieses Buch beschäftigt sich in seinem ersten Abschnitt auch mit der
+Geschichte der Pen-and-Paper Rollenspiele, der *Gaming Archeology*.
+Jedoch nicht mit dem Ziel die Historie akkurat wieder zu geben, dass
+haben andere schon viel besser getan, sondern mit dem Ziel, die
+einfachen Überlegungen und genialen Einfälle der ersten Gamer als
+Bausteine für eigene Entwicklungen zugänglich zu machen.
+
+Betrachtet man die verschiedensten Iterationen an Rollenspielregeln,
+so fällt auf, dass es verschiedene, mehr oder weniger in sich
+geschlossene Subsysteme gibt, die zusammenhängen. Zum Beispiel das
+Subsystem *Schaden und Lebenspunkte*, das Subsystem *Attribute*, oder
+das Subsystem *Trefferwürfel und Stufen*. Meine Idee ist, diese typischen
+Regelfragemente so aufzubereiten, dass sie in eigenen
+Regelvarianten modular kombiniert werden können.
+
 Zahl+ bedeutet: "dieser Wert oder mehr", Zahl- bedeutet: "dieser Wert oder
 weniger". +Zahl bedeutet: diese Zahl soll hinzu gerechnet werden,
 -Zahl bedeutet: diese Zahl soll abgezogen werden.
@@ -96,6 +111,7 @@ soll.
  Gewandtheit         Fingerfertigkeit    Psyche
  Physis              Willenskraft        Körperkraft
  Geschwindigkeit     Resistenz           Glück
+ Mut                 Moral               Reaktion
 ------------------- ------------------- -------------------
 
 Die Qualität der Attribute wird in den allermeisten Spielen numerisch
@@ -122,6 +138,8 @@ was eine Glockenkurve für den Wertebereich 15-90 produziert.
  3-18               3W6
 
                     4W6, beste drei Würfel
+
+ 8-13               1W6+7
 
  2-12               2W6
 
@@ -284,11 +302,13 @@ esoterischen Geheimlehre geschult.
 : Typische Fertigkeiten
 
 ------------------- ------------------- -------------------
+ Schleichen          Verstecken          Lauschen
  Fährten lesen       Rudern              Diplomatie
  Taschendiebstahl    Klettern            Fallenkunde
  Architektur         Wildnisleben        Navigation
  Kryptografie        Tiere bändigen      Pflanzenkunde
  Reiten              Boot fahren         Tauchen
+ Verhandeln          Pilot               Mechanik
 ------------------- ------------------- -------------------
 
 Fertigkeiten können als Modifikatoren angegeben werden, die
@@ -318,11 +338,12 @@ Fertigkeiten geben:
  Verteidigung        Ausweichen          Blocken
  Fechten             Schusswaffen        Kung-Fu
  Balistik            Laser               Geschütze
+ Langschwert         Kurzschwert         Langbogen
 ------------------- ------------------- -------------------
 
 In solch einem Spiel könnte dann der Kampf mit dezidierten Proben auf
 bestimmte Kampftechniken abgewickelt werden, und ein Treffer könnte
-durch einen erfolgreichen Wurf auf eine defensive Fertigkeit abgewert
+durch einen erfolgreichen Wurf auf eine defensive Fertigkeit abgewehrt
 werden.
 
 ## Lebenspunkte und Trefferwürfel
@@ -330,6 +351,12 @@ werden.
 Trefferpunkte, oder auch Lebenspunkte sind ein besonderes Attribut,
 welches anzeigt, wieviel Schaden ein Charakter aushalten kann, bevor
 er handlungsunfähig wird, oder sogar stirbt. 
+
+Die Höhe der Trefferpunkte sollte in einem vernünftigen Verhältnis
+stehen zu dem Schaden, den die in der Spielwelt übliche Standardwaffe
+anrichtet, denn damit entscheidet sich, wie *tötlich* der Kampf im
+Spiel ist, bzw. wie schnell ein Kampf --- möglicherweise mit
+dramatischem Ende --- vorbei sein soll.
 
 In den alten Zinnsoldaten-Spielen, die allgemein als Vorläufer der
 Rollenspiele angesehen werden, genügte ein Treffer, um eine Einheit
@@ -353,9 +380,10 @@ spannender ist, da ein einzelner Schwerthieb den Gegner töten *kann*
 aber *nicht muss*. Vermutlich wegen des ursprünglich engen
 Zusammenhangs zwischen den Treffern die eine Einheit austeilen konnte,
 und dem Schaden, den eben diese Einheit einstecken konnte, hat
-sich der etwas irreführende Begriff "Trefferpunkte" für das etabliert,
-was man eigentlich eher *Gesundheit* oder *Lebenspunkte* nennen
-sollte. Tatsächlich wurde im ersten veröffentlichten Fantasy
+sich in einigen Regelsystemen der etwas irreführende Begriff 
+"Trefferpunkte" für das etabliert,
+was man intuitiv eher *Gesundheit* oder *Lebenspunkte* nennen
+würde. Tatsächlich wurde im ersten veröffentlichten Fantasy
 Rollenspiel dieser Zusammenhang noch weiter betont, in dem klar
 gemacht wurde, dass *die 1-6 Punkte* die durch einen W6 dargestellt werden -
 seien es Schadens- oder Lebenspunkte - *einen* menschlichen Charakter
@@ -406,6 +434,59 @@ Anhaltspunkte gibt wie viel Schaden ein Treffer verursacht, und wie,
 gegebenenfalls in Abhängigkeit von der Anzahl der Trefferwürfel, die
 Trefferwahrscheinlichkeit einer bestimmten Kreatur ist.
 
+### Das Lebens- und Schadenspunkte-Subsystem
+
+Das Verhältnis von potentiellem Schaden eines Angriffs und
+durchschnittlichen Lebenspunkten ist sehr entscheidend für die
+Gefährlichkeit von Kämpfen, und spielt damit eine zentrale Rolle für
+das allgemeine Spielgefühl eines Regelsystems.
+
+Folgende Tabelle zeigt die durchnittlichen Werte und Wertespannen
+verschiedener Würfelformeln, die für die Ermittlung von Lebenspunkten
+und Schaden zur Anwendung kommen:
+
+: Wertebereiche und Spannen häufiger Würfelformeln
+
+| Würfelformel | Wertebereich | Durchschnitt |
+|:------------:|:------------:|:------------:|
+| 1W4          |  1-4         |   2,5        | 
+| 1W6-1        |  1-5         |   2,5        |
+| 1W6          |  1-6         |   3,5        |
+| 1W6+1        |  2-7         |   4,5        |
+| 1W8          |  1-8         |   4,5        |
+| 1W6+2        |  3-8         |   5,5        |
+| 1W6+3        |  4-9         |   6,5        |
+| 2W6          |  2-12        |   7,0        |
+| 1W6+4        |  5-10        |   7,5        |
+| 2W6+1        |  3-13        |   8,0        |
+| 1W6+5        |  6-11        |   8,5        |
+| 2W6+2        |  4-14        |   9,0        |
+| 2W6+3        |  5-15        |  10,0        |
+| 3W6          |  3-18        |  10,5        |
+
+Setzt man den Schaden einer Standardwaffe wie zum Beispiel einem
+Schwert mit den durchschnittlichen Lebenspunkten eines frisch
+generierten Charakters ins Verhältnis werden typische Verhältnisse
+deutlich:
+
+: Verhältnisse zwischen Waffenschaden und Lebenspunkten
+
+| Standardlebenspunkte | Standardwaffe    | Verhältnis  |
+|:--------------------:|:----------------:|:-----------:|
+|       1              |      1           |    1:1      |
+|      3,5 (1W6)       |      3,5 (1W6)   |    1:1      |
+|      4,5  (1W8)      |      4,5 (1W8)   |    1:1      |
+|      10,5 (3W6)      |  4,5 (1W6+1)     |  2,3:1      |
+|      21 (3 x 2W6)    |  7,0 (2W6)       |    3:1      |
+|      30              |  7,5 (1W6+4)     |    4:1      |
+
+Für welches Verhältnis man sich hier entscheidet hängt stark davon ab,
+wie sehr häufige Kämpfe gewünscht sind. Sollten Kämpfe gefährlich
+sein, und daher eher vermieden werden, was sicherlich realistisch ist,
+dann sollte das Verhältnis *eher klein* sein. Sind dagegen häufige
+Kämpfe gewünscht, sollten diese weniger gefährlich sein, was ein eher
+hohes Verhältnis von Lebens zu Schadenspunkten nahe legen würde.
+
 ### Leben ohne Trefferwürfel
 
 Abweichend vom Prinzip der Trefferwürfel kann ein Spiel auch
@@ -419,7 +500,15 @@ traurige Schicksal erspart, in den ersten fünf Spielminuten durch
 einen einzelnen gegnerischen Schwerthieb aus dem Spiel
 auszuscheiden. Das kann durchaus wünschenswert sein.
 
-Es könnte aber auch schlicht ein körperliches Attribut wie *Stärke*
+Setzt man den Basiswert der Lebenspunkte höher an, zum Beispiel bei 30
+Punkten für einen menschlichen Charakter, sollten auch die
+Schadenswerte der Waffen und Monsterangriffe entsprechend nach oben
+korrigiert werden. Ein Kurzschwert könnte dann zum Beispiel immer
+1W6+4 Punkten schaden verursachen, also 5 - 10 Punkte pro Angriff an
+statt 1-6.
+
+Alternativ zum eigenen Attribut können schließlich auch die schon
+vorhandenen körperlichen Attribute wie *Stärke*
 oder *Physis* als Wert für die Lebenspunkte angesehen werden. 
 Das würde dann auch nahe legen, dass nach dem Erleiden von körperlichen 
 Schaden die Proben auf körperliche Leistungen schwerer 
@@ -478,6 +567,46 @@ Einfache Gegner könnten schon beim ersten Treffer K.O. gehen, und der
 fiese Endboss, könnte vielleicht noch einen vierten Zustand haben:
 *verwandelt sich in violetten Schleim, der mit ulkigem blubbern
 langsam zu harmlosem Nichts verpufft*.
+
+## Rüstungsklassen und Rüstungsschutz
+
+### Rüstungsklasse: wie wahrscheinlich ist ein Treffer?
+
+Der Vorteil der Rüstungsklasse liegt darin, dass in der Regel kein
+Verteidigungswurf nötig wird, weil ja die Chance auf einen Treffer
+integraler Bestandteil des Konzeptes RÜstungsklasse ist. Auf einen
+erfolgreichen Treffer wird mit einem weiteren Würfelwurf der Schaden
+ermittelt.
+
+### Rüstungsschutz: wieviel Trefferpunkte absorbiert die Rüstung?
+
+In diesem System wird die tatsächliche Eigenschaft der Rüstung Energie
+aufzunehmen und damit den Schaden zu reduzieren akurater abgebildet.
+Soll nicht jeder Angriff automatisch treffen, was auch seinen Reiz
+haben kann, da es den Angriffswurf erspart, dann ist bei diesem System
+ein Verteidigungswurf erforderlich.
+
+### Rüstung als Rettungswurf: Chance auf Schutz!
+
+Eine besondere Variante, die möglicherweise in der Blackmoor-Kampagne
+zum Einsatz kam ist, den Rüstungswert als Zielwert für einen
+Rettungswurf zu benutzen. Ist der Gegener mit seinem Angriff
+erfolgreich (oder ist dieser automatisch erfolgreich), dann ist ein
+Rettungswurf erlaubt, um den Treffer vollständig zu negieren. Und
+dieser Rettungswurf wird um so leichter, je besser die Rüstung.
+
+: Typische Rüstungswerte
+
+| Rüstung  |  1W20  | 2W6 (Zielwert) | 2W6 (RW) | Schadensreduktion  |
+|:--------:|:------:|:--------------:|:--------:|:------------------:|
+| Normale Kleidung | 10 |          0 |   |   | 0  |
+| Kleid. + Schild  | 11 |          2 |   |   | -1 |
+| Lederrüstung     | 12 |          1 |   |   | -1 |
+| Leder. + Schild  | 13 |          3 |   |   | -2 |
+| Kettenrüstung    | 14 |          4 |   |   | -2 |
+| Kette. + Schild  | 15 |          5 |   |   | -3 |
+| Plattenrüstung   | 16 |          6 |   |   | -3 |
+| Platte. + Schild | 17 |          7 |   |   | -4 |
 
 ## Vor- und Nachteile
 
@@ -623,10 +752,16 @@ einen Qi-Punkt für 2 weitere Punkte Rüstungsbonus einsetzen.
  4             8              9           256
  5            16              10          512
 
-
-
-
-
+Eine typische Variante der Verbesserung bei jedem Stufenaufstieg wäre,
+die Lebenspunkte um 1W6 zu erhöhen, *ein* beliebiges Attribut, oder
+eine z.B. 1W6 Attribute um jeweils einen Punkt zu erhöhen.
+Fertigkeiten sollten wahrscheinlich eher in Abhängigkeit der
+bewältigen Aufgaben oder der tatsächlich gesammelten Erfahrungen
+erhöht werden. Man könnte auch argumentierten, dass eine Verbesserung
+in akademischen Fertigkeiten mit Geld erkauft werden muss, und
+vielleicht auch das Verstreichen eines gewissen Zeitraums in Anspruch
+nimmt, sofern die Studien an der Universität  nicht im Detail
+ausgespielt werden sollen.
 
 Je nach System kann es sich bei den Erfahrungspunkten um den in der
 Tabelle angegebenen Wert handeln, die Erfahrungspunkte lassen sich
@@ -851,7 +986,7 @@ tatsächlich ja auch nichts anderes als der *Schwierigkeitsgrad*, bei
 dem jeweiligen Gegener Schaden anzurichten.
 
 
-### PtbA
+### Teilerfolg
 
 Das Spiel *Apocalypse World* von Vincent Baker führte eine besondere
 2W6-Mechanik ein, die sich seit dem großer Beliebtheit erfreut: eine 6
@@ -913,6 +1048,10 @@ In den klassischen Old-School-Regeln werden Rettungswürfe als *roll
 high* Probe mit 1W20 gewürfelt. Als Ausgangswert kann man sich an der
 15 orientieren, was einer 25%igen Erfolgswahrscheinlichkeit
 entspricht.
+
+Ein besonderer Rettungswurf wäre der Rettungswurf gegen die
+Rüstungsklasse. Eine Mechanik, die möglicherweise in Dave Arnesons
+*Blackmoor*-Kampagne zur Anwendung kam.
 
 ## Reaktionswürfe
 

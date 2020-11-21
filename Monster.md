@@ -52,9 +52,9 @@ Schließlich ist *Menschen & Magie* auch Open Source. Du findest die Quelldateie
 
 ## Monsterklassen
 
-: 1W20 Monsterklassen
+: 1W30 Monsterklassen
 
-|  1W20   | Monsterklasse |
+|  1W30   | Monsterklasse |
 |:------:|:------------------|
 |    1	 | Menschen |
 |    2	 | Lykanthropen |
@@ -64,18 +64,28 @@ Schließlich ist *Menschen & Magie* auch Open Source. Du findest die Quelldateie
 |    6	 | Tiermenschen |
 |    7	 | Riesen |
 |    8	 | Untote |
-|    9	 | Raubtiere |
-|   10 | 	Herdentiere |
-|   11 | 	Riesentiere |
-|   12 | 	Chimären und mythische Kreaturen |
-|   13 | 	Elementare |
-|   14 | 	Drachen |
-|   15 | 	Ungeziefer |
-|   16 | 	Urtiere |
-|   17 | 	Konstrukte |
-|   18 | Dämonen, Engel und Teufel |
-|   19 | Kosmische Urwesen |
-|   20 | Gonzo und Slapstick |
+|   9   | Affen |
+|   10	 | Raubtiere |
+|   11 | 	Herdentiere |
+|   12 | Nagetiere |
+|   13 | Fledertiere |
+|   14 | Echsen und Lurche |
+|   15 | Vögel |
+|   16 | Fische |
+|   17 | Insekten und Spinnenartige |
+|   18 | Riesentiere |
+|   19 | 	Drachen |
+|   20 | Chimären und Mythische Kreaturen | 
+|   21 | Elementare |
+|   22 | Gonzo und Pop-Kultur |
+|   23 | Seeungeheuer |
+|   24 | Pilze und Pflanzen |
+|   25 | 	Würmer |
+|   26 |  Blob, Glibber und Schleim |
+|   27 | 	Urtiere |
+|   28 | 	Konstrukte |
+|   29 | Dämonen, Engel und Teufel |
+|   30 | Kosmische Urwesen |
 
 
 ## Menschen
@@ -210,6 +220,10 @@ sich willentlich in seine Werform verwandeln kann.
 Lykanthropen sind meistens Einzelgänger (50%), kommen aber auch in
 Gruppen von 2-20 Individuen vor (50%).
 
+### Doppelgänger
+
+Ähnlich den Lykanthropen sind die Doppelgänger ...
+
 ## Fantasyvölker
 
 Zu den Fantasyvölkern gehören traditionell die Elfen, Halb-Elfen, Zwerge,
@@ -271,7 +285,8 @@ ein Mensch *einen* Trefferwürfel und eine Rüstungsklassen je nach Aussrüstung
 häufig etwas ausgefallenere Eigenschaften. Feenwesen sind häufig von
 neutraler Gesinnung (01-50), sie können chaotisch (51-90), und selten
 rechtschaffen sein (91-00). Typische Beispiele sind Feen, Pixies,
-Wichtel, Pukkas, Dryaden, Baumherren, Satyre, Faunen und Zentauren, aber auch Wassermänner, Nixen,
+Wichtel, Pukkas, Dryaden, Baumherren, Satyre, Faunen und Zentauren,
+aber auch Wassermänner, Nixen, Meervolk
 Fluss- und Waldgeister, je nach Umgebung in der sie angetroffen
 werden. 
 
@@ -414,6 +429,8 @@ etwas origineller Ausgestaltet werden:
 | 5 | Drachen |
 | 6 | Raubtiere |
 
+### Morlocks
+
 ## Tiermenschen
 
 Bei den Tiermenschen handelt es sich um anthropomorphe Tiere.
@@ -488,6 +505,8 @@ Schaden anrichten.
 | 4 | Kleriker der 7. Stufe |
 | 5 | feiner Geruchssinn (Wahrnehmung 4/6) |
 | 6 | Wahrer Name |
+| 7 | zwei Köpfe (dann Ettin genannt) |
+
 
 ![Dieser Riese schläft zum Glück](img/pd/sleepinggiant.png)
 
@@ -571,7 +590,13 @@ wenige Ausnahmen immun gegen *Schlaf* und *Bezauberungs*-Sprüche.
 
 #### Geschichten mit Untoten
 
+## Affen
+
+Paviane, Gorillas, Weiße Affen, geflügelte Affen
+
 ## Raubtiere
+
+### Wiesel, Frettchen und Marder
 
 ### Wölfe 
 
@@ -660,7 +685,11 @@ zu Beginn der nächsten Kampfrunde dauerhaft weg.
 
 ### Raubkatzen
 
+Berglöwe, Tiger, Säbelzahntiger
+
 ![Ein Jaguar](img/pd/jaguar.png)
+
+Phasentiger
 
 ### Bären
 
@@ -668,34 +697,102 @@ zu Beginn der nächsten Kampfrunde dauerhaft weg.
 
 ![Ein Schwarzbär](img/pd/blackbear.png)
 
-### Raubvögel
+## Herdentiere
+
+Rehe, Hirsche, Elche, Pferde, Maultiere,  Kamele, Llamas, Elefanten,
+Nashörner Eber / Wildschweine
+
+## Nagetiere 
+
+Mäuse, Ratten, Bieber
+
+## Fledertiere
+
+Fledermäuse, Flughunde, Riesenfledermäuse
+Klesche
+
+## Echsen und Lurche
+
+Schlangen
+
+Grubenotter
+
+Speikobra
+
+Wasserschlange
+
+Python
+
+Klapperschlange
+
+Krokodil
+
+Drachenechse, Gecko, Tuatara, Gehörntes Chamäleon
+
+Kröten
+
+## Vögel
+
+Falken
 
 ![Geier](img/pd/vultures.png)
 
+## Fische
+
+### Hechte
+
+### Störe
+
 ### Haie 
 
-## Herdentiere
+Katzenfisch
 
-Rehe, Hirsche, Elche, Pferde, Kamele, Llamas, Elefanten, Wale
+### Piranhas
+
+## Insekten und Spinnenartige
+
+Schwärme
+
+Heuschrecken, Käfer
+
+Fliegen, Bienen, Wespen, Libellen, Flöhe
+
+Tausendfüßler
+
+Spinnen, Skorpione
+
+Tarantel, Krabbenspinne, Schwarze Witwe, Vogelspinne
+
+![Eine Riesentarantel](img/tarantula.png)
+
+Krebse
 
 ## Riesentiere
+
+Riesenspitzmaus
 
 Riesenformen der Raub- und Herdentiere
 
 ![Eine Riesenfledermaus](img/direbat.png)
 
-## Chimären und mythische Kreaturen
 
-Chimeras, Manticore, Pegasi, Hippogreifen, Greifen, Sphinxen, Trolle
-Medusen, Basilisken, Hydras
+## Mythische Kreaturen
+
+Chimeras, Manticore, Pegasi, Hippogreifen/Pferdegreif, Greifen,
+Sphinxen, Trolle, Zyklopen
+Medusen, Basilisken, Hydras, Dschinni, Gorgone, Harpyie
+Höllenhund, Teufelsschwein, Hydra, Ifrit, Minotauren
+Roc, Salamander (Eis und Feuer)
 
 ![Ein Greif](img/pd/griffon.png)
 
 ![Ein Schreckhahn](img/pd/cockatrice.png)
 
+### Einhörner
+
 ![Ein Einhorn](img/pd/unicorn.png)
 
-## Elementare
+### Elementare
 
 Feuer-, Erd-, Wasser-, Luftelementare
 
@@ -765,22 +862,68 @@ Feuer-, Erd-, Wasser-, Luftelementare
 | 5 | Gift |
 | 6 | 2 x würfeln und kombinieren |
 
+Lindwürmer
 
-## Ungeziefer
+## Seeungeheuer
+
+### Wale
+
+Delfin, Orka, Narwal, Pottwal, Blauwal
+
+Meeresdrachen
+
+Drachenschildkröten
+
+Seeschlange
+
+## Pilze und Pflanzen
+
+Gelbschimmel
+
+Kreischer
+
+## Würmer
+
+Purpurwurm
+
+Fäulnisraupe
 
 Schleime, gelatinöse Kreaturen, Pilze, monströse Pflanzen, 
-Würmer, Insekten, Schlangen, Echsen,
+Würmer, Fäulnislarve, Insekten, Schlangen, Echsen,
 Lurche, Klesche
 
-![Eine Riesentarantel](img/tarantula.png)
+**Riesenblutegel**
+
+## Blob, Glibber und Schleim
+
+Ockergelee
+Grauschleim, Grünschleim
+
+Schwarzpudding
+
+Gallertblock
 
 ## Urtiere
 
+Flugsaurier: Pterodaktyl, Pteranodon
+
+Stegosaurus, 
+
+Triceratops
+
+Tyrannosaurus rex
+
 Dinosaurier, prähistorische Säugetiere, Dodos
+
+Wollnashorn
+Mastodon
 
 ## Konstrukte
 
+Lebende Statuen,
 Golems, Roboter, Automata
+ Gargyle
+Unsichtbarer Schleicher
 
 : 1W20 Eigenschaften magischer Konstrukte
 
@@ -949,9 +1092,11 @@ wissen darf.
 
 ![Der Krabben-Gott](img/crabgod.png)
 
-## Gonzo und Slapstick
+## Gonzo und Pop-Kultur
 
 Zufallsmonster, Außerirdische, Laser ("piu-piu")
+
+Rostmonster, Eulenbär
 
 ### Allgemeine Verkehrskontrolle 
 Die zwei Streifenpolizisten Herbert
