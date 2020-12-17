@@ -28,9 +28,9 @@ Spielleiterbuch.tex: Spielleiterbuch.md Makefile template.ltx gridmaps
 
 %.pdf: %.tex
 	pdflatex --draftmode $<
-	makeindex $(shell basename $<).idx
+	makeindex $(shell basename $< .tex).idx
 	pdflatex --draftmode $<
-	makeindex $(shell basename $<).idx
+	makeindex $(shell basename $< .tex).idx
 	pdflatex $<
 
 Spells/Spells.md: Makefile
@@ -40,7 +40,7 @@ Spells.md: Spells/Spells.md Makefile
 	cp Spells/Spells.md Spells.md 
 
 clean:
-	rm -f *.tex *.log *.lot *.toc *.aux *.idx tmp* Spells.md
+	rm -f *.tex *.ilg *.ind *.log *.lot *.toc *.aux *.idx tmp* Spells.md
 	rm -f *.xmpi
 
 realclean: clean
