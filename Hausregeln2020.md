@@ -1050,7 +1050,7 @@ Klassenbeschränkungen
     BW 9"
 
 11. Lederrüstung (RK 7), Kurzschwert (1W6), Dolch (1W4), 
-    Kompositbogen und 20 Pfeile (2W8), Diebeswerkzeug, Rucksack, 
+    Kompositbogen und 20 Pfeile (1W8), Diebeswerkzeug, Rucksack, 
     Schlafsack, Wasserschlauch, 7 eiserne Rationen, 3 GM, 3 SM, BW 9"
 
 12. Lederrüstung (RK 7); 4 Dolche (1W4), Diebeswerkzeug, Rucksack,
@@ -1310,7 +1310,7 @@ Stufe *der eine* Großdruide werden.
 
 | Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|---|
-| 1     |       3.200 | +1    | 0  | 1 | - | - | - | - | - | - |
+| 1     |       3.200 | +1    | 0  | 2 | - | - | - | - | - | - |
 | 2     |       4.000 | +1W   | 0  | 2 | 1 | - | - | - | - | - |
 | 3     |       8.000 | +1W   | 0  | 3 | 1 | - | - | - | - | - |
 | 4     |      13.000 | +1W   | +1 | 3 | 1 | 1 | - | - | - | - |

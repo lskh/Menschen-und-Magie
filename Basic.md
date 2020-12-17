@@ -82,11 +82,11 @@ Charisma
 | Attribut | Modifikator |
 |:--------:|:-----------:|
 |  3       |  -3         |
-|  4       |  -2         |
-|  5       |  -1         |
-|  6-12    |   0         |
-|  13-16   |  +1         |
-|  17      |  +2         |
+|  4-5     |  -2         |
+|  6-8     |  -1         |
+|  9-12    |   0         |
+|  13-15   |  +1         |
+|  16-17   |  +2         |
 |  18      |  +3         |
 
 
@@ -116,27 +116,25 @@ Belastungskapazität, sowie
 
 : Stärke-Modifikatoren
 
-----------------------------------------------------------
- Stärke      Treffer-   Schadens-    Belastung    Türen    
-             bonus      bonus                     öffnen   
----------  ----------- ------------ ----------- ----------
- 3-4            -2        -1         -100           1   
+---------------------------------------
+ Stärke      Nahkamp-     Türen öffnen    
+             bonus        (1W6)
+---------  ----------- ----------------
+ 3              -3          1   
 
- 5-6            -1      normal        -50           1    
+ 4-5            -2          1    
 
- 7-9          normal    normal       normal         1-2   
+ 6-8            -1          1   
 
- 10-12        normal    normal        +50          1-2   
+ 9-12         normal       1-2   
 
- 13-15          +1      normal        +100          1-2   
+ 13-15          +1          1-3   
 
- 16             +1         +1         +150          1-3   
+ 16-17          +2          1-4   
 
- 17             +2         +2         +300          1-4   
+ 18             +3          1-5   
 
- 18             +2         +3         +500          1-5   
-
----------------------------------------------------------
+--------------------------------------
 
 
 ### Intelligenz
@@ -147,36 +145,24 @@ ein Charakter erreichen kann.
 
 : Anpassungen auf Grund von Intelligenz
 
-------------------------------------------------------------
-                                                 Min./Max.
-Intelligenz  Anzahl    Max. Spruch-  Sprüche     Sprüche pro
-             Sprachen  Stufe         verstehen   Stufe
------------  --------  ------------  ---------   -----------
-3-7           0         4             30%         2/4
+-----------------------------------------------------
+Intelligenz  Sprachliche Fähigkeiten
+-----------  ----------------------------------------
+3            Sprachliches Handycap
 
-8             1         5             40%         3/5
+4-5          Analphabet
 
-9             1         5             45%         3/5
+6-8          einfache Wörter Lesen und Schreiben
 
-10            2         5             50%         4/6
+9-12         normal
 
-11            2         6             50%         4/6
+13-15        +1 Sprache
 
-12            3         6             55%         4/6
+16-17        +2 Sprachen
 
-13            3         7             65%         5/8
+18           +3 Sprachen
 
-14            4         7             65%         5/8
-
-15            4         8             75%         6/10
-
-16            5         8             75%         6/10
-
-17            5         9             85%         7/alle
-
-18            6         9             95%         8/alle
-
-------------------------------------------------------------
+-----------------------------------------------------
 
 ### Weisheit
 \index{Weisheit}
@@ -192,46 +178,33 @@ sowie die Rüstungsklasse.
 
 ###  Konstitution 
 \index{Konstitution}
-Abhängig vom Konstitutionswert erhalten Charaktere nicht Boni oder
-Abzüge auf ihre Trefferpunkte, sondern, sie können unterschiedlich 
-große Trefferwürfel haben^[diese Regel führt zu durchschnittlich etwas
-höhren Trefferpunktewerten als nach den Regeln des Supplement I
-*Greyhawk*. Evtl. sollte der Aufschlag erst ab 15 beginnen, und
-maximal ein W10 erreicht werden.]:
 
-: Variable Trefferwürfel
-\index{Trefferwürfel!variable}
-
-| Konstitution | Trefferwürfel | Überleben        |
-|:------------:|:-------------:|:----------------:|
-|  18          |   W12         |  100 %           |
-|  16 - 17     |   W10         |  100 %           |
-|  13 - 15     |   W8          |  100 %           |
-|  12          |   W8          |   90 %           |
-|  11          |   W6          |   80 %           |
-|  10          |   W6          |   70 %           |
-|   9          |   W6          |   60 %           |
-|   8          |   W6          |   50 %           |
-|   7          |   W6          |   40 %           |
-|   6          |   W4          |   30 %           |
-|   5          |   W4          |   20 %           |
-|   4          |   W4          |   10 %           |
-|   3          |   W4          |    0 %           |
+Die Konstitution modifiziert die Trefferpunkte auf jeder Stufe.
 
 ### Charisma
 \index{Charisma}\index{Gefolgsleute}
 
 : Charisma Bonus Tabelle
 
-| Charisma | Gefolgsleute (max. Anzahl) | Loyalität |
-|:--------:|:--------------------------:|:---------:|
-| 3 - 4    |       1                    | -2        |
-| 5 - 6    |       2                    | -1        |
-| 7 - 8    |       3                    |           |
-| 9 - 12   |       4                    |           |
-| 13 - 15  |       5                    |  +1       |
-| 16 - 17  |       6                    |  +2       |
-| 18       |      12                    |  +4       |
+-----------------------------------------------------
+                              Waffenknechte
+  Charisma   Reaktionsbonus   Waffenknechte   Moral   
+----------- ---------------- --------------- -------- 
+  3              -2            1                 4      
+
+  4 - 5          -1            2                 5      
+
+  6 - 8          -1            3                 6      
+
+  9 - 12          0            4                 7      
+
+  13 - 15        +1             5                8     
+
+  16 - 17        +1            6                 9     
+
+  18             +2            7                10     
+
+-----------------------------------------------------
 
 
 ## Charakterklassen
@@ -242,12 +215,9 @@ maximal ein W10 erreicht werden.]:
 
 **Primärattribut:** Stärke 
 
-**Trefferpunkte:** 1W+1 
+**Trefferpunkte:** 1W8 
 
-**Klassenfähigkeiten:** Gegen Kreaturen mit bis zu einem Trefferwürfel können Kämpfer
-     einen Nahkrampfangriff pro Stufe ausführen. Zum Beispiel könnte
-     einen Kämpfer der Stufe 4 gegen eine Gruppe Orks 4
-     mal pro Runde zuschlagen.
+**Klassenfähigkeiten:** keine besonderen
 
 **Klassenbeschränkungen:** Magie ist Kämpfern nur durch die Benutzung
 magischer Waffen zugänglich.
@@ -255,52 +225,47 @@ magischer Waffen zugänglich.
 
 : Kämpfer Stufen
 
-| Stufe |             EP | TP          | AB |
-|:-----:|---------------:|:-----------:|:--:|
-| 1     |              0 | 1W+1        | 0  |
-| 2     |          2.000 | +1W+1       | 0  |
-| 3     |          4.000 | +1W+1       | 0  |
-| 4     |          8.000 | +1W+1       | +1 |
-| 5     |         16.000 | +1W+1       | +2 |
-| 6     |         32.000 | +1W+1       | +2 |
-| 7     |         64.000 | +1W+1       | +3 |
-| 8     |        120.000 | +1W+1       | +4 |
-| 9     |        240.000 | +1W+1       | +4 |
-| 10    |        360.000 | +2          | +5 |
-| 11+   | +120.000/Stufe | +2/Stufe    | +6 |
+| Stufe |             EP | TP          | Thac0 [GAB] |
+|:-----:|---------------:|:-----------:|:-----------:|
+| 1     |              0 | 1W8         | 19 [0] |
+| 2     |          2.000 | 2W8         | 19 [0] |
+| 3     |          4.000 | 3W8         | 19 [0] |
+| 4     |          8.000 | 4W8         | 17 [+2] |
+| 5     |         16.000 | 5W8         | 17 [+2] |
+| 6     |         32.000 | 6W8         | 17 [+2] |
+| 7     |         64.000 | 7W8         | 14 [+5] |
+| 8     |        120.000 | 8W8         | 14 [+5] |
+| 9     |        240.000 | 9W8         | 14 [+5] |
+| 10    |        360.000 | 9W8+2       | 12 [+7] |
+| 12    |        480.000 | 9W8+4       | 12 [+7] |
+| 13    |        600.000 | 9W8+6       | 11 [+8] | 
+| 14    |        720.000 | 9W8+8       | 11 [+8] |
 
 \index{Kämpfer!Stufen}
 
 : Angriffstabelle Kämpfer, Normale Menschen (NM)
 
-| Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
-|-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
-|    NM | -1 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 | 20 |
-|   1-3 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
-|     4 | +1 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-|   5-6 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-|     7 | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-|  8-9  | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-|    10 | +5 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 11-12 | +6 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
-|    13 | +5 |  3 | 4  | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 
-| 13-15 | +6 | 2  | 3  |  4 |  5 |  6 |  7 |  8 | 9  | 10 | 11 | 12 | 13 | 
-|    16 | +7 |  1 |  2 |  3 |  4 | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 |
-| 17-18 | +8 | 1  |  1 |  2 |  3 | 4  |  5 |  6 |  7 |  8 |  9 | 10 | 11 |
-|    19 | +9 | 1  |  1 |  1 |  2 | 3  |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 
-| 20-21 | +10 | 1 |  1 | 1  | 1  | 2  | 3  |  4 |  5 |  6 |  7 |  8 |  9 |
+| Stufe |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
+|:----:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|   NM | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 | 20 |
+|  1-3 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
+|  5-6 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+|   10 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|   13 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 
+|13-14 |  2 |  3 |  4 |  5 |  6 |  7 |  8 | 9  | 10 | 11 | 12 | 13 | 
+
 
 \index{Kämpfer!Angrifstabelle}
 
 : Rettungswürfe der Kämpfer
 
-| Stufe                           | 1-3 | 4-6 | 7-9 | 10-12 | 13+ |
-|---------------------------------|-----|-----|-----|-------|-------|
-| Gift und Todesstrahlen          | 12  | 10  | 8   | 6     | 4     |
-| Zauberstäbe                     | 13  | 11  | 9   | 7     | 5     |
-| Lähmung und zu Stein erstarren  | 14  | 12  | 10  | 8     | 5     |
-| Drachenodem                     | 15  | 13  | 10  | 8     | 5     |
-| Zaubersprüche, -stecken, -ruten | 16  | 14  | 12  | 10    | 8     |
+| Stufe         | NM  | 1-3 | 4-6 | 7-9 | 10-12 | 13+   |
+|---------------|-----|-----|-----|-----|-------|-------|
+| Gift          | 14  | 12  | 10  | 8   | 6     | 4     |
+| Zauberstäbe   | 15  | 13  | 11  | 9   | 7     | 5     |
+| Lähmung       | 16  | 14  | 12  | 10  | 8     | 6     |
+| Odem          | 17  | 15  | 13  | 10  | 8     | 5     |
+| Zaubersprüche | 18  | 16  | 14  | 12  | 10    | 8     |
 
 \index{Kämpfer!Rettungswürfe}	
 
@@ -312,70 +277,62 @@ magischer Waffen zugänglich.
 ### Kleriker
 \index{Kleriker}
 
-Primärattribut
-:    Weisheit
+**Primärattribut** Weisheit
 
-Trefferpunkte
-:    1W 
+**Trefferwürfel** 1W6 
 
-Klassenfähigkeiten
-:    Kleriker können "Untote" beherrschen, und in der Regel 
-     ab der zweiten Stufe 
-     klerikale Magie wirken. \index{Untote vertreiben}
-     Um Untote zu beherrschen werden 2W6 geworfen. Liegt das Ergebnis
-     über einem bestimmten Wert, erlangt der Kleriker für eine 
-     bestimmte Zeit die Kontrolle über die untoten Kreaturen.
-     Kleriker guter Gesinnung *vertreiben* die Untoten, während Kleriker böser
-     Gesinnung die Untoten in ihren Dienst befehlen können, zum
-     Beispiel um eine bestimmte Aufgabe zu erledigen, oder einen
-     bestimmten Bereich zu bewachen.
+**Klassenfähigkeiten** Kleriker können "Untote" beherrschen, und in
+der Regel ab der zweiten Stufe klerikale Magie wirken. \index{Untote
+vertreiben} Um Untote zu beherrschen werden 2W6 geworfen. Liegt das
+Ergebnis über einem bestimmten Wert, erlangt der Kleriker für eine
+bestimmte Zeit die Kontrolle über die untoten Kreaturen.  Kleriker
+guter Gesinnung *vertreiben* die Untoten, während Kleriker böser
+Gesinnung die Untoten in ihren Dienst befehlen können, zum Beispiel um
+eine bestimmte Aufgabe zu erledigen, oder einen bestimmten Bereich zu
+bewachen.
 	 
-Klassenbeschränkungen
-:    Kleriker dürfen nur stumpfe Waffen benutzen.
+**Klassenbeschränkungen** Kleriker dürfen nur stumpfe Waffen
+benutzen.
 
 \enlargethispage{1cm}
 
 : Kleriker Stufen
 
-| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-|:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|---|
-| 1     |           0 | 1W    | 0  | - | - | - | - | - | - | - |
-| 2     |       1.500 | +1W   | 0  | 1 | - | - | - | - | - | - |
-| 3     |       3.000 | +1W   | 0  | 2 | - | - | - | - | - | - |
-| 4     |       6.000 | +1W   | 0  | 2 | 1 | - | - | - | - | - |
-| 5     |      12.000 | +1W   | +1 | 2 | 2 | - | - | - | - | - |
-| 6     |      25.000 | +1W   | +1 | 2 | 2 | 1 | 1 | - | - | - |
-| 7     |      50.000 | +1W   | +2 | 2 | 2 | 2 | 1 | 1 | - | - |
-| 8     |     100.000 | +1W   | +2 | 2 | 2 | 2 | 2 | 2 | - | - |
-| 9     |     200.000 | +1W   | +3 | 3 | 3 | 3 | 2 | 2 | - | - |
-| 10    |     300.000 | +1    | +3 | 3 | 3 | 3 | 3 | 3 | - | - |
-| 11    |     400.000 | +1    | +4 | 4 | 4 | 4 | 3 | 3 | - | - |
-| 12    |     500.000 | +1    | +4 | 4 | 4 | 4 | 3 | 3 | 1 | - |
-| 13    |     600.000 | +1    | +5 | 5 | 5 | 5 | 3 | 3 | 2 | - |
-| 14    |     700.000 | +1    | +5 | 6 | 5 | 5 | 3 | 3 | 2 | - |
-| 15    |     800.000 | +1    | +6 | 6 | 5 | 5 | 3 | 3 | 3 | - |
-| 16    |     900.000 | +1    | +6 | 6 | 5 | 5 | 4 | 4 | 3 | - |
-| 17    |   1.000.000 | +1    | +7 | 6 | 6 | 5 | 4 | 4 | 3 | 1 |
-| 18    |   1.100.000 | +1    | +7 | 6 | 6 | 5 | 4 | 4 | 3 | 2 |
-| 19    |   1.200.000 | +1    | +8 | 7 | 6 | 5 | 4 | 4 | 4 | 2 |
-| 20    |   1.300.000 | +1    | +8 | 7 | 6 | 5 | 4 | 4 | 4 | 3 |
-| 21+   | +100.000/St | +1/St | +9 | 7 | 6 | 5 | 5 | 5 | 4 | 3 |
+| Stufe |      EP | TP    | Thac0   | 1 | 2 | 3 | 4 | 5 |
+|:-----:|--------:|:-----:|:-------:|---|---|---|---|---|
+| 1     |       0 | 1W6   | 19 [0]  | - | - | - | - | - |
+| 2     |   1.500 | 2W6   | 19 [0]  | 1 | - | - | - | - |
+| 3     |   3.000 | 3W6   | 19 [0]  | 2 | - | - | - | - |
+| 4     |   6.000 | 4W6   | 19 [0]  | 2 | 1 | - | - | - |
+| 5     |  12.000 | 5W6   | 17 [+2] | 2 | 2 | - | - | - |
+| 6     |  25.000 | 6W6   | 17 [+2] | 2 | 2 | 1 | 1 | - |
+| 7     |  50.000 | 7W6   | 17 [+2] | 2 | 2 | 2 | 1 | 1 |
+| 8     | 100.000 | 8W6   | 17 [+2] | 3 | 3 | 2 | 2 | 1 |
+| 9     | 200.000 | 9W6   | 14 [+5] | 3 | 3 | 3 | 2 | 2 |
+| 10    | 300.000 | 9W6+1 | 14 [+5] | 4 | 4 | 3 | 3 | 2 |
+| 11    | 400.000 | 9W6+2 | 14 [+5] | 4 | 4 | 4 | 3 | 3 |
+| 12    | 500.000 | 9W6+3 | 14 [+5] | 5 | 5 | 4 | 4 | 3 |
+| 13    | 600.000 | 9W6+4 | 12 [+7] | 5 | 5 | 5 | 4 | 4 |
+| 14    | 700.000 | 9W6+5 | 12 [+7] | 6 | 5 | 5 | 5 | 4 |
 
 \index{Kleriker!Stufen}
 
 : Angriffstabelle Kleriker
 
-| Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
-|-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
-|   1-4 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
-|   5-6 | +1 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-|   7-8 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-|  9-10 | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 11-12 | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 13-14 | +5 |  5 | 6  |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 15-16 | +6 |  4 | 5  |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 17-18 | +7 |  3 | 4  |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 |
-| 19-20 | +8 |  2 | 3  |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 |
+-------------------------------------------------------------------
+ Stufe    9    8    7    6    5    4    3    2    1    0   -1   -2  
+                                                              
+------- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+   1-4   10   11   12   13   14   15   16   17   18   19   20   20  
+
+   5-8    8    9   10   11   12   13   14   15   16   17   18   19  
+
+  9-12    5    6    7    8    9   10   11   12   13   14   15   16  
+
+ 13-14    3    4    5    6    7    8    9   10   11   12   13   14   
+
+-------------------------------------------------------------------
+
 
 \index{Kleriker!Angriffstabelle}
 
@@ -398,19 +355,19 @@ Klassenbeschränkungen
 |:--------------:|:-:|:-:|:-:|:-:|:-:|:-:|:--|:-:|:-:|:---:|
 | Kleriker Stufe |   |   |   |   |   |   |   |   |   |     |
 | 1              | 7 | 9 |11 | - | - | - | - | - | - | -   |
-| 2              | 5 | 7 | 9 | 11| - | - | - | - | - | -   |
-| 3              | 3 | 5 | 7 | 9 | 11| - | - | - | - | -   |
-| 4              | V | 3 | 5 | 7 | 9 |11 | - | - | - | -   |
-| 5              | V | V | 3 | 5 | 7 | 9 |11 | - | - | -   |
-| 6              | Z | V | V | 3 | 5 | 7 | 9 |11 | - | -   |
-| 7              | Z | Z | V | V | 3 | 5 | 7 | 9 |11 | -   |
-| 8              | Z | Z | Z | V | V | 3 | 5 | 7 | 9 | 11  |
-| 9              | Z | Z | Z | Z | V | V | 3 | 5 | 7 |  9  |
-| 10             | Z | Z | Z | Z | Z | V | V | 3 | 5 |  7  |
-| 11             | Z | Z | Z | Z | Z | Z | V | V | 3 | 5   |
-| 12             | Z | Z | Z | Z | Z | Z | Z | V | V | 3   |
-| 13             | Z | Z | Z | Z | Z | Z | Z | Z | V | V   |
-| 14+            | Z | Z | Z | Z | Z | Z | Z | Z | Z | V   |
+| 2              | V | 7 | 9 | 11| - | - | - | - | - | -   |
+| 3              | V | V | 7 | 9 | 11| - | - | - | - | -   |
+| 4              | Z | V | V | 7 | 9 |11 | - | - | - | -   |
+| 5              | Z | Z | V | V | 7 | 9 |11 | - | - | -   |
+| 6              | Z | Z | Z | V | V | 7 | 9 |11 | - | -   |
+| 7              | Z | Z | Z | Z | V | V | 7 | 9 |11 | -   |
+| 8              | Z | Z | Z | Z | Z | V | V | 7 | 9 | 11  |
+| 9              | Z | Z | Z | Z | Z | Z | V | V | 7 |  9  |
+| 10             | Z | Z | Z | Z | Z | Z | Z | V | V |  7  |
+| 11             | Z | Z | Z | Z | Z | Z | Z | Z | V | V   |
+| 12             | Z | Z | Z | Z | Z | Z | Z | Z | Z | V   |
+| 13             | Z | Z | Z | Z | Z | Z | Z | Z | Z | Z   |
+| 14+            | Z | Z | Z | Z | Z | Z | Z | Z | Z | Z   |
 
 \index{Untote vertreiben}
 
@@ -434,87 +391,76 @@ zerstört werden.
 ### Zauberkundige
 \index{Zauberkundige}
 
-Primärattribut
-:    Intelligenz
+**Primärattribut** Intelligenz
 
-Trefferpunkte
-:    1W 
+**Trefferpunkte** 1W4 
 
-Klassenfähigkeiten
-:    Zauberkundige können Zauberkundigensprüche wirken. Um sie
-     vorzubereiten müssen sie Zeit aufwenden um den Spruch mit Hilfe
-     der magischen Aufzeichnungen im Zauberbuch zu studieren und sich
-     so einzuprägen. Das wirken eines Spruches ist für die
-     Zauberkundigen so anstrengend, dass die Einzelheiten des Spruches
-     nach dem Wirken vergessen werden. Der Spruch kann erst nach
-     erneuter Vorbereitung wieder gewirkt werden. Zauberkundige der
-     ersten Stufe können nur einen Spruch des ersten Grades pro Tag
-     wirken.
+**Klassenfähigkeiten** Zauberkundige können Zauberkundigensprüche
+wirken. Um sie vorzubereiten müssen sie Zeit aufwenden um den Spruch
+mit Hilfe der magischen Aufzeichnungen im Zauberbuch zu studieren und
+sich so einzuprägen. Das wirken eines Spruches ist für die
+Zauberkundigen so anstrengend, dass die Einzelheiten des Spruches nach
+dem Wirken vergessen werden. Der Spruch kann erst nach erneuter
+Vorbereitung wieder gewirkt werden. Zauberkundige der ersten Stufe
+können nur einen Spruch des ersten Grades pro Tag wirken.
 	
-     Zauberkundige der ersten Stufe haben zu Beginn 4 Sprüche in
-     ihrem Zauberbuch, und zwar *Magie lesen*, einen nach Wunsch
-     des Spielers ausgewählten Spruch, und zwei zufällig
-     ermittelte Sprüche. Alle weiteren Sprüche müssen im Spiel
-     gefunden bzw. erlernt werden.
+Zauberkundige der ersten Stufe haben zu Beginn 4 Sprüche in ihrem
+Zauberbuch, und zwar *Magie lesen*, einen nach Wunsch des Spielers
+ausgewählten Spruch, und zwei zufällig ermittelte Sprüche. Alle
+weiteren Sprüche müssen im Spiel gefunden bzw.  erlernt werden.
 	
 
-Klassenbeschränkungen
-:    Zauberkundige dürfen keine Waffen außer Dolchen
-     benutzen. Zauberkundige dürfen keine Rüstungen und
-     keine Schilde tragen.
+**Klassenbeschränkungen** Zauberkundige dürfen keine Waffen außer
+Dolchen benutzen. Zauberkundige dürfen keine Rüstungen und keine
+Schilde tragen.
 
 
 : Zauberkundige Stufen
 \index{Zauberkundige!Stufen}
 
-| Stufe |          EP | TW    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|---|---|---|
-| 1     |           0 | 1W    | 0  | 1 | - | - | - | - | - | - | - | - |
-| 2     |       2.500 | +2    | 0  | 2 | - | - | - | - | - | - | - | - |
-| 3     |       5.000 | +1W   | 0  | 3 | 1 | - | - | - | - | - | - | - |
-| 4     |      10.000 | +2    | 0  | 4 | 2 | - | - | - | - | - | - | - |
-| 5     |      20.000 | +1W   | +1 | 4 | 2 | 1 | - | - | - | - | - | - |
-| 6     |      40.000 | +1    | +1 | 4 | 2 | 2 | - | - | - | - | - | - |
-| 7     |      80.000 | +1W   | +1 | 4 | 3 | 2 | 1 | - | - | - | - | - |
-| 8     |     150.000 | +1    | +2 | 4 | 3 | 3 | 2 | - | - | - | - | - |
-| 9     |     300.000 | +1W   | +2 | 4 | 3 | 3 | 2 | 1 | - | - | - | - |
-| 10    |     450.000 | +1    | +2 | 4 | 4 | 3 | 3 | 2 | - | - | - | - |
-| 11    |     600.000 | +1W   | +3 | 4 | 4 | 4 | 3 | 3 | - | - | - | - |
-| 12    |     750.000 | +1    | +3 | 4 | 4 | 4 | 4 | 4 | 1 | - | - | - |
-| 13    |     900.000 | +1    | +3 | 5 | 5 | 4 | 4 | 4 | 2 | - | - | - |
-| 14    |   1.050.000 | +1    | +4 | 5 | 5 | 5 | 4 | 4 | 2 | - | - | - |
-| 15    |   1.200.000 | +1    | +4 | 5 | 5 | 5 | 4 | 4 | 3 | 1 | - | - |
-| 16    |   1.350.000 | +1    | +5 | 5 | 5 | 5 | 4 | 4 | 3 | 2 | - | - |
-| 17    |   1.500.000 | +1    | +5 | 6 | 5 | 5 | 4 | 4 | 3 | 2 | - | - |
-| 18    |   1.650.000 | +1    | +5 | 6 | 5 | 5 | 5 | 4 | 3 | 2 | 1 | - |
-| 19    |   1.800.000 | +1    | +6 | 6 | 5 | 5 | 5 | 4 | 4 | 3 | 2 | - |
-| 20    |   1.950.000 | +1    | +6 | 6 | 5 | 5 | 5 | 4 | 4 | 3 | 2 | - |
-| 21+   | +150.000/St | +1/St | +6 | 6 | 5 | 5 | 5 | 4 | 4 | 3 | 2 | 1 |
+| Stufe |          EP | TP    | Thac0   | 1 | 2 | 3 | 4 | 5 | 6 |
+|:-----:|------------:|:-----:|:-------:|---|---|---|---|---|---|
+| 1     |       0     | 1W4   | 19 [0]  | 1 | - | - | - | - | - |
+| 2     |       2.500 | 2W4   | 19 [0]  | 2 | - | - | - | - | - |
+| 3     |       5.000 | 3W4   | 19 [0]  | 2 | 1 | - | - | - | - |
+| 4     |      10.000 | 4W4   | 19 [0]  | 2 | 2 | - | - | - | - |
+| 5     |      20.000 | 5W4   | 19 [0]  | 2 | 2 | 1 | - | - | - |
+| 6     |      40.000 | 6W4   | 17 [+2] | 2 | 2 | 2 | - | - | - |
+| 7     |      80.000 | 7W4   | 17 [+2] | 3 | 2 | 2 | 1 | - | - |
+| 8     |     150.000 | 8W4   | 17 [+2] | 3 | 3 | 2 | 2 | - | - |
+| 9     |     300.000 | 9W4   | 17 [+2] | 3 | 3 | 3 | 2 | 1 | - |
+| 10    |     450.000 | 9W4+1 | 17 [+2] | 3 | 3 | 3 | 3 | 2 | - |
+| 11    |     600.000 | 9W4+2 | 14 [+5] | 4 | 3 | 3 | 3 | 2 | 1 |
+| 12    |     750.000 | 9W4+3 | 14 [+5] | 4 | 4 | 4 | 3 | 3 | 2 |
+| 13    |     900.000 | 9W4+4 | 14 [+5] | 4 | 4 | 4 | 3 | 3 | 3 |
+| 14    |   1.050.000 | 9W4+5 | 14 [+5] | 4 | 4 | 4 | 4 | 3 | 3 |
 
 : Angriffstabelle Zauberkundige
 \index{Zauberkundige!Angriffstabelle}
 
-| Stufe | AB |  9 |  8 |  7 |  6 |  5 |  4 |  3 |  2 |  1 |  0 | -1 | -2 |
-|-------+----+----+----+----+----+----+----+----+----+----+----+----+----|
-|   1-4 |  0 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 20 |
-|  5-7  | +1 |  9 | 10 | 11 | 12 | 14 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-|  8-10 | +2 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| 11-13 | +3 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 14-15 | +4 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 16-18 | +5 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 19-20 | +6 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
+-------------------------------------------------------------------
+ Stufe    9    8    7    6    5    4    3    2    1    0   -1   -2  
+                                                              
+------- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+   1-5   10   11   12   13   14   15   16   17   18   19   20   20  
+
+  6-10    8    9   10   11   12   13   14   15   16   17   18   19  
+
+ 11-14    5    6    7    8    9   10   11   12   13   14   15   16  
+
+-------------------------------------------------------------------
 
 
 : Rettungswürfe der Zauberkundigen 
 \index{Zauberkundige!Rettungswürfe}
 
-| Stufe                           | 1-5 | 6-10 | 11-15 | 16+ |
-|---------------------------------|-----|------|-------|-----|
-| Gift und Todesstrahlen          | 13  | 11   | 8     | 5 |
-| Zauberstäbe                     | 14  | 12   | 9     | 6 |
-| Lähmung und zu Stein erstarren  | 13  | 11   | 8     | 5 |
-| Drachenodem                     | 16  | 14   | 11    | 8 |
-| Zaubersprüche, -stecken, -ruten | 15  | 12   | 8     | 3 |
+| Stufe         | 1-5 | 6-10 | 11-14 |
+|---------------|-----|------|-------|
+| Gift          | 13  | 11   | 8     |
+| Zauberstäbe   | 14  | 12   | 9     |
+| Lähmung       | 13  | 11   | 8     |
+| Odem          | 16  | 14   | 11    |
+| Zaubersprüche | 15  | 12   | 8     |
 
 
 #### Ausrüstung Zauberkundige
@@ -524,42 +470,27 @@ Klassenbeschränkungen
 ### Diebe
 \index{Diebe}
 
-Primärattribut
-:    Geschicklichkeit
+**Primärattribut** Geschicklichkeit
 
-Trefferpunkte
-:    1W 
+**Trefferpunkte** 1W4
 
-Klassenfähigkeiten
-:    Diebe sind Meister des Hinterhalts. Wenn sie sich unerkannt von
-     hinten an ein Opfer anschleichen, greifen sie mit einem Bonus von
-     +4 an und verursachen doppelten Schaden. Ab Stufe 5 sogar
-     dreifachen, und ab Stufe 8 vierfachen Schaden.
+**Klassenfähigkeiten** Diebe sind Meister des Hinterhalts. Wenn sie
+sich unerkannt von hinten an ein Opfer anschleichen, greifen sie mit
+einem Bonus von +4 an und verursachen doppelten Schaden. Ab Stufe 5
+sogar dreifachen, und ab Stufe 8 vierfachen Schaden.
 
-     Diebe sind sprachbegabt, ab Stufe 3 können Diebe die meisten
-     Sprachen entziffern (80% Chance). Ab der 9. Stufe können Diebe
-     sogar magische Runen entziffern, und daher Sprüche von
-     Schriftrollen wirken. Allerdings besteht bei komplizierten
-     Sprüchen (solchen der 7. Stufe oder höher) eine 10% Chance, dass
-     der Spruch nicht so wirkt, wie der Dieb es erwartet.
+Diebe sind sprachbegabt, ab Stufe 3 können Diebe die meisten Sprachen
+entziffern (80% Chance). Ab der 9. Stufe können Diebe sogar magische
+Runen entziffern, und daher Sprüche von Schriftrollen wirken.
+Allerdings besteht bei komplizierten Sprüchen (solchen der 7. Stufe
+oder höher) eine 10% Chance, dass der Spruch nicht so wirkt, wie der
+Dieb es erwartet.
 
-     Diebe nutzen die **Rettungswürfe** der Zauberkundigen.
-     \index{Diebe!Rettungswürfe}
+Diebe nutzen die Rettungswürfe der Zauberkundigen.
+\index{Diebe!Rettungswürfe}
 
-Klassenbeschränkungen
-:    Diebe dürfen nur Lederrüstung und keine Schilde tragen.
-
-     Halblinge dürfen in der Klasse Dieb unbegrenzt aufsteigen.
-     Halblinge können Kämpfer *oder* Diebe sein.
-
-     Elfen dürfen in der Klasse Dieb unbegrenzt aufsteigen. Elfen
-     können Kämpfer, Zauberkundige, Diebe, Kämpfer/Zauberkundige oder
-     Kämpfer/Zauberkundige/Diebe sein.
-
-     Zwerge dürfen die Klasse Dieb zusätzlich zur Kämpferklasse
-     wählen (Kämpfer/Dieb). Der Stufenaufstieg in der Diebesklasse ist
-     für Zwerge unbegrenzt. 
-
+**Klassenbeschränkungen** Diebe dürfen nur Lederrüstung und keine
+Schilde tragen.
 
 : Diebe Stufen
 \index{Diebe!Stufen}
@@ -586,11 +517,9 @@ Klassenbeschränkungen
 
 ### Zwerge
 
-Primärattribut
-:     Konstitution
+**Primärattribut**  Konstitution
 
-Trefferpunkte
-:     1W
+**Trefferpunkte**  1W8
 
 #### Klassenfertigkeiten
 
@@ -610,28 +539,28 @@ Trefferpunkte
 
 : Elfen, Stufen
 
-| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-|:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|---|
-| 1     |       3.200 | +1    | 0  | 1 | - | - | - | - | - | - |
-| 2     |       4.000 | +1W   | 0  | 2 | 1 | - | - | - | - | - |
-| 3     |       8.000 | +1W   | 0  | 3 | 1 | - | - | - | - | - |
-| 4     |      13.000 | +1W   | +1 | 3 | 1 | 1 | - | - | - | - |
-| 5     |      20.000 | +1W   | +1 | 3 | 2 | 1 | - | - | - | - |
-| 6     |      40.000 | +1W   | +1 | 3 | 2 | 2 | - | - | - | - |
-| 7     |      60.000 | +1W   | +2 | 4 | 3 | 2 | 1 | - | - | - |
-| 8     |      90.000 | +1W   | +3 | 4 | 3 | 3 | 2 | - | - | - |
-| 9     |     130.000 | +1W   | +3 | 5 | 3 | 3 | 2 | 1 | - | - |
-| 10    |     200.000 | +1    | +4 | 5 | 3 | 3 | 3 | 2 | 1 | - |
-| 11    |     400.000 | +1    | +4 | 5 | 4 | 4 | 4 | 3 | 2 | 1 |
-| 12    |     800.000 | +1    | +5 | 6 | 5 | 5 | 4 | 4 | 3 | 2 |
-| 13    |     950.000 | +1    | +5 | 7 | 5 | 5 | 4 | 4 | 3 | 2 |
-| 14    |   1.100.000 | +1    | +6 | 7 | 6 | 5 | 4 | 4 | 3 | 2 |
-| 15    |   1.250.000 | +1    | +6 | 7 | 6 | 6 | 4 | 4 | 3 | 2 |
-| 16    |   1.400.000 | +1    | +7 | 8 | 6 | 6 | 5 | 4 | 3 | 2 |
-| 17    |   1.550.000 | +1    | +7 | 8 | 7 | 6 | 5 | 5 | 3 | 2 |
-| 18    |   1.700.000 | +1    | +8 | 9 | 8 | 6 | 5 | 5 | 3 | 2 |
-| 19    |   1.850.000 | +1    | +9 | 9 | 8 | 7 | 5 | 5 | 3 | 2 |
-| 20+   | +150.000/St | +1/St | +9 | 9 | 8 | 7 | 6 | 5 | 3 | 2 |
+| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 |
+|:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|
+| 1     |       3.200 | +1    | 0  | 1 | - | - | - | - | - |
+| 2     |       4.000 | +1W   | 0  | 2 | 1 | - | - | - | - |
+| 3     |       8.000 | +1W   | 0  | 3 | 1 | - | - | - | - |
+| 4     |      13.000 | +1W   | +1 | 3 | 1 | 1 | - | - | - |
+| 5     |      20.000 | +1W   | +1 | 3 | 2 | 1 | - | - | - |
+| 6     |      40.000 | +1W   | +1 | 3 | 2 | 2 | - | - | - |
+| 7     |      60.000 | +1W   | +2 | 4 | 3 | 2 | 1 | - | - |
+| 8     |      90.000 | +1W   | +3 | 4 | 3 | 3 | 2 | - | - |
+| 9     |     130.000 | +1W   | +3 | 5 | 3 | 3 | 2 | 1 | - |
+| 10    |     200.000 | +1    | +4 | 5 | 3 | 3 | 3 | 2 | 1 |
+| 11    |     400.000 | +1    | +4 | 5 | 4 | 4 | 4 | 3 | 2 |
+| 12    |     800.000 | +1    | +5 | 6 | 5 | 5 | 4 | 4 | 3 |
+| 13    |     950.000 | +1    | +5 | 7 | 5 | 5 | 4 | 4 | 3 |
+| 14    |   1.100.000 | +1    | +6 | 7 | 6 | 5 | 4 | 4 | 3 |
+| 15    |   1.250.000 | +1    | +6 | 7 | 6 | 6 | 4 | 4 | 3 |
+| 16    |   1.400.000 | +1    | +7 | 8 | 6 | 6 | 5 | 4 | 3 |
+| 17    |   1.550.000 | +1    | +7 | 8 | 7 | 6 | 5 | 5 | 3 |
+| 18    |   1.700.000 | +1    | +8 | 9 | 8 | 6 | 5 | 5 | 3 |
+| 19    |   1.850.000 | +1    | +9 | 9 | 8 | 7 | 5 | 5 | 3 |
+| 20+   | +150.000/St | +1/St | +9 | 9 | 8 | 7 | 6 | 5 | 3 |
 
 \index{Elfen!Stufen}
 
@@ -670,28 +599,23 @@ Trefferpunkte
 
 : Halblinge, Stufen
 
-| Stufe |          EP | TP    | AB | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-|:-----:|------------:|:-----:|:--:|---|---|---|---|---|---|---|
-| 1     |       3.200 | +1    | 0  | 1 | - | - | - | - | - | - |
-| 2     |       4.000 | +1W   | 0  | 2 | 1 | - | - | - | - | - |
-| 3     |       8.000 | +1W   | 0  | 3 | 1 | - | - | - | - | - |
-| 4     |      13.000 | +1W   | +1 | 3 | 1 | 1 | - | - | - | - |
-| 5     |      20.000 | +1W   | +1 | 3 | 2 | 1 | - | - | - | - |
-| 6     |      40.000 | +1W   | +1 | 3 | 2 | 2 | - | - | - | - |
-| 7     |      60.000 | +1W   | +2 | 4 | 3 | 2 | 1 | - | - | - |
-| 8     |      90.000 | +1W   | +3 | 4 | 3 | 3 | 2 | - | - | - |
-| 9     |     130.000 | +1W   | +3 | 5 | 3 | 3 | 2 | 1 | - | - |
-| 10    |     200.000 | +1    | +4 | 5 | 3 | 3 | 3 | 2 | 1 | - |
-| 11    |     400.000 | +1    | +4 | 5 | 4 | 4 | 4 | 3 | 2 | 1 |
-| 12    |     800.000 | +1    | +5 | 6 | 5 | 5 | 4 | 4 | 3 | 2 |
-| 13    |     950.000 | +1    | +5 | 7 | 5 | 5 | 4 | 4 | 3 | 2 |
-| 14    |   1.100.000 | +1    | +6 | 7 | 6 | 5 | 4 | 4 | 3 | 2 |
-| 15    |   1.250.000 | +1    | +6 | 7 | 6 | 6 | 4 | 4 | 3 | 2 |
-| 16    |   1.400.000 | +1    | +7 | 8 | 6 | 6 | 5 | 4 | 3 | 2 |
-| 17    |   1.550.000 | +1    | +7 | 8 | 7 | 6 | 5 | 5 | 3 | 2 |
-| 18    |   1.700.000 | +1    | +8 | 9 | 8 | 6 | 5 | 5 | 3 | 2 |
-| 19    |   1.850.000 | +1    | +9 | 9 | 8 | 7 | 5 | 5 | 3 | 2 |
-| 20+   | +150.000/St | +1/St | +9 | 9 | 8 | 7 | 6 | 5 | 3 | 2 |
+| Stufe |          EP | TP    | AB |
+|:-----:|------------:|:-----:|:--:|
+| 1     |       3.200 | +1    | 0  |
+| 2     |       4.000 | +1W   | 0  |
+| 3     |       8.000 | +1W   | 0  |
+| 4     |      13.000 | +1W   | +1 |
+| 5     |      20.000 | +1W   | +1 |
+| 6     |      40.000 | +1W   | +1 |
+| 7     |      60.000 | +1W   | +2 |
+| 8     |      90.000 | +1W   | +3 |
+| 9     |     130.000 | +1W   | +3 |
+| 10    |     200.000 | +1    | +4 |
+| 11    |     400.000 | +1    | +4 |
+| 12    |     800.000 | +1    | +5 |
+| 13    |     950.000 | +1    | +5 |
+| 14    |   1.100.000 | +1    | +6 |
+| 20+   | +150.000/St | +1/St | +9 |
 
 \index{Halblinge!Stufen}
 
@@ -754,8 +678,8 @@ neutral.
 ## Erfahrung
 \index{Erfahrung}
 
-### XP for Gold
-\index{XP for Gold}
+### Erfahrungspunkte für Gold
+\index{Gold}
 
 Für jede *gesicherte* Goldmünze erhält ein Charakter einen
 Erfahrungspunkt (1 GM = 1 EP). Als gesichert gilt: ausgegeben,
@@ -766,31 +690,23 @@ seinem Schatz zeichnen.
 GM bringen keine Erfahrungspunkte wenn der Charakter seine Münzen
 unfreiwillig verloren hat. Zum Beispiel weil sie ihm gestohlen wurden.
 
-### XP for Monsters
+### Erfahrungspunkte für überwundene Monster
 \index{Erfahrung!für Monster}
-Monster die *überwunden* werden erbringen ebenfalls Erfahrungspunkte,
-und zwar 100 EP pro Trefferwürfel. Ein Monster kann in diesem Sinne
+Monster die *überwunden* werden erbringen ebenfalls Erfahrungspunkte.
+Ein Monster kann in diesem Sinne
 nur überwunden werden, wenn es den Charakteren in irgendeiner Form
 Schwierigkeiten macht, und grundsätzlich eine Gefahr für die
 Charaktere darstellt.
 
-### XP fürs Überleben
+Folgende Tabelle gibt an, wieviele Erfahrungspunkte in Abhängigkeit
+von Stufe und Eigenschaften des Monsters veranschlagt werden.
 
-~~Charaktere, die eine ganze Spielrunde überleben, erhalten
-500 Erfahrungspunkte.~~^[Die Regel war zu Beginn der Kampagne
-    sicherlich gut, sie spielt aber für höhere Stufen keine große
-    Rolle mehr, und der Schwerpunkt sollte auch *XP for Gold* liegen]
 
 ### Erreichen neuer Stufen
 \index{Stufen}\index{Stufenaufstieg}\index{Erfahrungsstufen}
 Um eine neue Erfahrungsstufe zu erreichen, braucht ein Charakter die
 erforderliche Anzahl an Erfahrungspunkten *und* eine Nacht erholsamen
 Schlaf.
-
-**Ersatzcharaktere** \index{Ersatzcharaktere}
-starten mit Erfahrungspunkten in Höhe des am
-wenigsten erfahrenen Charakters am Tisch, und zwar *maximal mit 3000
-Erfahrungspunkten*.
 
 ## Geld und Ausrüstung
 \index{GM}\index{SM}\index{KM}

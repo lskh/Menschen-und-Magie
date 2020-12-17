@@ -445,7 +445,7 @@ Folgende Tabelle zeigt die durchnittlichen Werte und Wertespannen
 verschiedener Würfelformeln, die für die Ermittlung von Lebenspunkten
 und Schaden zur Anwendung kommen:
 
-: Wertebereiche und Spannen häufiger Würfelformeln
+: Wertebereiche häufiger Würfelformeln
 
 | Würfelformel | Wertebereich | Durchschnitt |
 |:------------:|:------------:|:------------:|
@@ -1749,6 +1749,69 @@ TODO: Tabellen um Schätze und magische Gegenstände zu entwickeln
 
 ### Zufallsbegegnungen im Dungeon
 
+Dungeon: alle 2 Phasen bei 1 auf W6
+
+: Auswahl der Zufallsbegegnungstabelle nach Dungeon-Level
+
+ Level     1     2     3     4     5     6
+-------- ----- ----- ----- ----- ----- -----
+   0      1-5    6 
+   1      1-4   5-6 
+   2      1-2   3-5    6
+   3       1    2-4   5-6
+   4            1-2   3-5    6
+   5             1    2-4   5-6
+   6                  1-2   3-5    6
+   7                   1    2-4   5-6
+   8                        1-2   3-5    6
+   9                         1    2-4   5-6
+   10                             1-2   3-6
+   11                              1    2-6
+   12+                                  1-6
+
+Die folgenden Tabellen gehen von einer Gruppenstärke von 3
+Spielercharakteren aus. Ab 5 Spielern sollten die erwürfelten Zahlen
+verdoppelt werden.
+
+: Dungeon-Begegnungen, Tabellen 1-3
+
+ 1-12  Tabelle 1             Tabelle 2           Tabelle 3
+------ --------------------- ------------------- ---------------------
+  1    1-6 Berserker         1-3 Aaskriecher     1-4 Höhlenbären
+  2    1-6 Räuber            1-3 Krokodile       1-3 Cockatrice
+  3    1-6 Tausendfüßlr.     1 Junger Drache     1 Erwachsener Drache
+  4    1-2 Wyrmlinge         1-3 Gargyle         1 Hydra, 4-6 Köpfe
+  5    2-8 Goblins           1 Gallertwürfel     1-6 Lykanthropen
+  6    2-8 Hobgoblins        2-8 Ghoule          1-3 Minotauren
+  7    2-12 Kobolde          2-8 Gnolle          1-6 Mumien
+  8    2-12 NSCs             2-8 Echsenmenschen  2-12 NSCs
+  9    2-8 Orks              1-3 Medusen         1-4 Oger
+  10   2-12 Skelette         2-12 NSCs           1-6 Skorpione
+  11   1-3 Riesenspinnen     1-4 Thoule          1-6 Riesenspinnen
+  12   2-8 Zombies           1-4 Wights          1-4 Wraiths
+
+: Dungeon-Begegnungen, Tabellen 4-6
+
+ 1-12  Tabelle 4             Tabelle 5           Tabelle 6
+------ --------------------- ------------------- ---------------------
+  1    1-2 Basilisken        1-2 Alte Drachen    1-4 Zyklopen   
+  2    1-2 Große Drachen     1-2 Efreeti         1 Uralter Drache
+  3    1 Elemrntar 8 TW      1 Elementar 12 TW   1 Elementar 16 TW   
+  4    1-2 Wyrmlinge         1-3 Gargyle         1 Hydra, 4-6 Köpfe
+  5    2-8 Goblins           1 Gallertwürfel     1-6 Lykanthropen
+  6    2-8 Hobgoblins        2-8 Ghoule          1-3 Minotauren
+  7    2-12 Kobolde          2-8 Gnolle          1-6 Mumien
+  8    2-12 NSCs             2-8 Echsenmenschen  2-12 NSCs
+  9    2-8 Orks              1-3 Medusen         1-4 Oger
+  10   2-12 Skelette         2-12 NSCs           1-6 Skorpione
+  11   1-3 Riesenspinnen     1-4 Thoule          1-6 Riesenspinnen
+  12   2-8 Zombies           1-4 Wights          1-4 Wraiths
+
+### Fallen
+
+: 1W12 Fallen
+
+
 ### One-Page Dungeon
 
 TODO: Kopiervorlage One-Page-Dungeon
@@ -2345,12 +2408,12 @@ Eine Kampfrunde (6-10 sek.)
 Wandelnde Monster
 ----------------------------
 
-Dungeon: alle 2 Phasen bei 1 auf W6
 
 Wildnis:  einmal pro Hex bzw. pro Tag bei 1-2 auf W6, einmal pro Nacht
 bei 1-2 auf W6
 
 1-2 erste Wache, 3-4 zweite Wache, 5-6 dritte Wache
+
 
 Überraschung
 ---------------------------------
@@ -2462,6 +2525,18 @@ Langbogen              2         70'(23 m)  140'(46 m)   210'(70 m)
 Armbrust, schwer       1/2       80'(26 m)  160'(52 m)   240'(80 m)
 
 ---------------------------------------------------------------------
+
+
+Deckung
+-----------
+
+Im Fernkampf sollten als weitere Modifikatoren, und als Chance für
+taktisches Spiel, Modifikatoren für Deckung berücksichtigt werden. Je
+nach Qualität und Beschreibung können diese Modifikatoren zwischen -1
+und -4 liegen. Maximale Deckung --- vollständig hinter einem Fels
+verborgen --- kann Treffer schlicht unmöglich machen, dann kann der in
+Deckung befindliche Charakter aber selbst auch keine Fernkampfangriffe
+ausführen.
 
 
 Fallschaden
