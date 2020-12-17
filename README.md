@@ -59,11 +59,13 @@ You can install these packages on Debian / Ubuntu based Linux systems like
 this:
 
 ```shell
-sudo apt install pandoc texlive-latex-recommended make imagemagick
+sudo apt install pandoc texlive texlive-latex-recommended texlive-latex-extras \
+                 texlive-luatex texlive-lang-german texlive-fonts-extra make \
+                 imagemagick inkscape
 ```
 
 On Arch Linux probably something like:
 
 ```shell
-sudo pacman -S make pandoc texlive-core imagemagick
+sudo pacman -S make pandoc texlive imagemagick inkscape
 ```
