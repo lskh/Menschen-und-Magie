@@ -51,7 +51,7 @@ wandererbill73@gmail.com.
 In order to build a copy of *Menschen & Magie* you'll need the following
 software packages:
 
- - pandoc
+ - pandoc 2.9.2.1 or lower
  - texlive-latex-recommended
  - make
 
@@ -69,3 +69,7 @@ On Arch Linux probably something like:
 ```shell
 sudo pacman -S make pandoc texlive imagemagick inkscape
 ```
+
+Current Arch Linux uses pandoc 2.11.2 which introduced some changes
+causing the build process to fail. Have a look at the Makefile for a
+workaround.

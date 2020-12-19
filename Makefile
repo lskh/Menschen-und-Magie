@@ -1,3 +1,13 @@
+# as of now M&M does only build properly with pandoc 2.9
+# if your system has got pandoc 2.10 or higher, you'll have
+# to install pandoc 2.9 manually and put a symlink named 
+# pandoc-2.9 in your $PATH
+# if you want to use your standard pandoc uncomment the 
+# second line hereafter:
+
+PANDOC=pandoc-2.9
+# PANDOC=pandoc
+
 all: Spielerhandbuch.pdf Spells.pdf Hausregeln2020.pdf Hausregeln2021.pdf
 	cd cover; make
 
@@ -5,7 +15,7 @@ gridmaps:
 	cd gridmaps ; make all
 
 Spielleiterbuch.tex: Spielleiterbuch.md Makefile template.ltx gridmaps
-	pandoc -s -t latex --template template.ltx \
+	$(PANDOC) -s -t latex --template template.ltx \
 	-f markdown+implicit_figures \
 	--variable lang=de \
 	--variable documentclass=memoir \
@@ -17,7 +27,7 @@ Spielleiterbuch.tex: Spielleiterbuch.md Makefile template.ltx gridmaps
 .PRECIOUS: %.tex
 
 %.tex: %.md Makefile license.md template.ltx 
-	pandoc -s -t latex --template template.ltx \
+	$(PANDOC) -s -t latex --template template.ltx \
 	-f markdown+implicit_figures \
 	--variable lang=de \
 	--variable documentclass=memoir \
