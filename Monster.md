@@ -103,13 +103,14 @@ werden. Individuen haben Wertgegenstände in Höhe von 2-12 Silbermünzen
 (SM) bei sich, und besitzen mit einer Wahrscheinlichkeit von 5% 
 *einen* zufällig bestimmten magischen Gegenstand.
 
-> **Normale Menschen:** RK 9 [10], TW 1, #AT 1 (unbewaffnet 1-3
->, bewaffnet 1-6)
+> **Normale Menschen:** RK 9 [10], TW 1, BW 12" (36 m), 
+> S: 1-6 oder nach Waffe, unbewaffnet 1-2
 
 Gelegentlich
 werden Menschen mit Charakterklassen angetroffen, die dann
 entsprechend der Regeln mehr Trefferwürfel, und besondere Fähigkeiten
-haben können.
+haben können. Die Stufe des entsprechenden Charakters kann mit
+1W4+1W10 zufällig bestimmt werden.
 
 Kämpfer habe zu *je* 5% pro Stufe eine magische Rüstung,
 einen magischen Schild, und ein magisches Schwert.
@@ -120,10 +121,17 @@ magischen Ring und einen sonstigen magischen Gegenstand
 Kleriker haben zu *je* 5% pro Stufe eine sonstige magische Waffe, eine
 magische Rüstung, und einen magischen Schild.
 
+Es ist unwahrscheinlich, dass solche einzelnen höherstufigen
+Charaktere alleine angetroffen werden. Sie werden 1-8 Gefolgsleute
+oder Mietlinge bei sich haben. Dabei kann es sich um normale Menschen
+handeln, oder auch um Charaktere mit Klassen bis maximal zwei Stufen
+unter der Stufe des Hauptcharakters.
+
 Sonstige Soldaten oder Söldner, haben im Zeifel RK 6 [13], entsprechend einem einfachen Kettenhemd,
 Schuppenpanzer, beschlagenem Leder oder ähnlichem. 
 
-> **Soldaten:** RK 6 [13], TW 1, #AT 1 (1-6)
+> **Soldaten:** RK 6 [13], TW 1, BW 9" (27 m), S: 1-6 oder nach
+> Waffe
 
 Soldaten sind in weitläufiger Umgebung in der Regel beritten (Leichte
 Kavallerie 40%, mittlere Kavallerie 40%, Fußsoldaten 20%). Zu 50% sind
@@ -131,7 +139,7 @@ alle Soldaten mit Fernkampfwaffen (Bögen, Armbrust, Wurfspeeren)
 ausgerüstet, und zu 10% mit größeren Belagerungsmaschinen wie z.B.
 Katapulten oder Rammböcken.
 
-![Ein Söldner](img/pd/mercenary.png)
+![Zwei Mietlinge](img/ip/hirelings.png)
 
 Die kulturellen Eingenheiten der angetroffenen Menschen hängen, von
 der Umgebung, und Geografie ab. 
@@ -168,6 +176,7 @@ Faustregel gilt folgende "militärische" Struktur:
  Klerikern begleitet; die o.g. Angaben für Kämpfer beziehen sich dann
  einfach auf Kleriker.
 
+
 Als Reit-, Zug- und Arbeitstiere benutzen Menschen in der Regel
 Herdentiere wie Pferde, Kamele, Rinder, aber auch z.B. Elefanten.
 Selten verwenden Menschen auch Chimären oder Riesentiere.
@@ -178,17 +187,34 @@ Bei Lykanthropen (wörtlich Wolfsmenschen) handelt es sich um normale
 Menschen, die von der infektiösen *Lykanthropie* befallen sind, und
 sich daher ausgelöst durch bestimmte Ereignisse in eine - in aller
 Regel monströse - Tierform
-verwandeln, und sich dann meistens chaotisch, aggressiv, und
-allgemein "böse" und monströs verhalten. Klassische Beispiele sind die
+verwandeln. Sie verhalten sich dann meistens chaotisch, aggressiv, und
+allgemein "böse" und monströs. Klassische Beispiele sind die
 Werwölfe, aber auch Wereber, Wertiger, Werbären und Werratten sind in
-der Fantasy-Welt nicht unüblich. Allgemein ist die Lykanthropie in
+der Fantasy-Welt nicht unüblich. 
+
+>**Werwolf:** RK 5 [14], TW 4, BW 15" (45 m), S: 1-6 und Lykanthropie,
+>V: nur Silberwaffen sind effektiv
+
+Allgemein ist die Lykanthropie in
 Kombination mit jeder Tierart denkbar (siehe Raubtiere/Herdentiere),
 und die resultierende Werform sollte 1-2 Trefferwürfel mehr haben, als
 die entsprechende Tierart. Die übrigen Spielwerte und Eigenschaften
 mit Ausnahme von Intelligenz und Gesinnung entsprechen der jeweiligen
-Tierart.
+Tierart. Der Übergang zu Tiermenschen, die sich in normale Menschen
+verwandeln können, ist fließend.
 
->**Werwolf:** RK 5 [14], TW 4, BW 15 (XX m), chaotisch
+Lykanthropische Eigenschaften
+
+ 1W8  Eigenschaft
+----- -----------------------------------------------
+ 1    Verletzbar *nur durch* Silberwaffen 
+ 2    Wahre Namen
+ 3    Tierform ist die "normale" Form
+ 4    Überraschen bei 3 in 6
+ 5    
+ 6
+ 7
+ 8
 
 In der Regel verhält sich der
 sonst *neutrale* Mensch in seiner "Werform" chaotisch. Eine
@@ -197,10 +223,13 @@ traditionell wichtige Ausnahme ist in Anlehnung an den Charakter
 seiner menschlichen Form *rechtschaffen* verhält.
 
 Die Lykanthropie wird als infektiöse Krankheit auf alle Menschen
-übertragen, die von einem Lykanthropen verletzt werden. Die Erkrankung
+übertragen, die von einem Lykanthropen verletzt werden, und dabei mehr
+als die Hälfte ihrer Trefferpunkte verlieren. Die Erkrankung
 bricht nach einer Inkubationszeit von 1-6 Wochen aus, und zeigt sich
 dann bei dem betroffenen Menschen das erste mal, sobald der
-entsprechende Auslöser auftritt.
+entsprechende Auslöser auftritt. Lykanthropie kann geheilt werden,
+sofern *vor* der ersten Verwandlung ein *Krankheiten heilen* Zauber
+gewirkt wird.
 
 : 1W4 Auslöser für Lykanthropie
 
@@ -217,12 +246,34 @@ ein (z.B. 5% pro Tag nach Ende der Inkubationszeit). Der Betroffene
 erkennt dann, dass er von der Lykanthropie befallen ist, und dass er
 sich willentlich in seine Werform verwandeln kann.
 
-Lykanthropen sind meistens Einzelgänger (50%), kommen aber auch in
-Gruppen von 2-20 Individuen vor (50%).
+Lykanthropen sind häufig Einzelgänger (50%), kommen aber auch in
+Packs von 2-8 Individuen vor (50%). Bei 2-5 Individuen handelt es sich
+um eine Gruppe von Erwachsenen. Bei 6 oder mehr um eine Familie
+bestehend aus 2 Erwachsenen und mehreren Kindern/Jungtieren. Wird
+eines der Kinder angegriffen, kämpft die Mutter für 4 Runden mit drei
+Angriffen pro Runde. Wird die Mutter angegriffen, kämpft der Vater in
+allen folgenden Runden mit 2 Angriffen pro Runde. Sollten beide Eltern
+getötet werden, gelten die Kinder/Jungtiere automatisch als
+Unterworfen. Im Lager von Lykanthropen finden sich 1-4 solcher Packs,
+sowie normale Tiere der entsprechenden Art in etwa der Hälfte der Zahl.
+Lykanthropen haben in Ihrem Lager einen Schatz des Typs C.
 
 ### Doppelgänger
 
-Ähnlich den Lykanthropen sind die Doppelgänger ...
+Ähnlich den Lykanthropen sind die Doppelgänger. Es handelt sich dabei
+um monströse Humanoide, die nach einer gewissen Zeit der Beobachtung
+perfekt die Gestalt und den Habitus eines bestimmten Menschen oder
+Menschenähnlichen annehmen
+können. Sie töten dann die jeweilige Person, und nehmen
+deren Rolle ein, bis sie Ihr nächstes Opfer ausgemacht haben.
+
+>**Doppelgänger** RK 5 [14], TW 4, BW 9" (27 m), S: 1-6 bis 1-12, V:
+>Immun gegen Schlaf- und Bezauberungs-Sprüche, Rettungswürfe wie
+>Kämpfer der Stufe 10
+
+Doppelgänger treten meistens einzeln auf, können aber auch in Gruppen
+von 3-12 Individuen vorkommen. In Ihrem Lager haben sie einen Schatz
+des Typs E.
 
 ## Fantasyvölker
 
@@ -238,7 +289,10 @@ Silbermünzen bei sich, und haben zu 5% einen zufälligen magischen
 Gegenstand. Fantasyvölker mit Charakterklassen haben magische
 Gegenstände entsprechend ihrer Klassenstufe (siehe unter Menschen).
 
->**Elfen/Zwerge:** RK 8 [11] oder nach Rüstung, TW 1, #AT 1 (1-6)
+>**Elfen** RK 8 [11] oder nach Rüstung, TW 1, BW 15" (45 m), S: 1-6 oder nach Waffe
+
+>**Zwerge** RK 8 [11] oder nach Rüstung, TW 1, BW 9" (27 m), S: 1-6
+>oder nach Waffe
 
 Siedlungsformen richten sich nach der jeweiligen Kultur - Wohnbäume
 für Elfen, Bergwerke und unterirdische Festungen für Zwergen und
@@ -290,19 +344,20 @@ aber auch Wassermänner, Nixen, Meervolk
 Fluss- und Waldgeister, je nach Umgebung in der sie angetroffen
 werden. 
 
-> **Fee:** RK 3 [16], TW 1/2, willkürliche Unsichtbarkeit, geflügelt
-> (BW 12"/18"), an das Feenreich gebunden, kann einen 
-> *begrenzten Wunsch* wirken.
+> **Fee:** RK 3 [16], TW 1/2, BW 12"/18" (36 m/54 m), S: kann einen
+> begrenzten Wunsch wirken, V: willkürliche Unsichtbarkeit, geflügelt,
+> an das Feenreich gebunden.
 
 ![Eine Fee mit Libelle als Reittier](img/pixie.png)
 
-> **Pukka:** RK 6 [13], TW 1, Unverträglichkeit von Eisen,
-> Magiebegabt, Menschenfresser
+> **Pukka:** RK 6 [13], TW 1, BW 12" (36 m), S: 1-6, Menschenfresser
+> magiebegabt wie Stufe 3 Zauberkundiger, V: Unverträglichkeit von
+> Eisen, an das Feenreich gebunden.
 
 ![Pukkas und eine Hexe](img/pd/witchandpukkas.png)
 
 Feenwesen treten einzeln, in Kleingruppen von
-1-6, oder in Gruppen von 10-100 auf, befinden sich zu 50% in ihrem
+1-6, oder in größeren Gruppen von 10-100 auf, befinden sich zu 50% in ihrem
 Lager und haben dort die Schatztypen B, C oder D.
 
 : 1W6 Größenstufen für Feenwesen
@@ -357,33 +412,33 @@ jeweils nächsten Größenstufe angeführt, und falls sich mehr als 60
 Individuen in einer Gruppe finden, wird der Stamm von einem Anführer
 jeweils 2 Größenstufen höher angeführt. 
 
-![Ein tanzender Goblin](img/pd/dancinggoblin.png)
+> **Orks:** RK 6 [13], TW 1, S: 1-6 oder nach Waffe
 
 Goblinoide befinden sich zu 50% in ihrem Lager und haben dann dort
 einen Schatz der Klasse D. Außerdem tragen einzelne Individuen 3-18
-Kupfer münzen bei sich.
+Kupfer- oder Silbermünzen bei sich.
 
 Als Nichtspielercharaktere können einzelne Goblinoide nach Ermessen
 der Spielleitung auch Charakterklassen und -stufen haben, und können
 dann auch entsprechend mehr Trefferwürfel und auch magische
-Gegenstände haben.
+Gegenstände besitzen.
 
 : 1W6 Goblinoide Größenstufen
 
-| 1W6 | Größe | Rüstungsklasse | Trefferwürfel |
-|:----:|:-------|--------------|-------------|
-| 1 | Kobolde | 7 [12] | 1/2 |
-| 2 | Goblins | 6 [13] | 1-1 |
-| 3 | Orks | 6 [13] | 1 |
-| 4 | Hobgoblins | 5 [14] | 2 |
-| 5 | Grottenschrate | 5 [14] | 3+1 |
-| 6 | Oger | 5 [14] | 4+1 |
+| 1W6 | Größe | RK | TW | Schaden |
+|:----:|:-------|------|------------|
+| 1 | Kobolde | 7 [12] | 1/2 | 1-4 bis 1-6 |
+| 2 | Goblins | 6 [13] | 1-1 | 1-4 bis 1-6 |
+| 3 | Orks | 6 [13] | 1 | 1-6 oder nach Waffe | 
+| 4 | Hobgoblins | 5 [14] | 2 | 1-6 bis 1-8 |
+| 5 | Grottenschrate | 5 [14] | 3+1 | 1-6 bis 2-8 |
+| 6 | Oger | 5 [14] | 4+1 | 3-8 bis 1-10 |
 
-![Ein grübelnder Oger](img/pd/sittingogre.png){width=.5\pagewidth}
+![Ist dieser Ork eine Gefahr?](img/ip/armoredorc.png)
 
-: 1W6 Goblinoide Eigenschaften
+: 1W8 Goblinoide Eigenschaften
 
-| 1W6 | Eigenschaft |
+| 1W8 | Eigenschaft |
 |:---:|:---------------|
 | 1 | Dunkelsicht |
 | 2 | Lichtscheu (-1 im Kampf bei Sonnenlicht) |
@@ -391,6 +446,9 @@ Gegenstände haben.
 | 4 | Berserkergang (+2 im Kampf) |
 | 5 | Nilbog (siehe Text) |
 | 6 | natürliche Magiebegabung wie Stufe 2 ZK |
+| 7 | Moral +1 | 
+| 8 | 100 bis 600 GM im Marschgepäck |
+
 
 Nilbogs heilen verlorene Trefferpunkte, wenn
 sie verletzt werden, greifen
@@ -429,15 +487,13 @@ etwas origineller Ausgestaltet werden:
 | 5 | Drachen |
 | 6 | Raubtiere |
 
-### Morlocks
 
 ## Tiermenschen
 
 Bei den Tiermenschen handelt es sich um anthropomorphe Tiere.
 Klassische Beispiele sind Hyänenmenschen (Gnolle), Echsenmenschen, 
 Troglodyten, Fischmenschen (Sahuagin), aber auch Katzenmenschen,
-Dinosauriermenschen und Insektenmenschen sollen zum Beispiel 
-vorkommen. 
+Dinosauriermenschen und Insektenmenschen sollen vorkommen. 
 
 Um eine
 Tiermenschenart zu erzeugen, sollte auf einer der Tiertabellen
@@ -452,9 +508,9 @@ Richtwerte:
 * 1-4 Trefferwürfel (nach Ermessen der Spielleitung evtl. auch
  Charakterklassen)
 * Rüstungsklasse 7-3 ([12]-[16])
-* Schaden (1W100): 01-60: menschliche Waffen (1-6, oder variabler
- Waffenschaden), 61-90: 2 Klauenangriffe (1-6/1-6), 91-00: 2
- Klauenangriffe und 1 Biss (1-6/1-6/1-6)
+* Schaden (1W100): 01-60: menschliche Waffen (1-6 oder je nach Waffe),
+  61-90: 2 Klauenangriffe (1-6/1-6), 91-00: 2 Klauenangriffe und 1 Biss
+  (1-6/1-6/1-6)
 
 : 1W6 Eigenschaften von Tiermenschen
 
@@ -506,9 +562,9 @@ Schaden anrichten.
 | 5 | feiner Geruchssinn (Wahrnehmung 4/6) |
 | 6 | Wahrer Name |
 | 7 | zwei Köpfe (dann Ettin genannt) |
+| 8 | Nur ein Auge, ein Zyklop, -2 auf Fernkampfangriffe |
 
-
-![Dieser Riese schläft zum Glück](img/pd/sleepinggiant.png)
+![Ein Zyklop](img/ip/cyclops.png)
 
 Riesen sind an den erstaunlichsten Orten anzutreffen und nennen
 Behausungen von unterirdischen Höhlen, über Tierställe und gewaltige
@@ -543,56 +599,131 @@ Element beziehen.
 Untote haben einige gemeinsame Eigenschaften: sie sind bis auf
 wenige Ausnahmen immun gegen *Schlaf* und *Bezauberungs*-Sprüche.
 
-![Tanz der Untoten](img/pd/totentanz.png)
+![Ein Skelett](img/ip/skeleton.png)
 
-: 1Wx Machtstufen von Untoten
+: 1W12 Machtstufen von Untoten
 
-| 1Wx   | Typisches Beispiel | Anzahl | TW | RK |
+| 1W12 | Typisches Beispiel | Anzahl | TW | RK |
 |:--:|--------------------|--------|------|----|
-| 1 | Skelett | 3-30 | 1/2-1 | 7 | 
-| 2 | Zombie | 3-30 | 1-2 | 8 |
-| 3 | Ghul | 2-24 | 2 | 6 |
-| 4 | Schatten |  | 2-3 | 7 |
-| 5 | Gruftbewohner (Wight) | 2-24 |  3 | 5 |
-| 6 | Unhold (Ghast) | 1-6 | 4 | 4 |
-| 7 | Todesalb (Wraith) | 2-16 | 4-5 | 3 |
-| 8 | Mumie | 1-12 | 5-6 | 3 |
-| 9 | Schreckgespenst (Spectre) | 1-8 | 6-7 | 2 |
-| 10 | Todesfee (Banshee) | 1 | 7 | 0 |
-| 11 | Vampir | 1-6 | 7-9 | 2 |
-| 12 | Geist | 1 | 10 | 0 |
-| 13 | Leichnam (Lich) | 1 | 11+ | 0 | 
+| 1 | Skelett/Zombie | 3-30 | 1/2-2 | 7-8 [11-12] |
+| 2 | Ghul | 2-24 | 2 | 6 [13] |
+| 3 | Schatten | 2-24 | 2-3 | 7 [12] |
+| 4 | Gruftbewohner (Wight) | 2-24 |  3 | 5 [14] |
+| 5 | Unhold (Ghast) | 1-6 | 4 | 4 [15] |
+| 6 | Todesalb (Wraith) | 2-16 | 4-5 | 3 [16] |
+| 7 | Mumie | 1-12 | 5-6 | 3 [16] |
+| 8 | Schreckgespenst (Spectre) | 1-8 | 6-7 | 2 [17] |
+|  9 | Todesfee (Banshee) | 1 | 7 | 0 [19] |
+| 10 | Vampir | 1-6 | 7-9 | 2 [17] |
+| 11 | Geist | 1 | 10 | 0 [19] |
+| 12 | Leichnam (Lich) | 1 | 11+ | 0 [19] | 
 
-: 1W20 untote Eigenschaften
+: 22 untote Eigenschaften
 
-| 1W20 | Eigenschaft  |
+| 1W10 + Stufe | Eigenschaft 1-4 x würfeln |
 |:--:|-----------------------------|
-| 1 | nimmt nur halben Schaden |
-| 2 | Stufenraub |
-| 3 | Stufenraub x 2 |
-| 4 | Lähmende Berührung |
-| 5 | Int. 13, magiebegabt wie ZK entsprechender Stufe |
-| 6 | Stärkeraub |
-| 7 | Geisterheulen: Rettungswurf oder *Furcht* |
-| 8 | langsam, BW 6" |
-| 9 | schnell, BW 12" |
-| 10 | Unsichtbar, nur ein Schatten |
-| 11 | gasförmig, kann duch Spalten und Schlüssellöcher gleiten |
+|  1 | langsam, BW 6" |
+|  2 | nimmt nur halben Schaden |
+|  3 | Verwesungsgestank |
+|  4 | Lähmende Berührung |
+|  5 | Verursacht Krankheit |
+|  6 | Unsichtbar, nur ein Schatten |
+|  7 | Stärkeraub |
+|  8 | Silberwaffen machen vollen Schaden | 
+|  9 | Stufenraub |
+| 10 | Silberwaffen machen halben Schaden | 
+| 11 | Opfer wird nach 24 Stunden zu Untotem gleicher Art |
+| 112| Kann außer durch Magie nur durch Feuer geschädigt werden |
+|  7 | Geisterheulen: Rettungswurf oder *Furcht* |
 | 12 | Resistenz gegen nichtmagische Waffen |
-| 13 | Verursacht Krankheit |
-| 14 | Kann außer durch Magie nur durch Feuer geschädigt werden |
-| 15 | Silberwaffen machen halben Schaden | 
-| 16 | Silberwaffen machen vollen Schaden | 
-| 17 | Opfer wird nach 24 Stunden zu Untotem gleicher Art |
-| 18 | Verwesungsgestank |
-| 19 | Zauberkruke |
 | 20 | Eisige Berührung 1-10 Punkte Schaden |
+|  9 | schnell, BW 12" |
+|  3 | Stufenraub x 2 |
+|  5 | Int. 13, magiebegabt wie ZK entsprechender Stufe |
+| 11 | gasförmig, kann duch Spalten und Schlüssellöcher gleiten |
+| 19 | Zauberkruke |
 
 #### Geschichten mit Untoten
 
 ## Affen
 
 Paviane, Gorillas, Weiße Affen, geflügelte Affen
+
+## Raubtiere
+
+### Wiesel, Frettchen und Marder
+
+### Wölfe 
+
+Wölfe und andere hundeartige Raubtiere kommen fast in jedem Ökosystem
+vor. Normale Wölfe sind etwas zähere Kämpfer als Menschen, daher
+bekommen sie zwei Trefferwürfel. Als Rüstungsklasse kann man, wie für
+alle wilden Tiere 6 annehmen, für scheue und eher harmlose Wölfe
+vielleicht eher eine 7, für sehr gefährliche, kampferprobte und
+erfahrene Wölfe eher eine 5.
+
+> **Normale Wölfe** Anzahl 2-20, RK 7[12], TW 2, S:1-6, BW 
+> 16"/54 m
+
+Ein Rudel wolfsartiger Raubtiere besteht in der Regel aus einem
+Alpha-Tier (+1 TW) und einigen Jungtieren (-1 TW), die ungefähr 
+1/4 der Rudelstärke entsprechen. Gefangene Jungtiere können gezähmt
+und Abgerichtet werden.
+
+: 1W20 Eigenschaften wolfsartiger Raubtiere
+
+| 1W20  | Eigenschaft, 1W4 mal würfeln             |
+
+: 22 untote Eigenschaften
+
+| 1W10 + Stufe | Eigenschaft 1-4 x würfeln |
+|:--:|-----------------------------|
+|  1 | langsam, BW 6" |
+|  2 | nimmt nur halben Schaden |
+|  3 | Verwesungsgestank |
+|  4 | Lähmende Berührung |
+|  5 | Verursacht Krankheit |
+|  6 | Unsichtbar, nur ein Schatten |
+|  7 | Stärkeraub |
+|  8 | Silberwaffen machen vollen Schaden | 
+|  9 | Stufenraub |
+| 10 | Silberwaffen machen halben Schaden | 
+| 11 | Opfer wird nach 24 Stunden zu Untotem gleicher Art |
+| 12 | Kann außer durch Magie nur durch Feuer geschädigt werden |
+| 13 | Geisterheulen: Rettungswurf oder *Furcht* |
+| 14 | Resistenz gegen nichtmagische Waffen |
+| 15 | Eisige Berührung 1-10 Punkte Schaden |
+| 16 | schnell, BW 12" |
+| 17 | Stufenraub x 2 |
+| 18 | Int. 13, magiebegabt wie ZK entsprechender Stufe |
+| 19 | gasförmig, kann duch Spalten und Schlüssellöcher gleiten |
+| 20 | Zauberkruke |
+| 21 | | 
+| 22 | |
+
+#### Geschichten mit Untoten
+
+## Affen
+
+: Größenstufen von Affen
+
+ 1W4   Stufe
+------ --------------------------------------------------
+ 1     10-100 Äffchen, RK 5 [14], TW 1/2
+ 2     3-30 Pavian, RK 6 [13], TW 1-2
+ 3     2-20 Schimpansen, RK 7 [12], TW 2-3
+ 4     2-20 Gorillas, RK 5 [14], TW 3
+
+: Ungewönliche Eigenschaften von Affen
+
+ 1W6   Eigenschaft
+------ --------------------------------------------------
+ 1     Albino
+ 2     Menschenfresser
+ 3     geflügelt, BW 15" (45 m)
+ 4     Intelligenz 8+, dann auch zu 50% sprachbegabt
+ 5     geschickte Werfer, Fernkampfangriff wie Schleuder
+ 6     Reißzähne, Schaden +2
 
 ## Raubtiere
 
@@ -925,6 +1056,8 @@ Golems, Roboter, Automata
  Gargyle
 Unsichtbarer Schleicher
 
+![Ein Konstrukt](img/ip/construct.png)
+
 : 1W20 Eigenschaften magischer Konstrukte
 
 | 1W20 | Eigenschaften (1W4+2) |
@@ -948,7 +1081,7 @@ Unsichtbarer Schleicher
 | 17 | altruistisch |
 | 18 | willentlich gasförmig |
 | 19 | kann sich selbst klonen |
-| 20 | |
+| 20 | Äthergestalt |
 
 ## Dämonen, Engel und Teufel
 
@@ -969,20 +1102,27 @@ Unsichtbarer Schleicher
 | 9 | Lord |  |  |  |
 | 0 | Prinz |  |  |  |
 
+![Ein Klauendämon](img/ip/clawdemon.png)
 
 : 1Wx Dämonische Eigenschaften
 
 | 1Wx |                                           |
 |:---:|:------------------------------------------|
-|  1 | | 
-| 2 | |
-| 3 | |
-| 4 | |
+|  1 | Äthergestalt | 
+| 2 | Magieresistenz |
+| 3 | Schwäche gegen Eisen |
+| 4 | Schwäche gegen eine Element |
 | 5 | |
 | 6 | |
 
+
+![Ein bewaffneter Dämon](img/ip/knifedemon.png)
+
+: 1Wx dämonische Einflusssphären
+
 : 1Wx Dämonische Namen
 
+![Ein Demon erscheint](img/ip/summoning.png)
 
 ### Engel
 
@@ -1186,77 +1326,408 @@ Alte…
 
 #  Schätze
 
+## Edelsteine und Geschmeide
 
-## 1W24 Schatztypen
+Edelsteine kommen in verschiedensten Größen zwischen etwa erbsgroß bis
+faustgroß vor. Außerdem können sie geschliffen oder ungeschliffen
+sein. Daruch kann der Wert von Edelsteinen stark variieren.
 
-1. **A (XXII)**   
-  Land: 1000 KM 1-6:25%, 1000 SM 1-6:30%, 1000 GM 2-12:35%, Steind und
-  Geschmeide 6-36:50%, Magische Gegenstände und Karten  any 3:40%
+: Wert einzelner Edelsteine
+
+ 1W%        Wert      Beispiele
+------- ------------- -------------------------------
+ 01-08   10 GM        Perle, Obsidian, Türkis
+ 09-22   35 GM        Karneol, Rosenquarz, Zirkon
+ 23-67   100 GM       großer Bernstein, Turmalin
+ 68-87   350 GM       schwarze Perle, goldener Topaz
+ 88-98   1.000 GM     großer Aquamarin, blauer Spinel
+ 99      3.500 GM     blauer Saphir, großer Rubin
+ 00      10.000 GM    berühmter, faustgroßer Diamant
+
+Geschmeide sind von Goldschmieden hergestellte Werkstücke, die
+typischerweise aus Gold und Edelsteinen bestehen. Wird ein Geschmeide
+beschädigt (Rettungswurf 12), so halbiert sich der Verkaufswert in
+Folge der Beschädigung auf die Hälfte.
+
+Geschmeide könnnen in Ihre Einzelteile zerlegt werden. Als Richtwert
+beträgt der Goldanteil 10% des entgültigen Wertes. Außerdem besteht
+jedes Geschmeide aus 1W4+1W8 Edelsteinen, deren Wert nach der oben
+genannten Tabelle ausgewürfelt werden kann. In Ausnahmefällen wird
+sich dabei heraus stellen, dass ein einzelner Edelstein in
+Wirklichkeit mehr wert ist als es dem zunächsten geschätzten Wert des
+Geschmeides entsprach.
+
+: Wert einzelner Geschmeide
+
+ 1W%            Wert           Beispiele
+------- ---------------------- --------------------------
+ 01-20   3W6 $\cdot$ 100 GM    Ohrring, kleine Brosche
+ 21-40   5W6 $\cdot$ 100 GM    Fibel, Armreif, Anhänger
+ 41-60   1W6 $\cdot$ 1.000 GM  Kette, Schale, Kelch
+ 61-80   2W4 $\cdot$ 1.000 GM  Gürtel, Schwertscheide
+ 81-90   3W4 $\cdot$ 1.000 GM  Zepter, heiliges Symbol
+ 91-00   3W6 $\cdot$ 1.000 GM  Krone, Diadem
+
+## 1W24 Schatzklassen
+
+1. **A (XXII)** - durchschnittlich 18.000 GM; Menschen
   
-  Wüste:     1-4:20%   1-4:25%  1-6:30%   10-40:50%     3 magic:60%
+   An Land: 
+   
+    25%: 1-6 $\cdot$ 1.000 KM
 
-  Meer:      nil       nil      5-30:60%  10-16:60%     1 map:50%
+    30%: 1-6 $\cdot$ 1.000 SM
 
-2. **B (XXI)**   1-8:50%   1-6:25%  1-3:25%   1-6:25%       10%: Waffe,
-                                                       Rüstung, or
-                                                       misc. weapon
+    35%: 2-12 $\cdot$ 1.000 GM
 
-3. **C (XX)** 
+    50%: 6-36 Edelsteine
+
+    50%: 6-36 Geschmeide
+
+    40%: 3 beliebige magische Gegenstände einschließlich Karten
+  
+   In der Wüste:
+   
+    20%: 1-4 $\cdot$ 1.000 KM
+
+    25%: 1-4 $\cdot$ 1.000 SM
+
+    30%: 1-6 $\cdot$ 1.000 GM
+
+    50%: 10 - 40 Edelsteine
+
+    50%: 10 - 40 Geschmeide
+
+    60%: 3 beliebige magische Gegenstände 
+
+   Zur See:
+
+    60%: 5-30 $\cdot$ 1.000 GM
+
+    60%: 10-60 Edelsteine
+
+    60%: 10-60 Geschmeide
+
+    50%: eine Karte
+
+2. **B (XXI)** - durchschnittlich 2.000 GM; Grottenschrate, Aaskriecher, Ghule, Gruftbewohner (Wights), Hydras, Nixies 
+
+   50%: 1-8 $\cdot$ 1.000 KM 
+
+   25%: 1-6 $\cdot$ 1.000 SM 
+
+   25%: 1-3 $\cdot$ 1.000 GM 
+       
+   25%: 1-6 Edelsteine
+        
+   25%: 1-6 Geschmeide
+        
+   10%: eine magische Waffe oder eine magische Rüstung 
+
+3. **C (XX)** - durchschnittlich 1.000 GM; Oger, Gargyle, Harpyien, Blinzelhunde,
+   Höllenhunde, Eulenbären, Lykanthropen, Minotauren, Pixies, Gnome
+
+   20%: 1-12 $\cdot$ 1.000 KM
+
+   30%: 1-4 $\cdot$ 1.000 SM
+
+   25%: 1-4 Edelsteine
+
+   25%: 1-4 Geschmeide
+
+   10%: zwei beliebige magische Gegenstände einschließlich Karten
  
-4. **D (XIX)**
+4. **D (XIX)** - durchschnittlich 3.900 GM; Orks, Hobgoblins, Gnolle, Echsenmenschen, Trolle,
+   Versetzerbestien, Mumien, Cockatrices, Mantikore, Purpurwürmer, Dryaden
 
-5. **E (XVIII)**
+   10%: 1-8 $\cdot$ 1.000 KM
 
-6. F (XVII)
+   15%: 1-12 $\cdot$ 1.000 SM
 
-7. G (XVI)
+   60%: 1-6 $\cdot$ 1.000 GM
 
-8. H (XV)
+   30%: 1-8 Edelsteine
 
-9. I (XIV)
+   30%: 1-8 Geschmeide
 
-10. J (XIII)
+   20%: zwei beliebige magische Gegenstände einschließlich Karten, ein Zaubertrank
 
-11. K (XII)
+5. **E (XVIII)** - durchschnittlich 3.900 GM; Riesen, Elfen, Todesalben (Wraiths), Schreckgespenster
+   (Spectres), Doppelgänger, Gorgonen, Halbdrachen (Wyverns),
+   Phasenspinnen, Erdkolosse (Umber Hulks)
 
-12. L (XI)
+   5%: 1-10 $\cdot$ 1.000 KM
 
-13. M (X)
+   30%: 1-12 $\cdot$ 1.000 SM
+   
+   25%: 1-8 $\cdot$ 1.000 GM
 
-14. N (IX)
+   10%: 1-10 Edelsteine
 
-15. O (VIII)
+   10%: 1-10 Geschmeide
 
-16. P (I)
+   30%: drei beliebige magische Gegenstände einschließlich Karten,
+   eine Spruchrolle
 
-17. Q (II)
+6. **F (XVII)** - durchschnittlich 7.700 GM; Vampire, Basilisken, Medusen, Chimeren, Salamander
 
-18. R (III)
+   10%: 2-20 $\cdot$ 1.000 SM
 
-19. S (IV)
+   45%: 1-12 $\cdot$ 1.000 GM
+
+   20%: 2-24 Edelsteine
+
+   20%: 2-24 Geschmeide
+
+   35%: drei beliebige magische Gegenstände einschließlich Karten, jedoch
+   keine Waffen, ein Zaubertrank, eine Spruchrolle
+
+7. **G (XVI)** - durchschnittlich 23.000 GM; Zwerge
+
+   75%: 10-40 $\cdot$ 1.000 GM
+   
+   25%: 3-18 Edelsteine
+
+   25%: 1-10 Geschmeide
+
+   40%: vier beliebige magische Gegenstände einschließlich Karten,
+   eine Spruchrolle
+
+8. **H (XV)** - durchschnittlich 60.000 GM; Drachen
+
+   25%: 3-24 $\cdot$ 1.000 KM
+
+   50%: 1-100 $\cdot$ 1.000 SM
+
+   75%: 10-60 $\cdot$ 1.000 GM
+
+   50%: 1-100 Edelsteine
+
+   50%: 10-40 Geschmeide
+
+   20%: vier beliebige magische Gegenstände einschließlich Karten,
+   ein Trank, eine Spruchrolle
+
+9. **I (XIV)** - durchschnittlich 11.000 GM; Rocs
+
+   50%: 2-16 Edelsteine
+
+   50%: 2-16 Geschmeide
+
+   20%: ein beliebiger magischer Gegenstand oder eine Karte
+
+10. **J (XIII)** - durchschnittlich 25 GM
+
+    25%: 1-4 $\cdot$ 1.000 KM
+
+    10%: 1-3 x 1.000 SM
+
+11. **K (XII)** - durchschnittlich 180 GM
+
+    30%: 1-6 x 1.000 SM
+
+    10%: 5-10 x 500 GM
+
+12. **L (XI)** - durchschnittlich 240 GM
+
+    50%: 1-4 Edelsteine
+
+13. **M (X)** - durchschnittlich 50.000 GM
+
+    90%: 5-30 x 1.000 GM
+
+    55%: 5-20 Edelsteine
+
+    45%: 2-12 Geschmeide
+
+14. **N (IX)**
+
+    45%: 2-8 Zaubertränke
+
+15. **O (VIII)**
+
+    45%: 1-4 Schriftrollen
+
+16. **P (I)**
+
+    3-24 (3W8) KM
+
+17. **Q (II)** - einzelne Nomaden, Banditen und Briganten
+
+    3-30 (2W10) SM
+
+18. **R (III)** - einzelne Kobolde und Goblins
+
+    1-6 GM
+
+19. **S (IV)** - einzelne Piraten
+
+    2-12 (2W6) GM
+
+20. **T (V)**
+
+    5-30 (5W6) GM
+
+21. **U (VI)**
+
+    10%: 1-100 KM 
+
+    10%: 1-100 SM
+    
+    5%: 1-100 GM
+
+    5%: 1-4 Edelsteine
  
-20. T (V)
+    5%: 1-4 Geschmeide
 
-21. U (VI)
+    2%: ein beliebiger magischer Gegenstand
 
-22. V (VII)
+22. **V (VII)**
 
-23. W
+    15%: 2-200 SM
 
-24. X 
+    15%: 2-200 GM
 
-## 1Wxx magische Schwerter
+    10%: 1-4 Edelsteine
 
-## 1Wxx magische Schilde
+    10%: 1-4 Geschmeide
 
-## 1Wxx sonstige magische Waffen
+    5%: ein beliebiger magischer Gegenstand
 
-## 1Wxx magische Rüstungen
+23. **W**
 
-## 1Wxx Magische Gegenstände
+    50%: 5-500 GM
 
-| Zauber | Ring | Rolle | Trank | Stab | Stecken | Rute |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+    20%: 1-4 beliebige magische Gegenstände
+
+    10%: ein Artefakt
+
+24. **X**
+
+    50%: 50-5.000 SM
+ 
+    50%: 50-5.000 GM   
+
+    50%: 2-8 beliebige magische Gegenstände einschließlich Karten
+
+    10%: ein Artefakt
+
+## Magische Schwerter
+
+: 32 magische Schwerter
+
+ 1W%     Trefferbonus    Schadensbonus (ggf. Gesinnung)
+------- -------------- ---------------------------------------------
+ 1-30    +1              kein Schadensbonus
+ 31-35   +1              +1W6 gegen unheilige Kreaturen (rechtsch.)
+ 36-40   +1              +2 gegen Hippogreifen 
+ 41-45   +1              +2 gegen Rocs (chaotisch)
+ 46-50   +1, flammend    +2 gegen Untote (rechtschaffen)
+ 51-55   +1, frost.      +2 gegen Lykanthropen (rechtschaffen)
+ 56-60   +1, frost.      +2 gegen beschworene Monster
+ 61-65   +2, frost.      +2 gegen Zauberkundige
+ 66-70   +2              +2 gegen Trolle
+ 71-75   +2, flammend    +3 gegen Trolle
+ 76-80   +3              +1W6 gegen heilige Wesen (chaotisch)
+ 81-85   +3, flammend    +3 gegen Untote (rechtschaffen)
+ 86-90   +4              +3 gegen Drachen 
+ 91-95   +5              +3 gegen Baumherren (chaotisch)
+ 96-98   -1              Lebensentzug (pro Treffer 1 Stufe / TW)
+ 99-00   -2              +5 gegen Feuergeschöpfe (auch Feuerdrachen)
+
+
+Flammende Schwerter verursachen +3 Schaden gegen feuerempfindliche
+Kreaturen wie zum Beispiel Mumien, Baumherren und Eisdrachen.
+Forstklirrende Schwerter verursachen +3 Schaden gegen Kreaturen des
+Feuers wie zum Beispiel Feuerelementare, Efreeti und Feuerdrachen.
+
+### Intelligente Schwerter
+
+Mit einer Wahrscheinlichkeit von 50% verfügt ein magisches Schwert
+über ein gewisses Maß an Intelligenz. Solche besonderen Schwerter haben
+*immer* eine Gesinnung und können über besondere Mächte verfügen.
+Chaotische Schwerter, die häufig an ihrer
+dunklen Färbung und unheilvollen Verzierungen zu erkennen sind, 
+können gefährlich sein:
+rechtschaffene Charaktere, die ein chaotisches Schwert an sich nehmen
+erleiden einen Abzug von -2 auf Reaktionswürfe und Rettungswürfe. Sie
+fühlen sich seltsam belastet, und alles kommt ihnen düster
+vor. Versuchen sie, ein chaotisches Schwert im Kampf zu 
+führen, erleiden sie 2-12 Punkte Schaden. Gehen sie erfolgreich aus
+einer Schlacht hervor, oder töten sie einen Gegner mit dem chaotischen
+Schwert, müssen sie die Gesinnung wechseln, sofern ihnen kein
+Rettungswurf gegen Sprüche gelingt. Ganz entsprechend geht es
+chaotischen Charakteren im Umgang mit rechtschaffenen Schwertern.
+
+: Gesinnung besonderer Schwerter
+
+ 1W6      Gesinnung
+------- ------------------
+ 1       chaotisch
+ 2-3     neutral
+ 4-6     rechtschaffen
+
+
+: Eigenschaften besonderer Schwerter
+
+ 1W12    Intelligenz         Kommunikation      Mächte
+------- ------------------ ------------------ -------------------
+ 2-6     -                   -                  -
+  7      Int 7 (Ego 2W12)   empathisch          1
+  8      Int 8 (Ego 2W12)   empathisch          2
+  9      Int 9 (Ego 2W12)   verbal              3
+ 10      Int 10 (Ego 2W12)  mehrsprachig        3
+ 11      Int 11 (Ego 2W12)  kann Magie lesen    3
+ 12      Int 12 (Ego 2W12)  telepathisch        3+1 außerordentl.
+
+
+Mehrsprachige Schwerter sprechen zusätzlich zur Gemeinsprache 1-6
+verschiedene Sprachen, und können so als Dolmetscher fungieren. 
+
+Intelligente Schwerter verfügen über die folgenden Mächte. Je nach
+Intelligenz evtl. mehrmals würfeln:
+
+: Mächte intelligenter Schwerter
+
+ 2W6            Macht
+-------- ----------------------------------
+ 2       zweimal würfeln
+ 3       entdeckt Unsichtbares
+ 4       entdeckt Edelsteine
+ 5       entdeckt Silber
+ 6       Architekturkunde (wie Zwerge)
+ 7       entdeckt Gefälle
+ 8       entdeckt Gutes/Böses
+ 9       entdeckt Fallen
+ 10      entdeckt Gold
+ 11      entdeckt Magie
+ 12      außerordentliche Macht
+
+
+: außerordentliche Mächte intelligenter Schwerter
+
+ 3W18    Macht
+-------- -----------------------------------------------
+  3      dreimal würfeln
+  4      zweimal würfeln
+  5      Teleportieren
+  6      Telekinese
+  7      Regeneration (1 TP pro Runde bis zu 6 pro Tag)
+  8      Person bezaubern
+  9      Klopfen
+  10     ESP
+  11     Levitation
+  12     Halluzination
+  13     Röntgenblick
+  14     Fliegen
+  15     Riesenkraft
+  16     Stufenraub
+  17     1-4 Wünsche
+  18     ein zufällig ausgewählter Zauberspruch
+
+## Sonstige magische Waffen
+
+Bei sonstigen magischen Waffen wirkt sich der Bonus auf
 | 1-3 Sprüch 1-3 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | 1-3 Sprüche 4-6 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 | Schutz Lykanthropen | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |

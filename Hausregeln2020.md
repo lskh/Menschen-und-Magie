@@ -703,11 +703,10 @@ zerstört werden.
     3 m Holzstab, 15 m Seil, 15 GM, 2 SM, BW 9"
 
  9.  Verstärkte Lederrüstung (RK 6), Schild (RK -1), Helm,
-    schwerer Kriegshammer (1W6+1),  
-    Rucksack, Wasserschlauch, Schlafsack, Stahl und Zunder, 
-    6 Fackeln, Eiserne Rationen für 7 Tage,
-    Handfesseln, Hammer und 3 Holzpflöcke, 12 Eisennägel,
-    1 Büschel Wolfsbann, 1 GM, 8 SM, BW 6"
+    schwerer Kriegshammer (1W6+1),  Rucksack, Wasserschlauch,
+    Schlafsack, Stahl und Zunder, 6 Fackeln, Eiserne Rationen 
+    für 7 Tage, Handfesseln, Hammer und 3 Holzpflöcke, 12 Eisennägel, 
+    hölzernes heiliges Symbol, 1 Büschel Wolfsbann, 1 GM, 8 SM, BW 6"
 
  10. Verstärkte Lederrüstung (RK 6), Schild (RK -1), 
     Helm, schwerer Kriegshammer (1W6), 
@@ -1357,6 +1356,8 @@ Stufe *der eine* Großdruide werden.
 | Lähmung und zu Stein erstarren  | 14  | 12  | 9    | 7     |
 | Drachenodem                     | 16  | 14  | 11   | 8     |
 | Zaubersprüche, -stecken, -ruten | 15  | 12  | 9    | 7     |
+
+\clearpage
 
 ## Gesinnung
 \index{Gesinnung}

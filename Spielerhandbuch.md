@@ -59,7 +59,7 @@ Quelldateien für dieses Dokument unter
 Vorwort
 =======
 
-\lettrine{M}{enschen & Magie} ist aus der Idee hervorgegangen eine
+\lettrine{M}{enschen \& Magie} ist aus der Idee hervorgegangen eine
 kleine Regel-Referenz für das Original Fantasy Rollenspiel zu
 schreiben, um sie in unserer Spielrunde zu nutzen. Seit Januar 2019
 ist daraus ein größeres Projekt geworden, bestehend aus einem

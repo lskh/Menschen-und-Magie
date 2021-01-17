@@ -6,7 +6,7 @@
 # second line hereafter:
 
 PANDOC=pandoc-2.9
-# PANDOC=pandoc
+#PANDOC=pandoc
 
 all: Spielerhandbuch.pdf Spells.pdf Hausregeln2020.pdf Hausregeln2021.pdf
 	cd cover; make

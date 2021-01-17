@@ -1824,7 +1824,438 @@ TODO: Beispielskizze vertikale Dungeonkarte
 
 ### Ein Deskriptiver Dungeongenerator
 
-Zufällige Beschreibung von Dungeons
+#### Liste 1
+Der Eingang ... (würfel 1W6)
+
+1. ... ist eine unscheinbare natürliche Höhle, die verdeckt von dichtem
+   Gestrüpp kaum zu erkennen ist.
+
+2. ... ist ein uraltes gemauertes Portal aus grob gehauenen grauen
+   Steinquadern. Vom Eckstein herab schaut Euch eine hämisch grinsende
+   dämonische Fratze an.
+
+3. ... ist durch ein geschmiedetes Gittertor verschlossen. Es ist rostig
+   und mit spitzen Zacken versehen. An einer der Eisenzacken hängt ein
+   Stofffetzen, der sich im Wind träge etwas hin und her bewegt.
+
+4. ... sieht aus wie ein stillgelegter Bergwerksstollen. Der Weg in den
+   Stollen ist mit ein paar Holzbohlen blockiert und auf einem Schild
+   steht in verblichener Farbe "Lebensgefahr"
+
+5. ... ist eine Spalte im Stamm einer gewaltigen tausendjährigen Eiche.
+   Mühsam müsst Ihr Euch mit Euren Habseeligkeiten durch den Spalt
+   quetschen, bevor Ihr auf einer engen Wendeltreppe etwa 6 Meter
+   weit in die Tiefe hinab klettern könnt.
+
+6. ... wird sichtbar, als Ihr die große Steinplatte mit Mühe zur Seite
+   schieben könnt. Im flackernden Licht Eurer Fackeln sehr Ihr wie der
+   jahrhunderte alte Staub auf die steinernen Treppenstufen rieselt,
+   die vor Euch in die Dunkelheit führen.
+
+#### Liste 2
+Nachdem Ihr vorsichtig einige Meter gegangen seit ... (würfel 1W6)
+
+1. ... ändert sich die Struktur des Bodens und der Wände. Der Gang vor
+   Euch ist aus grauen Steinquadern gemauert, etwa 3 Meter breit und 2
+   Meter hoch. Ihr könnt in Zweierreihen gehen, wenn ihr wollt. Alle
+   paar Meter seht ihr alte schmiedeeiserne Fackelhalter an den
+   Wänden. Hier und da seht ihr auch noch verkohlte Stümpfe von
+   Fackeln. Ihr hört Eure Schritte deutlich hallen, aber wenn ihr kurz
+   inne haltet könnt ihr hinter Euch noch ganz leise den Wind wehen
+   hören.
+
+2. ... kommt ihr in einen etwa drei Meter breiten, 
+   grob aus dem Erdreich gegrabenen Gang. Hier und
+   da sind Kratzspuren an den Wänden zu sehen. Welche Kreaturen
+   diesen Gang wohl mit ihren Krallenhänden gegraben haben mögen? Im
+   flackernden Licht Eurer Fackeln seht ihr ab und zu kleine Spinnen
+   und Tausendfüßler im rissigen Lehm verschwinden. Plötzlich hört Ihr
+   vor Euch ein Geräusch.
+
+3. ... geht der Gang in eine natürliche Höhle über. Das Vorankommen
+   ist mühsam, denn es geht über den felsigen Boden ständig auf und
+   ab. Hier und da seht ihr Gruppen von Tropfsteinen, und ab und zu hört Ihr
+   das Geflatter von Fledermäusen. Plötzlich rutscht
+   *ein zufällig bestimmter Charakter - z.B. der mit dem niedigsten
+   Geschicklichkeitswert* aus, und rutscht mit lautem Gepolter 
+   einen schrägen Fels hinunter. Ein Rettungswurf entscheidet, ob er
+   sich dabei verletzt.
+
+4. ... kommt ihr zu einer etwa drei Meter breiten steinernen Treppe,
+   die weiter nach unten ins Dunkel führt. Als Ihr die Treppe
+   hinabsteigt, habt Ihr das Gefühl, dass Eure Schritte noch lauter
+   hallen als zuvor. Die Luft ist stickig. Als Ihr am unteren
+   Treppenabsatz ankommt, hört ihr weit vor Euch das Knarren von
+   rostigen Türangeln und dann einen Knall der nur langsam verhallt.
+
+5. ... bemerkt ihr plötzlich einen Windstoß. Eure Fackeln beginnen
+   heftig zu flackern und drohen zu erlöschen. Bei einem Wurf von 3
+   oder weniger auf 1W6 steht ihr einen Moment später im Dunklen. Wenn
+   Ihr Euch konzentriert, könnt ihr irgendwo vor Euch, in einiger
+   Distanz, vorsichtige Schritte hören. Zündet Ihr die Fackeln wieder
+   an, oder wartet Ihr?
+
+6. ... erreicht Ihr einen in unheimliches Licht getauchten Gang, 
+   der quer zu Eurer Marschrichtung von links nach rechts verläuft.
+   Der Gang ist etwa 3 Meter breit, und aus grauen, grob behauenen
+   Steinen gemauert. Etwa alle 5 bis 6 Meter ist der Gang mit einer
+   Fackel erleuchtet, die in einem schmiedeeisernen Fackelhalter
+   steckt.
+
+
+#### Liste 3
+Nachdem ihr vielleicht 10 Minuten vorsichtig weiter gegangen seid ...
+(würfel 1W20)
+
+1. ... erreicht Ihr eine verschlossene Tür. Sie ist aus schweren, etwas
+   feuchten Holzbohlen zusammen gesetzt und mit schmiedeeisernen
+   Bändern verstärkt. Sie kann nur mit einer entsprechenden
+   erfolgreichen Probe geöffnet werden.
+
+   Bei 1 auf W6 könnte hinter der Tür eine Zufallsbegegnung statt
+   finden. Durch eine erfolgreiche Probe auf Lauschen kann
+   Überraschung vermieden werden.
+
+2. ... zweigt nach rechts ein Gang ab. 
+
+   Bei 1 auf W6 kommt es zu einer Zufallsbegegnung. 
+   
+   Bei einer entsprechenden
+   erfolgreichen Probe ist aus Richtung der Abzweigung ein Geräusch zu
+   hören, auch wenn es nicht zu einer Begegnung kommt. 
+
+
+3. ... zweigt nach links ein Gang ab.
+
+   Bei 1 auf W6 kommt es zu einer Zufallsbegegnung. 
+   
+   Bei einer entsprechenden
+   erfolgreichen Probe ist aus Richtung der Abzweigung ein Geräusch zu
+   hören, auch wenn es nicht zu einer Begegnung kommt. 
+
+4. ... öffnet sich der Gang durch einen runden Torbogen 
+   in eine achteckige Kammer etwa 9 x 9
+   Meter groß. In der gegenüberliegenden Wand, und an den beiden
+   geraden Wänden links und rechts, seht ihr ebenfalls Torbögen, die
+   mit Fresken wiederlicher Teufelsfratzen verziert sind. Auf den Boden
+   der Kammer ist mit brauner Farbe ein thaumaturgischer Kreis
+   gezeichnet. Vor den vier diagonalen Wänden hängen an jeweils drei
+   Messingketten Weihrauchfässer von der Decke herab. Die Luft ist
+   kalt, und der Raum scheint länger nicht mehr benutzt worden zu
+   sein. Dennoch liegt ein Spur von Weihrauch in der Luft.
+
+   Bei 5 oder 6 auf 1W6 steht vor einer der diagnonalen Wände eine
+   schwere Truhe. Sie ist mit Sicherheit durch irgend einen
+   Fallenmechanismus gesichert, im Zweifel durch Giftpfeile. Sind die
+   Spieler nicht vorsichtig, entscheidet ein Rettungswurf, ob ein
+   Charakter beim Versuch die Truhe zu öffnen tötlich verunglückt. In
+   der Truhe finden sich 1 - 4 magische Elixiere, 1 Schriftrolle, ein
+   magischer Dolch. Unter einem doppelten Boden schließlich auch noch
+   30-180 Goldmünzen.
+   
+5. ... springt die Wand auf der rechten Seite etwas zurück. In der
+   etwa 3 Meter breiten, und 1 Meter tiefen Nische seht Ihr eine
+   verschlossene Tür.
+
+   Ein Wurf von 1 auf 1W6 entscheidet, ob hinter der Tür eine
+   Begegnung lauert.
+
+6. ... springt die Wand auf der linken Seite etwas zurück. In der
+   etwa 3 Meter breiten, und 1 Meter tiefen Nische seht Ihr eine
+   verschlossene Tür.
+
+   Ein Wurf von 1 auf 1W6 entscheidet, ob hinter der Tür eine
+   Begegnung lauert.
+
+7. ... erreicht ihr erneut eine Treppe. 
+   WÜrfel 1W4: (1) Diese führt geradeaus in
+   die Tiefe. Ihr bemerkt einen kühlen Luftzug, der Euch von unten
+   entgegen weht. (2) Diese zweigt nach rechts vom Gang ab, und führt
+   nach unten. (3) Diese
+   zweigt nach links vom Gang ab und führt nach oben. (4) Diese führt
+   nach oben. Ihr von oben hört Ihr etwas Rauschen. Vielleicht Wind in
+   der Ferne.
+
+8. ... führt der Gang eine grobe natürliche Treppe über mehrere Meter
+   nach Unten. Dann öffnet sich der Weg in eine große natürliche
+   Höhle. Unmöglich bei dem schwachen Licht zu erkennen wie groß die Höhle
+   ist. Ihr hört Fledermäuse und Eure Schritte hallen mit langem Echo
+   wieder.
+
+9. ... erreicht Ihr eine breite doppelflügelige Tür, die mit seltsamen
+   Runen beschriftet ist, und mit einer schweren eisernen Kette
+   verriegelt ist.
+
+10. ... erreicht Ihr eine T-Kreuzung. Ihr könnt nach links oder nach
+    rechts weiter gehen.
+
+    Falls erfolgreich gelauscht wird, kann in einem der Gänge ein
+    leises Geräusch gehört werden. WÜrfel auf der passenden
+    Zufallebegegnungstabelle, worum es sich handeln könnte. 
+
+    Bei 1 auf 1W6 kommt es nach wenigen Metern zu einer entsprechenden
+    Begegnung.
+
+11. ... bemerkt ihr im Gang vor Euch ein rostiges Fallgitter. Bei 1-3
+    auf 1W6 ist es geschlossen, und kann nur mit einer schweren
+    Stärkeprobe geöffnet werden. Bei 4-6 ist es geöffnet.
+
+    Hinter dem Fallgitter öffnet sich der Gang nach wenigen Metern
+    durch einen unheimlich schimmernden Torbogen in eine große längliche
+    rechteckige Halle. Die Halle ist sicher 10 x 30 Meter groß, und
+    die gewölbte Decke wird auf beiden Seiten durch Reihen von Säulen
+    abgestützt. Am gegenüberliegenden Ende der Halle seht Ihr ein
+    flaches Steinpodest, welches auf beiden Seiten mit Statuen gesäumt
+    wird. Vor den Statuen stehen Kohlebecken.
+
+    An beiden Längsseiten der Halle finden sich jeweils 1-4
+    verschlossene Türen.
+
+    Hier kann man sich natürlich sehr gut auch einen Altar vorstellen,
+    der auf dem Podest steht. Wenn es in die Handlung passt, findet
+    hier vielleicht auch gerade ein unheiliges Ritual oder eine
+    Opferung statt. Die gläubigen, die dem Ritual beiwohnen können
+    jeder Art sein. Vielleicht sind es gar kein Menschen, sondern
+    ungewöhnliche Humanoide, oder es ist gar nicht zu erkennen, um wen
+    es sich handelt, da alle lange Kutten oder Mäntel mit tief ins
+    Gesicht gezogenen Kapuzen tragen.
+
+    
+12. ... bemerkt ihr einen unangenehmen Geruch. Irgendwie nach Tier,
+    aber auch nach Verwesung. Vorsichtig den Gang entlang spähend,
+    seht ihr links/rechts eine etwa vier Meter durchmessende 
+    Öffnung in der Wand, die in eine
+    natürliche Höhle zu münden scheint.
+
+    Hier haben die Charaktere das Lager eines Monsters erreicht. Ein
+    Wurf auf der entsprechenden Zufallsbegegnungstabelle entscheidet,
+    worum es sich handelt.
+
+13. ... erlischt Eure Lichtquelle. Ihr müsst sie nachfüllen, oder eine
+    neue entzünden.
+
+14. ... hört Ihr von irgendwo vor Euch ein Poltern.
+
+15. ... hört Ihr hinter Euch ein kurzes Fauchen und dann einen dumpfen
+    Knall. Danach ist es still. Ihr hört nur Euer Herzklopfen, welches
+    Euch bis zum Hals hoch schlägt.
+
+16. ... habt Ihr plötzlich das Gefühl, dass der Gang leicht ansteigt.
+
+17. ... habt Ihr plötzlich das Gefühl, dass der Gang leicht abfällt.
+
+18. ... gehen die Wände plötzlich in spiegelndes, bläulich glänzendes
+    Schillern über. Als Ihr Euch herum dreht, seht ihr auch nichts
+    weiter als diese seltsam glänzenden Wände. Der Gang, durch den Ihr
+    gekommen seid, ist nicht mehr zu sehen ...
+
+19. ... bemerkt Ihr im Schatten vor Euch eine Bewegung: Zeit für eine
+    Zufallsbegegnung.
+
+20. ... werdet Ihr plötzlich von einer Begegnung überrascht.
+
+
+#### Liste 4
+
+Hinter der Tür ... (würfel 1W10)
+
+1. ... kommt Ihr in einen Gang, der nach etwa 6 Meter nach links /
+   rechts abzweigt. Würfel einen W20 und gehe zurück zu Liste 3.
+
+2. ... seht Ihr einen rechteckigen Raum, vielleicht 9 x 9 Meter groß.
+   Es sind keine weiteren Türen zu sehen. Im
+   schwachen Licht seht Ihr einen Tisch und ein paar Stühle in der
+   Mitte des Raumes. Außerdem stehen an den Wänden 1-6 grob gezimmerte
+   Bettgestelle. Die Luft riecht ranzig.
+
+   In diesem Raum könnte ein kleiner Schatz zu finden sein (z.B.
+   Schatztyp E). 
+
+   Und leider auch ein paar unangenehme Dungeonbewohner, wie zum Beispiel ein
+   Aaskriecher, irgendeine Art von Blob oder Schleim, Ratten oder
+   Tausendfüßler, die Krankheiten übertragen, oder eine große
+   Giftspinne könnte diesen Raum zu ihrem Lager gemacht haben.
+
+   Falls die Abenteurer nach einer Gruppe von Räubern oder sonstigen
+   NSCs suchen, könnte dieser Raum deren Unterschlupf sein.
+
+3. ... findet Ihr eine Treppe, die nach unten führt. 1W20 und zurück
+   zu Liste 3.
+
+4. ... seht Ihr einen niedrigen gewölbten Raum, in dem mehrere Truhen
+   stehen. Leider hört Ihr noch bevor Ihr den Raum wirklich betreten
+   könnt ein Klicken und ein scharfes Zischen, und nur ein
+   erfolgreicher Rettungswurf kann verhindern, dass der erste
+   Charakter, der durch die Tür tritt von mehreren Speeren getroffen
+   wird, die 2W6 Punkte Schaden verursachen.
+
+   In den Truhen dieses Raumes könnte sich ein größerer Schatz, z.B.
+   des Schatztyps E finden. Allerdings wird das Rumoren der Charaktere
+   in diesem Raum in jedem Fall eine Zufallsbegegnung auslösen, die
+   eintritt, sobald die Charaktere den Raum verlassen. 
+
+   Außerdem könnten einige der Truhen mit weiteren Fallen oder Flüchen
+   gesichert sein, oder - ein Klassiker: bei einer der Truhen handelt
+   es sich um eine Mimik, ein magisches Raubtier, welches die Gestalt
+   von Gegenständen annehmen kann, und so auf seine Opfer lauert.
+
+   Was immer hier
+   angetroffen wird, ist in jedem Fall sehr unglücklich darüber, dass der Raum
+   geplündert wird.
+
+5. ... geht ein gemauerter Gang für etwa 9 Meter geradeaus weiter,
+   dann erreicht Ihr eine T-Kreuzung. 1W20 und zurück zu Liste 3.
+
+6. ... findet Ihr einen großen rechteckigen Raum, etwa 6 x 12 Meter
+   groß, den Ihr von einer der Längsseiten betretet. In der Ecke
+   links/rechts, schräg gegenüber von Euch sehr ihr eine verschlossene
+   Tür. Die Wände des Raumes sind mit Malereien und Wandteppichen
+   geschmückt. Der Boden ist mit dicken Teppichen, Fellen und zu den
+   Wänden hin mit einigen Kissen ausgelegt.
+
+   Bei diesem Raum könnte es sich um das Lager von Menschen,
+   Halbmenschen oder Humanoiden handeln. Dann wäre hier auch ein
+   entsprechender Schatz zu finden. Ansonsten finden sich hier nur ein
+   paar Nahrungsvorräte, zwei Fässer mit Trinkwasser, 
+   einige Silbermünzen und je nach Ebene vielleicht auch ein paar
+   Goldmünzen. Bei einem Wurf von 1-3 kommt es hier nach wenigen
+   Minuten zu einer Zufallsbegegnung.
+
+7. ... findet Ihr einen kreisrunden Raum von etwa 6 Metern Durchmesser. In der
+   Mitte des Raumes befindet sich ein kreisrundes Becken, welches mit
+   einer dunklen wässrigen Flüssigkeit gefüllt ist.
+
+8. ... entdeckt Ihr eine Wendeltreppe, die sowohl nach unten als auch
+   nach oben führt. Nach etwa 6 Metern rauf bzw. runter erreicht ihr
+   eine verschlossene Tür. Weiter mit 1W10 auf dieser Tabelle.
+
+9. ... kommt ihr in einen Gang, in dem die Luft deutlich kühler ist,
+   als vor der Tür nach etwa 6 Metern durchschreitet Ihr einen kleinen
+   Torbogen und erreicht eine Plattform von etwa 6 x 9 Metern Größe.
+   Die durch eine niedrige steinerne Brüstung begrenzt ist. Die
+   Plattform ragt in eine gewaltige natürliche Höhle hinein. Als Ihr
+   Euch herum dreht, seht ihr, dass die Wand mit dem Torbogen,
+   weit nach oben reicht. Mit euren Lichtquellen ist das
+   obere Ende der Wand, bzw. das Dach der Höhle nicht zu erkennen.
+   Unterhalb der Plattform scheint es in unendliche schwarze Tiefe
+   hinab zu gehen. Links und rechts von der Plattform ist ebenfalls
+   nichts zu sehen als die schroffe senkrechte Felswand.
+
+   Genau in der Mitte der Plattform, zum Abgrund hin, ist die Brüstung
+   auf einer Länge von etwa 3 Metern unterbrochen. Links und rechts
+   bewachen steinerne Gargylen die Öffnung in den Abgrund.
+
+   Ihr spürt etwas Luftbewegung um Euch herum.
+
+   Hier ist vieles möglich. Es könnte sich einfach um das handeln, was
+   es ist. Eine seltsame Plattform mit Steinskulpturen.  Oder eine
+   Falle: die Gargylen warten bis ein unvorsichtiger Charakter an die
+   Kante tritt, und stürzen ihn dann in die Tiefe, um sich später über
+   ihn her zumachen. Oder es könnte eine Art Haltestelle für ein
+   unterirdisches Verkehrsmittel sein, welches mit Hilfe von
+   Flugsauriern oder Drachen betrieben wird. Der Ritt auf der
+   Drachenbahn könnte überall hin führen. Auf ferne Inseln, ferne
+   Planten, seltsame Ebenen ...
+
+10. ... kommt ihr in einen Raum, bei dem es sich unverkennbar um eine
+    Gruft handelt. Durch einen kleinen quadratischen Vorraum tretet
+    Ihr durch zwei Säulen hindurch, und erreicht eine breite Treppe,
+    die etwa einen Meter abwärts führt. Hier findet ihr einen
+    rechteckigen Raum von etwa 9 x 18 Metern Größe, in dem mehrere
+    steinerne Särge stehen. 
+
+    Ganz offensichtlich handelt es sich hier um das Lager von Untoten.
+
+#### Liste 5
+
+Würfel 1W10: Nachdem Ihr einige Minuten mühsam dem Verlauf der Höhle
+gefolgt seid ... 
+
+1. ... erreicht ihr einen kühlen unteridischen Fluss. Ein Stück weit folgt
+   er dem Verlauf der Höhle, dann verschwindet er durch einen Tunnel
+   nach links/rechts. Es sieht fast so aus, als könnte man durch den
+   Tunnel hindurch schwimmen. 
+
+   Wenn Ihr den Fluss durchwatet, könnt Ihr
+   auf der anderen Seite über ein paar ansteigende Felsvorsprünge
+   weiter klettern. 
+
+2. ... erreicht Ihr eine mächtige Halle. Hier und da funkeln Kristalle
+   im Gestein weit über Euch. Ihr seht Gruppen von imposanten
+   Tropfsteinsäulen, und riesige Kaskaden von feucht glänzendem Stein,
+   so als sei hier vor Jahrtausenden ein Wasserfall versteinert worden.
+
+   Aber was war das? War da nicht ein Knurren zu hören, hinter einer
+   der großen Tropfsteinformationen?
+
+   Eine Erkundung der Halle ergibt 1-4 Tunnel, die in benachbarte
+   Höhlen führen.
+
+3. ... findet ihr in einer Nische unerwartet behauenen Stein, und ...
+   eine Tür - seltsam. 
+
+   Würfel 1W10, es geht weiter auf Liste 4.
+
+4. ... kommt Ihr an eine große Wasserfläche in einer gewaltigen Höhle.
+   Als Ihr dicht an das Wasser tretet, seht ihr im Fackelschein einige
+   Grottenolme, die sich schnell aus Eurem Blickfeld flüchten. In
+   einiger Entfernung seht ihr aus dem Wasser einen Felsen 
+   aufragen - eine kleine Insel.
+
+   Auf der Insel könnte sich verschiedenes finden: 
+
+   - Nichts, nur blanker Fels, 
+
+   - das Lager eines seltsamen Höhlenbewohners, 
+
+   - ein Schatz, der vielleicht durch einen Zauber getarnt ist, 
+
+   - einen geheimen Ort für besondere Rituale, vermutlich sind noch
+     Spuren der letzten Beschwörung zu entdecken, oder schließlich:
+
+   - das **Ziel der Expedition**.
+
+   Die Höhle ist wirklich riesig, so dass hier viel zu suchen und
+   vielleicht auch einiges zu entdecken ist. Ansonsten hat sie 0-3
+   (1W4-1) natürliche Ausgänge.
+
+5. ... erreicht ihr einen Höhle, die aus grob gebrochenem Granit besteht.
+   Überall seht ihr Spalten und Fissuren, zum Teil so groß, dass man
+   sich hindurch quetschen könnte, zum Teil zu eng um weiter zu
+   kommen. Wenn Ihr Euren Weg hier fortsetzen wollt, müsst ihr über
+   eine etwa 20 Meter breite stark abschüssige Granitfläche
+   überqueren. Am unteren Ende der Fläche seht ihr auch mit Euren
+   Lichtquellen nur gähnende Dunkelheit.
+
+   Rettungswurf Lähmung um nicht abzustürzen. Der Fall in die
+   Dunkelheit ist 3 bis 18 Meter tief und macht entsprechend 1W6 bis
+   6W6 Punkte Schaden.
+
+   Gelingt es in der Tiefe Licht anzuzünden - und wurde der Sturz
+   überlebt - könnte hier unten **ein besonderer Schatz** gefunden werden.
+   Oder sogar **das Ziel der Expedition**. Ansonsten 
+   geht es weiter mit 1W10 auf dieser Liste.
+
+6. ... hört Ihr ein Geräusch. Ein Wurf auf der passenden
+   Zufallsbegegnungstabelle zeigt, worum es sich handelt.
+
+7. ... findet Ihr Spuren. Vielleicht ein paar Fußabdrücke im Staub des
+   Höhlenbodens, etwas Kot, oder auch den Kadaver eines Opfers. Ein
+   Wurf auf der Zufallsbegegnungstabelle zeigt, was die Spur
+   hinterlassen hat.
+
+7. ... bemerkt Ihr eine Bewegung vor Euch. Eine Zufallsbegegnung.
+
+8. ... werdet Ihr plötzlich von einem Angriff überrascht.
+
+9. ... zweigt sich der Tunnel durch den Ihr gerade geht ypsilon-förmig
+   auf. Folgt Ihr dem linken, oder dem rechten Gang?
+
+10. ... endet der Weg vor Euch. Ihr seid in eine Sackgasse geraten. 
+
+    Bei 1 auf 1W6 erwartet die Abenteurer nach wenigen Minunten des
+    RÜckwegs eine Zufallsbegegnung.
+
 
 ### Struktur einer offenen Spielrunde
 
