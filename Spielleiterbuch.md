@@ -14,8 +14,7 @@ Menschen & Magie - Geheimes Wissen
 \normalsize\newline
 *Menschen & Magie* ist eine Hausregelsammlung für Old-School
 Rollenspiele, 
-kompatibel mit allen Regeln, die auf dem
-Original Fantasy Rollenspiel von 1974 basieren.
+kompatibel mit den Regeln von 1974, und denen davor und danach.
 
 Text und Satz: © Wanderer Bill,
 <wandererbill73@gmail.com>,\newline
@@ -57,6 +56,8 @@ haben andere schon viel besser getan, sondern mit dem Ziel, die
 einfachen Überlegungen und genialen Einfälle der ersten Gamer als
 Bausteine für eigene Entwicklungen zugänglich zu machen.
 
+## Subsysteme
+
 Betrachtet man die verschiedensten Iterationen an Rollenspielregeln,
 so fällt auf, dass es verschiedene, mehr oder weniger in sich
 geschlossene Subsysteme gibt, die zusammenhängen. Zum Beispiel das
@@ -65,11 +66,13 @@ das Subsystem *Trefferwürfel und Stufen*. Meine Idee ist, diese typischen
 Regelfragemente so aufzubereiten, dass sie in eigenen
 Regelvarianten modular kombiniert werden können.
 
+## Konventionenen
+
 Zahl+ bedeutet: "dieser Wert oder mehr", Zahl- bedeutet: "dieser Wert oder
 weniger". +Zahl bedeutet: diese Zahl soll hinzu gerechnet werden,
 -Zahl bedeutet: diese Zahl soll abgezogen werden.
 
-# Charaktererschaffung
+# Charaktererschaffung I
 
 ## Attribute
 
@@ -123,11 +126,12 @@ oder 2-4 W6 zu würfeln. Daneben ist auch der Wertebereich 2-12
 wichtig, da er mit 2W6 abgedeckt werden kann - einer
 Würfelkombination, die in *der ersten* Fantasy-Kampagne bis heute
 verwendet wird, und auch in einigen modernen Spielen wieder eine
-gewissen Renaissance erfahren hat. Den genannten Würfelkombinationen
+gewisse Renaissance erfahren hat. Den genannten Würfelkombinationen
 ist gemeinsam, dass sie eine Glockenkurve erzeugen, dass heißt:
 mittlere Werte sind häufiger als extreme Werte. Entsprechend werden
 auch in einigen Spielen, die grundsätzlich auf dem Wertebereich 1-100
-basieren, die Attribute nicht mit W% ausgewürfelt, sondern mit 3W6*5,
+basieren, die Attribute nicht mit W% ausgewürfelt, sondern mit
+3W6 $\cdot$ 5,
 was eine Glockenkurve für den Wertebereich 15-90 produziert.
 
 : Wertebereiche
@@ -145,7 +149,7 @@ was eine Glockenkurve für den Wertebereich 15-90 produziert.
 
  1-100              W%
 
- 15-90              3W6*5
+ 15-90              3W6 $\cdot$ 5
 
  1-6                1W6
 
@@ -157,7 +161,7 @@ hin zu *übernatürlich*), oder sie werden anhand verschiedener Größen
 oder Mengen von Würfeln angegeben (W4 in Geschicklichkeit, W6 in
 Stärke, W8 in Intelligenz usw, oder z.B. 2W6 in Geschicklichkeit, 3W6
 Stärke oder 4W6 in Intelligenz). Letzlich geht es darum, jedes
-Attribut zu qualifiziereni, und ihm einen Wert zu geben, der mit einer
+Attribut zu qualifizieren, und ihm einen Wert zu geben, der mit einer
 zufällig erzeugten Zahl verglichen werden kann. Die
 Wahrscheinlichkeit, dass dabei der Attributswert und die zufällig
 generierte Zahl einander gleichen, größer oder kleiner sind,
@@ -262,8 +266,8 @@ Beispiel folgende Modifikatoren denkbar:
 
 Wenn man es sich genau überlegt, braucht man eigentlich in einem Spiel
 dessen Proben auf Modifikatoren beruhen gar keine Attribute. Man kann
-auch einfach den entsprechenden Modifikator als Attributswert her
-nehmen. Das hat auch den Vorteil, dass die Zahlen dann kleiner sind.
+auch einfach den entsprechenden Modifikator als Attributswert benutzen. 
+Das hat auch den Vorteil, dass die Zahlen dann kleiner sind.
 In solch einem Spiel könnten die Spielwerte eines Zauberkundigen zum
 Beispiel so aussehen: 
 
@@ -328,7 +332,31 @@ ausgeführt werden^[Näheres zu Proben siehe Seite
 \pageref{wuerfelproben}]. Fertigkeiten und Fertigkeitsproben werden
 allgemein als Element eher modernerer Rollenspiele angesehen.
 
-Je nachdem wie das Kampfsystem aussieht, könnte es auf Kampfbezogene 
+Schließlich wäre folgende, auf den ersten Blick etwas kompliziertere, aber
+im Spiel einfache Methode genutzt werden: und zwar könnte man für den
+Zielwert jeweils den Gegenwert des relevanten Charakterattributes
+festlegen. In einem W20 basierten System würde das so
+aussehen:
+
+Fertigkeit    Attribut           Zielwert
+------------- ----------------- ---------------------
+Schleichen    Geschicklichkeit   20-Geschicklichkeit
+              z.B. 12            z.B. 8 
+Wildnisleben  Weisheit           20-Weisheit
+              z.B. 13            z.B. 7
+Rudern-1      Konstitution       20-Konstitution-1
+              z.B. 8             Zielwert: 11
+
+Ein Charakter mit Geschicklichkeit 12 und Fertigkeit Schleichen müsste
+also eine 8 oder mehr auf W20 würfeln, um erfolgreich zu Schleichen;
+und ein Charakter mit Weisheit 13 und Fertigkeite Wildnisleben müsste
+entsprechend eine 7 oder mehr auf dem W20 würfeln, um einen günstigen
+Lagerplatz zu finden. Der bei "Rudern" angegebene Bonus wird vom
+Zielwert abgezogen, so dass der Zielwert im Endeffekt leichter wird.
+Wenn man so will werden mit dieser Methode spezialisierte 
+Rettungswürfe erzeugt.
+
+Je nachdem wie das Kampfsystem aussieht, könnte es auch Kampfbezogene 
 Fertigkeiten geben:
 
 : Kampfbezogene Fertigkeiten
@@ -341,7 +369,7 @@ Fertigkeiten geben:
  Langschwert         Kurzschwert         Langbogen
 ------------------- ------------------- -------------------
 
-In solch einem Spiel könnte dann der Kampf mit dezidierten Proben auf
+In solch einem Spiel könnte dann der Kampf mit Proben auf
 bestimmte Kampftechniken abgewickelt werden, und ein Treffer könnte
 durch einen erfolgreichen Wurf auf eine defensive Fertigkeit abgewehrt
 werden.
@@ -597,16 +625,16 @@ dieser Rettungswurf wird um so leichter, je besser die Rüstung.
 
 : Typische Rüstungswerte
 
-| Rüstung  |  1W20  | 2W6 (Zielwert) | 2W6 (RW) | Schadensreduktion  |
-|:--------:|:------:|:--------------:|:--------:|:------------------:|
-| Normale Kleidung | 10 |          0 |   |   | 0  |
-| Kleid. + Schild  | 11 |          2 |   |   | -1 |
-| Lederrüstung     | 12 |          1 |   |   | -1 |
-| Leder. + Schild  | 13 |          3 |   |   | -2 |
-| Kettenrüstung    | 14 |          4 |   |   | -2 |
-| Kette. + Schild  | 15 |          5 |   |   | -3 |
-| Plattenrüstung   | 16 |          6 |   |   | -3 |
-| Platte. + Schild | 17 |          7 |   |   | -4 |
+| Rüstung          | 1W20 | 2W6 | 2W6 (RW) | Schadensreduktion  |
+|:----------------:|:----:|:---:|:--------:|:------------------:|
+| Normale Kleidung |   10 |   0 |   10     |                 0  |
+| Kleid. + Schild  |   11 |   2 |   9      |                 -1 |
+| Lederrüstung     |   12 |   1 |   9      |                 -1 |
+| Leder. + Schild  |   13 |   3 |   8      |                 -2 |
+| Kettenrüstung    |   14 |   4 |   8      |                 -2 |
+| Kette. + Schild  |   15 |   5 |   6      |                 -3 |
+| Plattenrüstung   |   16 |   6 |   6      |                 -3 |
+| Platte. + Schild |   17 |   7 |   5      |                 -4 |
 
 ## Vor- und Nachteile
 
@@ -771,15 +799,148 @@ sehr fein gegliedert um 1.000er Werte (also 2.000, 4.000, 8.000 usw.).
 
 ### Erfahrung durch Überwundene Gegner
 
+In den klassischen Fantasyspielen kommen häufig Kämpfe gegen "Monster"
+oder andere Gegner vor. Die einfachste Möglichkeit wäre, einfach *einen
+Erfahrungspunkt pro bestandenem Kampf* zu vergeben. Dann wäre
+allerdings ein Kampf gegen sehr einfache Gegner genauso viel Wert wie
+ein Kampf gegen eine epische Monstrosität. Das kann gewünscht sein,
+oder auch nicht. Dieses System würde ohne weitere Anpassungen mit der
+oben genannten "generischen" Stufentabelle funktionieren: Nach zwei
+bestandenen Kämpfen würde die 2. Stufe erreicht, nach zwei weiteren
+die 3. Stufe, nach 4 weiteren Kämpfen die 4. Stufe usw. Würde man aus
+irgendeinem Grund die Werte pro Stufe erhöhen, zum Beispiel in
+den traditionellen Tausenderstufen, müsste man die Werte entsprechend
+erhöhen: 1000 Punkte pro bestandenem Kampf, unabhängig von der
+Gefährlichkeit der Gegener.
+
+In den 1974 veröffentlichten Fantasyregeln wurde Verknüpfung von
+Erfahrungspunkten und überwundenen Trefferwürfeln vorgeschlagen, und
+zwar sollten jeweils 100 Erfahrungspunkte pro überwundenem
+Trefferwürfel vorgeschlagen:
+
+: 1974er Erfahrungspunkte für Trefferwürfel
+
+ TW      EP    TW    EP      TW    EP       TW    EP
+----- ------- ----- ------- ----- ------- ----- -------
+ 1       100    7    700     13    1.300   19    1.900
+ 2       200    8    800     14    1.400   20    2.000
+ 3       300    9    900     15    1.500   21    2.100
+ 4       400    10   1.000   16    1.600   22    2.200
+ 5       500    11   1.100   17    1.700   23    2.300
+ 6       600    12   1.200   18    1.800   24    2.400
+
+In späteren Editionen des Originalspiels wurde die Progression
+angepasst, so dass harmlosere Gegener releativ weniger
+Erfahrungspunkte einbringen, sehr mächtige jedoch verhältnismäßig
+mehr. Eine exponentielle Progression (hier zum Beispiel *Stufe²
+$\cdot$ 10) bildet dieses System gut ab:
+
+: Exponentielle Erfahrungspunkte für Trefferwürfel
+
+ TW      EP    TW    EP      TW    EP       TW    EP
+----- ------- ----- ------- ----- ------- ----- -------
+ 1       10     7    490     13    1.690   19    3.610
+ 2       40     8    640     14    1.960   20    4.000
+ 3       90     9    810     15    2.250   21    4.410
+ 4       160    10   1.000   16    2.560   22    4.840
+ 5       250    11   1.210   17    2.890   23    5.290
+ 6       360    12   1.440   18    3.240   24    5.760
+
+
 ### Erfahrung für Gold
 
+Ebenfalls traditionell ist das anrechnen von erbeuteten Schätzen in
+Erfahrungspunkte. Die klassische Formal dafür ist: *Erfahrungspunkte =
+Goldmünzen*. Das heißt, erbeutet ein Charakter 100 Goldmünzen, bekommt
+er dafür 100 Erfahrungspunkte gut geschrieben. 
+
 ### Erfahrung durch gutes Rollenspiel
+
+
 
 ### Erfahrung durch erfolgreiche Proben
 
 ### Erfahrung durch Fehlschläge
 
-### Meilensteine
+### Erfahrung durch Ereignisse
+
+Meilensteine
+
+
+# Charaktererschaffung II
+
+1. Erscheinung - hier wird alles beschrieben, was sich über den
+   Charakter wahrnehmen lässt. Also natürlich 
+   Aussehen, Kleidung, aber auch zum Beispiel
+   Stimme, Akzent oder sogar Geruch, oder ein seltsames
+   Schleifgeräusch beim Gehen. Ob der Charakter "kräftig und erfahren"
+   aussieht gibt einen Hinweis auf die Spielwerte,
+   wie etwa einen erhöhten Stärkewert und 2 - 3 mal so viele
+   "Trefferwürfel" wie ein normaler Mensch.
+
+2. Motivation - Was will der Charakter, und was will er nicht. Hier kann
+   auch stehen, wie sich der jeweilige Charakter in die 
+   Hintergrundgeschichte des Abenteuers einfügt.
+
+3. Eigenschaften - Hier stehen Fertigkeiten, Stärken und Schwächen des
+   Charakters. Wichtige Eigenschaften werden auf einer Skala von
+   *schwach* über *durchschnittlich*, *gut*, *sehr gut*, *exzellent*
+   bis hin zu *übernatürlich gut* angegeben. Je nach Spielsystem
+   können diese Beschreibungen in geeignete Spielwerte übertragen
+   werden.
+
+4. Ressourcen - Hiermit ist alles gemeint, was der Charakter hat oder verbirgt und
+   was für die Spielercharaktere von Interesse sein könnte. Also ganz
+   traditionell Schätze und magische Gegenstände, aber natürlich auch
+   Informationen, die für die Spielercharaktere wichtig sein könnten,
+   oder gar dunkle Geheimnisse, die im Rahmen des Abenteuers gelüftet
+   werden müssen.
+
+
+Ein Beispiel: 
+
+**Der alte Balduin**
+
+Erscheinung:
+:    Balduin ist ein **klappriger, alter Knacker** von dürrem, gebeugtem
+     Körperbau. Von seinem Kinn sprießt ein schütterer grauer Bart,
+     und seine grauen Augen sind fast immer halb geschlossen. Balduin
+     murmelt ständig unverständlich vor sich hin.
+
+Motivation:
+:    Von der alten Zeit erzählen, ein deftiges Essen und ein 
+     paar Getränke ausgegeben bekommen.
+
+Eigenschaften:
+:    Balduin ist **sehr gut im Glücksspiel und in Trinkwettbewerben**. 
+     Er kennt ein paar kleine Zaubertricks und ist **gut im Angst
+     einflößen**, in dem er seine alten Schauergeschichten erzählt.
+
+Ressourcen:
+:    Balduin ist praktisch immer pleite. Allerdings kann er zu jedem
+     der unten genannten Gerüchte noch ein paar schaurig ausgestaltete
+     Details beisteuern.
+
+
+Und noch ein zweites Beispiel:
+
+**Ein Söldner**
+
+Erscheinung:
+:     Aufrecht, kräftige Stimme, Helm, Harnisch und Hellebarde
+
+Motivation:
+:     Die Befehle einhalten, Recht und Ordnung, im Notfall die eigene Haut retten.
+
+Fertigkeiten:
+:     **Gute Nahkämpfer**, bessere Konstitution als die meisten
+      Steintaler, allenfalls **durchschnittliche Moral**.
+
+Ressourcen:
+:     Ihre Rüstung, die Hellebarde, und ein Dolch im Stiefel, jeder
+      Söldner hat eine handvoll (etwa 2W6) Silbermünzen im Beutel.
+
+Und noch ein Goblin-Schamane:
 
 
 
@@ -1047,7 +1208,20 @@ Würfelprobe - zum Beispiel in der Größenordnung von 25%.
 In den klassischen Old-School-Regeln werden Rettungswürfe als *roll
 high* Probe mit 1W20 gewürfelt. Als Ausgangswert kann man sich an der
 15 orientieren, was einer 25%igen Erfolgswahrscheinlichkeit
-entspricht.
+entspricht. In einem 2W6-System würde das einem Wurf von 9+
+entsprechen.
+
+: Beispielhafte Rettungswurfkategorien
+
+------------------------ ------------------------ --------------------
+ Todesstrahlen             Gift                     Zauberstäbe
+ Lähmung                   Versteinerung           Drachenfeuer
+ Zaubersprüche             Verzauberung            Geschicklichkeit
+ Konstitution              Flächeneffekte          Beeinflussung
+ Tod                       Strahlung               Reflex
+ physisch                  mental                  spirituell
+ Willen                    Physis                  Zähigkeit
+------------------------ ------------------------ --------------------
 
 Ein besonderer Rettungswurf wäre der Rettungswurf gegen die
 Rüstungsklasse. Eine Mechanik, die möglicherweise in Dave Arnesons
@@ -1183,58 +1357,29 @@ Schicksalswürfe können aber auch noch weiter ausgestaltet werden. Zum
 Beispiel könnte eine Situation um so günstiger sein, je höher der
 gewürfelte Wert auf einem W6.
 
+ 1d6     Effekt
+-------- ------------------------------------------------
+ 1       Begegnung mit einem "wandernden Monster"
+ 2       Hinweis auf ein wanderndes Monster
+ 3-4     kein besonderes Ereignis
+ 5       Ein hilfreicher Hinweis
+ 6       Ein hilfreicher Hinweis und ein paar Goldmünzen
+
+
+Eine andere Verteilung könnte so aussehen:
+
+ 1d6     Effekt
+-------- ------------------------------------------------
+ 1       Fehlschlag / ernsthafte Konsequenz
+ 2-3     Teilerfolg / nachteilige Konsequenz
+ 4-5     Teilerfolg
+ 6       Erfolg / glückliche Fügung
+
+
 Tatsächlich sind Würfe um die Initiative im Kampf, oder Würfe um zu
 klären ob eine Gruppe von Charakteren von einer Situation überrascht
 wird Schicksalswürfe. 
 
-Schließlich werden Schicksalswürfe auch in einigen Spielregeln
-eingesetzt, um im Falle einer kritischen Verletzung das Schicksal des
-verletzten Charakters zu bestimmen:
-
-: Tod und Verstümmelung
-
---------------------------------------------------------------------
- 2W6   Resultat
------- -------------------------------------------------------------
- 2     **Sofortiger Tod**: Kopf abgeschlagen oder ähnliches; das
-       Opfer kann auch durch Magie nicht wieder zum Leben 
-       erweckt werden.
-
- 3     **Fatale Wunde und Tod**: in 1d6 Runden: Lungendurchstich,
-       Wirbelsäulenbruch oder ähnliches; das Opfer kann durch 
-       Magie wiederbelebt werden .
-
- 4     **Verlust eines Gliedes und Tod**: in 3W6 Runden; W4:
-       1 -- Schwertarm, 2 -- Schildarm, 3, 4 -- Bein; 
-       der Tod kann mit Kauterisierung durch Feuer oder einem 
-       Tourniquet verhindert werden; bei der Verwendung von 
-       Magie bleibt das Glied verloren.
-
- 5     **Schmerzlicher Verlust**: 1 -- Nase, 2 -- Auge, 3 -- Ohr, 
-       4 -- Finger, 5 -- 1W6 Zähne, 6 -- nur eine Fleischwunde, 
-       aber es bleibt eine fette Narbe; bei der Verwendung von 
-       Magie bleibt der Verlust bestehen.
-
- 6     **Knochenbruch**: 1 -- Schwertarm, 2 -- Schildarm, 3 -- Bein, 
-       4 -- Rippe; Heilung dauert 2W4+9 Wochen; bei der Verwendung von
-       Magie bleibt das Glied gebrochen.
-
-7, 8   **Ohnmächtig**: wehrlos für 2W6 Runden; mit Helm nur eine
-       Runde lang betäubt.
-
-9      **Betäubt**: wehrlos für eine Runde; mit Helm wird man einfach
-       nur niedergeschlagen (weitere Feinde erhalten +4).
-
-10     **Niedergeschlagen**: kann sich in der nächsten Runde entweder 
-       bewegen oder angreifen aber nicht beides.
-
-11     **Knapp dem Tod entkommen!**
-
-12     **Adrenalinschub!** Für jede zwei Stufen (aufgerundet) erhält
-       man 1W4 Punkte Lebensenergie; nach dem Kampf verliert man 
-       allerdings alle Lebensenergie und fällt für 2W6 Runden in 
-       Ohnmacht.
---------------------------------------------------------------------
 
 ## Zahlenbereiche
 
@@ -1259,8 +1404,29 @@ of Dice   Sided   Sided   Sided    Sided    Sided     Sided
 ------------------------------------------------------------
 
 
+## Angriffswürfe
 
+: Generische W20 Angriffstabelle
 
+ Stufe   9 [10]   8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
+------- -------- -------- -------- -------- -------- -------- -------- --------
+   1       10       11       12       13       14      15        16       17  
+   2        9       10       11       12       13      14        15       16
+   3        8        9       10       11       12      13        14       15
+   4        7        8        9       10       11      12        13       14
+   5        6        7        8        9       10      11        12       13
+   6        5        6        7        8        9      10        11       12
+   7        4        5        6        7        8       9        10       11
+   8        3        4        5        6        7       8         9       10
+   9        2        3        4        5        6       7         8        9
+  10        1        2        3        4        5       6         7        8
+  11        1        1        2        3        4       5         6        7
+  12        1        1        1        2        3       4         5        6
+  13        1        1        1        1        2       3         4        5
+  14        1        1        1        1        1       2         3        4
+  15        1        1        1        1        1       1         2        3
+  16        1        1        1        1        1       1         1        2
+  17        1        1        1        1        1       1         1        1
 
 
 ### Angriffsbonus und ThacO
@@ -1286,7 +1452,31 @@ entspricht ein AB von 0 einer Thac0 von 19, und wie o.g.
 entspricht die absteigende Rüstungsklasse 9 der aufsteigenden
 Rüstungsklasse 10.
 
+
+
 # Story-Telling
+
+## Gemeinsames Worldbuilding
+
+## Handlungsfragen
+
+## Szenen aufstellen
+
+## Fokus und Abstraktion
+
+Würfelprobe in einem traditionellen Rollenspiel kann eine einzelne
+Aktion darstellen, vielleicht einen Schwerthieb, den Versuch ein
+Schloss zu knacken, oder vielleicht auch der Versuch jemanden durch
+ein kurzes Gespräch zu überzeugen.
+
+Es ist aber auch möglich durch einen Wurf auf z.B. "Recherchieren" die
+tagelange Suche durch eine Bibliothek darzustellen. Ein klassischer
+Erfolgswurf wird da eher langweilig sein, da er nur entscheiden kann
+ob die gewünschte Information gefunden wird. Ein abgestufter
+Erfolgswurf mit Teilerfolg, oder ein Schicksalswurf kann aber neue
+Aspekte aufbringen. Ein Teilerfolg könnte bedeuten, dass man zwar
+erfährt, dass es die Information in der Bibliothek gibt, sie aber aus
+irgend einem Grund unter Verschluss gehalten wird. 
 
 ## Schicksalspunkte
 
@@ -1318,6 +1508,61 @@ Komplikation zu lasten eines Charakters in Kauf genommen wird, als
 besondere Belohnung für gutes Rollenspiel, oder im Tausch gegen
 Erfahrungspunkte.
 
+## Plotpunkte
+
+Für bestimmte Ereignisse können Plotpunkte vergeben werden.
+Die Menge der angesammelten Plotpunkte zeigt an, wie weit die
+Charaktere bei der Erforschung eines Geheimnis, oder der Lösung eines
+Problems fortgeschritten sind. Eine einfache Strichliste ist häufig
+alles, was gebraucht wird.
+
+## Belastende Attribute
+
+Die im Abschnitt zur Charaktererschaffung genannten Attribute sind in
+der Regel "positive" Attribute. Je höher die Zahl des Attributs, desto
+"besser" für den Charakter. Eine hohe Geschicklichkeit zu haben, ist
+zum Beispiel in aller Regel besser, als eine niedrige.
+
+Geht es aber in einer Geschichte gerade darum, tragischen Niedergang,
+oder das näher kommen der Apokalypse zu beschreiben, können Attribute
+sinnvoll sein, die um so belastender oder auch "negativer" sind, je
+höher die Zahl ist. Solche Attribute machen besonders viel Sinn, wenn
+sei veränderlich sind (siehe nächster Abschnitt), und ggf. auch mit
+einem oberen Limit begrenzt sind. Ein Charakter, dessen *Wahnsinn* den
+Wert 10 erreicht, könnte so verrückt geworden sein, dass er aus dem
+Spiel ausscheidet, oder nur noch als Nicht-Spielercharakter existiert.
+
+: Belastende Attribute
+
+----------------- ----------------- -------------------
+ Verfall           Belastung         Pflichten
+ Korruption        Wahnsinn          Dunkelheit
+----------------- ----------------- -------------------
+
+Andererseits können solche belastenden Attribute wiederum mit
+besonderen Fähigkeiten verknüpft sein. Vielleicht muss man sich die
+Fähigkeit Magie zu wirken mit Korruption erkaufen. Erst wenn diese
+einen Wert von z.B. 3 oder mehr hat, ist man überhaupt in der Lage
+Zauber zu wirken. Oder es könnte sein, dass man Feenwesen erst mit
+einem gewissen Wert in *Verfall* überhaupt wahrnehmen kann. Steigt der
+Wert weiter an, kann man sie sehen, und mit ihnen Kommunizieren.
+Steigt der Wert in *Verfall* aber zu hoch, wird man in die Feenwelt
+aufgenommen und assimiliert ... und es führt kein Weg zurück. 
+
+Auf diesem Weg können negative Attribute viel impliziertes Setting
+kommunizieren und Antrieb und Motivation für Handlungsstränge liefern.
+
+## Dynamische Attribute
+
+Es kann spannend sein, für bestimmte Dinge um die es in einem Spiel
+gehen kann Attribute einzuführen, die sich je nach Verlauf der
+Ereignisse im Spiel verändern. Gute Beispiele wären *Wahnsinn*,
+*Trauma* oder ähnliches. Oder auch *Vertrauen* oder *Rückhalt*
+... In gewisser Weise ist auch die Stufe eines klassischen Fantasy
+Charakters ein dynamisches Attribut. Und ein besonders traumatisches
+Erreignis in klassischer Old-School Fantasy ist ja auch, wenn ein
+Charakter eine Stufe "Lebensenergie" verliert. 
+
 ## Verbindungen und Überzeugungen
 
 : Beispiele für Verbindungen
@@ -1348,6 +1593,119 @@ sein.
 
 # Antagonisten
 
+: 36 Antagonisten
+
+ W66                             
+----- -----------------------------------------------------------
+ 11   ein Anti-Kleriker
+ 12   ein Nekromant
+ 13   die Herrin der Drachen
+ 14   der König der Unterwelt
+ 15   Die Kabale der östlichen Zauberwirker
+ 16   Die Verschwörung aus dem Osten
+ 21   Die Rächer des Westens
+ 22   Die Eisbarbaren
+ 23   Die Hexenmeister der dampfenden Dschungel
+ 24   Die wilden Horden
+ 25   Morlocks aus der Unterwelt
+ 26   Eroberer aus einer fernen Welt
+ 31   Eindringlinge von einer fremden Ebene
+ 32   Die sieben Dämonen
+ 33   Der Geheimbund der Seelenfischer
+ 34   Aliens from outer space
+ 35   Die wahren Alten aus der Tiefe
+ 36   ein ungewöhnlich intelligentes Monster
+ 41   der Kaiser selbst
+ 42   das Imperium
+ 43   der König
+ 44   der Bruder / die Schwester des Königs
+ 45   das Handelshaus der Worschecks
+ 46   die Nation, die schon immer unser Erzfeind war
+ 51   Orkbanden aus den Bergen
+ 52   Riesen aus dem eisigen Norden
+ 53   Die Reformer von Raal
+ 54   Die Bewahrer von Zerkant
+ 55   eine Halbgöttin, oder ein Halbgott
+ 56   ein Teufel aus den flammenden Höllen
+ 61   eine wahre Gottheit
+ 62   ein gefallene Gottheit
+ 63   Die Gilde der Glückshändler
+ 64   Die Ghule der Dunkelheit
+ 65   Seltsame Geistwesen aus dem grünen Licht
+ 66   Das Nichts
+
+
+: 36 Motive für Antagonisten
+
+ W66  Motiv                           
+----- -----------------------------------------------------------
+ 11   Die Weltherrschaft erlangen
+ 12   Alleinige Macht über die Magie der Welt erlangen 
+ 13   Die Welt zerstören
+ 14   Das Volk ... zerstören
+ 15   Die Ungläubigen strafen
+ 16   Rache üben
+ 21   Den Kampf der Gerechtigkeit führen  
+ 22   Die Wahrheit ans Licht bringen
+ 23   Ein Geheimnis hüten
+ 24   Freiheit erlangen
+ 25   Schätze anhäufen, die/der reichste ... der Welt werden.
+ 26   Das Land erobern
+ 31   Fressen
+ 32   Sich Fortpflanzen
+ 33   Unsterblich werden
+ 34   Zur Gottheit aszendieren
+ 35   Die Götter strafen
+ 36   Herr der Dämonen werden
+ 41   Das Geheimnis der Zeitreise lüften
+ 42   Die Vergangenheit manipulieren
+ 43   Die Zukunft manipulieren
+ 44   Das Gefüge der Welt neu ordnen
+ 45   Das Chaos ausbreiten
+ 46   Die Rechtschaffenheit ausbreiten
+ 51   Die Drachen von *Bengress* wecken
+ 52   Diener des Einen werden
+ 53   Den Einen erwecken
+ 54   Eins werden mit der Singularität
+ 55   Den Übergang in die Ebenen schaffen
+ 56   Das Portal finden
+ 61   Das Portal öffnen
+ 62   Den Weltenberg spalten
+ 63   Den Stein der Weisen finden
+ 64   Den Eckstein der Welt entdecken
+ 65   An das Ende der Zeit reisen
+ 66   die Unendlichkeit sehen
+
+Mit diesen beiden Tabellen lassen sich 1.296 Konstellationen aus
+möglichen Antagonisten und deren Motiven erzeugen. 
+
+Zum Beispiel habe ich auf der ersten Tabelle eine 1 und 5 gewürfelt:
+*Die Kabale der östlichen Zauberwirker*, und auf der zweiten Tabelle
+eine 2 und 4: *Freiheit erlangen*. Es sieht also ganz danach aus, als
+sei die Kabale der östlichen Zauberwirker eine unterdrückte
+Organisation, vielleicht hatte sie mal Macht, vielleicht ruhen die
+Geheimnisse der Kabale in irgendwelchen alten Höhlen, aber sie sind
+zur Zeit nicht zugänglich.  Daraus ergeben sich schon ein paar
+Abenteuerideen. Mitglieder der Kabale könnten die Charaktere für
+Kurierdienste anheuern um untereinander geheim zu kommunizieren, oder
+sie könnten die Abenteurer beauftragen Zutaten für ein magisches
+Ritual zu beschaffen, mit der die Kabale zum alten Glanz zurück finden
+könnte. Auch politische Motive wären denkbar. Vielleicht versucht die
+Kabale Regierungskreise zu infiltrieren um endlich frei zu kommen, und
+nutzt dazu die Dienste der Spielercharaktere. Wenn deutlich wird,
+wofür die Kabale wirklich steht, könnte dies die Charaktere in
+schwierige moralische Konflikte stürzen.
+
+Vielleicht sind der oder die jenigen, welche die Kabale unterdrücken
+aber auch noch viel schlimmer als die Kabale selbst. Um heraus zu
+finden, wer das sein könnte, würfele ich noch einmal auf der
+Antagonistentabelle: 3 und 5, also *die wahren Alten aus der Tiefe*.
+Na wenn das kein Stoff für eine Kampagne ist. Je weiter der Plan der
+Kabale fortschreitet, und je mehr sich die Charaktere
+instrumentalisieren lassen, desto offensichtlicher geraten sie in
+Konflikt mit den unheimlichsten Kreaturen, von denen die Menschheit
+nie etwas hätte wissen dürfen.
+
 ## Monster und Antagonisten entwerfen
 
 TODO: Tabellen und Regeln zur Monsterentwicklung
@@ -1373,354 +1731,6 @@ TODO: Tabellen und Regeln zur Monsterentwicklung
 4. **Basilisks**, 1-6 (1-6), AC 4, Move 6, HD 6+1, Lair nearby 40%,
    Treasure F, Alignment Chaos / Neutral
 
--------------------------------------------------------------------------------
-             Number      Number         Move        Lair     Treasure    
-Type         Appearing   In Lair   AC   Rate   HD   Nearby   Type       Align 
------------- ----------- --------- ---- ------ ---- -------- ---------- -------
-Androids        1-8        3-18     9    12     2     15       A2        Any
-
-Ants,           2-12      20-240    3   18/3    2     10       C          N
-giant
-
-Apes            1-8        n/a      6   12/12  4+1    n/a      n/a        N
-
-Basilisks       1-6        1-6      4   6      6+1    40       F        C, N
-
-Bats            10-80     100-800    8   3/12     ½    15      n/a        N
-
-Bats,            1-8        1-8      7   3/15     4    15       C         N
-giant 
-
-Bears            1-6       1-6       6    12     5+5    n/a    n/a        N
-
-Beetles,         1-12       n/a      3    9/6    2-7    n/a    n/a        N
-giant
-
-Black pudding       1     n/a      7     3      10     n/a   n/a        N
-
-Boars             1-12    n/a      7     15     1+2    n/a   n/a        N
-
-Boars, giant      1-8     n/a      6     12      7     n/a   n/a        N
-
-Cave bears        1-2     n/a      6     12     6+6    n/a    n/a       N
-
-Cavemen           2-12  30-180+    9     12       2     15     C        N
-
-Centaurs          2-8     4-24+    6     18       4      5     A1      L, N
-
-Centipedes,       1-6      1-6    3/7    12      3+1     60    B        N
-giant
-
-Centipedes,       2-24   n/a    9      6       ½       n/a     n/a      N
-large
-
-Chimeras          1-4     1-4    4      12/18    9      50     F         C
-
-Cockatrices       1-8     1-8    6      9/18     5      35     D        C, N
-
-Crabs, giant      3-12    n/a    3      6        3      n/a     n/a      N
-
-Crocodiles        2-12    3-24    6      9/15     3      20    n/a       N
-
-Crocodiles,        1-6    2-12    5      9/15     7      20    n/a        N
-giant
-
-Cyborgs            2-8   30-180   5       9      3+3      15     G       C, N
-
-Cyclopes           1-4     1-4       2     15      16      30     E*        N
-
-Dinosaurs             
-
-Brontosaurs         1-6     n/a      5     6      32      n/a     n/a      N 
-
-Mosasaur            1-4     n/a      5    3/15    14      n/a     n/a      N
-
-Pterodactyls        1-8     n/a      5    3/12    2-7     n/a     n/a      N 
-
-Stegosaurs          2-8     n/a      2/5    6       8      n/a     n/a     N 
-
-Triceratops         2-8     n/a      2/5    9       16     n/a     n/a      N 
-
-Tyrannosaurus Rex    1-2    n/a      5     15       20    n/a      n/a     N 
-
-Deinonychus          1-6     n/a     5     21      4      n/a      n/a     N
-
-Djinni                1      n/a      6    9/24    7+1    n/a       n/a    N
-
-Dogs               4-16      n/a      7      15     1     n/a       n/a    N 
-
-Doppelgangers       1-6      3-12     5      9      4      25       E      C, N
-
-Dragon turtles      1-4      1-4      2     3/9     12     60       H      N
-
-Dragons             
-
-Black               1-4      1-4     5-2   Various 2-12    60       H*     C 
-
-Blue                1-4      1-4     5-2   Various 2+2-14   60      H*     C 
-
-Golden              1-4      1-4     5-2   Various 2-1-16  60      H*     L 
-
-Green               1-4       1-4    5-2   Various 2+1-13  60      H*     C 
-
-Red                 1-4       1-4    5-2   Various 2+3-15  60      H*     C
-
-White               1-4       1-4    5-2   Various 2-1-11   60     H*     C
-
-Dryads             1-6      1-6      5     12       2       20      D     L, N 
-
-Dwarfs             2-12    20-240+    4    9        1       50      G     L, N
-
-Efreeti             1       n/a       4    9/24   10      n/a     n/a      C
-
-Elemental            
-
-Air                1         n/a       3    -/36  8/12/16  n/a   n/a       N 
-
-Earth              1         n/a       3    6/6   8/12/16   n/a   n/a      N  
-
-Fire              1          n/a       3     12   8/12/16   n/a   n/a        N 
-
-Water              1         n/a       3   6/18   8/12/16   n/a   n/a       N
-
-Elves            2-12       20-240+    7    12    1      25        E       L, N
-
-Fish, giant      2-12        n/a       5   -/30  4-9     n/a     n/a        N
-
-Gargoyles        1-10       2-20       6   9/15   4      25       C          C
-
-Gelatinous        1         n/a        8     6    4      n/a       *         N
-cube 
-
-Ghouls          1-12        2-24       7   9      2      20       B          C
-
-Giants             
-
-Cloud           1-8         1-8        3    15   12+2     30       E*        N
-
-Fire            1-8         1-8        3    12   11+3     30       E*        C 
-
-Frost           1-8         1-8        4    12   10+1     30       E*        C 
-
-Hill            1-8         1-8        4    12    8       30       E*        C 
-
-Stone           1-8         1-8        2    12    9       30       E*        N 
-
-Storm           1-8         1-8         2   15    15      30       E*        N
-
-Gnolls         2-10        20-200+      6    9     2      30       D         C
-
-Gnomes         2-12        20-240+   6    9     1      60       C        L, N
-
-Goblins        2-20        40-400+   7    9    1-1     50       *        C
-
-Golems             
-
-Clay             1         n/a       2    6     12     n/a     n/a        N
- 
-Flesh            1         n/a       9    9      9     n/a     n/a        N
-
-Gorgons         1-4        1-4       3     12    8      50       E        C
-
-Gothrogs        1-6        1-6       3    9/15   10      25       F       C
-
-Gray ooze        1         n/a       9      3     3      n/a     n/a       N
-
-Green slime      1         n/a       9     n/a    3      n/a     n/a       N
-
-Griffons        1-8      2-16        4    12/30   7     10        E        N
-
-Halflings       2-8       30-180+    7      9     1     70        B       L, N
-
-Hippogriffs     1-8        2-16      6    18/36  3+1    n/a      n/a       N
-
-Hobgoblins      2-12      20-240+    5     9     1+1    30        D        C
-
-Horses             
-
-Destrier         n/a        n/a      7    12    2+4    n/a       n/a       N 
-
-Draft horse      n/a        n/a      7    12    2+1    n/a       n/a       N 
-
-Mule             n/a        n/a      7    12     2     n/a       n/a       N
-
-Riding horse     n/a        n/a      7    24     2     n/a       n/a       N 
-
-War horse        n/a        n/a      7    18    2+2    n/a       n/a       N
-
-Hydras           1-2        1-2      5    12    5-12    25        B        N
-
-Invisible          1        n/a      2    -/12    8     n/a      n/a       N
-stalker
-
-Juggernaut         1        n/a      2     9      37    n/a      n/a       N
-
-Kobolds          2-20     40-400+    7    6/9     ½     50        *       C, N
- 
-Leeches,         2-12       n/a      8     3/6    2     n/a      n/a        N
-giant
-
-Lions            1-6       2-12      6     12     5+2    25      n/a        N
-
-Lions,           2-8        2-8      5     12     6+2    25      n/a        N
-spotted
-
-Living statues
-
-Iron              1         n/a      2      6    18     n/a    n/a        N
-
-Stone             1         n/a      5      6    14     n/a    n/a        N
-
-Lizards,          1-6       2-12     5      15   3+1    60      n/a       N
-giant
-
-Lizards,          1-6       2-12     8      12    ½     60      n/a       N
-large
-
-Lizardmen         2-8       10-40+   6     6/12  2+1    40       D       C, N
-
-Lycanthropes
-             
-Werebears        1-10        2-20    3      9     6      15      C       L, N
-
-Wereboars        1-10        2-20    5     12    4+1     15      C       C, N
-
-Weretigers       1-10        2-20    4     12    5       15      C       C, N
-
-Werewolves       1-10       2-20     6     15     4     15       C       C, N
-        
-Manticoras       1-4         1-4     5    12/18   6+1    25      D       C
-
-Mastadons       1-12    n/a     6       15       12     n/a     n/a     N
-
-Medusae         1-4     1-4     7       9       4        75      F      C
-
-Men
-
-Bandits         2-16    30-300+  8       12      1       15      A1      C, N
-
-Berserkers      2-16    30-300+  9       12      1+1     15      A1      N
-
-Brigands        2-16    30-300+  6       12      1       15      A1      C
-
-Buccaneers      2-16     30-300+  8      12      1       15       A3      C, N
-
-Dervishes       2-16    30-300+  8       12      1+1     15      A2      L
-
-Mercenaries     2-16    30-300+     6    12      1+1     15      A3      N
-
-Nomads          2-16    30-300+     8     12     1       15     A2      C, N
-
-Pirates         2-16    30-300+     8     12       1     15      A3       C
-
-Zealots         2-16     30-300+    9     12     1+1     15       A2       C
-
-Mermen          2-12     20-240+    7     3/15    1+1     40     A3        N
-
-Minotaurs        1-8      1-8       6      12     6       30     C        C, N
-
-Mummies          1-6  1-12 4 6 5+1  30  D C
-
-Nixies     2-20  10-100 7 6/12 1-1  100  B N
-
-Ochre jelly  1  n/a 9 3 5  n/a  n/a N
-
-Octopi, giant  1-4  1-4 7 -/9 4  30  A3 N
-
-Ogres     1-8  3-18 6 9 4+1  30  C* C
-
-Orcs     2-16  30-300+ 7 9 1  50  D C
-
-Pegasi     1-12  n/a 6 24/48 2+2  n/a  n/a L, N
-
-Pixies     2-20  10-100 6 9/18 1-1  25  C N
-
-Purple worms  1-4  1-4 6 9/9 15  25  D N
-
-Rats, giant  2-12  10-60 7 12/6 ½  10  C N
-
-Robots     1-4  n/a 3 6/6 7  n/a  n/a C, N
-
-Rocs
-
-Young     1-8  1-20 6 6/48 6  20  I N
-    
-Adult    1-6 1-20 5 6/42 12 20 I N 
-
-Ancient    1-4 1-20 4 6/36 18 20 I N
-
-Sabre toothed tigers 1-2  1-2 6 12 7+2  15  n/a N
-
-Salamanders     2-5  2-5 3/5 9 7+3  70  F C
-
-Scorpions, giant  1-4  1-4 3 15 5+4  50  D N
-
-Sea monsters
-
-Leviathan     1  1 4 -/18 45  n/a  H N
-
-Kraken     1  1 2 3/18 30  75  G* N
-
-Sea serpents  1-4  1-4 6 -/21 15  25  D N
-
-Shadows     1-10  2-20 7 -/9 2+2  50  F C
-
-Skeletons     3-30  n/a 8 6 ½  n/a  n/a N
-
-Snakes, giant  1-4  n/a 6 9/9 7  n/a  n/a N
-
-Snakes, large  2-16  n/a 8 6/6 ½  n/a  n/a N
-
-Spectres    1-8  1-8 3 -/15 6  25  E C
-
-Spiders, giant  1-8  1-8 5 3/12 4+4  70  C C
-
-Spiders, large  1-10  2-20 8 6/15 ½  60  C N
-
-Squid, giant  1-6  2-12 7/3 -/12 6  20  A3 N
-
-Thulls     1-8  3-18 6 9 3  35  D C
-
-Tigers     1-4  1-4 6 12 5+4  15  n/a N
-
-Titanotheres     1-12  n/a 7 12 12 n/a  n/a N
-
-Titan     1  1 2 18 21  5  A1* Any
-
-Toads, giant  1-6  3-30 6 6/6 2+4  40  n/a N
-
-Treants     1-10  2-20 2 6 8  15  n/a L, N
-
-Trolls     1-6  2-12 5 12 6+3  50  D C
-
-Unicorns     1-4  n/a 3 24 4  n/a  n/a L
-
-Vampires     1-6  1-6 2 12/18 8  20  F C
-
-Weasels, giant  1-8  1-8 6 15 2  15  n/a N
-
-Wight apes  1-6  1-6 6 12/12 5+2  10  C N
-
-Wights    1-12 2-24 6 9 3  60  B C
-
-Wolves     1-10  2-20 7 18 1  15  n/a N
-
-Wolves, giant  1-6  3-12 6 18 2+2  15  n/a C
-
-Woolly mammoths 1-12  n/a 5 15 13  n/a  n/a N
-
-Woolly rhinoceroses 1-4  n/a 5 12 10  n/a  n/a N
-
-Wraiths     1-8  2-16 4 -/12 4  20  E C
-
-Wyverns     1-6  1-6 4 9/24 7  60  E C, N
-
-Yellow mold  1  n/a 9 n/a 3  n/a  n/a N
-
-Zombies     3-30  n/a 9 6 1  n/a  n/a N
-
----------------------------------------------------------------------------
-
 # Schätze
 
 ## Schätze entwickeln
@@ -1729,7 +1739,163 @@ TODO: Tabellen um Schätze und magische Gegenstände zu entwickeln
 
 ## Beispielschätze
 
-# Szenen, Aufhänger, Abenteuer und die Welt
+# Szenarios, Aufhänger, Abenteuer und die Welt
+
+: 36 Szenario-Aufhänger
+
+ W66                             
+----- -----------------------------------------------------------
+ 11   einen Mord aufklären  
+ 12   ein Artefakt finden
+ 13   eine Gefangene/einen Gefangenen befreien
+ 14   eine Karawane begleiten
+ 15   einen mystischen Ort aufspüren
+ 16   einen unbekannten Ort untersuchen
+ 21   eine Botschaft überbringen
+ 22   eine Ware überbringen
+ 23   einen Raub vereiteln
+ 24   einen Raub ausführen
+ 25   die See bereisen
+ 26   eine Schatz finden
+ 31   Zutaten für ein magisches Ritual beschaffen
+ 32   Schmuggler aufdecken
+ 33   Verbotene Ware schmuggeln
+ 34   ein seltenes Tier erbeuten
+ 35   ein Monster erbeuten
+ 36   ein Portal finden 
+ 41   den Mahlstrom entdecken
+ 42   einen Schatz zurück bringen
+ 43   
+ 44
+ 45
+ 46
+ 51
+ 52
+ 53
+ 54
+ 55
+ 56
+ 61
+ 62
+ 63
+ 64
+ 65
+ 66
+
+
+: 36 Auftraggeber
+
+ W66                             
+----- -----------------------------------------------------------
+ 11   ein einsamer Wanderer
+ 12   die Königin selbst
+ 13   ein Magier   
+ 14   eine erblindete Kriegerin
+ 15   der Herr der Silberdrachen
+ 16   das magische Schwert des alten Hexenmeisters
+ 21   ein Händler
+ 22   der Tavernenwirt
+ 23   eine Magt
+ 24   ein Stallbursche
+ 25   der Bürgermeister
+ 26   der Dorfschulze
+ 31   der alte Mann mit der Augenklappe
+ 32   ein sprechender Papagei
+ 33   der alte Mann mit dem Holzbein
+ 34   ein sterbender Bote des Fürsten
+ 35   die weise Kräuterfrau
+ 36   der Dorfälteste
+ 41   die Vision eines Monsters
+ 42   die Vision einer Gottheit
+ 43   die Vision eines Dämons
+ 44   ein winziger Gnom, der Euch ins Ohr flüstert
+ 45   ein sprechender Rabe
+ 46   der Dorfpriester
+ 51   der Bischoff von Westfurt
+ 52   die Weisen von Aung
+ 53   ein alter Abenteurer, der drei Tage mit Euch gereist ist
+ 54   der Hauptmann der Stadtwache
+ 55   der Geist eines Verstorbenen
+ 56   eine Traumgestalt
+ 61   ein Flammenwesen, welches im Feuer erscheint
+ 62   der alte Meister
+ 63   die eigenen Eltern
+ 64   der Bruder der 5 Jahre lang verschollen war
+ 65   die Schwester die den Baron geheiratet hatte
+ 66   ein mutiges Mädchen mit einer Steinschleuder
+
+
+: 36 abenteuerliche Situationen
+
+ W66                             
+----- -----------------------------------------------------------
+ 11   "Ihr habt den Pass gerade noch bei Tageslicht hinter Euch 
+      gebracht, als ..."
+ 12   "Ihr sitzt in der Sonne am Ladekai des kleinen Hafens 
+      als ..."
+ 13   "Tagsüber konntet Ihr Euer Ziel schon in der Ferne sehen,
+      doch dann zog Nebel auf, und jetzt wird es auch noch dunkel
+      ..."
+ 14   "Seit Tagen seit Ihr schon in diesen Sümpfen unterwegs als
+      ihr plötzlich beginnt im moorigen Boden zu versinken ..."
+ 15   "Die Furt vor Euch führt zu viel Wasser, mitten im Fluss
+      droht ein Fuhrwerk zu versinken. Als die Verunglückten Euch
+      bemerken, rufen sie und flehen um Eure Hilfe ..."
+ 16   "Nach einer Pause im Dorfkrug seit ihre gerade dabei die
+      kleine Ortschaft zu verlassen, als Ihr bemerkt, dass Ihr
+      verfolgt werdet ... "
+ 21   "Weit und mühsam war der Weg hierher, doch jetzt steht ihr
+      direkt davor: Am Eingang zu den sagenumwobenen Höhlen ...
+      worauf wartet Ihr noch?"
+ 22   "Die rote Sonne nähert sich langsam dem Horizont und taucht
+      das Land in violettes Abendlicht. Als Ihr beim Blick ins
+      Lagerfeuer in Gedanken versunken seit, ist da plötzlich
+      eine Stimme ..."
+ 23   "Der Markt wimmelt vor Händlern, Schaustellern und Gesinde.
+      Es riecht nach Feuer, Eisen, Schweiß, und geröstetem
+      Fleisch.  Während Ihr Euch umschaut, bemerkt Ihr, dass Euch
+      einer der Händler aus dem Schatten seines großen Zeltes mit
+      bestimmter Geste zu Euch heran winkt ..."
+ 24   "Völlig außer Atem, und im letzten Moment entdeckt Ihr eine
+      Stelle in der Böschung in der Ihr Euch und Eure Reittiere
+      verstecken könnt. Eure Verfolger scheinen getäuscht. Sie
+      suchen noch eine Weile weiter unten am Hang nach Euch, dann
+      geben Sie auf. Vor wem seit Ihr auf der Flucht? Warum? Was
+      ist Euer Ziel?  ..."
+ 25   "Neben einigen anderen Reisenden habt Ihr Euer Lager
+      außerhalb der Ortschaft aufgeschlagen. Plötzlich bemerkt
+      Ihr eine Person mit langem Umhang und Kapuze, die sich dem
+      Lager nähert. Die anderen Reisenden scheinen nervös, und
+      suchen Ihre Waffen zusammen ..."
+ 26   "Die Sonne neigt sich dem Horizont zu und die silbernen
+      Hörner der Wächter ertönen. Es ist Zeit in den sicheren
+      Schutz der Siedlung zurück zu kehren. Am Tor werdet Ihr
+      jedoch von einem Beamten aufgehalten ..."
+ 31  
+ 32  
+ 33  
+ 34  
+ 35  
+ 36  
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 51
+ 52
+ 53
+ 54
+ 55
+ 56
+ 61
+ 62
+ 63
+ 64
+ 65
+ 66   You all meet in a tavern 
+
 
 ## Dungeons
 
@@ -1737,19 +1903,19 @@ TODO: Tabellen um Schätze und magische Gegenstände zu entwickeln
 
 ### Dungeon Stocking
 
-1d20 | Room
+2d6  | Room
 -----|---------
 1-10 | Empty
-11-13 | Creatures
-14-16 | Creatures with Treasure
-17 | Trap
-18 | Trap with Treasure
-19 | Something Weird
-20 | Unguarded Treasure
+11-  | Creatures
+14-1 | Creatures with Treasure
+17   | Trap
+18   | Trap with Treasure
+19   | Something Weird
+20   | Unguarded Treasure
 
 ### Zufallsbegegnungen im Dungeon
 
-Dungeon: alle 2 Phasen bei 1 auf W6
+Dungeon: alle 2 Phasen bei 1 auf 1W6
 
 : Auswahl der Zufallsbegegnungstabelle nach Dungeon-Level
 
@@ -1773,43 +1939,57 @@ Die folgenden Tabellen gehen von einer Gruppenstärke von 3
 Spielercharakteren aus. Ab 5 Spielern sollten die erwürfelten Zahlen
 verdoppelt werden.
 
-: Dungeon-Begegnungen, Tabellen 1-3
+: Dungeon-Begegnungen, Tabellen 1-2
 
- 1-12  Tabelle 1             Tabelle 2           Tabelle 3
------- --------------------- ------------------- ---------------------
-  1    1-6 Berserker         1-3 Aaskriecher     1-4 Höhlenbären
-  2    1-6 Räuber            1-3 Krokodile       1-3 Cockatrice
-  3    1-6 Tausendfüßlr.     1 Junger Drache     1 Erwachsener Drache
-  4    1-2 Wyrmlinge         1-3 Gargyle         1 Hydra, 4-6 Köpfe
-  5    2-8 Goblins           1 Gallertwürfel     1-6 Lykanthropen
-  6    2-8 Hobgoblins        2-8 Ghoule          1-3 Minotauren
-  7    2-12 Kobolde          2-8 Gnolle          1-6 Mumien
-  8    2-12 NSCs             2-8 Echsenmenschen  2-12 NSCs
-  9    2-8 Orks              1-3 Medusen         1-4 Oger
-  10   2-12 Skelette         2-12 NSCs           1-6 Skorpione
-  11   1-3 Riesenspinnen     1-4 Thoule          1-6 Riesenspinnen
-  12   2-8 Zombies           1-4 Wights          1-4 Wraiths
+ 2d6   Tabelle 1             Tabelle 2           
+------ --------------------- ------------------- 
+  2    1-6 Räuber            1-3 Krokodile       
+  3    1-6 Tausendfüßlr.     1 Junger Drache     
+  4    1-2 Wyrmlinge         1-3 Gargyle         
+  5    3-8 Goblins           1 Gallertwürfel     
+  6    3-8 Hobgoblins        3-8 Ghoule          
+  7    2-12 Kobolde          3-8 Gnolle          
+  8    2-12 NSCs             3-8 Echsenmenschen  
+  9    3-8 Orks              1-3 Medusen         
+  10   2-12 Skelette         2-12 NSCs           
+  11   1-3 Riesenspinnen     1-3 Thoule          
+  12   3-8 Zombies           1-3 Wights          
 
-: Dungeon-Begegnungen, Tabellen 4-6
+: Dungeon-Begegnungen, Tabellen 3-4
 
- 1-12  Tabelle 4             Tabelle 5           Tabelle 6
------- --------------------- ------------------- ---------------------
-  1    1-2 Basilisken        1-2 Alte Drachen    1-4 Zyklopen   
-  2    1-2 Große Drachen     1-2 Efreeti         1 Uralter Drache
-  3    1 Elemrntar 8 TW      1 Elementar 12 TW   1 Elementar 16 TW   
-  4    1-2 Wyrmlinge         1-3 Gargyle         1 Hydra, 4-6 Köpfe
-  5    2-8 Goblins           1 Gallertwürfel     1-6 Lykanthropen
-  6    2-8 Hobgoblins        2-8 Ghoule          1-3 Minotauren
-  7    2-12 Kobolde          2-8 Gnolle          1-6 Mumien
-  8    2-12 NSCs             2-8 Echsenmenschen  2-12 NSCs
-  9    2-8 Orks              1-3 Medusen         1-4 Oger
-  10   2-12 Skelette         2-12 NSCs           1-6 Skorpione
-  11   1-3 Riesenspinnen     1-4 Thoule          1-6 Riesenspinnen
-  12   2-8 Zombies           1-4 Wights          1-4 Wraiths
+ 2d6   Tabelle 3              Tabelle 4             
+------ ---------------------  --------------------- 
+  2    1-6 Höhlenbären        1-2 Basilisken        
+  3    1-3 Cockatrice         1-2 Große Drachen     
+  4    1 Erwachsener Drache   1 Elementar 8 TW      
+  5    1 Hydra, 4-6 Köpfe     1-2 Wyrmlinge         
+  6    1-6 Lykanthropen       3-8 Goblins           
+  7    1-3 Minotauren         3-8 Hobgoblins        
+  8    1-6 Mumien             2-12 Kobolde          
+  9    2-12 NSCs              2-12 NSCs             
+ 10    1-6 Oger               3-8 Orks              
+ 11    1-6 Skorpione          2-12 Skelette         
+ 12    1-6 Riesenspinnen      1-3 Riesenspinnen     
+
+: Dungeon-Begegnungen, Tabellen 5-6
+
+ 2d6   Tabelle 5           Tabelle 6
+------ ------------------- ---------------------
+  2    1-2 Efreeti         1 Uralter Drache
+  3    1 Elementar 12 TW   1 Elementar 16 TW   
+  4    1-3 Gargyle         1 Hydra, 4-6 Köpfe
+  5    1 Gallertwürfel     1-6 Lykanthropen
+  6    3-8 Ghoule          1-6 Minotauren
+  7    3-8 Gnolle          1-6 Mumien
+  8    3-8 Echsenmenschen  2-12 NSCs
+  9    1-3 Medusen         1-6 Oger
+  10   2-12 NSCs           1-6 Skorpione
+  11   1-6 Thoule          1-6 Riesenspinnen
+  12   1-6 Wights          1-6 Wraiths
 
 ### Fallen
 
-: 1W12 Fallen
+: 2d6 Fallen
 
 
 ### One-Page Dungeon
@@ -2256,6 +2436,7 @@ gefolgt seid ...
     Bei 1 auf 1W6 erwartet die Abenteurer nach wenigen Minunten des
     RÜckwegs eine Zufallsbegegnung.
 
+## Spielrunde
 
 ### Struktur einer offenen Spielrunde
 
@@ -2374,8 +2555,9 @@ ausgelagert und die Planung der Spielabende wird von den Spielern
 Referenz:
 <http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/>
 
-Das sichere Dorf
-----------------
+## Ein Setting generieren
+
+### Das sichere Dorf
 
 Old School Rollenspiele brauchen ein Basislager für Charaktere. Es muss
 ein geschützter Ort sein mit einem Treffpunkt, an dem die Charaktere
@@ -2392,9 +2574,142 @@ Spielrunde wieder zurück im Ausgangsort sind. Oder genauer gesagt, der
 Ort und die umgebenden Abenteurorte sollten so arrangiert sein, dass
 sich eine Spielrunde entsprechend gestalten lässt.
 
+### Landschaften
 
-Ein Setting generieren
-----------------------
+: 36 fantastische Landstriche
+
+ d66  geografische Bezeichnung    d66  geografische Bezeichnung
+----- -------------------------- ----- --------------------------
+ 11   Nebelmoor                   41   das Brachfeld 
+ 12   Grauwald                    42   das Dunkeltal
+ 13   Düsterwald                  43   das Bruchtal
+ 14   Feuerküste                  44   die hohen Recken
+ 15   Eisküste                    45   die milden Hügel
+ 16   die süßen Felder            46   das endlose Eisfeld
+ 21   Eiszacken                   51   Südmeer
+ 22   Nebelberge                  52   Nordmeer
+ 23   die schwarzen Berge         53   Ostmeer
+ 24   die eisernen Berge          54   Westmeer
+ 25   das Wetterfenn              55   Dunkelsee
+ 26   das Schwarzmoor             56   Purpursee
+ 31   die gelbe Steppe            61   Silbersee
+ 32   die weite Wüste             62   Ozean des Morgens
+ 33   die Schwebeberge            63   Ozean der Stille
+ 34   die Salzweite               64   die Wetterinseln
+ 35   der Bruch                   65   die Inseln der Hoffnung
+ 36   die Wirrweite               66   der Abgrund
+
+
+: Ausdehnung und Fläche von Landstrichen
+
+ 1d6   1d6   Hexfelder  ungefähre Ausdehnung
+----- ----- ----------- ----------------------------------------- 
+ 1-2    1     2 x 2     144 Quadratmeilen oder 400 qkm
+ 1-2    2     2 x 4     288 Quadratmeilen oder 800 qkm
+ 1-2    3     2 x 6     432 Quadratmeilen oder 1.200 qkm
+ 1-2    4     2 x 8     576 Quadratmeilen oder 1.600 qkm
+ 1-2    5     4 x 4     576 Quadratmeilen oder 1.600 qkm
+ 1-2    6     4 x 6     864 Quadratmeilen oder 2.400 qkm
+ 3-4    1     4 x 8     1.152 Quadratmeilen oder 3.200 qkm
+ 3-4    2     6 x 6     1.296 Quadratmeilen oder 3.600 qkm
+ 3-4    3     4 x 10    1.440 Quadratmeilen oder 4.000 qkm
+ 3-4    4     6 x 8     1.728 Quadratmeilen oder 4.800 qkm
+ 3-4    5     6 x 10    2.160 Quadratmeilen oder 6.000 qkm
+ 3-4    6     8 x 8     2.304 Quadratmeilen oder 6.400 qkm
+ 5-6    1     6 x 12    2.592 Quadratmeilen oder 7.200 qkm
+ 5-6    2     8 x 10    2.880 Quadratmeilen oder 8.000 qkm
+ 5-6    3     8 x 12    3.356 Quadratmeilen oder 9.600 qkm
+ 5-6    4     10 x 10   3.600 Quadratmeilen oder 10.000 qkm
+ 5-6    5     8 x 14    4.032 Quadratmeilen oder 11.200 qkm
+ 5-6    6     8 x 16    4.608 Quadratmeilen oder 12.800 qkm
+
+Für kleine Hexkarten wie zum Beispiel die Karte auf Seite ... sollte
+nur nur mit einem Würfel auf den 6 obersten Einträgen gewürfelt
+werden.
+
+: 36 fantastische Orte 
+
+ d66                             
+----- -----------------------------------------------------------
+ 11   Die Höhlen von/des/der/am/im ... (Ort oder Landstrich) 
+ 12   Die schwebende Stadt *Aereon*
+ 13   Die ewige Stadt *Panrogai*
+ 14   Die Minen von/des/der/am/im ... (Ort oder Landstrich) 
+ 15   Die Eisenfelder                           
+ 16   Der Turm des/der ... (NSC, Monster)                           
+ 21   Die hängenden Gärten von ... (NSC, Ort oder Landstrich)
+ 22   Die Pyramiden zu/des/der ... (NSC oder Ort)
+ 23   Die Nebelfelder
+ 24   Der Wald ohne Wiederkehr
+ 25   heiße Quellen
+ 26   der Übergang
+ 31   der Thing-Stein               
+ 32   die Katakomben von/des/der/am/im ...
+ 33   *Hara*, die Stadt der Händler                           
+ 34   die Walddörfer                           
+ 35   die lebenden Bäume                           
+ 36   die lebenden Berge                           
+ 41   der sprechende Fluss
+ 42   der Monolith
+ 43   Die Quelle der Erneuerung
+ 44   das große Tal
+ 45   der Gipfel der Weitsicht
+ 46   das grüne Tal
+ 51   der Weltenbaum
+ 52   die alte Esche
+ 53   die Eiche der Vorfahren
+ 54   der Friedensstein
+ 55   die Schwefelbäume
+ 56   die Hallen von/des/der/am/im ... 
+ 61   das Tal der Alten
+ 62   der gefallene Stern
+ 63   das Höllentor
+ 64   das Feentor
+ 65   der Ursprung
+ 66   das letzte Ende
+
+
+### Himmelsrichtungen und Distanzen
+
+: Himmelsrichtungen bei horizontalen Hexfeldern
+
+ 1W6                              1W6                         
+----- -------------------------- ----- --------------------------
+ 1     Nordwesten                 4    Südosten
+ 2     Westen                     5    Osten
+ 3     Südwesten                  6    Südosten
+
+
+: Himmelsrichtungen bei horizontalen Hexfeldern
+
+ 1W6                              1W6                         
+----- -------------------------- ----- --------------------------
+ 1     Norden                     4    Süden   
+ 2     Nordwesten                 5    Südosten
+ 3     Südwesten                  6    Nordosten
+
+
+: Distanzen und Reisedauer
+
+ 2d6  Die Reise dauert ...                          
+----- ----------------------------------------------------------- 
+ 2    eine Stunde, gleiches Hexfeld
+ 3    eine Stunde, benachbartes Hexfeld
+ 4    wenige Stunden, benachbartes Hexfeld
+ 5    eine halbe Tagesreise, 1-2 Hexfelder
+ 6    eine Tagesreise, 2-3 Hexfelder
+ 7    zwei Tagesreisen, 4-6 Hexfelder
+ 8    drei Tagesreisen, 6-9 Hexfelder
+ 9    eine Woche, 10-18 Hexfelder
+ 10   2-3 Wochen, 19-54 Hexfelder
+ 11   einen Monat, 40-72 Hexfelder
+ 12   zwei Monate, 60-150 Hexfelder
+
+Der jeweils untere Bereich der Reisedauer legt sehr beschwerliche
+Bedingungen nahe, vielleicht dichten Urwald, schroffe Klippen, tiefe
+Täler, eisige Hochebenen. Der obere Bereich der Reisedauer legt
+günstige Bedingungen nahe, eine gut ausgebaute Straße vielleicht, oder
+ein Fluss auf dem die Reise zügig voran geht.
 
 ### Das Ausgangsdorf befindet sich
 
@@ -2629,20 +2944,21 @@ Einzelzimmer.
 
 ### Reiseereignisse
 
-: 1W10 Szenen auf der Reise
+: 2w6 Szenen auf der Reise
 
- 1W10  Szene
+ 2W6  Szene
 ------ ------------------------------------
-  0    nichts
-  1    Hindernis
-  2    Wildtiere (evtl. Wahrnehmungsprobe)
-  3    andere Reisegruppe
-  4    eine Falle (Sinnenschärfeprobe)
-  5    ein Überfall
-  6    Händler
-  7    Spuren
-  8    Fluchtszene
-  9    Drachenszene
+  2    nichts
+  3    Hindernis
+  4    Wildtiere (evtl. Wahrnehmungsprobe)
+  5    andere Reisegruppe
+  6    eine Falle (Sinnenschärfeprobe)
+  7    ein Überfall
+  8    Händler
+  9    Spuren
+ 10    Fluchtszene
+ 11    Drachenszene
+ 12
 
 : 1W6 Hindernisse
 
@@ -2768,7 +3084,13 @@ alle Geeignet Gerüchte zu verbreiten
   6   Spuren eines Kampfes und niedergebrannte Pflanzen, hier hat ein 
       Drachenkampf stattgefunden.
 
+
 # Spielroutinen
+
+Dieses Kapitel gibt Spielroutinen wieder, die Kompatibel mit den
+Regeln von 1974 und Swords & WIzardry sind. Daher steht dieses Kapitel
+nicht unter Creative Commons Lizenz, sondern unter Open Game Licence,
+die am Ende des Kapitels wiedergegeben ist.
 
 Eine Spielphase (10 min.)
 -------------------------------------------------
@@ -2799,9 +3121,10 @@ Türen aufbrechen bei 1 auf 1W6, ggf. Stärkebonus einrechnen.
 Verstecken
 -------------------------------
 
-Halbling: im Verlies 1-2 auf 1W6, im Freien 1-9 auf 1W10
+Halbling: im Verlies 5+ auf 1W6, im Freien 5+ auf 2W6
 
-Dieb, Stufe 1: 10%, Stufe 2: 15%, Stufe 3: 20% 
+Dieb, Stufe 1: 15+ auf 3W6, Stufe 2: 14+ auf 3W6, 
+Stufe 3: 13+ auf 3W6
 
 Eine Begegnung
 -------------------------------
@@ -2818,11 +3141,27 @@ Eine Begegnung
 Begegnungsentfernungen
 --------------------------------
 
-Dungeon: 2W6 \* 10', Wildnis: 4W6 \* 10 Meter (Überraschung: 1W4 \* 10
-Meter)
+Dungeon: 2W6 $\cdot$ 10' = 20 bis 120' (6 bis 36 Meter)
 
-Eine Kampfrunde (6-10 sek.)
+6 bis 36 Meter können auch durch **6W6** ermittelt werden!
+
+Überraschung 1W4 $\cdot$ 10' = 10 bis 40'
+
+3 bis 12 Meter entsprechen auch ungefähr **2W6** Meter
+
+Wildnis: 4W6 $\cdot$ 10 Meter = 40 bis 240 Meter
+
+Überraschung: 1W4 $\cdot$ 10 Meter = 10 bis 40 Meter
+
+praktischer: **1W6** $\cdot$ 10 Meter, also 10 bis 60 Meter.
+
+Eine Kampfrunde 
 -----------------------------------
+
+Eine Kampfrunde dauert so lange, wie die Charaktere brauchen um eine
+Bewegungsweite zurück zu legen *und* eine signifikante AKtion im Kampf
+durchzuführen. Die genaue Dauer einer Runde kann zwischen 6 Sekunden
+und etwa einer Minute dauern.
 
 1. Überraschung
 2. Absichten und Sprüche erklären
@@ -2854,7 +3193,7 @@ bei 1-2 auf 1W6
 Reaktionen
 -----------------------------
 
-2w6 | Reaktion
+2W6 | Reaktion
 :----:|:-------------
 2 | feindselig
 3-5 | unfreundlich
@@ -3014,6 +3353,197 @@ Weihwasser: Trefferwurf wie Fernkampf, 1W8 Schaden bei Untoten.
 Öl: Trefferwurf wie Fernkampf, tropft innerhalb von 2 Runden ab,
 brennendes Öl macht 1W8 Schaden.
 
+\cleartoverso
+
+\renewcommand{\arraystretch}{1.5}
+
+### Treffertabelle
+```{=latex}
+\index{Treffertabelle}
+
+\begin{tabular}{ccc|c}
+\toprule
+\multicolumn{3}{c}{Charakterklassen und Stufen} & ``Monster'' \\
+ &  & & Trefferwürfel \\ 
+\midrule 
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &
+  \rule{2cm}{.4pt}\rule{0pt}{1.9em}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+\bottomrule
+\end{tabular}
+
+\clearpage
+
+\vspace*{3pt}
+
+\begin{tabular}{cccccccccc}
+\toprule
+ \multicolumn{10}{c}{\rule{.4cm}{.4pt}W\rule{.8cm}{.4pt}-Wurf um folgende
+ Rüstungsklasse zu treffen:} \\
+ & & & & & & & & & \\
+\midrule
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \rule{0pt}{1.9em}\\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+\bottomrule
+\end{tabular}
+
+\renewcommand{\arraystretch}{1}
+
+\clearpage
+```
+
+
+## Trefferwürfe
+
+: Angriffstabelle für Kämpfer
+
+ Stufe    9 [10]    8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
+-------  --------  -------- -------- -------- -------- -------- -------- --------
+ 1-3        10        11       12       13       14       15       16       17
+ 4-6        8         9        10       11       12       13       14       15  
+ 7-9        5         6        7         8        9       10       11       12
+10-12       3         4        5         6        7        8        9       10  
+13-15       2         2        3         4        5        6        7        8
+ 16+        2         2        2         2        2        3        4        5
+
+
+: Angriffstabelle für Kleriker
+
+ Stufe    9 [10]    8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
+-------  --------  -------- -------- -------- -------- -------- -------- --------
+ 1-4      10       11        12       13       14       15       16       17
+ 5-8       8        9        10       11       12       13       14       15
+ 9-12      5        6         7        8        9       10       11       12
+13-16      3        4         5        6        7        8        9       10
+17-20      2        2         3        4        5        6        7        8
+ 21+       2        2         2        2        2        3        4        5
+
+
+: Angriffstabelle für Zauberkundige und Diebe
+
+ Stufe    9 [10]    8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
+-------  --------  -------- -------- -------- -------- -------- -------- --------
+  1-5      10       11        12       13       14       15       16       17
+ 6-10       8        9        10       11       12       13       14       15
+ 11-15      5        6         7        8        9       10       11       12
+ 16-20      3        4         5        6        7        8        9       10
+ 21-25      2        2         3        4        5        6        7        8
+  26+       2        2         2        2        2        3        4        5
+
+
+:Angriffstabelle für Monster
+
+ TW       9 [10]    8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
+-------  --------  -------- -------- -------- -------- -------- -------- --------
+ <=1        10       11        12       13       14       15       16       17
+   1+       9       10        11       12       13       14       15       16  
+   2+       8        9        10       11       12       13       14       15
+   3+       6        7         8        9       10       11       12       13
+   4+       5        6         7        8        9       10       11       12
+   6+       4        5         6        7        8        9       10       11
+   9+       2        3         4        5        6        7        8        9
+  11+       2        2         2        3        4        5        6        7
+
+
+
+## Rettungswürfe
+
+Klasse     Stufe   Tod   Tech   Hind.   AOE   Psi
+--------- ------- ----- ------ ------- ----- -----
+Kämpfer     1-3     12    13      14     15   16
+            4-6     10    11      12     13   14
+            7-9      8     9      10     10   12
+           10-12     6     7       8      8   10
+            13+      4     5       5      5    8
+Kleriker    1-4     11    12      14     16   15
+            5-8      9    10      12     14   12
+            9-12     6     7       9     11    9
+            13+      3     5       7      8    7
+ZK          1-5     13    14      13     16   15
+            6-10    11    12      11     14   12 
+           11-15     8     9       8     11    8
+            16+      5     6       5      8    3
+          
+
+
+: Tod und Verstümmelung
+
+--------------------------------------------------------------------
+ 2W6   Resultat
+------ -------------------------------------------------------------
+ 2     **Sofortiger Tod**: Kopf abgeschlagen oder ähnliches; das
+       Opfer kann auch durch Magie nicht wieder zum Leben 
+       erweckt werden.
+
+ 3     **Fatale Wunde und Tod**: in 1d6 Runden: Lungendurchstich,
+       Wirbelsäulenbruch oder ähnliches; das Opfer kann durch 
+       Magie wiederbelebt werden .
+
+ 4     **Verlust eines Gliedes und Tod**: in 3W6 Runden; W4:
+       1 -- Schwertarm, 2 -- Schildarm, 3, 4 -- Bein; 
+       der Tod kann mit Kauterisierung durch Feuer oder einem 
+       Tourniquet verhindert werden; bei der Verwendung von 
+       Magie bleibt das Glied verloren.
+
+ 5     **Schmerzlicher Verlust**: 1 -- Nase, 2 -- Auge, 3 -- Ohr, 
+       4 -- Finger, 5 -- 1W6 Zähne, 6 -- nur eine Fleischwunde, 
+       aber es bleibt eine fette Narbe; bei der Verwendung von 
+       Magie bleibt der Verlust bestehen.
+
+ 6     **Knochenbruch**: 1 -- Schwertarm, 2 -- Schildarm, 3 -- Bein, 
+       4 -- Rippe; Heilung dauert 2W4+9 Wochen; bei der Verwendung von
+       Magie bleibt das Glied gebrochen.
+
+7, 8   **Ohnmächtig**: wehrlos für 2W6 Runden; mit Helm nur eine
+       Runde lang betäubt.
+
+9      **Betäubt**: wehrlos für eine Runde; mit Helm wird man einfach
+       nur niedergeschlagen (weitere Feinde erhalten +4).
+
+10     **Niedergeschlagen**: kann sich in der nächsten Runde entweder 
+       bewegen oder angreifen aber nicht beides.
+
+11     **Knapp dem Tod entkommen!**
+
+12     **Adrenalinschub!** Für jede zwei Stufen (aufgerundet) erhält
+       man 1W4 Punkte Lebensenergie; nach dem Kampf verliert man 
+       allerdings alle Lebensenergie und fällt für 2W6 Runden in 
+       Ohnmacht.
+--------------------------------------------------------------------
+
+
 Flucht und Verfolgung
 -----------------------------------------
 
@@ -3067,138 +3597,45 @@ ein Ausweichen gelingt.
 \end{center}
 ```
 
-[Rettungswürfe]{.c18} {#h.20sd6nl0kmig .c7}
----------------------------------
 
-[]{#t.cdbf3b0cfb15801ea21b792ce3e3de0f94ebf644}[]{#t.0}
-
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Klasse,  | Gift    | Stäbe    | Lähmung  | Odem     | Sprüche  |
-| Level    |           |           |           |           |           |
-|           |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Kämpfer, | 12      | 13       | 14       | 15       | 16       |
-| 1-3      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Kleriker | 11      | 12       | 14       | 16       | 15       |
-| ,         |           |           |           |           |           |
-| 1-4{.c0} |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Dieb,    | 13      | 14       | 13       | 16       | 15       |
-| 1-4 /     |           |           |           |           |           |
-|          |           |           |           |           |           |
-|           |           |           |           |           |           |
-| Zauberku |           |           |           |           |           |
-| ndiger,   |           |           |           |           |           |
-| 1-5      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Elf,     | 12      | 13       | 13       | 15       | 15       |
-| 1-3      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Zwerg,   | 8       | 9        | 10       | 13       | 12       |
-| 1-3 /     |           |           |           |           |           |
-|          |           |           |           |           |           |
-|           |           |           |           |           |           |
-| Halbling |           |           |           |           |           |
-| ,         |           |           |           |           |           |
-| 1-3      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-
-
-[Angriffsbonus]{.c29} {#h.jcbn44d5k0qh .c7}
------------------------------------
-
-
-+-------------+-------------+-------------+-------------+-------------+
-| [AB]{.c0}   | [Monster    | [Kämpfer/]{ | [Kleriker/] | [Zauber-]{. |
-|             | TW]{.c0}    | .c0}        | {.c0}       | c0}         |
-|             |             |             |             |             |
-|             |             | [Halbmensch | [Dieb]{.c0} | [kundiger]{ |
-|             |             | en]{.c0}    |             | .c0}        |
-+-------------+-------------+-------------+-------------+-------------+
-| [-1]{.c0}   | [\<1]{.c0}  | [NM]{.c0}   | [NM]{.c0}   | [NM]{.c0}   |
-+-------------+-------------+-------------+-------------+-------------+
-| [0]{.c0}    | [1]{.c0}    | [1-2]{.c0}  | [1-3]{.c0}  | [1-4]{.c0}  |
-+-------------+-------------+-------------+-------------+-------------+
-| [1]{.c0}    | [2]{.c0}    | [3]{.c0}    | [4]{.c0}    | [5]{.c0}    |
-+-------------+-------------+-------------+-------------+-------------+
-| [2]{.c0}    | [3]{.c0}    | [4-5]{.c0}  | [5-7]{.c0}  | [6-9]{.c0}  |
-+-------------+-------------+-------------+-------------+-------------+
-| [3]{.c0}    | [4]{.c0}    | [6]{.c0}    | [8]{.c0}    | [10]{.c0}   |
-+-------------+-------------+-------------+-------------+-------------+
-| [4]{.c0}    | [5]{.c0}    | [7-8]{.c0}  | [9-11]{.c0} | [11-14]{.c0 |
-|             |             |             |             | }           |
-+-------------+-------------+-------------+-------------+-------------+
-| [5]{.c0}    | [6]{.c0}    | [9]{.c0}    | [12]{.c0}   | [15]{.c0}   |
-+-------------+-------------+-------------+-------------+-------------+
-| [6]{.c0}    | [7]{.c0}    | [10-11]{.c0 | [13-15]{.c0 | []{.c0}     |
-|             |             | }           | }           |             |
-+-------------+-------------+-------------+-------------+-------------+
-| [7]{.c0}    | [8]{.c0}    | [12]{.c0}   | []{.c0}     | []{.c0}     |
-+-------------+-------------+-------------+-------------+-------------+
-| [8]{.c0}    | [9]{.c0}    | [13-15]{.c0 | []{.c0}     | []{.c0}     |
-|             |             | }           |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-
-[]{.c3}
-
-[Schaden]{.c18} {#h.j07aellpyxnb .c7}
------------------------------------
-
-[]{#t.6a5c92424d04ec791e771b07dfe501159ffd011d}[]{#t.2}
+Schaden
+-------
 
 +-----------------------------------+-----------------------------------+
-| [1-2]{.c0}                        | [Mensch, unbewaffnet]{.c0}        |
+| 1-2                               |  Mensch, unbewaffnet              |
 +-----------------------------------+-----------------------------------+
-| [1W4]{.c0}                        | [Knüppel, Dolch, Schleuder,       |
-|                                   | Fackel]{.c0}                      |
+| 1W6-2                             |  Knüppel, Dolch, Schleuder,       |
+|                                   | Fackel                            |
 +-----------------------------------+-----------------------------------+
-| [1W6]{.c0}                        | [Bogen, Kriegsbeil, Streitkolben, |
+|  1W6                              |  Bogen, Kriegsbeil, Streitkolben, |
 |                                   | Armbrust, Kurzschwert, Speer,     |
-|                                   | Kriegshammer, Bärenklauen]{.c0}   |
+|                                   | Kriegshammer, Bärenklauen         |
 +-----------------------------------+-----------------------------------+
-| [1W8]{.c0}                        | [Langschwert, Streitaxt,          |
-|                                   | Drachenklauen]{.c0}               |
+| 1W6+2                             |  Langschwert, Streitaxt,          |
+|                                   | Drachenklauen                     |
 +-----------------------------------+-----------------------------------+
-| [1W10]{.c0}                       | [Stangenwaffen, Zweihänder, Biss  |
-|                                   | einer Hydra]{.c0}                 |
+| 2W6                               |  Stangenwaffen, Zweihänder, Biss  |
+|                                   | einer Hydra                       |
 +-----------------------------------+-----------------------------------+
 
 
-[Rüstungsklasse]{.c18} {#h.raaqmkwanymk .c7}
-------------------------------------
+## Rüstungsklasse
 
-[Umrechnung: RK (aufst.) = 19 - RK (abst.)]{.c0}
+Umrechnung: RK (aufst.) = 19 - RK (abst.)
 
-[]{#t.da441bed1f5efd4817fa0afa1403077bb23e0fa2}[]{#t.3}
+: Rüstungsklassen
 
-+-----------------------+-----------------------+-----------------------+
-| [Rüstung]{.c0}        | [RK (abst.)]{.c0}     | [RK (aufst.)]{.c0}    |
-+-----------------------+-----------------------+-----------------------+
-| [keine (AD&D)]{.c0}   | [10]{.c0}             | []{.c0}               |
-+-----------------------+-----------------------+-----------------------+
-| [keine]{.c0}          | [9]{.c0}              | [10]{.c0}             |
-+-----------------------+-----------------------+-----------------------+
-| [Waffenrock           | [8]{.c0}              | [11]{.c0}             |
-| (AD&D)]{.c0}          |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| [(beschlagenes)       | [7]{.c0}              | [12]{.c0}             |
-| Leder]{.c0}           |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Schuppenpanzer       | [6]{.c0}              | [13]{.c0}             |
-| (AD&D)]{.c0}          |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Kettenhemd]{.c0}     | [5]{.c0}              | [14]{.c0}             |
-+-----------------------+-----------------------+-----------------------+
-| [Kettenpanzer         | [4]{.c0}              | [15]{.c0}             |
-| (AD&D)]{.c0}          |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Plattenpanzer]{.c0}  | [3]{.c0}              | [16]{.c0}             |
-+-----------------------+-----------------------+-----------------------+
-| [Schild]{.c0}         | [-1]{.c0}             | [+1]{.c0}             |
-+-----------------------+-----------------------+-----------------------+
-
-[]{.c30}
+Rüstung                                    RK      Rüstungsbonus
+---------------------------------------- -------- ------------------
+ungerüstet                                9 [10]        0 [0]
+Schild, Waffenrock, Dicke Kleidung        8 [11]       -1 [+1]
+Lederrüstung                              7 [12]       -2 [+2]
+Lederrüstung+Schild, Schuppenpanzer       6 [13]       -3 [+3]
+beschl. Lederrüstung, Wildtiere
+Kettenhemd                                5 [14]       -4 [+4]
+Kettenhemd+Schild, Bänderpanzer           4 [15]       -5 [+5]
+Plattenpanzer                             3 [16]       -6 [+6]
+Plattenpanzer+Schild, Drachenschuppen     2 [17]       -7 [+7]
 
 ## Massengefechte
 
@@ -3337,60 +3774,191 @@ einem kritischen Fehlwurf (also einer 2) muss der SC zwei Wochen ohne
 Einkommen\index{Einkommen} hinnehmen.
 
 
-## GYGAX HOUSE RULES 2005
-
-<https://cyclopeatron.blogspot.com/2010/03/gary-gygaxs-whitebox-od-house-rules.html>
-
-### Introduction
-
-In 2005, Gary ran an OD&D campaign for his group. This is a
-compilation of notes about the rules for that campaign. The info was
-gleaned from Q&As in Gary's Q&A threads on ENWorld & DF as well as
-some tales of the campaign posted by Deogolf.
-
-### Rules
-* Only use the three little books---none of the supplements.
-
-### Character Generation and Advancement
-
-* Ability scores rolled as best 3 out of 4d6. Arrange scores to taste.
-* PCs start at 3rd level.
-* Fighters get +1 HP/die. All PCs get +1 HP/die if Con > 14.
-* No training necessary to gain a level.
-
-### Initiative
-* 1d6 for surprise. 1=1 round. 2=2 rounds. 3 or more=no surprise.
-* PCs must declare actions before initiative. Casters must declare the specific spell being cast.
-* 1d6 for initiative. A tie means simultaneous combat.
-* A casting caster who loses initiative will lose his spell if hit.
-
-### Combat
-
-* All PCs get 1d6 hp/level. HP rolls are rerolled on a 1.
-* Fighters do +1 damage if Str > 14.
-* Dex doesn't affect AC.
-* Dex does affect missile attack "to hit" rolls.
-* PCs are unconscious at 0 hp. They can go as low as level +1 before death. (e.g. a 4th level fighter can be brought as low as -5 hp and just be unconscious.) A healing potion or cure spell restores them immediately.
-
-###  Spells & Magical Items
-
-* To acquire new spells casters must find scrolls, spellbooks, or a friendly higher-level caster.
-* Clerics don't need spellbooks. (The original books can be read to imply that they do.)
-* Gary IDs most magic items immediately (charging large sums of money when they return to town to rest & recuperate for this service). (This is because the players are anxious to get back into the dungeon & don't want to bother with in-town adventures.)
-* Potions must still be tasted to ID, though.
-* Unusual items require a trip to the striped mage.
-
-
-## GYGAX HOUSE RULES 2007
-
-* STR > 14: +1 to hit and +1 to damage if a Fighter
-* INT > 14: +1 1st level m-u spell
-* WIS > 14: +1 1st level cleric spell
-* DEX > 14: +1 to AC, and +1 to move silently
-* CON > 14: +1 HP per HD (same as a Fighter class gets, +2 if a Fighter)
-* CHA > 14: +1 (positive) on reaction checks
-* HPs: Characters are only unconscious at 0 HPs. For each level a character may have a minus HP total equal to the level, so a 1st level PC is dead at -2, a 2nd level at -3, etc.
-* When taking damage allow -1 HP per character level
 
 ![](img/DnD-Gargoyle.png)
+
+## W6 Zufallstabellen
+
+: d6 Tabelle 1 Spalte (6 Ergebnisse, linear 16,67%)
+
+ d6                            
+----- -----------------------------------------------------------
+ 1    
+ 2   
+ 3
+ 4
+ 5
+ 6
+
+: d6 Tabelle 2 Spalten (6 Ergebnisse, linear 16,67%)
+
+ d6                               d6                          
+----- -------------------------- ----- --------------------------
+ 1                                4
+ 2                                5
+ 3                                6
+
+: 2d6 Tabelle 1 Spalte (11 Ergebnisse, Glockenkurve)
+
+ 2d6    %                        
+----- ----- ----------------------------------------------------- 
+ 2     2,78
+ 3     5,56
+ 4     8,33
+ 5    11,11
+ 6    13,89 
+ 7    16,67
+ 8    13,89
+ 9    11,11
+ 10    8,33
+ 11    5,56
+ 12    2,78
+
+
+: 3d6 Tabelle 1 Spalte (16 Ergebnisse, Glockenkurve)
+
+ 3d6    %
+----- ----- ----------------------------------------------------- 
+ 3     0,46
+ 4     1,39
+ 5     2,78
+ 6     4,63
+ 7     6,94
+ 8     9,72
+ 9    11,57
+ 10   12,50
+ 11   12,50
+ 12   11,57
+ 13    9,72
+ 14    6,94
+ 15    4,63
+ 16    2,78
+ 17    1,39
+ 18    0,46
+
+: d36 Tabelle 1 Spalte (18 Ergebnisse, linear 5,56%)
+
+ 1d6   1d6 
+----- ----- ----------------------------------------------------- 
+ 1-2    1
+ 1-2    2
+ 1-2    3
+ 1-2    4
+ 1-2    5
+ 1-2    6
+ 3-4    1
+ 3-4    2
+ 3-4    3
+ 3-4    4
+ 3-4    5
+ 3-4    6 
+ 5-6    1
+ 5-6    2
+ 5-6    3
+ 5-6    4
+ 5-6    5
+ 5-6    6
+
+: d36 Tabelle 3 Spalten (18 Ergebnisse, linear 5,56%)
+
+ 1d6  1-2                  3-4                  5-6
+----- -------------------- -------------------- --------------------
+  1
+  2
+  3
+  4
+  5
+  6
+
+: 4d6 Tabelle 1 Spalte (21 Ergebnisse, Glockenkurve)
+
+ 4d6    % 
+----- ----- ----------------------------------------------------- 
+ 4     0,08
+ 5     0,31
+ 6     0,77
+ 7     1,54
+ 8     2,70
+ 9     4,32
+ 10    6,17
+ 11    8,02
+ 12    9,65
+ 13   10,80
+ 14   11,27
+ 15   10,80
+ 16    9,65
+ 17    8,02
+ 18    6,17
+ 19    4,32
+ 20    2,70
+ 21    1,54
+ 22    0,77
+ 23    0,31
+ 24    0,08
+
+
+: d66 Tabelle 2 Spalten (36 Ergebnisse, linear 2,78%)
+
+ d66                              d66                          
+----- -------------------------- ----- --------------------------
+ 11                               41
+ 12                               42
+ 13                               43
+ 14                               44
+ 15                               45
+ 16                               46
+ 21                               51
+ 22                               52
+ 23                               53
+ 24                               54
+ 25                               55
+ 26                               56
+ 31                               61
+ 32                               62
+ 33                               63
+ 34                               64
+ 35                               65
+ 36                               66
+
+: d66 Tabelle 1 Spalte (36 Ergebnisse, linear 2,78%)
+
+ d66                             
+----- -----------------------------------------------------------
+ 11                              
+ 12                              
+ 13                              
+ 14                              
+ 15                              
+ 16                              
+ 21                              
+ 22                              
+ 23                              
+ 24                              
+ 25                              
+ 26                              
+ 31                              
+ 32                              
+ 33                              
+ 34                              
+ 35                              
+ 36                              
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 51
+ 52
+ 53
+ 54
+ 55
+ 56
+ 61
+ 62
+ 63
+ 64
+ 65
+ 66
+
 

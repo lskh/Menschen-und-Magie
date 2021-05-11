@@ -1322,6 +1322,354 @@ Rotz allerdings von selbst, und der Charakter ist wieder ganz der
 Alte…
 
 
+-------------------------------------------------------------------------------
+             Number      Number         Move        Lair     Treasure    
+Type         Appearing   In Lair   AC   Rate   HD   Nearby   Type       Align 
+------------ ----------- --------- ---- ------ ---- -------- ---------- -------
+Androids        1-8        3-18     9    12     2     15       A2        Any
+
+Ants,           2-12      20-240    3   18/3    2     10       C          N
+giant
+
+Apes            1-8        n/a      6   12/12  4+1    n/a      n/a        N
+
+Basilisks       1-6        1-6      4   6      6+1    40       F        C, N
+
+Bats            10-80     100-800    8   3/12     ½    15      n/a        N
+
+Bats,            1-8        1-8      7   3/15     4    15       C         N
+giant 
+
+Bears            1-6       1-6       6    12     5+5    n/a    n/a        N
+
+Beetles,         1-12       n/a      3    9/6    2-7    n/a    n/a        N
+giant
+
+Black pudding       1     n/a      7     3      10     n/a   n/a        N
+
+Boars             1-12    n/a      7     15     1+2    n/a   n/a        N
+
+Boars, giant      1-8     n/a      6     12      7     n/a   n/a        N
+
+Cave bears        1-2     n/a      6     12     6+6    n/a    n/a       N
+
+Cavemen           2-12  30-180+    9     12       2     15     C        N
+
+Centaurs          2-8     4-24+    6     18       4      5     A1      L, N
+
+Centipedes,       1-6      1-6    3/7    12      3+1     60    B        N
+giant
+
+Centipedes,       2-24   n/a    9      6       ½       n/a     n/a      N
+large
+
+Chimeras          1-4     1-4    4      12/18    9      50     F         C
+
+Cockatrices       1-8     1-8    6      9/18     5      35     D        C, N
+
+Crabs, giant      3-12    n/a    3      6        3      n/a     n/a      N
+
+Crocodiles        2-12    3-24    6      9/15     3      20    n/a       N
+
+Crocodiles,        1-6    2-12    5      9/15     7      20    n/a        N
+giant
+
+Cyborgs            2-8   30-180   5       9      3+3      15     G       C, N
+
+Cyclopes           1-4     1-4       2     15      16      30     E*        N
+
+Dinosaurs             
+
+Brontosaurs         1-6     n/a      5     6      32      n/a     n/a      N 
+
+Mosasaur            1-4     n/a      5    3/15    14      n/a     n/a      N
+
+Pterodactyls        1-8     n/a      5    3/12    2-7     n/a     n/a      N 
+
+Stegosaurs          2-8     n/a      2/5    6       8      n/a     n/a     N 
+
+Triceratops         2-8     n/a      2/5    9       16     n/a     n/a      N 
+
+Tyrannosaurus Rex    1-2    n/a      5     15       20    n/a      n/a     N 
+
+Deinonychus          1-6     n/a     5     21      4      n/a      n/a     N
+
+Djinni                1      n/a      6    9/24    7+1    n/a       n/a    N
+
+Dogs               4-16      n/a      7      15     1     n/a       n/a    N 
+
+Doppelgangers       1-6      3-12     5      9      4      25       E      C, N
+
+Dragon turtles      1-4      1-4      2     3/9     12     60       H      N
+
+Dragons             
+
+Black               1-4      1-4     5-2   Various 2-12    60       H*     C 
+
+Blue                1-4      1-4     5-2   Various 2+2-14   60      H*     C 
+
+Golden              1-4      1-4     5-2   Various 2-1-16  60      H*     L 
+
+Green               1-4       1-4    5-2   Various 2+1-13  60      H*     C 
+
+Red                 1-4       1-4    5-2   Various 2+3-15  60      H*     C
+
+White               1-4       1-4    5-2   Various 2-1-11   60     H*     C
+
+Dryads             1-6      1-6      5     12       2       20      D     L, N 
+
+Dwarfs             2-12    20-240+    4    9        1       50      G     L, N
+
+Efreeti             1       n/a       4    9/24   10      n/a     n/a      C
+
+Elemental            
+
+Air                1         n/a       3    -/36  8/12/16  n/a   n/a       N 
+
+Earth              1         n/a       3    6/6   8/12/16   n/a   n/a      N  
+
+Fire              1          n/a       3     12   8/12/16   n/a   n/a        N 
+
+Water              1         n/a       3   6/18   8/12/16   n/a   n/a       N
+
+Elves            2-12       20-240+    7    12    1      25        E       L, N
+
+Fish, giant      2-12        n/a       5   -/30  4-9     n/a     n/a        N
+
+Gargoyles        1-10       2-20       6   9/15   4      25       C          C
+
+Gelatinous        1         n/a        8     6    4      n/a       *         N
+cube 
+
+Ghouls          1-12        2-24       7   9      2      20       B          C
+
+Giants             
+
+Cloud           1-8         1-8        3    15   12+2     30       E*        N
+
+Fire            1-8         1-8        3    12   11+3     30       E*        C 
+
+Frost           1-8         1-8        4    12   10+1     30       E*        C 
+
+Hill            1-8         1-8        4    12    8       30       E*        C 
+
+Stone           1-8         1-8        2    12    9       30       E*        N 
+
+Storm           1-8         1-8         2   15    15      30       E*        N
+
+Gnolls         2-10        20-200+      6    9     2      30       D         C
+
+Gnomes         2-12        20-240+   6    9     1      60       C        L, N
+
+Goblins        2-20        40-400+   7    9    1-1     50       *        C
+
+Golems             
+
+Clay             1         n/a       2    6     12     n/a     n/a        N
+ 
+Flesh            1         n/a       9    9      9     n/a     n/a        N
+
+Gorgons         1-4        1-4       3     12    8      50       E        C
+
+Gothrogs        1-6        1-6       3    9/15   10      25       F       C
+
+Gray ooze        1         n/a       9      3     3      n/a     n/a       N
+
+Green slime      1         n/a       9     n/a    3      n/a     n/a       N
+
+Griffons        1-8      2-16        4    12/30   7     10        E        N
+
+Halflings       2-8       30-180+    7      9     1     70        B       L, N
+
+Hippogriffs     1-8        2-16      6    18/36  3+1    n/a      n/a       N
+
+Hobgoblins      2-12      20-240+    5     9     1+1    30        D        C
+
+Horses             
+
+Destrier         n/a        n/a      7    12    2+4    n/a       n/a       N 
+
+Draft horse      n/a        n/a      7    12    2+1    n/a       n/a       N 
+
+Mule             n/a        n/a      7    12     2     n/a       n/a       N
+
+Riding horse     n/a        n/a      7    24     2     n/a       n/a       N 
+
+War horse        n/a        n/a      7    18    2+2    n/a       n/a       N
+
+Hydras           1-2        1-2      5    12    5-12    25        B        N
+
+Invisible          1        n/a      2    -/12    8     n/a      n/a       N
+stalker
+
+Juggernaut         1        n/a      2     9      37    n/a      n/a       N
+
+Kobolds          2-20     40-400+    7    6/9     ½     50        *       C, N
+ 
+Leeches,         2-12       n/a      8     3/6    2     n/a      n/a        N
+giant
+
+Lions            1-6       2-12      6     12     5+2    25      n/a        N
+
+Lions,           2-8        2-8      5     12     6+2    25      n/a        N
+spotted
+
+Living statues
+
+Iron              1         n/a      2      6    18     n/a    n/a        N
+
+Stone             1         n/a      5      6    14     n/a    n/a        N
+
+Lizards,          1-6       2-12     5      15   3+1    60      n/a       N
+giant
+
+Lizards,          1-6       2-12     8      12    ½     60      n/a       N
+large
+
+Lizardmen         2-8       10-40+   6     6/12  2+1    40       D       C, N
+
+Lycanthropes
+             
+Werebears        1-10        2-20    3      9     6      15      C       L, N
+
+Wereboars        1-10        2-20    5     12    4+1     15      C       C, N
+
+Weretigers       1-10        2-20    4     12    5       15      C       C, N
+
+Werewolves       1-10       2-20     6     15     4     15       C       C, N
+        
+Manticoras       1-4         1-4     5    12/18   6+1    25      D       C
+
+Mastadons       1-12    n/a     6       15       12     n/a     n/a     N
+
+Medusae         1-4     1-4     7       9       4        75      F      C
+
+Men
+
+Bandits         2-16    30-300+  8       12      1       15      A1      C, N
+
+Berserkers      2-16    30-300+  9       12      1+1     15      A1      N
+
+Brigands        2-16    30-300+  6       12      1       15      A1      C
+
+Buccaneers      2-16     30-300+  8      12      1       15       A3      C, N
+
+Dervishes       2-16    30-300+  8       12      1+1     15      A2      L
+
+Mercenaries     2-16    30-300+     6    12      1+1     15      A3      N
+
+Nomads          2-16    30-300+     8     12     1       15     A2      C, N
+
+Pirates         2-16    30-300+     8     12       1     15      A3       C
+
+Zealots         2-16     30-300+    9     12     1+1     15       A2       C
+
+Mermen          2-12     20-240+    7     3/15    1+1     40     A3        N
+
+Minotaurs        1-8      1-8       6      12     6       30     C        C, N
+
+Mummies          1-6  1-12 4 6 5+1  30  D C
+
+Nixies     2-20  10-100 7 6/12 1-1  100  B N
+
+Ochre jelly  1  n/a 9 3 5  n/a  n/a N
+
+Octopi, giant  1-4  1-4 7 -/9 4  30  A3 N
+
+Ogres     1-8  3-18 6 9 4+1  30  C* C
+
+Orcs     2-16  30-300+ 7 9 1  50  D C
+
+Pegasi     1-12  n/a 6 24/48 2+2  n/a  n/a L, N
+
+Pixies     2-20  10-100 6 9/18 1-1  25  C N
+
+Purple worms  1-4  1-4 6 9/9 15  25  D N
+
+Rats, giant  2-12  10-60 7 12/6 ½  10  C N
+
+Robots     1-4  n/a 3 6/6 7  n/a  n/a C, N
+
+Rocs
+
+Young     1-8  1-20 6 6/48 6  20  I N
+    
+Adult    1-6 1-20 5 6/42 12 20 I N 
+
+Ancient    1-4 1-20 4 6/36 18 20 I N
+
+Sabre toothed tigers 1-2  1-2 6 12 7+2  15  n/a N
+
+Salamanders     2-5  2-5 3/5 9 7+3  70  F C
+
+Scorpions, giant  1-4  1-4 3 15 5+4  50  D N
+
+Sea monsters
+
+Leviathan     1  1 4 -/18 45  n/a  H N
+
+Kraken     1  1 2 3/18 30  75  G* N
+
+Sea serpents  1-4  1-4 6 -/21 15  25  D N
+
+Shadows     1-10  2-20 7 -/9 2+2  50  F C
+
+Skeletons     3-30  n/a 8 6 ½  n/a  n/a N
+
+Snakes, giant  1-4  n/a 6 9/9 7  n/a  n/a N
+
+Snakes, large  2-16  n/a 8 6/6 ½  n/a  n/a N
+
+Spectres    1-8  1-8 3 -/15 6  25  E C
+
+Spiders, giant  1-8  1-8 5 3/12 4+4  70  C C
+
+Spiders, large  1-10  2-20 8 6/15 ½  60  C N
+
+Squid, giant  1-6  2-12 7/3 -/12 6  20  A3 N
+
+Thulls     1-8  3-18 6 9 3  35  D C
+
+Tigers     1-4  1-4 6 12 5+4  15  n/a N
+
+Titanotheres     1-12  n/a 7 12 12 n/a  n/a N
+
+Titan     1  1 2 18 21  5  A1* Any
+
+Toads, giant  1-6  3-30 6 6/6 2+4  40  n/a N
+
+Treants     1-10  2-20 2 6 8  15  n/a L, N
+
+Trolls     1-6  2-12 5 12 6+3  50  D C
+
+Unicorns     1-4  n/a 3 24 4  n/a  n/a L
+
+Vampires     1-6  1-6 2 12/18 8  20  F C
+
+Weasels, giant  1-8  1-8 6 15 2  15  n/a N
+
+Wight apes  1-6  1-6 6 12/12 5+2  10  C N
+
+Wights    1-12 2-24 6 9 3  60  B C
+
+Wolves     1-10  2-20 7 18 1  15  n/a N
+
+Wolves, giant  1-6  3-12 6 18 2+2  15  n/a C
+
+Woolly mammoths 1-12  n/a 5 15 13  n/a  n/a N
+
+Woolly rhinoceroses 1-4  n/a 5 12 10  n/a  n/a N
+
+Wraiths     1-8  2-16 4 -/12 4  20  E C
+
+Wyverns     1-6  1-6 4 9/24 7  60  E C, N
+
+Yellow mold  1  n/a 9 n/a 3  n/a  n/a N
+
+Zombies     3-30  n/a 9 6 1  n/a  n/a N
+
+---------------------------------------------------------------------------
+
 
 
 #  Schätze

@@ -1,3 +1,5 @@
+all: hexgrid1.png
+
 %.png: %.svg Makefile
 	inkscape -o $@ $<
 

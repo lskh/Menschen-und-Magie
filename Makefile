@@ -11,10 +11,10 @@ PANDOC=pandoc-2.9
 all: Spielerhandbuch.pdf Spells.pdf Hausregeln2020.pdf Hausregeln2021.pdf
 	cd cover; make
 
-gridmaps:
+Gridmaps:
 	cd gridmaps ; make all
 
-Spielleiterbuch.tex: Spielleiterbuch.md Makefile template.ltx gridmaps
+Spielleiterbuch.tex: Spielleiterbuch.md Makefile template.ltx Gridmaps
 	$(PANDOC) -s -t latex --template template.ltx \
 	-f markdown+implicit_figures \
 	--variable lang=de \
@@ -51,7 +51,7 @@ Spells.md: Spells/Spells.md Makefile
 
 clean:
 	rm -f *.tex *.ilg *.ind *.log *.lot *.toc *.aux *.idx tmp* Spells.md
-	rm -f *.xmpi
+	rm -f *.xmpi *.out
 
 realclean: clean
 	cd gridmaps ; make realclean

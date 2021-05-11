@@ -6,7 +6,7 @@ $endif$
 %
 \documentclass[showtrims,$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$if(beamer)$ignorenonframetext,$if(handout)$handout,$endif$$if(aspectratio)$aspectratio=$aspectratio$,$endif$$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
 %\usepackage[x-1a]{pdfx}
-\usepackage[x-3]{pdfx}
+%\usepackage[x-3]{pdfx}
 \usepackage{luatex85}
 
 $if(beamer)$
@@ -354,6 +354,7 @@ $endif$
 \usepackage{lettrine}
 \setcounter{DefaultLines}{3}
 \usepackage[osf]{coelacanth}
+\usepackage{avant}
 %\usepackage{imfellEnglish}
 \usepackage[T1]{fontenc}
 \usepackage{microtype}
