@@ -1380,6 +1380,52 @@ Tatsächlich sind Würfe um die Initiative im Kampf, oder Würfe um zu
 klären ob eine Gruppe von Charakteren von einer Situation überrascht
 wird Schicksalswürfe. 
 
+: Tod und Verstümmelung
+
+--------------------------------------------------------------------
+ 2W6   Resultat
+------ -------------------------------------------------------------
+ 2     **Sofortiger Tod**: Kopf abgeschlagen oder ähnliches; das
+       Opfer kann auch durch Magie nicht wieder zum Leben 
+       erweckt werden.
+
+ 3     **Fatale Wunde und Tod**: in 1d6 Runden: Lungendurchstich,
+       Wirbelsäulenbruch oder ähnliches; das Opfer kann durch 
+       Magie wiederbelebt werden .
+
+ 4     **Verlust eines Gliedes und Tod**: in 3W6 Runden; W4:
+       1 -- Schwertarm, 2 -- Schildarm, 3, 4 -- Bein; 
+       der Tod kann mit Kauterisierung durch Feuer oder einem 
+       Tourniquet verhindert werden; bei der Verwendung von 
+       Magie bleibt das Glied verloren.
+
+ 5     **Schmerzlicher Verlust**: 1 -- Nase, 2 -- Auge, 3 -- Ohr, 
+       4 -- Finger, 5 -- 1W6 Zähne, 6 -- nur eine Fleischwunde, 
+       aber es bleibt eine fette Narbe; bei der Verwendung von 
+       Magie bleibt der Verlust bestehen.
+
+ 6     **Knochenbruch**: 1 -- Schwertarm, 2 -- Schildarm, 3 -- Bein, 
+       4 -- Rippe; Heilung dauert 2W4+9 Wochen; bei der Verwendung von
+       Magie bleibt das Glied gebrochen.
+
+7, 8   **Ohnmächtig**: wehrlos für 2W6 Runden; mit Helm nur eine
+       Runde lang betäubt.
+
+9      **Betäubt**: wehrlos für eine Runde; mit Helm wird man einfach
+       nur niedergeschlagen (weitere Feinde erhalten +4).
+
+10     **Niedergeschlagen**: kann sich in der nächsten Runde entweder 
+       bewegen oder angreifen aber nicht beides.
+
+11     **Knapp dem Tod entkommen!**
+
+12     **Adrenalinschub!** Für jede zwei Stufen (aufgerundet) erhält
+       man 1W4 Punkte Lebensenergie; nach dem Kampf verliert man 
+       allerdings alle Lebensenergie und fällt für 2W6 Runden in 
+       Ohnmacht.
+
+--------------------------------------------------------------------
+
 
 ## Zahlenbereiche
 
@@ -1913,79 +1959,6 @@ TODO: Tabellen um Schätze und magische Gegenstände zu entwickeln
 19   | Something Weird
 20   | Unguarded Treasure
 
-### Zufallsbegegnungen im Dungeon
-
-Dungeon: alle 2 Phasen bei 1 auf 1W6
-
-: Auswahl der Zufallsbegegnungstabelle nach Dungeon-Level
-
- Level     1     2     3     4     5     6
--------- ----- ----- ----- ----- ----- -----
-   0      1-5    6 
-   1      1-4   5-6 
-   2      1-2   3-5    6
-   3       1    2-4   5-6
-   4            1-2   3-5    6
-   5             1    2-4   5-6
-   6                  1-2   3-5    6
-   7                   1    2-4   5-6
-   8                        1-2   3-5    6
-   9                         1    2-4   5-6
-   10                             1-2   3-6
-   11                              1    2-6
-   12+                                  1-6
-
-Die folgenden Tabellen gehen von einer Gruppenstärke von 3
-Spielercharakteren aus. Ab 5 Spielern sollten die erwürfelten Zahlen
-verdoppelt werden.
-
-: Dungeon-Begegnungen, Tabellen 1-2
-
- 2d6   Tabelle 1             Tabelle 2           
------- --------------------- ------------------- 
-  2    1-6 Räuber            1-3 Krokodile       
-  3    1-6 Tausendfüßlr.     1 Junger Drache     
-  4    1-2 Wyrmlinge         1-3 Gargyle         
-  5    3-8 Goblins           1 Gallertwürfel     
-  6    3-8 Hobgoblins        3-8 Ghoule          
-  7    2-12 Kobolde          3-8 Gnolle          
-  8    2-12 NSCs             3-8 Echsenmenschen  
-  9    3-8 Orks              1-3 Medusen         
-  10   2-12 Skelette         2-12 NSCs           
-  11   1-3 Riesenspinnen     1-3 Thoule          
-  12   3-8 Zombies           1-3 Wights          
-
-: Dungeon-Begegnungen, Tabellen 3-4
-
- 2d6   Tabelle 3              Tabelle 4             
------- ---------------------  --------------------- 
-  2    1-6 Höhlenbären        1-2 Basilisken        
-  3    1-3 Cockatrice         1-2 Große Drachen     
-  4    1 Erwachsener Drache   1 Elementar 8 TW      
-  5    1 Hydra, 4-6 Köpfe     1-2 Wyrmlinge         
-  6    1-6 Lykanthropen       3-8 Goblins           
-  7    1-3 Minotauren         3-8 Hobgoblins        
-  8    1-6 Mumien             2-12 Kobolde          
-  9    2-12 NSCs              2-12 NSCs             
- 10    1-6 Oger               3-8 Orks              
- 11    1-6 Skorpione          2-12 Skelette         
- 12    1-6 Riesenspinnen      1-3 Riesenspinnen     
-
-: Dungeon-Begegnungen, Tabellen 5-6
-
- 2d6   Tabelle 5           Tabelle 6
------- ------------------- ---------------------
-  2    1-2 Efreeti         1 Uralter Drache
-  3    1 Elementar 12 TW   1 Elementar 16 TW   
-  4    1-3 Gargyle         1 Hydra, 4-6 Köpfe
-  5    1 Gallertwürfel     1-6 Lykanthropen
-  6    3-8 Ghoule          1-6 Minotauren
-  7    3-8 Gnolle          1-6 Mumien
-  8    3-8 Echsenmenschen  2-12 NSCs
-  9    1-3 Medusen         1-6 Oger
-  10   2-12 NSCs           1-6 Skorpione
-  11   1-6 Thoule          1-6 Riesenspinnen
-  12   1-6 Wights          1-6 Wraiths
 
 ### Fallen
 
@@ -3085,558 +3058,6 @@ alle Geeignet Gerüchte zu verbreiten
       Drachenkampf stattgefunden.
 
 
-# Spielroutinen
-
-Dieses Kapitel gibt Spielroutinen wieder, die Kompatibel mit den
-Regeln von 1974 und Swords & WIzardry sind. Daher steht dieses Kapitel
-nicht unter Creative Commons Lizenz, sondern unter Open Game Licence,
-die am Ende des Kapitels wiedergegeben ist.
-
-Eine Spielphase (10 min.)
--------------------------------------------------
-
-1.  Check Wandelnde Monster (1 auf 1W6)
-2.  Spieler beschreiben ihre Aktionen
-3.  Es wird ...
-    a.  ein neuer Höhlenabschnitt beschrieben,
-    b.  eine Begegnung abgehandelt,
-    c.  etwas entdeckt,
-    d.  weiter gemacht bei 1.
-
-Lauschen
--------------------------------
-
-erfolgreich bei 1 auf 1W6, Halbmenschen bei 1-2 auf 1W6
-
-Türen
------------------------------
-
-Geheimtüren finden 1-2 auf 1W6, Elfen bei 1-4 auf 1W6.
-
-Zwerge finden große Fallen, Schiebewände, abfallende Gänge und neue
-Einbauten bei 1-2 auf 1W6
-
-Türen aufbrechen bei 1 auf 1W6, ggf. Stärkebonus einrechnen.
-
-Verstecken
--------------------------------
-
-Halbling: im Verlies 5+ auf 1W6, im Freien 5+ auf 2W6
-
-Dieb, Stufe 1: 15+ auf 3W6, Stufe 2: 14+ auf 3W6, 
-Stufe 3: 13+ auf 3W6
-
-Eine Begegnung
--------------------------------
-
-1.  Anzahl der Monster?
-2.  Überraschung? (je 1W6)
-3.  Reaktionen? (2W6)
-4.  Wenn ...
-    a.  beide Seiten verhandeln, weitere Reaktionswürfe 
-    b.  eine Seite die Flucht ergreift, Flucht und Verfolgung
-        abhandeln
-    c.  eine Seite angreift, der Kampf abhandeln.
-
-Begegnungsentfernungen
---------------------------------
-
-Dungeon: 2W6 $\cdot$ 10' = 20 bis 120' (6 bis 36 Meter)
-
-6 bis 36 Meter können auch durch **6W6** ermittelt werden!
-
-Überraschung 1W4 $\cdot$ 10' = 10 bis 40'
-
-3 bis 12 Meter entsprechen auch ungefähr **2W6** Meter
-
-Wildnis: 4W6 $\cdot$ 10 Meter = 40 bis 240 Meter
-
-Überraschung: 1W4 $\cdot$ 10 Meter = 10 bis 40 Meter
-
-praktischer: **1W6** $\cdot$ 10 Meter, also 10 bis 60 Meter.
-
-Eine Kampfrunde 
------------------------------------
-
-Eine Kampfrunde dauert so lange, wie die Charaktere brauchen um eine
-Bewegungsweite zurück zu legen *und* eine signifikante AKtion im Kampf
-durchzuführen. Die genaue Dauer einer Runde kann zwischen 6 Sekunden
-und etwa einer Minute dauern.
-
-1. Überraschung
-2. Absichten und Sprüche erklären
-3. Initiative
-    a. Moral-Check für Monster / NSC
-    b. Bewegung, Manöver und Fernkampfangriffe 1 in der Reihenfolge der
-       Initiative
-    c. Sprüche werden aktiv
-    d. Nahkampf in Initiativ-Reihenfolge
-    e. Fernkampfangriffe 2 (falls in Schritt 4 auf Bewegung verzichtet
-       wurde)
-
-
-Wandelnde Monster
-----------------------------
-
-
-Wildnis:  einmal pro Hex bzw. pro Tag bei 1-2 auf W6, einmal pro Nacht
-bei 1-2 auf W6
-
-1-2 erste Wache, 3-4 zweite Wache, 5-6 dritte Wache
-
-
-Überraschung
----------------------------------
-
-bei 1-2 auf 1W6
-
-Reaktionen
------------------------------
-
-2W6 | Reaktion
-:----:|:-------------
-2 | feindselig
-3-5 | unfreundlich
-6-8 | indifferent
-9-11 | freundlich
-12 | hilfsbereit
-
-
-Initiative
---------------------------------
-\index{Initiative}
-
-je Seite 1W6, die höhere Zahl gewinnt die Initiative
-
-Genau genommen agiert jede Seite in dem *Segment*, welches die gegnerische
-Seite ausgewürfelt hat.
-
-Moral
--------------------------------
-\index{Moral}
-
-2W6 - ist das Ergebnis höher
-ergreift es die Flucht, ergibt sich, o.ä.
-
-1.  Check bei erster Verletzung bzw. Kampfunfähigkeit des ersten
-    Individuums einer Gruppe
-2.  Check bei Verlust von 50 % der TP bzw. Kampfunfähigkeit der Hälfte
-    der Individuen einer Gruppe
-
-
-: Moral
-
--------------------------------------------------------------
- Moral (ML)   Charakter-Typ/Monster        Standhaft bei ...
-------------  --------------------------- -------------------
- 2            Fluchttiere, die immmer      12
-              flüchten
-
- 3            Fluchttiere, die sich ver-   11
-              teidigen wenn in die Enge
-              getrieben
- 
- 4            Fluchttiere, die ihre        10
-              Jungen verteigiden
- 
- 5            Raubtiere, Feiglinge          9
- 
- 6            Vorsichtige normale             8
-              Menschen, Bauern
- 
- 7            Normale Menschen,             7
-              Soldaten
- 
- 8            Gut geführte Truppen           6
- 
- 9            Elitetruppen                   5
-
- 10           Fanatiker,                     4
-              Ritter 
-
- 11           Verrückte                     3   
- 
- 12           Unnatürliche Kreaturen          2
-
--------------------------------------------------------------
-
-
-Fernkampfreichweite
--------------------------------------
-
-: Fernkampfreichweite
-
----------------------------------------------------------------------
-Waffe               Feuerrate      Nah(+1)   Mittel(0)    Fern(-4)
------------------- ----------- ------------ ------------ ------------
-Keule/Hammer           1         10'(3 m)   20'(6 m)     30'(10 m)
-
-Wurfbeil               1         10'(3 m)   20'(6 m)     30'(10 m)
-
-Dolch                  2         10'(3 m)   20'(6 m)     30'(10 m)
-
-Speer                  1         10'(3 m)   20'(6 m)     30'(10 m)
-
-Öl/Weihwasser          1         10'(3 m)   30'(10 m)    50'(17 m)
-
-Wurfpfeil              3         15'(5 m)   30'(10 m)    45'(15 m)
-
-Wurfspieß              1         20'(6 m)   40'(12 m)    60'(20 m)
-(Javelin)
-
-Kurzbogen              2         50'(17 m)  100'(34 m)   150'(50 m)
-
-Kompositbogen          2         60'(20 m)  120'(40 m)   180'(60 m)
-
-Armbrust, leicht       1         60'(20 m)  120'(40 m)   180'(60 m)
-
-Langbogen              2         70'(23 m)  140'(46 m)   210'(70 m)
-
-Armbrust, schwer       1/2       80'(26 m)  160'(52 m)   240'(80 m)
-
----------------------------------------------------------------------
-
-
-Deckung
------------
-
-Im Fernkampf sollten als weitere Modifikatoren, und als Chance für
-taktisches Spiel, Modifikatoren für Deckung berücksichtigt werden. Je
-nach Qualität und Beschreibung können diese Modifikatoren zwischen -1
-und -4 liegen. Maximale Deckung --- vollständig hinter einem Fels
-verborgen --- kann Treffer schlicht unmöglich machen, dann kann der in
-Deckung befindliche Charakter aber selbst auch keine Fernkampfangriffe
-ausführen.
-
-
-Fallschaden
---------------------------------
-
-1W6 pro 10' Fallhöhe
-
-Untote vertreiben
------------------------------------
-
-Probe mit 2W6, Erfolg wenn Wurf größer oder gleich Zielwert, V -
-automatisch vertrieben, N - nie vertrieben:
-
-: Untote vertreiben
-
-| Untote TW:     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10+ |
-|:--------------:|:-:|:-:|:-:|:-:|:-:|:-:|:--|:-:|:-:|:---:|
-| Kleriker Stufe |   |   |   |   |   |   |   |   |   |     |
-| 1              | 7 | 9 |11 | - | - | - | - | - | - | -   |
-| 2              | 5 | 7 | 9 | 11| - | - | - | - | - | -   |
-| 3              | 3 | 5 | 7 | 9 | 11| - | - | - | - | -   |
-| 4              | V | 3 | 5 | 7 | 9 |11 | - | - | - | -   |
-| 5              | V | V | 3 | 5 | 7 | 9 |11 | - | - | -   |
-| 6              | Z | V | V | 3 | 5 | 7 | 9 |11 | - | -   |
-| 7              | Z | Z | V | V | 3 | 5 | 7 | 9 |11 | -   |
-| 8              | Z | Z | Z | V | V | 3 | 5 | 7 | 9 | 11  |
-| 9              | Z | Z | Z | Z | V | V | 3 | 5 | 7 |  9  |
-| 10             | Z | Z | Z | Z | Z | V | V | 3 | 5 |  7  |
-| 11             | Z | Z | Z | Z | Z | Z | V | V | 3 | 5   |
-| 12             | Z | Z | Z | Z | Z | Z | Z | V | V | 3   |
-| 13             | Z | Z | Z | Z | Z | Z | Z | Z | V | V   |
-| 14+            | Z | Z | Z | Z | Z | Z | Z | Z | Z | V   |
-
-\index{Untote vertreiben}
-
-
-Es werden 2W6 Trefferwürfel an Untoten vertrieben
-
-Wurfgeschosse
-------------------------------------------
-
-Weihwasser: Trefferwurf wie Fernkampf, 1W8 Schaden bei Untoten.
-
-Öl: Trefferwurf wie Fernkampf, tropft innerhalb von 2 Runden ab,
-brennendes Öl macht 1W8 Schaden.
-
-\cleartoverso
-
-\renewcommand{\arraystretch}{1.5}
-
-### Treffertabelle
-```{=latex}
-\index{Treffertabelle}
-
-\begin{tabular}{ccc|c}
-\toprule
-\multicolumn{3}{c}{Charakterklassen und Stufen} & ``Monster'' \\
- &  & & Trefferwürfel \\ 
-\midrule 
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &
-  \rule{2cm}{.4pt}\rule{0pt}{1.9em}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
-\bottomrule
-\end{tabular}
-
-\clearpage
-
-\vspace*{3pt}
-
-\begin{tabular}{cccccccccc}
-\toprule
- \multicolumn{10}{c}{\rule{.4cm}{.4pt}W\rule{.8cm}{.4pt}-Wurf um folgende
- Rüstungsklasse zu treffen:} \\
- & & & & & & & & & \\
-\midrule
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \rule{0pt}{1.9em}\\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
- \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
-\bottomrule
-\end{tabular}
-
-\renewcommand{\arraystretch}{1}
-
-\clearpage
-```
-
-
-## Trefferwürfe
-
-: Angriffstabelle für Kämpfer
-
- Stufe    9 [10]    8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
--------  --------  -------- -------- -------- -------- -------- -------- --------
- 1-3        10        11       12       13       14       15       16       17
- 4-6        8         9        10       11       12       13       14       15  
- 7-9        5         6        7         8        9       10       11       12
-10-12       3         4        5         6        7        8        9       10  
-13-15       2         2        3         4        5        6        7        8
- 16+        2         2        2         2        2        3        4        5
-
-
-: Angriffstabelle für Kleriker
-
- Stufe    9 [10]    8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
--------  --------  -------- -------- -------- -------- -------- -------- --------
- 1-4      10       11        12       13       14       15       16       17
- 5-8       8        9        10       11       12       13       14       15
- 9-12      5        6         7        8        9       10       11       12
-13-16      3        4         5        6        7        8        9       10
-17-20      2        2         3        4        5        6        7        8
- 21+       2        2         2        2        2        3        4        5
-
-
-: Angriffstabelle für Zauberkundige und Diebe
-
- Stufe    9 [10]    8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
--------  --------  -------- -------- -------- -------- -------- -------- --------
-  1-5      10       11        12       13       14       15       16       17
- 6-10       8        9        10       11       12       13       14       15
- 11-15      5        6         7        8        9       10       11       12
- 16-20      3        4         5        6        7        8        9       10
- 21-25      2        2         3        4        5        6        7        8
-  26+       2        2         2        2        2        3        4        5
-
-
-:Angriffstabelle für Monster
-
- TW       9 [10]    8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
--------  --------  -------- -------- -------- -------- -------- -------- --------
- <=1        10       11        12       13       14       15       16       17
-   1+       9       10        11       12       13       14       15       16  
-   2+       8        9        10       11       12       13       14       15
-   3+       6        7         8        9       10       11       12       13
-   4+       5        6         7        8        9       10       11       12
-   6+       4        5         6        7        8        9       10       11
-   9+       2        3         4        5        6        7        8        9
-  11+       2        2         2        3        4        5        6        7
-
-
-
-## Rettungswürfe
-
-Klasse     Stufe   Tod   Tech   Hind.   AOE   Psi
---------- ------- ----- ------ ------- ----- -----
-Kämpfer     1-3     12    13      14     15   16
-            4-6     10    11      12     13   14
-            7-9      8     9      10     10   12
-           10-12     6     7       8      8   10
-            13+      4     5       5      5    8
-Kleriker    1-4     11    12      14     16   15
-            5-8      9    10      12     14   12
-            9-12     6     7       9     11    9
-            13+      3     5       7      8    7
-ZK          1-5     13    14      13     16   15
-            6-10    11    12      11     14   12 
-           11-15     8     9       8     11    8
-            16+      5     6       5      8    3
-          
-
-
-: Tod und Verstümmelung
-
---------------------------------------------------------------------
- 2W6   Resultat
------- -------------------------------------------------------------
- 2     **Sofortiger Tod**: Kopf abgeschlagen oder ähnliches; das
-       Opfer kann auch durch Magie nicht wieder zum Leben 
-       erweckt werden.
-
- 3     **Fatale Wunde und Tod**: in 1d6 Runden: Lungendurchstich,
-       Wirbelsäulenbruch oder ähnliches; das Opfer kann durch 
-       Magie wiederbelebt werden .
-
- 4     **Verlust eines Gliedes und Tod**: in 3W6 Runden; W4:
-       1 -- Schwertarm, 2 -- Schildarm, 3, 4 -- Bein; 
-       der Tod kann mit Kauterisierung durch Feuer oder einem 
-       Tourniquet verhindert werden; bei der Verwendung von 
-       Magie bleibt das Glied verloren.
-
- 5     **Schmerzlicher Verlust**: 1 -- Nase, 2 -- Auge, 3 -- Ohr, 
-       4 -- Finger, 5 -- 1W6 Zähne, 6 -- nur eine Fleischwunde, 
-       aber es bleibt eine fette Narbe; bei der Verwendung von 
-       Magie bleibt der Verlust bestehen.
-
- 6     **Knochenbruch**: 1 -- Schwertarm, 2 -- Schildarm, 3 -- Bein, 
-       4 -- Rippe; Heilung dauert 2W4+9 Wochen; bei der Verwendung von
-       Magie bleibt das Glied gebrochen.
-
-7, 8   **Ohnmächtig**: wehrlos für 2W6 Runden; mit Helm nur eine
-       Runde lang betäubt.
-
-9      **Betäubt**: wehrlos für eine Runde; mit Helm wird man einfach
-       nur niedergeschlagen (weitere Feinde erhalten +4).
-
-10     **Niedergeschlagen**: kann sich in der nächsten Runde entweder 
-       bewegen oder angreifen aber nicht beides.
-
-11     **Knapp dem Tod entkommen!**
-
-12     **Adrenalinschub!** Für jede zwei Stufen (aufgerundet) erhält
-       man 1W4 Punkte Lebensenergie; nach dem Kampf verliert man 
-       allerdings alle Lebensenergie und fällt für 2W6 Runden in 
-       Ohnmacht.
---------------------------------------------------------------------
-
-
-Flucht und Verfolgung
------------------------------------------
-
---------------------------------------------------------------------------------
-Manöver          Effekt
----------------  ---------------------------------------------------------------
-Rückzugs-        Rückwärtsbewegung mit halber Geschwinigkeit, *ohne* einen 
-gefecht          Gelegenheitsangriff zu riskieren,
-                 folgt der Gegner und greift an, darf der zurückziehende
-                 Charakter zuerst schlagen.
-
-Rückzug          Flucht mit voller Geschwindigkeit, der Gegner erhält einen 
-                 Gelegenheitsangriff
-
-Flucht           Flucht mit Laufgeschwindigkeit, die flüchtende Partei erhält 
-                 eine Runde Vorsprung. Erwäge Ausrüstung, Nahrung oder Wert-
-                 gegenstände abzuwerfen.
-
---------------------------------------------------------------------------------
-
-
-Die flüchtende Partei bekommt eine Runde Vorsprung.
-
-## Verirren in der Wildnis
-
-Landschaft                Verirrt bei ... auf 1W6
------------------------- -------------------------
-Offen / Steppe             1
-Sumpf, Dschungel, Wüste    1-3
-alle anderen               1-2
-
-## Ausweichen in der Wildnis
-
-Falls die Gruppe *nicht* überrascht ist, wird mit 1W% gewürfelt, ob
-ein Ausweichen gelingt.
-
-```{=latex}
-\begin{center}
-\begin{tabular}{lcccc}
-\toprule
- & \multicolumn{3}{c}{Gruppenstärke} & Chance \\
- &                 1-4 & 5-12 & 13-24 &  \\
-\midrule
-       Anzahl &     &       &  1-6  &  25\% \\
-     Monster  &  &   1-3 &  7-16 &  35\% \\
-               &   1 &  4-8 &  17+ &   50\% \\
-               &  2-3 & 9+ &      &    70\% \\
-               &  4+ &    &     &      90\% \\
-\bottomrule
-\end{tabular}
-\end{center}
-```
-
-
-Schaden
--------
-
-+-----------------------------------+-----------------------------------+
-| 1-2                               |  Mensch, unbewaffnet              |
-+-----------------------------------+-----------------------------------+
-| 1W6-2                             |  Knüppel, Dolch, Schleuder,       |
-|                                   | Fackel                            |
-+-----------------------------------+-----------------------------------+
-|  1W6                              |  Bogen, Kriegsbeil, Streitkolben, |
-|                                   | Armbrust, Kurzschwert, Speer,     |
-|                                   | Kriegshammer, Bärenklauen         |
-+-----------------------------------+-----------------------------------+
-| 1W6+2                             |  Langschwert, Streitaxt,          |
-|                                   | Drachenklauen                     |
-+-----------------------------------+-----------------------------------+
-| 2W6                               |  Stangenwaffen, Zweihänder, Biss  |
-|                                   | einer Hydra                       |
-+-----------------------------------+-----------------------------------+
-
-
-## Rüstungsklasse
-
-Umrechnung: RK (aufst.) = 19 - RK (abst.)
-
-: Rüstungsklassen
-
-Rüstung                                    RK      Rüstungsbonus
----------------------------------------- -------- ------------------
-ungerüstet                                9 [10]        0 [0]
-Schild, Waffenrock, Dicke Kleidung        8 [11]       -1 [+1]
-Lederrüstung                              7 [12]       -2 [+2]
-Lederrüstung+Schild, Schuppenpanzer       6 [13]       -3 [+3]
-beschl. Lederrüstung, Wildtiere
-Kettenhemd                                5 [14]       -4 [+4]
-Kettenhemd+Schild, Bänderpanzer           4 [15]       -5 [+5]
-Plattenpanzer                             3 [16]       -6 [+6]
-Plattenpanzer+Schild, Drachenschuppen     2 [17]       -7 [+7]
-
 ## Massengefechte
 
 
@@ -3772,6 +3193,78 @@ Woche 2W4 * 10 GM verdient. Wird der Wurf verfehlt, verstreicht eine
 Woche ohne Einkommen, bis eine erneute Probe abgelegt werden kann. Bei
 einem kritischen Fehlwurf (also einer 2) muss der SC zwei Wochen ohne
 Einkommen\index{Einkommen} hinnehmen.
+
+
+\cleartoverso
+
+\renewcommand{\arraystretch}{1.5}
+
+### Treffertabelle
+```{=latex}
+\index{Treffertabelle}
+
+\begin{tabular}{ccc|c}
+\toprule
+\multicolumn{3}{c}{Charakterklassen und Stufen} & ``Monster'' \\
+ &  & & Trefferwürfel \\ 
+\midrule 
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &
+  \rule{2cm}{.4pt}\rule{0pt}{1.9em}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &  \rule{2.5cm}{.4pt} &   \rule{2cm}{.4pt}  \\
+\bottomrule
+\end{tabular}
+
+\clearpage
+
+\vspace*{3pt}
+
+\begin{tabular}{cccccccccc}
+\toprule
+ \multicolumn{10}{c}{\rule{.4cm}{.4pt}W\rule{.8cm}{.4pt}-Wurf um folgende
+ Rüstungsklasse zu treffen:} \\
+ & & & & & & & & & \\
+\midrule
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \rule{0pt}{1.9em}\\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+ \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt} & \rule{.7cm}{.4pt}  \\
+\bottomrule
+\end{tabular}
+
+\renewcommand{\arraystretch}{1}
+
+\clearpage
+```
 
 
 

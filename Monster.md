@@ -50,6 +50,11 @@ Schließlich ist *Menschen & Magie* auch Open Source. Du findest die Quelldateie
 
 # "Monster"
 
+Standardformat:
+
+>**Name/Bezeichnung** RK desc[asc] und ggf. besondere Verteidigung, TW oder
+>Klasse, BW, S: Schaden und ggf. besondere Effekte
+
 ## Monsterklassen
 
 : 1W30 Monsterklassen
@@ -1015,24 +1020,263 @@ Kreischer
 
 ## Würmer
 
-Purpurwurm
+**Fäulnisraupe**
 
-Fäulnisraupe
-
-Schleime, gelatinöse Kreaturen, Pilze, monströse Pflanzen, 
-Würmer, Fäulnislarve, Insekten, Schlangen, Echsen,
-Lurche, Klesche
+**Purpurwurm**, RK 3 [16], BW 6", S: 
 
 **Riesenblutegel**
 
+: 1W6 Größenstufen für Würmer
+
+ 1W6   Anzahl    Größe                                   TW
+----- ---------- --------------------------------- --------------
+  1    100-1000  mikroskopisch klein                Schwarm: 1-4
+  2    10-100    so groß wie eine Made              Schwarm: 1-2
+  3     2-12     eine Handspanne lang               jeweils 1 TP
+  4     1-6      eine Elle lang                         1-4
+  5     1-4      1-10 Meter lang                        2-8
+  6     1-2      10-100 Meter lang                      5-20   
+
+
 ## Blob, Glibber und Schleim
 
-Ockergelee
-Grauschleim, Grünschleim
+Diese viele zu groß geratenen Mikroorganismen sind häufig
+Zufallsbegegnungen, und können wie Fallen 
+funktionieren. Durch besondere Resistenzen und
+Empfindlichkeiten können Blobs auch als gefährliche Rätsel
+eingesetzt werden.
 
-Schwarzpudding
+Außerdem kann ein Blob natürlich in einem
+*B-Movie* artigen Szenario das echte Boss-Monster sein. Vielleicht
+gibt es sogar die Invasion der Blobs.
 
-Gallertblock
+Allen Blobs und glibberigen Schleimen ist gemeinsam, dass sie
+nicht auf Gestein wirken, sich jedoch auch durch feine Ritzen
+quetschen können, und ohne Probleme unter Türspalten
+hindurchgleiten können.
+
+Ein typischer Vertreter ist der Grünschleim. Dieser breitet sich
+auf tückische Weise aus, indem
+er die meisten Dinge die ihn berühren ebenfalls in Grünschleim
+verwandelt ... so zum Beispiel auch die Hand des unvorsichtigen
+Entdeckers. Andererseits ist er gut an seiner Farbe zu erkennen
+und bewegt sich nicht, so dass die Abenteurer nichts zu
+befürchten haben, wenn sie einfach vorbei gehen.
+
+>**Grünschleim**, wird automatisch getroffen, empfindlich für
+>Feuer, Kälte, und *Heilt Krankheiten*, 
+>Resistenzt gegen Waffen- und Blitzschlag, TW 2, BW unbeweglich, 
+>S: 1-6 Schaden pro Runde, Metall und jegliche organische Substanz
+>wird in Grünschleim verwandelt, Stein wird nicht angegriffen.
+
+Vielleicht der gefährlichste der traditionellen Amöboiden ist der
+Schwarzpudding. Er ist nicht leicht zu schädigen, verursacht
+selbst mit seinen hervorschnellenden Pseudopodien schweren
+Schaden, und ist nicht langsamer als ein voll gerüsteter Krieger.
+
+![](img/DnD-Black-pudding.png)
+
+>**Schwarzpudding**, RK 6 [13] resistent gegen Kälte, Waffen- und Blitzschlag
+>teilt den Pudding in zwei Puddings, TW 10, BW 6", S: 3-18 Holz und
+>Metall werden innerhalb einer Runde aufgelöst.
+
+Ein kurioser Vertreter der Glibberfamilie ist der Gallertblock,
+denn er hat eine besondere Funktion in der Dungeon-Ökologie. Mit
+seiner würfelförmigen Gestalt und seinen Abmessungen von ziemlich
+genau 10' x 10' x 10' (3 m x 3 m x 3 m) ist er perfekt dazu
+geeignet diskret und lautlos durch die Gänge des Dungeons zu gleiten, und
+dabei zersplitterte Schilde, übrig gebliebene Rationen und
+herumliegende Leichen in sich aufzunehmen. Lediglich die
+Metallgegenstände, also Waffen und Münzen bleiben in seinem
+Inneren unbeschädigt. Da er wegen seiner perfekten
+Transparenz bei schummriger Beleuchtung
+praktisch unsichtbar ist, kann der Eindruck entstehen, dass 
+besagte Gegenstände langsam und gleichförmig durch die Luft
+schweben. 
+
+>**Gallertblock**, RK 8 [11] resistent gegen Kälte, Furcht,
+>Blitzschlag, Lähmung und Verwandlung, TW 4, BW 6", S: 1-6 pro Runde,
+>Lähmung (Rettungswurf), löst organisches Material auf, Metall bleibt
+>intakt.
+
+: 1W20 Dinge, die im Inneren eines Gallertblocks gefunden werden
+können
+
+-----------------------------------------------------------------
+ 1W20   Gegenstand, 1W4 mal würfeln
+------ ----------------------------------------------------------
+  1    Ein Kompass, nach einem Bad in neutralisierender 
+       Seifenlauge funktioniert er noch.
+
+  2    1W4 Schwerter, bei 1 in 20 (5%) ist eines davon ein
+       magisches Schwert
+
+  3    Ein Mithril-Kettenpanzer
+
+  4    Ein Kuhfuß (eine metallene Brechstange)
+
+  5    Das Sägeblatt einer Kreissäge
+
+  6    Eine Plattenrüstung für Zwerge
+
+  7    12 Eisennägel und ein Hammerkopf
+
+  8    Ein Streitkolben, eine Gürtelschnalle und ein Helm
+
+  9    2W10 Klangstäbe eines Metallophons
+
+  10   eine Klangschale und ein Amboss
+
+  11   ein Posthorn und 2W20 Silbermünzen
+
+  12   2W8 Zinnsoldaten
+
+  13   ein pistolenförmiges Metallding, es sieht aus als käme es
+       nicht von dieser Welt
+
+  14   eine kleine Messingstatue, sie stellt ein seltsames Wesen
+       dar. Es hat Tentakeln am Kopf, lange Klauen und 
+       Fledermausflügel.
+
+  15   3 Speerspitzen und ein Axtkopf
+
+  16   1-4 Geschmeide und eine Spaten ohne Stiel
+
+  17   der metallene Kessel einer kleinen Trommel, wenn man sie
+       mit neuen Fellen bespannt, kann man sie wieder benutzen.
+
+  18   1-4 Dolche, Diebeswerkzeug, ein Wurfhaken und 1W20
+       Stahlkugeln und 2W20 Goldmünzen
+
+  19   Eine Plattenrüstung mit Helm, ein Morgenstern, ein 
+       silbernes religiöses Symbol und 2W20 Goldmünzen
+
+  20   
+
+-----------------------------------------------------------------
+
+
+Blobs können in verschiedenen Glibberigkeitsstufen vorkommen.
+Den Glibberwesen ist gemein, dass sie sich auch an Wänden und
+Decken entlang mit normaler Geschwindigkeit bewegen können.
+Ist ein Schleim unbeweglich, so ist ungeachtet seiner
+Rüstungsklasse kein Trefferwurf erforderlich um ihm potentiell
+Schaden zuzufügen.
+
+: 1W6 Daseinsformen von Glibbern und Schleimen
+
+ 1W6  Gestalt                                            BW ["]
+----- ------------------------------------------------- --------
+  1   unbeweglicher Schleim                                0
+  2   beweglicher Schleim                                  1
+  3   Glibber                                              3
+  4   amorphe Gallerte, Blob                               3
+  5   Riesenamöbe mit Pseudopodien, Pudding                6
+  6   Geformte Gallerte, ein würfelförmiges Etwas          6
+
+Glibber gibt es in allen möglichen Farben und Schattierungen.
+Einige typische Farben zeigt die folgende Tabelle. Transparenz
+kann wie am Beispiel des Gallertblocks erwähnt besondere Effekte
+bedingen, ansonsten sind die Farben in erster Linie dazu da,
+arglose Abenteurer zu verwirren.
+
+: 17 glibberig-schleimige Farben
+
+ 1W10  Farbe             1W10  Farbe            
+------ ---------------- ------ --------------------------------
+   1   weiß                6   grün
+   2   schwarz             7   gelb
+   3   grau                8   lila
+   4   ocker               9   transparent, 2. Wurf für Farbe
+   5   orange             10   wasserklar
+
+Ein Blob kann ein harmloser Popel, aber auch ein apokalyptisches
+Monster sein, auch kosmische Größenstufen sind denkbar.
+
+: 1W8 gallertige Größenstufen
+
+ 1W8   RK                TW                 Schaden
+----- ----------------- ------------------ ----------------------
+  1    8 [11]             2                 1-6 pro Runde
+  2    8 [11]             3                 2-12 pro Runde
+  3    8 [11]             4                 1-6 pro Runde
+  4    8 [11]             5                 1-6 pro Runde
+  5    8 [11]             5                 2-12 pro Runde
+  6    7 [12]             8                 2-12 pro Runde
+  7    6 [13]             10                3-18 pro Runde
+  8    5 [12]             12                3-18 pro Runde
+
+Praktisch alle Blobs haben irgendeinen Spezialangriff, und
+grundsätzlich kann davon ausgegangen werden, dass schon die bloße
+Berührung der Blob-Oberfläche zu Verätzungen führt.
+
+: 1W6 Schleimige Spezialangriffe
+
+------------------------------------------------------------------
+ 1W6  Art des Schadens
+----- ------------------------------------------------------------
+  1   Säureschaden bei jeglichem Kontakt, Metall von Waffen und 
+      Rüstungen wird innerhalb einer Runde aufgelöst.
+      Plattenrüstungen halten zwei Runden. Kein Effekt 
+      auf Holz.
+  
+  2   Transformation, jegliches Metall und organische Substanzen
+      werden in lebenden Schleim, Glibber oder Blob verwandelt.
+
+  3   Säureschaden bei jeglichem Kontakt, Holz und Metall von 
+      Waffen und Rüstungen werden innerhalb einer Runde
+      aufgelöst.
+
+  4   Jegliches organisches Material wird aufgelöst, Metall
+      bleibt intakt. Bei transparenten Blobs können aufgenommene
+      Metallgegenstände wie Waffen oder Münzen im inneren des
+      Blobs sichtbar sein.
+
+  5   Der Blob funktioniert symbiontisch mit einem anderen
+      Monster aus der Kategorie Würmer, Pilze oder Insekten: bei
+      Kontakt ist ein Rettungswurf gegen Lähmung erforderlich,
+      und der Blob schüttet Pheromone aus, die den monströsen
+      Symbionten anlocken. Dieser wird in 1-6 Kampfrunden
+      erscheinen.
+
+  6   Der Blob lockt seine Opfer telepathisch an. Jede
+      intelligente Kreatur im Umkreis von 30' (10 m) muss einen
+      Rettungswurf gegen Zaubersprüche bestehen, um nicht den
+      Blob anfassen zu wollen. Berührung löst *Schwachsinn* für
+      1-6 Runden, sowie mentalen Schaden aus: Schadenspunkte werden
+      vom Attribut Intelligenz (INT) abgezogen. 
+
+------------------------------------------------------------------
+
+Blobs haben keine Knochen, kein Gehirn, kein vorne, hinten, oben
+oder unten. Schon deshalb ist es nicht leicht ihnen Schaden
+zuzufügen, aber meistens verfügen sie zusätzlich auch noch über
+besondere Resistenzen.
+
+: 1W6 Amöboide Abwehrmechanismen
+
+------------------------------------------------------------------
+ 1W6  Art der Abwehr
+----- ------------------------------------------------------------
+  1   Waffen oder Blitzschlag teilen den Blob, von nun an sind da
+      zwei Blobs. Trefferwürfel werden durch 2 geteilt und
+      aufgerundet.
+
+  2   Resistenz gegen Feuer- und Kälteschaden
+
+  3   Resistenz gegen Kälte, Waffen- und Blitzschlag
+
+  4   Resistenz gegen Kälte und Blitzschlag, Resistenz gegen
+      magische Furcht, Lähmung und Verwandlung
+
+  5   Resistenz gegen Feuerschaden
+
+  6   Resistenz gegen Feuerschaden. Blitzschlag und Feuerbälle
+      Teilen den Blob in 2-5 kleinere Blobs, Trefferwürfel werden
+      entsprechend verteilt und aufgerundet
+
+------------------------------------------------------------------
+
 
 ## Urtiere
 
@@ -2126,4 +2370,513 @@ Bei sonstigen magischen Waffen wirkt sich der Bonus auf
 
 \normalsize
 
-![](img/DnD-Black-pudding.png)
+\backmatter
+
+# Spielleiterreferenz
+
+Eine Spielphase (10 min.)
+-------------------------------------------------
+
+1.  Check Wandelnde Monster (1 auf 1W6)
+2.  Spieler beschreiben ihre Aktionen
+3.  Es wird ...
+    a.  ein neuer Höhlenabschnitt beschrieben,
+    b.  eine Begegnung abgehandelt,
+    c.  etwas entdeckt,
+    d.  weiter gemacht bei 1.
+
+Lauschen
+-------------------------------
+
+erfolgreich bei 1 auf 1W6, Halbmenschen bei 1-2 auf 1W6
+
+Türen
+-----------------------------
+
+Geheimtüren finden 1-2 auf 1W6, Elfen bei 1-4 auf 1W6.
+
+Zwerge finden große Fallen, Schiebewände, abfallende Gänge und neue
+Einbauten bei 1-2 auf 1W6
+
+Türen aufbrechen bei 1 auf 1W6, ggf. Stärkebonus einrechnen.
+
+Verstecken
+-------------------------------
+
+Halbling: im Verlies 5+ auf 1W6, im Freien 5+ auf 2W6
+
+Dieb, Stufe 1: 15+ auf 3W6, Stufe 2: 14+ auf 3W6, 
+Stufe 3: 13+ auf 3W6
+
+Eine Begegnung
+-------------------------------
+
+1.  Anzahl der Monster?
+2.  Überraschung? (je 1W6)
+3.  Reaktionen? (2W6)
+4.  Wenn ...
+    a.  beide Seiten verhandeln, weitere Reaktionswürfe 
+    b.  eine Seite die Flucht ergreift, Flucht und Verfolgung
+        abhandeln
+    c.  eine Seite angreift, der Kampf abhandeln.
+
+## Zufallsbegegnungen im Dungeon
+
+Dungeon: alle 2 Phasen bei 1 auf 1W6
+
+: Auswahl der Zufallsbegegnungstabelle nach Dungeon-Level
+
+ Level     1     2     3     4     5     6
+-------- ----- ----- ----- ----- ----- -----
+   0      1-5    6 
+   1      1-4   5-6 
+   2      1-2   3-5    6
+   3       1    2-4   5-6
+   4            1-2   3-5    6
+   5             1    2-4   5-6
+   6                  1-2   3-5    6
+   7                   1    2-4   5-6
+   8                        1-2   3-5    6
+   9                         1    2-4   5-6
+   10                             1-2   3-6
+   11                              1    2-6
+   12+                                  1-6
+
+Die folgenden Tabellen gehen von einer Gruppenstärke von 3
+Spielercharakteren aus. Ab 5 Spielern sollten die erwürfelten Zahlen
+verdoppelt werden.
+
+: Dungeon-Begegnungen, Tabellen 1-2
+
+ 2d6   Tabelle 1             Tabelle 2           
+------ --------------------- ------------------- 
+  2    1-6 Räuber            1-3 Krokodile       
+  3    1-6 Tausendfüßlr.     1 Junger Drache     
+  4    1-2 Wyrmlinge         1-3 Gargyle         
+  5    3-8 Goblins           1 Gallertwürfel     
+  6    3-8 Hobgoblins        3-8 Ghoule          
+  7    2-12 Kobolde          3-8 Gnolle          
+  8    2-12 NSCs             3-8 Echsenmenschen  
+  9    3-8 Orks              1-3 Medusen         
+  10   2-12 Skelette         2-12 NSCs           
+  11   1-3 Riesenspinnen     1-3 Thoule          
+  12   3-8 Zombies           1-3 Wights          
+
+: Dungeon-Begegnungen, Tabellen 3-4
+
+ 2d6   Tabelle 3              Tabelle 4             
+------ ---------------------  --------------------- 
+  2    1-6 Höhlenbären        1-2 Basilisken        
+  3    1-3 Cockatrice         1-2 Große Drachen     
+  4    1 Erwachsener Drache   1 Elementar 8 TW      
+  5    1 Hydra, 4-6 Köpfe     1-2 Wyrmlinge         
+  6    1-6 Lykanthropen       3-8 Goblins           
+  7    1-3 Minotauren         3-8 Hobgoblins        
+  8    1-6 Mumien             2-12 Kobolde          
+  9    2-12 NSCs              2-12 NSCs             
+ 10    1-6 Oger               3-8 Orks              
+ 11    1-6 Skorpione          2-12 Skelette         
+ 12    1-6 Riesenspinnen      1-3 Riesenspinnen     
+
+: Dungeon-Begegnungen, Tabellen 5-6
+
+ 2d6   Tabelle 5           Tabelle 6
+------ ------------------- ---------------------
+  2    1-2 Efreeti         1 Uralter Drache
+  3    1 Elementar 12 TW   1 Elementar 16 TW   
+  4    1-3 Gargyle         1 Hydra, 4-6 Köpfe
+  5    1 Gallertwürfel     1-6 Lykanthropen
+  6    3-8 Ghoule          1-6 Minotauren
+  7    3-8 Gnolle          1-6 Mumien
+  8    3-8 Echsenmenschen  2-12 NSCs
+  9    1-3 Medusen         1-6 Oger
+  10   2-12 NSCs           1-6 Skorpione
+  11   1-6 Thoule          1-6 Riesenspinnen
+  12   1-6 Wights          1-6 Wraiths
+
+## Wildnisbegegnungen
+
+Begegnungsentfernungen
+--------------------------------
+
+Dungeon: 2W6 $\cdot$ 10' = 20 bis 120' (6 bis 36 Meter)
+
+6 bis 36 Meter können auch durch **6W6** ermittelt werden!
+
+Überraschung 1W4 $\cdot$ 10' = 10 bis 40'
+
+3 bis 12 Meter entsprechen auch ungefähr **2W6** Meter
+
+Wildnis: 4W6 $\cdot$ 10 Meter = 40 bis 240 Meter
+
+Überraschung: 1W4 $\cdot$ 10 Meter = 10 bis 40 Meter
+
+praktischer: **1W6** $\cdot$ 10 Meter, also 10 bis 60 Meter.
+
+Eine Kampfrunde 
+-----------------------------------
+
+Eine Kampfrunde dauert so lange, wie die Charaktere brauchen um eine
+Bewegungsweite zurück zu legen *und* eine signifikante AKtion im Kampf
+durchzuführen. Die genaue Dauer einer Runde kann zwischen 6 Sekunden
+und etwa einer Minute dauern.
+
+1. Überraschung
+2. Absichten und Sprüche erklären
+3. Initiative
+    a. Moral-Check für Monster / NSC
+    b. Bewegung, Manöver und Fernkampfangriffe 1 in der Reihenfolge der
+       Initiative
+    c. Sprüche werden aktiv
+    d. Nahkampf in Initiativ-Reihenfolge
+    e. Fernkampfangriffe 2 (falls in Schritt 4 auf Bewegung verzichtet
+       wurde)
+
+
+Wandelnde Monster
+----------------------------
+
+
+Wildnis:  einmal pro Hex bzw. pro Tag bei 1-2 auf W6, einmal pro Nacht
+bei 1-2 auf W6
+
+1-2 erste Wache, 3-4 zweite Wache, 5-6 dritte Wache
+
+
+Überraschung
+---------------------------------
+
+bei 1-2 auf 1W6
+
+Reaktionen
+-----------------------------
+
+2W6 | Reaktion
+:----:|:-------------
+2 | feindselig
+3-5 | unfreundlich
+6-8 | indifferent
+9-11 | freundlich
+12 | hilfsbereit
+
+
+Initiative
+--------------------------------
+\index{Initiative}
+
+je Seite 1W6, die höhere Zahl gewinnt die Initiative
+
+Genau genommen agiert jede Seite in dem *Segment*, welches die gegnerische
+Seite ausgewürfelt hat.
+
+Moral
+-------------------------------
+\index{Moral}
+
+2W6 - ist das Ergebnis höher
+ergreift es die Flucht, ergibt sich, o.ä.
+
+1.  Check bei erster Verletzung bzw. Kampfunfähigkeit des ersten
+    Individuums einer Gruppe
+2.  Check bei Verlust von 50 % der TP bzw. Kampfunfähigkeit der Hälfte
+    der Individuen einer Gruppe
+
+
+: Moral
+
+-------------------------------------------------------------
+ Moral (ML)   Charakter-Typ/Monster        Standhaft bei ...
+------------  --------------------------- -------------------
+ 2            Fluchttiere, die immmer      12
+              flüchten
+
+ 3            Fluchttiere, die sich ver-   11
+              teidigen wenn in die Enge
+              getrieben
+ 
+ 4            Fluchttiere, die ihre        10
+              Jungen verteigiden
+ 
+ 5            Raubtiere, Feiglinge          9
+ 
+ 6            Vorsichtige normale             8
+              Menschen, Bauern
+ 
+ 7            Normale Menschen,             7
+              Soldaten
+ 
+ 8            Gut geführte Truppen           6
+ 
+ 9            Elitetruppen                   5
+
+ 10           Fanatiker,                     4
+              Ritter 
+
+ 11           Verrückte                     3   
+ 
+ 12           Unnatürliche Kreaturen          2
+
+-------------------------------------------------------------
+
+
+Fernkampfreichweite
+-------------------------------------
+
+: Fernkampfreichweite
+
+---------------------------------------------------------------------
+Waffe               Feuerrate      Nah(+1)   Mittel(0)    Fern(-4)
+------------------ ----------- ------------ ------------ ------------
+Keule/Hammer           1         10'(3 m)   20'(6 m)     30'(10 m)
+
+Wurfbeil               1         10'(3 m)   20'(6 m)     30'(10 m)
+
+Dolch                  2         10'(3 m)   20'(6 m)     30'(10 m)
+
+Speer                  1         10'(3 m)   20'(6 m)     30'(10 m)
+
+Öl/Weihwasser          1         10'(3 m)   30'(10 m)    50'(17 m)
+
+Wurfpfeil              3         15'(5 m)   30'(10 m)    45'(15 m)
+
+Wurfspieß              1         20'(6 m)   40'(12 m)    60'(20 m)
+(Javelin)
+
+Kurzbogen              2         50'(17 m)  100'(34 m)   150'(50 m)
+
+Kompositbogen          2         60'(20 m)  120'(40 m)   180'(60 m)
+
+Armbrust, leicht       1         60'(20 m)  120'(40 m)   180'(60 m)
+
+Langbogen              2         70'(23 m)  140'(46 m)   210'(70 m)
+
+Armbrust, schwer       1/2       80'(26 m)  160'(52 m)   240'(80 m)
+
+---------------------------------------------------------------------
+
+
+Deckung
+-----------
+
+Im Fernkampf sollten als weitere Modifikatoren, und als Chance für
+taktisches Spiel, Modifikatoren für Deckung berücksichtigt werden. Je
+nach Qualität und Beschreibung können diese Modifikatoren zwischen -1
+und -4 liegen. Maximale Deckung --- vollständig hinter einem Fels
+verborgen --- kann Treffer schlicht unmöglich machen, dann kann der in
+Deckung befindliche Charakter aber selbst auch keine Fernkampfangriffe
+ausführen.
+
+
+Fallschaden
+--------------------------------
+
+1W6 pro 10' Fallhöhe
+
+Untote vertreiben
+-----------------------------------
+
+Probe mit 2W6, Erfolg wenn Wurf größer oder gleich Zielwert, V -
+automatisch vertrieben, N - nie vertrieben:
+
+: Untote vertreiben
+
+| Untote TW:     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10+ |
+|:--------------:|:-:|:-:|:-:|:-:|:-:|:-:|:--|:-:|:-:|:---:|
+| Kleriker Stufe |   |   |   |   |   |   |   |   |   |     |
+| 1              | 7 | 9 |11 | - | - | - | - | - | - | -   |
+| 2              | 5 | 7 | 9 | 11| - | - | - | - | - | -   |
+| 3              | 3 | 5 | 7 | 9 | 11| - | - | - | - | -   |
+| 4              | V | 3 | 5 | 7 | 9 |11 | - | - | - | -   |
+| 5              | V | V | 3 | 5 | 7 | 9 |11 | - | - | -   |
+| 6              | Z | V | V | 3 | 5 | 7 | 9 |11 | - | -   |
+| 7              | Z | Z | V | V | 3 | 5 | 7 | 9 |11 | -   |
+| 8              | Z | Z | Z | V | V | 3 | 5 | 7 | 9 | 11  |
+| 9              | Z | Z | Z | Z | V | V | 3 | 5 | 7 |  9  |
+| 10             | Z | Z | Z | Z | Z | V | V | 3 | 5 |  7  |
+| 11             | Z | Z | Z | Z | Z | Z | V | V | 3 | 5   |
+| 12             | Z | Z | Z | Z | Z | Z | Z | V | V | 3   |
+| 13             | Z | Z | Z | Z | Z | Z | Z | Z | V | V   |
+| 14+            | Z | Z | Z | Z | Z | Z | Z | Z | Z | V   |
+
+\index{Untote vertreiben}
+
+
+Es werden 2W6 Trefferwürfel an Untoten vertrieben
+
+Wurfgeschosse
+------------------------------------------
+
+Weihwasser: Trefferwurf wie Fernkampf, 1W8 Schaden bei Untoten.
+
+Öl: Trefferwurf wie Fernkampf, tropft innerhalb von 2 Runden ab,
+brennendes Öl macht 1W8 Schaden.
+
+
+## Treffer- und Rettungswürfe
+
+: Angriffstabelle für Kämpfer
+
+ Stufe    9 [10]    8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
+-------  --------  -------- -------- -------- -------- -------- -------- --------
+ 1-3        10        11       12       13       14       15       16       17
+ 4-6        8         9        10       11       12       13       14       15  
+ 7-9        5         6        7         8        9       10       11       12
+10-12       3         4        5         6        7        8        9       10  
+13-15       2         2        3         4        5        6        7        8
+ 16+        2         2        2         2        2        3        4        5
+
+
+: Angriffstabelle für Kleriker
+
+ Stufe    9 [10]    8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
+-------  --------  -------- -------- -------- -------- -------- -------- --------
+ 1-4      10       11        12       13       14       15       16       17
+ 5-8       8        9        10       11       12       13       14       15
+ 9-12      5        6         7        8        9       10       11       12
+13-16      3        4         5        6        7        8        9       10
+17-20      2        2         3        4        5        6        7        8
+ 21+       2        2         2        2        2        3        4        5
+
+
+: Angriffstabelle für Zauberkundige und Diebe
+
+ Stufe    9 [10]    8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
+-------  --------  -------- -------- -------- -------- -------- -------- --------
+  1-5      10       11        12       13       14       15       16       17
+ 6-10       8        9        10       11       12       13       14       15
+ 11-15      5        6         7        8        9       10       11       12
+ 16-20      3        4         5        6        7        8        9       10
+ 21-25      2        2         3        4        5        6        7        8
+  26+       2        2         2        2        2        3        4        5
+
+
+:Angriffstabelle für Monster
+
+ TW       9 [10]    8 [11]   7 [12]   6 [13]   5 [14]   4 [15]   3 [16]   2 [17]
+-------  --------  -------- -------- -------- -------- -------- -------- --------
+ <=1        10       11        12       13       14       15       16       17
+   1+       9       10        11       12       13       14       15       16  
+   2+       8        9        10       11       12       13       14       15
+   3+       6        7         8        9       10       11       12       13
+   4+       5        6         7        8        9       10       11       12
+   6+       4        5         6        7        8        9       10       11
+   9+       2        3         4        5        6        7        8        9
+  11+       2        2         2        3        4        5        6        7
+
+
+
+## Rettungswürfe
+
+Klasse     Stufe   Tod   Tech   Hind.   AOE   Psi
+--------- ------- ----- ------ ------- ----- -----
+Kämpfer     1-3     12    13      14     15   16
+            4-6     10    11      12     13   14
+            7-9      8     9      10     10   12
+           10-12     6     7       8      8   10
+            13+      4     5       5      5    8
+Kleriker    1-4     11    12      14     16   15
+            5-8      9    10      12     14   12
+            9-12     6     7       9     11    9
+            13+      3     5       7      8    7
+ZK          1-5     13    14      13     16   15
+            6-10    11    12      11     14   12 
+           11-15     8     9       8     11    8
+            16+      5     6       5      8    3
+          
+
+
+
+Flucht und Verfolgung
+-----------------------------------------
+
+--------------------------------------------------------------------------------
+Manöver          Effekt
+---------------  ---------------------------------------------------------------
+Rückzugs-        Rückwärtsbewegung mit halber Geschwinigkeit, *ohne* einen 
+gefecht          Gelegenheitsangriff zu riskieren,
+                 folgt der Gegner und greift an, darf der zurückziehende
+                 Charakter zuerst schlagen.
+
+Rückzug          Flucht mit voller Geschwindigkeit, der Gegner erhält einen 
+                 Gelegenheitsangriff
+
+Flucht           Flucht mit Laufgeschwindigkeit, die flüchtende Partei erhält 
+                 eine Runde Vorsprung. Erwäge Ausrüstung, Nahrung oder Wert-
+                 gegenstände abzuwerfen.
+
+--------------------------------------------------------------------------------
+
+
+Die flüchtende Partei bekommt eine Runde Vorsprung.
+
+## Verirren in der Wildnis
+
+Landschaft                Verirrt bei ... auf 1W6
+------------------------ -------------------------
+Offen / Steppe             1
+Sumpf, Dschungel, Wüste    1-3
+alle anderen               1-2
+
+## Ausweichen in der Wildnis
+
+Falls die Gruppe *nicht* überrascht ist, wird mit 1W% gewürfelt, ob
+ein Ausweichen gelingt.
+
+```{=latex}
+\begin{center}
+\begin{tabular}{lcccc}
+\toprule
+ & \multicolumn{3}{c}{Gruppenstärke} & Chance \\
+ &                 1-4 & 5-12 & 13-24 &  \\
+\midrule
+       Anzahl &     &       &  1-6  &  25\% \\
+     Monster  &  &   1-3 &  7-16 &  35\% \\
+               &   1 &  4-8 &  17+ &   50\% \\
+               &  2-3 & 9+ &      &    70\% \\
+               &  4+ &    &     &      90\% \\
+\bottomrule
+\end{tabular}
+\end{center}
+```
+
+
+Schaden
+-------
+
++-----------------------------------+-----------------------------------+
+| 1-2                               |  Mensch, unbewaffnet              |
++-----------------------------------+-----------------------------------+
+| 1W6-2                             |  Knüppel, Dolch, Schleuder,       |
+|                                   | Fackel                            |
++-----------------------------------+-----------------------------------+
+|  1W6                              |  Bogen, Kriegsbeil, Streitkolben, |
+|                                   | Armbrust, Kurzschwert, Speer,     |
+|                                   | Kriegshammer, Bärenklauen         |
++-----------------------------------+-----------------------------------+
+| 1W6+2                             |  Langschwert, Streitaxt,          |
+|                                   | Drachenklauen                     |
++-----------------------------------+-----------------------------------+
+| 2W6                               |  Stangenwaffen, Zweihänder, Biss  |
+|                                   | einer Hydra                       |
++-----------------------------------+-----------------------------------+
+
+
+## Rüstungsklasse
+
+Umrechnung: RK (aufst.) = 19 - RK (abst.)
+
+: Rüstungsklassen
+
+Rüstung                                    RK      Rüstungsbonus
+---------------------------------------- -------- ------------------
+ungerüstet                                9 [10]        0 [0]
+Schild, Waffenrock, Dicke Kleidung        8 [11]       -1 [+1]
+Lederrüstung                              7 [12]       -2 [+2]
+Lederrüstung+Schild, Schuppenpanzer       6 [13]       -3 [+3]
+beschl. Lederrüstung, Wildtiere
+Kettenhemd                                5 [14]       -4 [+4]
+Kettenhemd+Schild, Bänderpanzer           4 [15]       -5 [+5]
+Plattenpanzer                             3 [16]       -6 [+6]
+Plattenpanzer+Schild, Drachenschuppen     2 [17]       -7 [+7]
+
+
