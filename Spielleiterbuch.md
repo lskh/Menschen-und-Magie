@@ -19,6 +19,7 @@ kompatibel mit den Regeln von 1974, und denen davor und danach.
 Text und Satz: © Wanderer Bill,
 <wandererbill73@gmail.com>,\newline
 Datum:
+
 \small
 
 Grafiken: LadyofHats, CC 0, public domain,
@@ -672,101 +673,23 @@ Kleriker
 
 Diebe, Spezialisten
 
-### Beispiel für eine eigene Charakterklasse
+## Ausrüstung & Geld
 
+Neben der Charakterklasse kann die Ausrüstung eines Charakters sehr
+entscheident für seine Spielbarkeit sein. Es kann ohne weiteres
+Ausrüstungsgegenstände geben, die mehr spielrelevante Boni einbringen,
+oder bestimmte Akionen überhaupt erst zulassen, als Charakter-Boni
+oder Fähigkeiten dieses vermittlen können.
 
-#### Primärattribute
+In einigen modernen Spielsystemen der OSR und Adventure Game Szene
+übernehmen Ausrüstungspakete praktisch die Funktion von
+Charakterklassen.
 
-Weisheit + Geschicklichkeit
-
-#### Mindestwerte
-
-Stärke 12
-
-Weisheit 9
-
-Geschicklichkeit 14
-
-#### Klassenfertigkeiten
-
-##### Wahrnehmung
-
-Drachenblütige haben einen besonders ausgeprägten Geruchssinn. Sie
-nehmen die Anwesenheit anderer Lebewesen in geschlossenen Räumen bis zu
-einer Distanz von 60' auch in völliger Dunkelheit bei 1-2/W6 beiläufig
-wahr, und bei 1-4/W6 wenn sie sich konzentrieren.
-
-Im Gelände hängt die Reichweite vom Wind ab: 100 m gegen den Wind, 1
-Meile bei Windstille, 3 Meilen mit dem Wind.
-
-Entsprechend sind Drachenblütige nur bei 1/W6 überrascht.
-
-Außerdem können Drachenblütige riechen, ob ein Gegner Angst hat. Sie
-dürfen in einem Kampf vor der ersten Kampfrunde einen Moralwurf für die
-Gegner ausführen. Wird der Wurf verfehlt, "weiss" der Dracheblütige,
-dass die Gegner Angst haben, und versuchen werden, dem Kampf zu
-entgehen, sobald sie den ersten Schaden erleiden. Erleidet die Seite des
-Drachenblütigen dennoch zuerst den größeren Schaden, gelten wieder die
-normalen Moral-Regeln.
-
-##### Qi-Punkte
-
-Drachenblütige erhalten eine bestimmte Anzahl an Qi-Punkten pro Tag, die
-sie zum Wirken von Klerikersprüchen oder zur Verbesserung ihrer
-Kampfmanöver einsetzen können. Beides muss tageweise durch intensive
-Meditation vorbereitet werden.
-
-##### Klerikersprüche
-
-Für einen Qi-Punkt kann jeweils eine Stufe an Klerikerzauber gewirkt
-werden. Für 3 Qi-Punkte also z.B. 3 Stufe-1-Sprüche, 1 Stufe-3-Spruch,
-oder auch 1 Stufe-2- und 1 Stufe-1-Spruch
-
-##### Waffenloser Kampf
-
-Drachenblütige sind hervorragende natürliche Kämpfer: sie haben
-unbewaffnet zwei Angriffe 1-4/1-4 zuzüglich Geschicklichkeits- und
-Stärkebonus und eingesetzten Qi-Punkten. Ansonsten bevorzugen
-Drachenblütige als Waffe den selbst gefertigten Kampfstab (1W8), zu
-dessen Schaden sie ebenfalls die genannten Zuschläge addieren können.
-
-##### Odemwaffe
-
-Drachenblütige müssen sich bei der Charaktererschaffung für eine
-Odemwaffe der Drachen entscheiden. Sie können diese 1 x täglich
-einsetzen: Schaden entsprechend der eigenen aktuellen TP, Reichweite und
-Rettungswürfe wie bei den entsprechenden Drachen.
-
-##### Natürliche Rüstung
-
-Durch ihr Schuppenkleid haben Drachenblütige einen natürlichen
-Rüstungsbonus +2 gegenüber Stich- und Schnittverletzungen. Sie können je
-einen Qi-Punkt für 2 weitere Punkte Rüstungsbonus einsetzen.
-
-#### Einschränkungen
-
--   Drachenblütige benutzen keine geschmiedeten Waffen.
-
--   Drachenblütige tragen keine Rüstungen.
-
--   Drachenblütige haben immer einen Reaktionsabzug von -2 gegenüber
-    Menschen, anderen Halbmenschen und allen Humanoiden.
-
-: Stufentabelle der Drachenblütigen
-
- Stufe	 Erfahrung     TP   Stufe   Erfahrung   TP
-------- ----------- ------ ------- ----------- ------
- 1          0         2W6     11    1.100.800    +1
- 2         4.300     +1W6     12    1.376.000    +1
- 3        8.600      +1W6     13    1.651.200    +1
- 4        17.200     +1W6     14    1.926.400    +1
- 5        34.400     +1W6     15    2.201.600    +1
- 6        68.800     +1W6     16    2.476.800    +1
- 7        137.600    +1W6     17    2.752.000    +1
- 8        275.200    +1W6     18    3.027.200    +1
- 9        550.400    +1W6     19    3.302.400    +1
- 10       825.600     +1      20    3.577.600    +1
-
+Um Ausrüstungs- und Hintergrundpakete zufällig zu ermitteln kann
+natürlich einfach auf einer geeigneten Zufallstabelle gewürfelt
+werden. Einige System benutzen aber auch eine Tabelle, welche zwei
+Attribute als Referenzen benutzt. Zum Beispiel das höchste Attribut
+und die Trefferpunkte, oder das höchste und das niedrigste Attribut.
 
 ## Erfahrung und Stufen
 
@@ -944,28 +867,6 @@ Und noch ein Goblin-Schamane:
 
 
 
-## Ausrüstung & Geld
-
-: Münzwert bezogen auf eine Goldmünze (GM)
-
------------------------------------------------
-Münzen	PM	GM	EM	SM	KM
------- ------  ----    ----    ----    ----
-OD&D		1		10	50
-
-AD&D 1	1/5	1	2	20	200
-
-B/X	1/5	1	2	10	100
-
-AD&D 2	1/5	1	2	10	100
-
-3.5e	1/10	1		10	100
-
-4e	1/100	1		10	100
-
-5e	1/10	1	2	10	100
-
------------------------------------------------
 
 # Würfelproben
 
@@ -1756,26 +1657,27 @@ nie etwas hätte wissen dürfen.
 
 TODO: Tabellen und Regeln zur Monsterentwicklung
 
+### Monsterstufen
+
+Trefferwürfel, assoziierte Boni, assoziierte Schadenswerte
+
+### Monsterattribute
+
+Beondere Eigenschaften, die die Regeln brechen (ähnlich wie Magie)
+
+Stufenraub
+Kraftentzug
+schwebend
+unsichtbar
+Resistenzen
+multikorporal
+unkorporal
+Geschwindigkeit
+Intelligent
+Wertvoll
+
 ## Beispielmonster
 
-1. **Androids**, 1-8 (3-18), AC 9, Move 12, HD 2, Lair nearby 15%,
-   Treasure A2, Alignment Any
-
-2. **Ants, giant**, 2-12 (20-240), AC 3, Move 18/3, HD 2, Lair nearby
-   10%, Treasure C, Alignment Neutral
-
-   Riesenameisen sind zäh und anpassungsfähig.  Arbeiterameisen sind
-   etwa 6 Fuß lang, die Königin aber kann eine kolossale Größe
-   erreichen. Riesenameisen sind Allesfresser und fressen tatsächlich
-   nahezu alles. Sie werd en sich niemals zurückziehen, wenn sie ihren
-   Bau verteidigen.  Normalerweise haben Riesenameisen nur eine kleine
-   Menge
-
-3. **Apes**, 1-8 (n/a), AC 6, Move 12/12, HD 4+1, Lair nearby n/a,
-   Treasure n/a, Alignment Neutral
-
-4. **Basilisks**, 1-6 (1-6), AC 4, Move 6, HD 6+1, Lair nearby 40%,
-   Treasure F, Alignment Chaos / Neutral
 
 # Schätze
 
@@ -2527,6 +2429,41 @@ ausgelagert und die Planung der Spielabende wird von den Spielern
 
 Referenz:
 <http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/>
+
+## Tropen
+
+1. Dinosaurs
+2. Enormous spaceships
+3. UFOs
+4. Ancient cosmic monsters
+5. Evil wizards
+6. Orcish war bands
+7. Pirates
+8. Zombies
+9. Mutants
+10. Radioactive fallout
+11. Hoards of Gold and Jewels
+12. Robots
+13. Wise mages
+14. Pterodactyls as steeds
+15. Floating islands
+16. Hordes of Goblins
+17. Fabled far away lands
+18. Hellish underworld
+19. Fremde Ebenen
+20. Das Multiversum
+21. Barbaren
+22. Das Dunkle Imperium
+23. Portale
+24. Urzeitmenschen
+25. Elfen
+26. Zwerge
+27. Uralte Hochtechnologie
+28. Superkräfte
+29. Lebende Planeten
+30. Denkende Sterne
+31. Lebende Raumschiffe
+
 
 ## Ein Setting generieren
 

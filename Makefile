@@ -7,9 +7,16 @@
 
 PANDOC=pandoc-2.9
 #PANDOC=pandoc
+DATE=$(shell date)
+VERSION=$(shell git describe --tag)
 
-all: Spielerhandbuch.pdf Spells.pdf Hausregeln2020.pdf Hausregeln2021.pdf
+all: Makefile Spielerhandbuch.pdf Spells.pdf Hausregeln2020.pdf
 	cd cover; make
+
+release: all
+	cp Spielerhandbuch.pdf Spielerhandbuch-$(VERSION).pdf
+	cp Spells.pdf Spells-$(VERSION).pdf
+	cp Hausregeln2020.pdf Hausregeln2020-$(VERSION).pdf
 
 Gridmaps:
 	cd gridmaps ; make all
@@ -21,7 +28,7 @@ Spielleiterbuch.tex: Spielleiterbuch.md Makefile template.ltx Gridmaps
 	--variable documentclass=memoir \
 	--variable classoption="titlepage,twoside,a5paper,12pt" \
 	--variable subparagraph \
-	$< | sed -e "s/^Datum\:/$(shell date)/" \
+	$< | sed -e "s/^Datum\:/$(DATE), $(VERSION)/" \
 	-e "s/\\\{/\{/" -e "s/\\\}/\}/" > $@
 
 .PRECIOUS: %.tex
@@ -33,7 +40,8 @@ Spielleiterbuch.tex: Spielleiterbuch.md Makefile template.ltx Gridmaps
 	--variable documentclass=memoir \
 	--variable classoption="titlepage,twoside,a5paper,12pt" \
 	--variable subparagraph \
-	$< license.md | sed -e "s/^Datum\:/$(shell date)/" \
+	$< license.md | \
+	sed -e "s/^Datum\:/$(DATE), $(VERSION)/" \
 	-e "s/\\\{/\{/" -e "s/\\\}/\}/" > $@ 
 
 %.pdf: %.tex

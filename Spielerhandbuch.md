@@ -1301,6 +1301,8 @@ mächtiger als der Spruchanwender des Arkanen Schlosses ist, das Arkane
 Schloss ungehindert passieren. Wesen mit Magieresistenz können magisch
 verschlossene Türen ohne jedes Problem aufbrechen.
 
+\vspace{20mm}
+
 Geld und Ausrüstung
 ---------------------
 \index{Geld}\index{Ausrüstung!Pakete}
@@ -3039,3 +3041,38 @@ Folgende Regeln weichen von den ursprünglichen Regeln des Spiels ab:
    Reichweite* einen Bonus von +1 und in *naher Reichweite* einen
    Bonus von +2. Es steht allerdings nirgends, was genau mit *mittel* 
    und *nah* gemeint ist.
+
+\vfill
+
+\section{Ergänzungen}
+
+\begin{tikzpicture}
+\foreach \x in {-5,-4,...,6}{
+\foreach \y in {-5,-4,...,11}{
+\fill[black!40] (\x,\y) circle[radius=0.5pt];
+}}
+\end{tikzpicture}
+
+\clearpage
+
+\mbox{}
+\vfill
+\begin{tikzpicture}
+\foreach \x in {-5,-4,...,6}{
+\foreach \y in {-5,-4,...,11}{
+\fill[black!40] (\x,\y) circle[radius=0.5pt];
+}}
+\end{tikzpicture}
+
+\clearpage
+
+\mbox{}
+\vfill
+\begin{tikzpicture}
+\foreach \x in {-5,-4,...,6}{
+\foreach \y in {-5,-4,...,11}{
+\fill[black!40] (\x,\y) circle[radius=0.5pt];
+}}
+\end{tikzpicture}
+
+\clearpage

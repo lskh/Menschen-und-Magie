@@ -52,8 +52,64 @@ Schließlich ist *Menschen & Magie* auch Open Source. Du findest die Quelldateie
 
 Standardformat:
 
->**Name/Bezeichnung** RK desc[asc] und ggf. besondere Verteidigung, TW oder
+>**Name/Bezeichnung** Anzahl Dungeon (Wildnis), RK desc[asc] 
+>und ggf. besondere Verteidigung, TW oder
 >Klasse, BW, S: Schaden und ggf. besondere Effekte
+
+## Trefferwürfel - W6 oder W8?
+
+In Old-School Rollenspielen kommen je nach Regelsystem zwei
+unterschiedliche Größen an Trefferwürfeln vor: der W6 oder der
+W8. Es ist letztlich Entscheidung der Spielrunde welche Größe
+für Monster zum Einsatz kommen soll. In jedem Fall sollten dann
+aber auch die Trefferwürfel der Spielercharaktere dazu passend
+gewählt werden: in einer W6 Welt wird das natürlich der W6 sein.
+Entscheidet man sich für eine W8 Welt, haben die verschiedenen
+Charakterklassen typischerweise unterschiedliche Trefferwürfel:
+Zauberkundige einen W4, Diebe einen W4 oder W6, Kleriker einen
+W6, und Kämpfer einen W8 oder W10. 
+
+## Schaden - W6 oder variabler Waffenschaden?
+
+In den Originalregeln machte ein Angriff grundsätzlich 1-6 Punkte
+Schaden, also 1W6. Große Gegener - solche mit mehreren
+Trefferwürfeln - konnten bei Gegnern der ersten Stufe (bzw.
+Gegnern mit nur einem Trefferwürfel) in jeder Kampfrunde einen 
+Angriff *pro Stufe* ausführen. Ein Bär Grizzlybär mit 4
+Trefferwürfeln, hätte also demnach gegen einen Kämpfer der ersten 
+Stufe vier Angriffe pro Kampfrunde gut gehabt. Sobald beide
+Kontrahenten mehr als einen Trefferwürfel hatten, bzw. mehr als eine
+Stufe, war grundsätzlich für beide Seiten nur noch ein Angriff pro Runde
+möglich. 
+
+Für einige Kreaturen wurden auch schon in den Originalregeln
+mehrere Schadenswürfel angegeben. So zum Beispiel für die Riesen,
+die je nach Größe 2W6 oder 3W6 Schaden anrichteten.
+
+Mit dem ersten Supplement wurde dann der variable Waffenschaden
+eingeführt, also unterschiedliche Schadenswürfel je nach Größe
+und Art der Waffe - z.B. 1W4 für einen Dolch und 1W10 für ein
+Zweihandschwert. Passend dazu bekamen die Monster ebenfalls
+unterschiedliche Schadenswürfel sowie die sogenannten
+Angriffsroutinen. Letztere legten fest, wie genau eine Kreatur
+mehrfach angreifen konnte. Zum Beispiel drei Angriffe pro Runde
+"Klaue/Klaue/Biss", mit 1W4/1W4/1W8 Schaden. 
+
+Variabler Waffenschaden und Angriffsroutinen machen in der Regel
+mehr Schaden als das W6 basierte System. Daher sollten
+Angriffsroutinen nur zum Einsatz kommen, wenn auch der variable
+Waffenschaden für die Spielercharaktere gilt.
+
+In diesem Band wird jeweils beides angegeben, zuerst der W6
+basierte Schaden, dann in eckigen Klammern der variable Schaden, 
+bzw. die Angriffsroutine. Besteht die Angriffsroutine aus drei
+Werten wie im o.g. Beispiel handelt es sich in aller Regel um die
+Routine "Klaue/Klaue/Biss", bei zwei gleichen Werten um
+"Klaue/Klaue".  Andere Varianten werden gesondert benannt. Fehlt
+die Angabe in Klammern, ist der Wert für beide Systeme gleich.
+
+Im Zweifel kann für einen Trefferwürfel immer ein W8 verwendet
+werden, und für einen Schadenswurf immer ein W6.
 
 ## Monsterklassen
 
@@ -109,7 +165,7 @@ werden. Individuen haben Wertgegenstände in Höhe von 2-12 Silbermünzen
 *einen* zufällig bestimmten magischen Gegenstand.
 
 > **Normale Menschen:** RK 9 [10], TW 1, BW 12" (36 m), 
-> S: 1-6 oder nach Waffe, unbewaffnet 1-2
+> S: 1-6 [je nach Waffe], unbewaffnet 1-2
 
 Gelegentlich
 werden Menschen mit Charakterklassen angetroffen, die dann
@@ -135,8 +191,8 @@ unter der Stufe des Hauptcharakters.
 Sonstige Soldaten oder Söldner, haben im Zeifel RK 6 [13], entsprechend einem einfachen Kettenhemd,
 Schuppenpanzer, beschlagenem Leder oder ähnlichem. 
 
-> **Soldaten:** RK 6 [13], TW 1, BW 9" (27 m), S: 1-6 oder nach
-> Waffe
+> **Soldaten:** RK 6 [13], TW 1, BW 9" (27 m), S: 1-6 [je nach
+> Waffe]
 
 Soldaten sind in weitläufiger Umgebung in der Regel beritten (Leichte
 Kavallerie 40%, mittlere Kavallerie 40%, Fußsoldaten 20%). Zu 50% sind
@@ -272,7 +328,7 @@ Menschenähnlichen annehmen
 können. Sie töten dann die jeweilige Person, und nehmen
 deren Rolle ein, bis sie Ihr nächstes Opfer ausgemacht haben.
 
->**Doppelgänger** RK 5 [14], TW 4, BW 9" (27 m), S: 1-6 bis 1-12, V:
+>**Doppelgänger** RK 5 [14], TW 4, BW 9" (27 m), S: 1-6 [1-12], V:
 >Immun gegen Schlaf- und Bezauberungs-Sprüche, Rettungswürfe wie
 >Kämpfer der Stufe 10
 
@@ -294,10 +350,11 @@ Silbermünzen bei sich, und haben zu 5% einen zufälligen magischen
 Gegenstand. Fantasyvölker mit Charakterklassen haben magische
 Gegenstände entsprechend ihrer Klassenstufe (siehe unter Menschen).
 
->**Elfen** RK 8 [11] oder nach Rüstung, TW 1, BW 15" (45 m), S: 1-6 oder nach Waffe
+>**Elfen** RK 8 [11] oder nach Rüstung, TW 1, BW 15" (45 m), S:
+>1-6 [je nach Waffe]
 
 >**Zwerge** RK 8 [11] oder nach Rüstung, TW 1, BW 9" (27 m), S: 1-6
->oder nach Waffe
+>[je nach Waffe]
 
 Siedlungsformen richten sich nach der jeweiligen Kultur - Wohnbäume
 für Elfen, Bergwerke und unterirdische Festungen für Zwergen und
@@ -432,12 +489,12 @@ Gegenstände besitzen.
 
 | 1W6 | Größe | RK | TW | Schaden |
 |:----:|:-------|------|------------|
-| 1 | Kobolde | 7 [12] | 1/2 | 1-4 bis 1-6 |
-| 2 | Goblins | 6 [13] | 1-1 | 1-4 bis 1-6 |
-| 3 | Orks | 6 [13] | 1 | 1-6 oder nach Waffe | 
-| 4 | Hobgoblins | 5 [14] | 2 | 1-6 bis 1-8 |
-| 5 | Grottenschrate | 5 [14] | 3+1 | 1-6 bis 2-8 |
-| 6 | Oger | 5 [14] | 4+1 | 3-8 bis 1-10 |
+| 1 | Kobolde | 7 [12] | 1/2 | 1-6 [1-4 oder nach Waffe] |
+| 2 | Goblins | 6 [13] | 1-1 | 1-6 [1-4 oder nach Waffe] |
+| 3 | Orks | 6 [13] | 1 | 1-6 [je nach Waffe] | 
+| 4 | Hobgoblins | 5 [14] | 2 | 1-6 [1-8] |
+| 5 | Grottenschrate | 5 [14] | 3+1 | 2-7 [2-8] |
+| 6 | Oger | 5 [14] | 4+1 | 3-8 [1-10] |
 
 ![Ist dieser Ork eine Gefahr?](img/ip/armoredorc.png)
 
@@ -829,9 +886,27 @@ Phasentiger
 
 ### Bären
 
+Bären sind Allesfresser und deshalb nicht unbedingt darauf aus,
+Abenteurer zu verspeisen. In kargen Umgebung wie polaren
+Eiswüsten, auf Gletschern mag das anders sein. Alle Bären
+verteidigen jedoch ihre Jungtiere bis zum Tod, und alle Bären
+können bei einem Trefferwurf von 18 oder mehr ihr Opfer
+umklammern und fortan 1-6 Schaden pro Runde verursachen.
+
+Hier ein typischer Vertreter: 
+
 ![Ein Braunbär](img/pd/grizzlybear.png)
 
-![Ein Schwarzbär](img/pd/blackbear.png)
+>**Braunbär**, RK 7 [12], TW 4+1, S: 2-12
+
+: 1W4 Bärenarten
+
+ 1W4  Art            RK      TW      Schaden
+----- ----------- -------- ------ --------------
+  1   Schwarzbär   6 [13]   2-3        1-6
+  2   Braunbär     6 [13]   4+1        2-12
+  3   Eisbär       6 [13]    5         2-12
+  4   Höhlenbär    6 [13]   6+6        2-12
 
 ## Herdentiere
 
@@ -911,18 +986,35 @@ Riesenformen der Raub- und Herdentiere
 
 ![Eine Riesenfledermaus](img/direbat.png)
 
+Gigantische Monster
 
 ## Mythische Kreaturen
 
-Chimeras, Manticore, Pegasi, Hippogreifen/Pferdegreif, Greifen,
-Sphinxen, Trolle, Zyklopen
-Medusen, Basilisken, Hydras, Dschinni, Gorgone, Harpyie
+### Chimeren
+
+### Manticore
+
+### Pegasi Hippogreifen/Pferdegreif, Greifen,
+Sphinxen, 
+
+### Riesen
+Trolle, Zyklopen
+
+### Wesen mit dem versteinernden Blick
+
+Medusen, Basilisken, 
+
+![Ein Schreckhahn](img/pd/cockatrice.png)
+
+Hydras, Dschinni, Gorgone, Harpyie
+
 Höllenhund, Teufelsschwein, Hydra, Ifrit, Minotauren
+
+
 Roc, Salamander (Eis und Feuer)
 
 ![Ein Greif](img/pd/griffon.png)
 
-![Ein Schreckhahn](img/pd/cockatrice.png)
 
 ### Einhörner
 
@@ -1020,11 +1112,76 @@ Kreischer
 
 ## Würmer
 
-**Fäulnisraupe**
+Viele, wenn nicht die meisten Würmer sind harmlos. Man würde kein
+Aufhebens um diese Kreaturen machen, gäbe es nicht einige berühmt -
+berüchtigte und furchteinflößende Vertreter:
 
-**Purpurwurm**, RK 3 [16], BW 6", S: 
+>**Fäulnisraupe**, RK 8 [11], TW 1 TP, BW 9", S: bohren sich
+>schnell unter die Haut des Opfers, verursachen Krankheit und Tod 
+>in 1-3 Phasen
 
-**Riesenblutegel**
+Gegen den Befall mit Fäulnisraupen hilft nur das sofortige Ausbrennen
+der Stelle des Befalls. Dabei erleidet das Opfer 1-6 Punkte Schaden.
+Auch ein *Heilt Krankheiten* kann helfen. Sind die Raupen jedoch
+nach 1-3 Kampfrunden in Körper des Opfers eingedrungen, graben sie sich
+bis zu Herz des Opfers vor. Dadurch stirbt das Opfer in 10 bis 30
+Minuten.
+
+Kaum weniger unangenehm sind die
+
+>**Riesenblutegel**, RK 8 [11], TW 1-4, BW 6", S: Blut saugen (Verlust
+>von Trefferpunkten oder Stufen)
+
+Es gibt verschiedene Arten von Riesenblutegeln. Die gefährlichsten
+entziehen dem Opfer 1 Erfahrungsstufe pro Kampfrunden, beginnend nach
+der Kampfrunden in der sie sich erfolgreich an ihrem Opfer
+festgebissen haben. Weniger gefährliche Arten entziehen dem Opfer nur
+Trefferpunkte in der Höhe der eigenen Trefferwürfel. Kleine Egel,
+solche mit 1-2 Trefferwürfeln, werden durch ihren anästhesierenden
+Speichel manchmal erst bemerkt, wenn das Opfer die Hälfte seiner
+Trefferpunkte verloren hat, sich nur noch mit halber Geschwindigkeit
+bewegen kann, und nicht mehr in der Lage ist zu kämpfen.
+
+Nur die erfahrensten Abenteurer können von Begegnungen mit folgender
+monströser Kreatur berichten:
+
+>**Purpurwurm**, RK 6 [13], TW 15, BW 6", S: Biss 2-12, Giftstachel 
+>1-8 + Gift
+
+Purpurwürmer sind gigantisch groß, und können Kreaturen von der Größe
+eines Ogers mit einem Mal verschlingen. Dazu ist ein Angriffswurf
+erforderlich, der wenigstens 4 Punkte besser als der erforderliche
+Wurf ist. Der Einfachheit halber hier eine spezielle Angriffstabelle
+für Purpurwürmer: 
+
+: Verschlingen durch Purpurwürmer und ähnliche Riesentiere
+
+ RK des Opfers     Angriffswurf des Wurms
+--------------- ----------------------------
+  9 [10]         1+ trifft, 4+ verschlingt
+  8 [11]         1+ trifft, 5+ verschlingt
+  7 [12]         2+ trifft, 6+ verschlingt
+  6 [13]         3+ trifft, 7+ verschlingt
+  5 [14]         4+ trifft, 8+ verschlingt 
+  4 [15]         5+ trifft, 9+ verschlingt
+  3 [16]         6+ trifft, 10+ verschlingt
+  2 [17]         7+ trifft, 11+ verschlingt
+  1 [18]         8+ trifft, 12+ verschlingt
+  0 [19]         9+ trifft, 13+ verschlingt
+
+Da Purpurwürmer regelmäßig Abenteurer verschlingen, kann man in ihrem
+Inneren, und in ihren Ausscheidungen unverdauliche
+Wertgegenstände entsprechend Schatztyp D (XIX) finden.
+
+### Andere Würmer
+
+In der Weite der Welten gibt es zahlreiche andere unheimliche,
+faszinierende und schreckliche Würmer, von denen längst nicht alle
+erforscht sind.
+
+Sie kommen in allen erdenklichen Größenstufen vor. Auch kosmische
+Entitäten, gar ganze Welten, die in Wirklichkeit auf oder in einem
+Wurm existieren sind denkbar.
 
 : 1W6 Größenstufen für Würmer
 
@@ -1036,6 +1193,128 @@ Kreischer
   4     1-6      eine Elle lang                         1-4
   5     1-4      1-10 Meter lang                        2-8
   6     1-2      10-100 Meter lang                      5-20   
+
+
+Würmer können ungewöhnliche äußere Merkmale haben. Hier nur einige
+Beispiele:
+
+: 1W10 äußere Merkmale von Würmern
+
+-----------------------------------------------------------------
+ 1W10  Merkmal
+------ ----------------------------------------------------------
+  1    Zahlreiche kleine Beine wie bei einer Raupe, oder
+       einem Tausendfüßler, BW 9"
+
+  2    die Haut schillert in mäandernden Regenbogenfarben
+
+  3    hypnotisches Muster der Haut, Rettungswurf Lähmung
+
+  4    mit zahlreichen beweglichen Stacheln besetzt, RK 4 [15],
+       bei einem erfolglosen Angriff gegen den Wurm muss ein
+       Rettungswurf gegen Lähmung gelingen, um nicht 1-6 Punkte
+       Schaden zu erleiden.
+
+  5    Säuredrüsen auf der Haut (siehe Blob, Glibber und 
+       Schleime)
+
+  6    massive Beißwerkzeuge, Schaden +2
+
+  7    Der Wurm ist rund wie ein Regenwurm
+
+  8    Der Wurm ist platt und hat die Form einer Flunder
+
+  9    Der Wurm ist gallertartig transparent
+
+  10   Der Wurm ist getigert ... zwei verminöse Farben würfeln
+
+-----------------------------------------------------------------
+
+Würmer haben oft Farben, die man sonst im Tierreich selten beobachtet:
+
+: 1W8 verminöse Farben (zum Teil ekelig)
+
+-----------------------------------------------------------------
+ 1W8   Farbe
+------ ----------------------------------------------------------
+  1    purpur
+
+  2    giftgrün
+
+  3    schwefelgelb
+
+  4    schwarz-rot, wie geronnenes Blut
+
+  5    kobaltblau
+
+  6    ocker
+
+  7    veränderlich, wie bei einem Chamäleon
+
+  8    fleischfarben, mit glitzernden Kristalleinschlüssen
+ 
+-----------------------------------------------------------------
+
+Würmer haben auch in unserer Welt die ungewöhlichsten
+Lebenszyklen und Verhaltensweisen. Das ist sicher auch in den
+Weiten der Fantasy-Welten nicht anders.
+
+
+: 1W8 Bizarre Effekte von Würmern (Body Horror!)
+
+-----------------------------------------------------------------
+ 1W8  Effekt
+----- -----------------------------------------------------------
+  1   Der Wurm ist nur die Larve einer seltenen Drachenart. Ist
+      er sehr groß, entwickelt sich der Drache direkt aus dem 
+      Wurm, handelt es sich um einen kleinen Wurm, durchläuft er
+      noch mehrere Größenstufen bis er zu einem Drachen wird.
+
+  2   Der Wurm bringt Larven in den Körper des Opfers ein. Diese
+      reifen innerhalb von 1-6 Tagen heran. Lebt das Opfer zu
+      diesem Zeitpunkt noch, wird es wie durch ein *Geas*
+      gezwungen, sich an einen Ort zu begeben, der für die
+      Verbreitung der Würmer günstig ist. Sobald das Opfer den
+      Ort erreicht hat, oder falls es ohnehin schon tot war,
+      brechen hunderte kleine Würmer aus seinem
+      Körper hervor.
+
+  3   Der Wurm dringt kaum merklich in den Körper des Opfers ein.
+      Es handelt sich um die Larve eines Rieseninsekts, welches
+      nach 1-6 Tagen aus dem Opfer hervor bricht. Die Chancen,
+      diese Tortur zu überleben sind gering.
+
+  4   Larven des Wurms breiten sich im Körper des Opfers aus.
+      Nach 1-6 Tagen bemerkt das Opfer ein Kriechen unter der
+      Haut und es können wurmförmige, wandernde Schwellungen am
+      Körper des Opfers bemerkt werden. Das Opfer ist hierdurch
+      krank und geschwächt, und kann sich kaum bewegen. Nach 1-6
+      weiteren Tagen kriechen 10-100 Würmer aus sämtlichen
+      Körperöffnungen des Opfers ... auf der Suche nach neuen
+      Opfern. Die Chance diese Tortur zu überleben steigt, wenn
+      ein kundiger Heiler aufgesucht wird.
+
+  5   Das Opfer ist nur Zwischenwirt des Wurms. Der Wurm zwingt
+      sein Opfer wie durch ein *Geas* das Lager eines großen
+      Monsters aufzusuchen. Der Lebenszyklus des Wurms schließt
+      sich, wenn das Monster das Opfer frisst.
+
+  6   Das Opfer ist ein Fehlwirt des Wurms, dennoch verliert es
+      1-6 Punkte Konstitution, und seine Haut bekommt eiterige
+      Beulen. Berührung dieser Beulen verursacht Säureschaden,
+      ähnlich wie bei Blobs und Schleimen (siehe dort)
+
+  7   Ob von innen oder von außen, der Wurm verdaut sein Opfer 
+      vollständig innerhalb von 1-6 Phasen.
+
+  8   Der Wurm frisst sich äußerst schmerzhaft durch den Körper
+      des Opfers. Das Opfer ist Handlungsunfähig und 
+      erleidet 1-6 Punkte Schaden pro Phase bis es
+      geheilt wird. Verfehlt es einen Rettungswurf gegen
+      Gift verliert es durch die verheerende Wirkung der
+      Wurminfestation einen Arm oder ein Bein. 
+
+-----------------------------------------------------------------
 
 
 ## Blob, Glibber und Schleim
