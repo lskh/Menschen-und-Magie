@@ -157,7 +157,7 @@ Hexfeld, oder dörflicher Siedlung auf. Sie werden mit 15%
 Wahrscheinlichkeit in ihrem "Lager" mit einem Schatztyp A angetroffen.
 Mit einer
 Wahrscheinlichkeit von 5% (1/20) handelt es sich bei dem Lager um irgend 
-eine Art von befestigte Wohnanlage.
+eine Art von befestigter Wohnanlage.
 
 Einzelne Begegnungen sollten an die Stärke der Spielergruppe angepasst
 werden. Individuen haben Wertgegenstände in Höhe von 2-12 Silbermünzen
@@ -173,7 +173,7 @@ entsprechend der Regeln mehr Trefferwürfel, und besondere Fähigkeiten
 haben können. Die Stufe des entsprechenden Charakters kann mit
 1W4+1W10 zufällig bestimmt werden.
 
-Kämpfer habe zu *je* 5% pro Stufe eine magische Rüstung,
+Kämpfer haben zu *je* 5% pro Stufe eine magische Rüstung,
 einen magischen Schild, und ein magisches Schwert.
 
 Zauberkundige haben zu *je* 5% pro Stufe einen magischen Stab, einen
@@ -241,6 +241,8 @@ Faustregel gilt folgende "militärische" Struktur:
 Als Reit-, Zug- und Arbeitstiere benutzen Menschen in der Regel
 Herdentiere wie Pferde, Kamele, Rinder, aber auch z.B. Elefanten.
 Selten verwenden Menschen auch Chimären oder Riesentiere.
+
+Cavemen           2-12  30-180+    9     12       2     15     C        N
 
 ## Lykanthropen
 
@@ -370,8 +372,8 @@ Gnome, idyllische Hügeldörfer für Halblinge sind der Standard.
 | 4 | besondere magische Begabung (Elfen) |
 | 5 | Dunkelsicht (Zwerge/Gnome) |
 | 6 | besondere handwerkliche Begabung (Zwerge) |
-| 7 | besonders feines Gehör (2 auf W6) |
-| 8 | Gespür für Geheimtüren (4 auf W6) |
+| 7 | besonders feines Gehör (2 auf W6, 33%, DC 14) |
+| 8 | Gespür für Geheimtüren (4 auf W6, 67%, DC 8) |
 | 9 | Besondere Begabung sich zu verstecken (Halblinge/Elfen) |
 | 10 | Wahre Namen |
 | 11 | Geschickt mit Pfeil und Bogen (+1, Halblinge +2) |
@@ -466,7 +468,7 @@ Märchen gibt es zahlreiche Überschneidungen mit den Feenwesen, so dass
 zur Ausgestaltung ausgefallener Goblinoide auch die Tabelle
 *Eigenschaften der Feenwesen* (siehe dort) genutzt werden kann. 
 
-Goblinoide so wie Fantasyvölker in großen Gruppen von 40-400
+Goblinoide treten so wie Fantasyvölker in großen Gruppen von 40-400
 Individuen auf, und sie haben in der Regel ebenfalls *einen*
 Trefferwürfel. Ähnliche wie die militärische Struktur menschlicher
 Gruppen, werden jeweils bis zu 30 Individuen von einem Individuum der
@@ -579,11 +581,13 @@ Richtwerte:
 | 1W6 | Eigenschaften |
 |:---:|:--------------------|
 | 1 | "tierischer" Gestank (Gegner RW oder -2 auf Angriffswürfe) |
-| 2 | feine Witterung, Wahrnehmung 4/6 |
-| 3 | natürliche Tarnung, Überraschen 4/6 |
+| 2 | feine Witterung, Wahrnehmung 4 in 6 (66,7%, DC 8) |
+| 3 | natürliche Tarnung, Überraschen 4 in 6 (66,7%, DC 8) |
 | 4 | Herbeirufen "ihrer" Tierart in 3-6 Kampfrunden |
 | 5 | Dunkelsicht |
 | 6 | Verwandlung in "ihre" Tierart, willkürlich |
+
+Centaurs          2-8     4-24+    6     18       4      5     A1      L, N
 
 ## Riesen
 
@@ -613,6 +617,9 @@ Schaden anrichten.
 | 5 | Wolkenriese | 12+2 | 6-36 (6W6) | 
 | 6 | Titane | 12-16 | 7-72 (7W6) |
 
+>**Hügelriese** 1-4 (1-10), RK 5 [14] 
+>TW 8, BW 12", S: 2W6
+
 : 1W6 Eigenschaften für Riesen
 
 | 1W6 | Eigenschaft |
@@ -621,10 +628,12 @@ Schaden anrichten.
 | 2 | Hitzeresistent |
 | 3 | Magiebegabt wie ein Stufe 7 Zauberkundiger |
 | 4 | Kleriker der 7. Stufe |
-| 5 | feiner Geruchssinn (Wahrnehmung 4/6) |
+| 5 | feiner Geruchssinn (Wahrnehmung 4 in 6, 66,7%, DC 8) |
 | 6 | Wahrer Name |
 | 7 | zwei Köpfe (dann Ettin genannt) |
 | 8 | Nur ein Auge, ein Zyklop, -2 auf Fernkampfangriffe |
+
+Cyclopes           1-4     1-4       2     15      16      30     E*        N
 
 ![Ein Zyklop](img/ip/cyclops.png)
 
@@ -680,61 +689,12 @@ wenige Ausnahmen immun gegen *Schlaf* und *Bezauberungs*-Sprüche.
 | 11 | Geist | 1 | 10 | 0 [19] |
 | 12 | Leichnam (Lich) | 1 | 11+ | 0 [19] | 
 
-: 22 untote Eigenschaften
-
-| 1W10 + Stufe | Eigenschaft 1-4 x würfeln |
-|:--:|-----------------------------|
-|  1 | langsam, BW 6" |
-|  2 | nimmt nur halben Schaden |
-|  3 | Verwesungsgestank |
-|  4 | Lähmende Berührung |
-|  5 | Verursacht Krankheit |
-|  6 | Unsichtbar, nur ein Schatten |
-|  7 | Stärkeraub |
-|  8 | Silberwaffen machen vollen Schaden | 
-|  9 | Stufenraub |
-| 10 | Silberwaffen machen halben Schaden | 
-| 11 | Opfer wird nach 24 Stunden zu Untotem gleicher Art |
-| 112| Kann außer durch Magie nur durch Feuer geschädigt werden |
-|  7 | Geisterheulen: Rettungswurf oder *Furcht* |
-| 12 | Resistenz gegen nichtmagische Waffen |
-| 20 | Eisige Berührung 1-10 Punkte Schaden |
-|  9 | schnell, BW 12" |
-|  3 | Stufenraub x 2 |
-|  5 | Int. 13, magiebegabt wie ZK entsprechender Stufe |
-| 11 | gasförmig, kann duch Spalten und Schlüssellöcher gleiten |
-| 19 | Zauberkruke |
-
-#### Geschichten mit Untoten
-
-## Affen
-
-Paviane, Gorillas, Weiße Affen, geflügelte Affen
-
-## Raubtiere
-
-### Wiesel, Frettchen und Marder
-
-### Wölfe 
-
-Wölfe und andere hundeartige Raubtiere kommen fast in jedem Ökosystem
-vor. Normale Wölfe sind etwas zähere Kämpfer als Menschen, daher
-bekommen sie zwei Trefferwürfel. Als Rüstungsklasse kann man, wie für
-alle wilden Tiere 6 annehmen, für scheue und eher harmlose Wölfe
-vielleicht eher eine 7, für sehr gefährliche, kampferprobte und
-erfahrene Wölfe eher eine 5.
-
-> **Normale Wölfe** Anzahl 2-20, RK 7[12], TW 2, S:1-6, BW 
-> 16"/54 m
-
-Ein Rudel wolfsartiger Raubtiere besteht in der Regel aus einem
-Alpha-Tier (+1 TW) und einigen Jungtieren (-1 TW), die ungefähr 
-1/4 der Rudelstärke entsprechen. Gefangene Jungtiere können gezähmt
-und Abgerichtet werden.
-
-: 1W20 Eigenschaften wolfsartiger Raubtiere
-
-| 1W20  | Eigenschaft, 1W4 mal würfeln             |
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
 
 : 22 untote Eigenschaften
 
@@ -767,6 +727,22 @@ und Abgerichtet werden.
 
 ## Affen
 
+Paviane, Gorillas, Weiße Affen, geflügelte Affen
+
+: 1W6 Größenstufen
+
+ 1W6    Ausprägung      
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
+Apes            1-8        n/a      6   12/12  4+1    n/a      n/a        N
+
+
 : Größenstufen von Affen
 
  1W4   Stufe
@@ -787,9 +763,23 @@ und Abgerichtet werden.
  5     geschickte Werfer, Fernkampfangriff wie Schleuder
  6     Reißzähne, Schaden +2
 
+
+
+
+
+
 ## Raubtiere
 
 ### Wiesel, Frettchen und Marder
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
+Weasels, giant  1-8  1-8 6 15 2  15  n/a N
 
 ### Wölfe 
 
@@ -880,6 +870,14 @@ zu Beginn der nächsten Kampfrunde dauerhaft weg.
 
 Berglöwe, Tiger, Säbelzahntiger
 
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
+
 ![Ein Jaguar](img/pd/jaguar.png)
 
 Phasentiger
@@ -899,6 +897,10 @@ Hier ein typischer Vertreter:
 
 >**Braunbär**, RK 7 [12], TW 4+1, S: 2-12
 
+Bears            1-6       1-6       6    12     5+5    n/a    n/a        N
+
+Cave bears        1-2     n/a      6     12     6+6    n/a    n/a       N
+
 : 1W4 Bärenarten
 
  1W4  Art            RK      TW      Schaden
@@ -913,18 +915,59 @@ Hier ein typischer Vertreter:
 Rehe, Hirsche, Elche, Pferde, Maultiere,  Kamele, Llamas, Elefanten,
 Nashörner Eber / Wildschweine
 
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
+Boars             1-12    n/a      7     15     1+2    n/a   n/a        N
+
+Boars, giant      1-8     n/a      6     12      7     n/a   n/a        N
+
+
 ## Nagetiere 
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
 
 Mäuse, Ratten, Bieber
 
 ## Fledertiere
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
+Bats            10-80     100-800    8   3/12     ½    15      n/a        N
+
+Bats,            1-8        1-8      7   3/15     4    15       C         N
+giant 
+
 
 Fledermäuse, Flughunde, Riesenfledermäuse
 Klesche
 
 ## Echsen und Lurche
 
-Schlangen
+### Schlangen
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
 
 Grubenotter
 
@@ -936,11 +979,59 @@ Python
 
 Klapperschlange
 
+### Krokodile
 Krokodil
 
+Crocodiles        2-12    3-24    6      9/15     3      20    n/a       N
+
+Crocodiles,        1-6    2-12    5      9/15     7      20    n/a        N
+giant
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
+### Echsen
 Drachenechse, Gecko, Tuatara, Gehörntes Chamäleon
 
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
+### Dinosaurs             
+
+Brontosaurs         1-6     n/a      5     6      32      n/a     n/a      N 
+
+Mosasaur            1-4     n/a      5    3/15    14      n/a     n/a      N
+
+Pterodactyls        1-8     n/a      5    3/12    2-7     n/a     n/a      N 
+
+Stegosaurs          2-8     n/a      2/5    6       8      n/a     n/a     N 
+
+Triceratops         2-8     n/a      2/5    9       16     n/a     n/a      N 
+
+Tyrannosaurus Rex    1-2    n/a      5     15       20    n/a      n/a     N 
+
+Deinonychus          1-6     n/a     5     21      4      n/a      n/a     N
+
+### Kröten, Frösche, Olme
 Kröten
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
 
 ## Vögel
 
@@ -948,7 +1039,23 @@ Falken
 
 ![Geier](img/pd/vultures.png)
 
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
 ## Fische
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
 
 ### Hechte
 
@@ -962,15 +1069,156 @@ Katzenfisch
 
 ## Insekten und Spinnenartige
 
-Schwärme
+Insekten und ähnliche Gliederfüßer können einfach nur lästig sein,
+aber auch ernsthafte Bedrohnungen und veritable Monster sein.
 
-Heuschrecken, Käfer
+Diversen Ausprägungen sind denkbar.
 
-Fliegen, Bienen, Wespen, Libellen, Flöhe
+: 1W10 Arten von Gliederfüßern
 
-Tausendfüßler
+ 1W10    Erscheinungsform                                BW
+-------  ---------------------------------------------- ---------
+ 1       Fliege/Bremse                                   3\"/12\"
+ 2       Mücke/Moskito/Schnake                           3\"/9\"
+ 3       Biene/Wespe/Hornisse                            6\"/18\"
+ 4       Libelle                                         3\"/12\"
+ 5       Spinne                                          6\"-9\"
+ 6       Käfer                                           9\"/9\"
+ 7       Tausendfüßler/wurmartig                         9"
+ 8       Assel/Floh/krebsartig                           9"
+ 9       Zecke                                           3"
+ 10      Ameise                                          9"
 
-Spinnen, Skorpione
+Spinnen und krebsartige findet man auch unter Wasser. Es handelt sich
+dann entsprechend um Krabben, Garnelen, Krebse oder Langusten.
+
+Crabs, giant      3-12    n/a    3      6        3      n/a     n/a      N
+
+Spinnen können vielleicht (10%) und Flöhe mit Sicherheit springen.
+Sowohl zum Angriff, als auch zur Verteidigung ist hierzu ein Wurf von
+14 oder mehr auf dem W20 erforderlich. Ist der Wurf erfolgreich, kann
+eine Springspinne daduch bis zu 12" weit auf ein Opfer zu springen.
+Ein Floh benutzt sein Sprungfähigkeit eher zum ausweichen. Bei einem
+Wurf von 14 oder mehr auf dem W20 springt er 12" weit in eine 
+zufällige Richtung davon.
+
+: 1W6 insektoide Größenstufen
+
+ 1W6   Anzahl    Größe                     RK            TW
+----- ---------- ---------------------- ---------- --------------
+  1    100-1000  sehr klein               3 [16]    Schwarm: 1-4
+  2    10-100    so groß wie eine Made    4 [15]    Schwarm: 1-2
+  3     2-12     eine Handspanne lang     5 [14]    jeweils 1 TP
+  4     1-8      eine Elle lang           6 [13]        1-4
+  5     1-6      1-8  Meter lang          5 [14]        2-8
+  6     1-4      2-24 Meter lang          4 [15]        3-18   
+
+Gliederfüßer kommen in fantastischen Färbungen vor.
+
+: 1W20 insektoide Farbmuster
+
+ 1W20  Färbung
+------ -----------------------------------------------------------
+ 1     gelb-schwarz getigert
+ 2     blau-metallisch
+ 3     grün-metallisch
+ 4     schwarz metallisch
+ 5     schwarz mit langen, dicken Borsten
+ 6     rot-schwarz getigert
+ 7     in Regenbogenfarben schillernd
+ 8     orange-rot
+ 9     grün-blau getigert
+ 10    gelb-rot getigert
+ 11    silbrig glänzend, wie Chromstahl
+ 12    braun-schwarz
+ 13    pink mit creme-weißer Unterseite
+ 14    seltsam schillernd, wie bei Versetzerbestien (RK -2 [+2])
+ 15    glitzernd wie Feenstaub
+ 16    orange-schwarz getigert
+ 17    orange-blau getigert
+ 18    kupferfarben
+ 19    durchsichtig / transparent
+ 20    2 x auf dieser Tabelle würfeln und kombinieren
+
+Das gefährlichste an den Gliederfüßern sind natürlich die diversen
+Arten, auf welche diese Viecher Schaden anrichten können.
+
+: 1W12 heimtückische, insektoide Schadensformen
+
+ 1W12  Schaden / Spezialeigenschaft
+------ ------------------------------------------------------------
+ 1     tödliches Gift (Stachel oder Mundwerkzeug) 
+ 2     lähmendes Gitt 1-6 Runden aktionsunfähig
+ 3     lähmendes Gift 1-6 Runden halbe BW und -2 auf alle Aktionen   
+ 4     Blut saugen, 1-6 Schaden pro Runde bis Blutsauger entfernt
+ 5     Energie saugen: bei Trefferwurf 18+ Abzug einer Stufe  
+ 6     Biss-Schaden +4
+ 7     Biss-Schaden +1W6
+ 8     Krebsscheren: Schaden = 1W6 pro Trefferwürfel
+ 9     verwirrendes Gift (wie Zauberspruch *Verwirrung*)
+ 10    Schlafgift (wie Zauberspruch *Schlaf*)
+ 11    Spinnfäden (wie Zauberspruch *Netz*)
+ 12    2 x auf dieser Tabelle würfeln und kombinieren
+ 
+
+Beispielbegegnung:
+
+4 sieben-meter lange, grün-metallische Riesenfliegen 
+RK 5 [14], 5 TW, 3"/12", die Riesenfliegen verursachen mit ihren
+Bissen zwar nur 1W6 Schaden, jedoch muss nach jedem erlittenen Schaden
+in Rettungswurf gegen Gift gelingen, um nicht in den nächsten Runden
+wahllos die eigenen Gefährten anzugreifen, oder auch nur ratlos umher
+zu stehen.
+
+
+### Schwärme
+
+Sehr viele, sehr klein Gliederfüßer werden als Schwärme abgebildet.
+Dabei wird einfach der gesamte Schwarm behandelt, als sei er eine
+einzelnes Wesen,
+mit einem gemeinsamen Pool an Trefferpunkten. Es können Moral-Regeln
+angewandt werden, um den Schwarm zu vertreiben, und der Schwarm kann
+sogar vernichtet werden, wenn er auf Null Trefferpunkte reduziert
+wurde.
+
+### Schätze
+
+Insekten und Spinnen haben nur selten Schätze, und wenn sind es
+wahrscheinlich eher die sehr großen Schwärme, oder die sehr großen
+Riesenformen, die dazu neigen, Wertgegenstände oder Glitzerkram zu
+horten.
+
+Als Faustregel gilt: bei einem Prozentwurf von 10 oder weniger gibt es
+einen Schatz der Klasse B ( ), und bei einem Wurf von 11-33 gibt es
+einen Schatz der Klasse C ( ).
+
+Ants,           2-12      20-240    3   18/3    2     10       C          N
+giant
+
+
+
+### Heuschrecken, Käfer
+
+Beetles,         1-12       n/a      3    9/6    2-7    n/a    n/a        N
+giant
+
+### Fliegen, Bienen, Wespen, Libellen, Flöhe
+
+
+### Tausendfüßler
+
+Centipedes,       1-6      1-6    3/7    12      3+1     60    B        N
+giant
+
+Centipedes,       2-24   n/a    9      6       ½       n/a     n/a      N
+large
+
+### Spinnen, Skorpione
+
+Spiders, giant  1-8  1-8 5 3/12 4+4  70  C C
+
+Spiders, large  1-10  2-20 8 6/15 ½  60  C N
+
 
 Tarantel, Krabbenspinne, Schwarze Witwe, Vogelspinne
 
@@ -982,6 +1230,14 @@ Krebse
 
 Riesenspitzmaus
 
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
 Riesenformen der Raub- und Herdentiere
 
 ![Eine Riesenfledermaus](img/direbat.png)
@@ -992,17 +1248,63 @@ Gigantische Monster
 
 ### Chimeren
 
+Chimeras          1-4     1-4    4      12/18    9      50     F         C
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
 ### Manticore
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
 
 ### Pegasi Hippogreifen/Pferdegreif, Greifen,
 Sphinxen, 
 
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
 ### Riesen
 Trolle, Zyklopen
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
 
 ### Wesen mit dem versteinernden Blick
 
 Medusen, Basilisken, 
+
+Basilisks       1-6        1-6      4   6      6+1    40       F        C, N
+
+Cockatrices       1-8     1-8    6      9/18     5      35     D        C, N
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
 
 ![Ein Schreckhahn](img/pd/cockatrice.png)
 
@@ -1018,9 +1320,25 @@ Roc, Salamander (Eis und Feuer)
 
 ### Einhörner
 
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
 ![Ein Einhorn](img/pd/unicorn.png)
 
 ### Elementare
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
 
 Feuer-, Erd-, Wasser-, Luftelementare
 
@@ -1036,6 +1354,14 @@ Feuer-, Erd-, Wasser-, Luftelementare
 | 4 | alter Drache |
 | 5 | Uralter Drache |
 | 6 | Leviathan |
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
 
 : 1W20 drakonische Eigenschaften 
 
@@ -1092,21 +1418,42 @@ Feuer-, Erd-, Wasser-, Luftelementare
 
 Lindwürmer
 
+
+Black               1-4      1-4     5-2   Various 2-12    60       H*     C 
+
+Blue                1-4      1-4     5-2   Various 2+2-14   60      H*     C 
+
+Golden              1-4      1-4     5-2   Various 2-1-16  60      H*     L 
+
+Green               1-4       1-4    5-2   Various 2+1-13  60      H*     C 
+
+Red                 1-4       1-4    5-2   Various 2+3-15  60      H*     C
+
+White               1-4       1-4    5-2   Various 2-1-11   60     H*     C
+
 ## Seeungeheuer
 
 ### Wale
 
 Delfin, Orka, Narwal, Pottwal, Blauwal
 
-Meeresdrachen
+### Meeresdrachen
 
-Drachenschildkröten
+### Drachenschildkröten
 
-Seeschlange
+### Seeschlange
 
 ## Pilze und Pflanzen
 
 Gelbschimmel
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
 
 Kreischer
 
@@ -1359,6 +1706,8 @@ Schaden, und ist nicht langsamer als ein voll gerüsteter Krieger.
 >teilt den Pudding in zwei Puddings, TW 10, BW 6", S: 3-18 Holz und
 >Metall werden innerhalb einer Runde aufgelöst.
 
+Black pudding       1     n/a      7     3      10     n/a   n/a        N
+
 Ein kurioser Vertreter der Glibberfamilie ist der Gallertblock,
 denn er hat eine besondere Funktion in der Dungeon-Ökologie. Mit
 seiner würfelförmigen Gestalt und seinen Abmessungen von ziemlich
@@ -1579,6 +1928,14 @@ Golems, Roboter, Automata
  Gargyle
 Unsichtbarer Schleicher
 
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
 ![Ein Konstrukt](img/ip/construct.png)
 
 : 1W20 Eigenschaften magischer Konstrukte
@@ -1625,6 +1982,14 @@ Unsichtbarer Schleicher
 | 9 | Lord |  |  |  |
 | 0 | Prinz |  |  |  |
 
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
 ![Ein Klauendämon](img/ip/clawdemon.png)
 
 : 1Wx Dämonische Eigenschaften
@@ -1639,11 +2004,27 @@ Unsichtbarer Schleicher
 | 6 | |
 
 
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
 ![Ein bewaffneter Dämon](img/ip/knifedemon.png)
 
 : 1Wx dämonische Einflusssphären
 
 : 1Wx Dämonische Namen
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
 
 ![Ein Demon erscheint](img/ip/summoning.png)
 
@@ -1757,9 +2138,38 @@ wissen darf.
 
 ## Gonzo und Pop-Kultur
 
+### Aliens
+
+Androids        1-8        3-18     9    12     2     15       A2        Any
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
+
+### Roboter
+
+Cyborgs            2-8   30-180   5       9      3+3      15     G       C, N
+
+
+> **Name/Bezeichnung** Anzahl Dungeon (Wildnis), 
+> RK desc[asc] 
+> und ggf. besondere Verteidigung, 
+> TW oder Klasse, 
+> BW, 
+> S: Schaden und ggf. besondere Effekte
+
+### Raumschiffe und andere Artefakte aus der Zukunft
+
 Zufallsmonster, Außerirdische, Laser ("piu-piu")
 
 Rostmonster, Eulenbär
+
+### Superhelden
 
 ### Allgemeine Verkehrskontrolle 
 Die zwei Streifenpolizisten Herbert
@@ -1849,73 +2259,7 @@ Alte…
              Number      Number         Move        Lair     Treasure    
 Type         Appearing   In Lair   AC   Rate   HD   Nearby   Type       Align 
 ------------ ----------- --------- ---- ------ ---- -------- ---------- -------
-Androids        1-8        3-18     9    12     2     15       A2        Any
 
-Ants,           2-12      20-240    3   18/3    2     10       C          N
-giant
-
-Apes            1-8        n/a      6   12/12  4+1    n/a      n/a        N
-
-Basilisks       1-6        1-6      4   6      6+1    40       F        C, N
-
-Bats            10-80     100-800    8   3/12     ½    15      n/a        N
-
-Bats,            1-8        1-8      7   3/15     4    15       C         N
-giant 
-
-Bears            1-6       1-6       6    12     5+5    n/a    n/a        N
-
-Beetles,         1-12       n/a      3    9/6    2-7    n/a    n/a        N
-giant
-
-Black pudding       1     n/a      7     3      10     n/a   n/a        N
-
-Boars             1-12    n/a      7     15     1+2    n/a   n/a        N
-
-Boars, giant      1-8     n/a      6     12      7     n/a   n/a        N
-
-Cave bears        1-2     n/a      6     12     6+6    n/a    n/a       N
-
-Cavemen           2-12  30-180+    9     12       2     15     C        N
-
-Centaurs          2-8     4-24+    6     18       4      5     A1      L, N
-
-Centipedes,       1-6      1-6    3/7    12      3+1     60    B        N
-giant
-
-Centipedes,       2-24   n/a    9      6       ½       n/a     n/a      N
-large
-
-Chimeras          1-4     1-4    4      12/18    9      50     F         C
-
-Cockatrices       1-8     1-8    6      9/18     5      35     D        C, N
-
-Crabs, giant      3-12    n/a    3      6        3      n/a     n/a      N
-
-Crocodiles        2-12    3-24    6      9/15     3      20    n/a       N
-
-Crocodiles,        1-6    2-12    5      9/15     7      20    n/a        N
-giant
-
-Cyborgs            2-8   30-180   5       9      3+3      15     G       C, N
-
-Cyclopes           1-4     1-4       2     15      16      30     E*        N
-
-Dinosaurs             
-
-Brontosaurs         1-6     n/a      5     6      32      n/a     n/a      N 
-
-Mosasaur            1-4     n/a      5    3/15    14      n/a     n/a      N
-
-Pterodactyls        1-8     n/a      5    3/12    2-7     n/a     n/a      N 
-
-Stegosaurs          2-8     n/a      2/5    6       8      n/a     n/a     N 
-
-Triceratops         2-8     n/a      2/5    9       16     n/a     n/a      N 
-
-Tyrannosaurus Rex    1-2    n/a      5     15       20    n/a      n/a     N 
-
-Deinonychus          1-6     n/a     5     21      4      n/a      n/a     N
 
 Djinni                1      n/a      6    9/24    7+1    n/a       n/a    N
 
@@ -1925,19 +2269,6 @@ Doppelgangers       1-6      3-12     5      9      4      25       E      C, N
 
 Dragon turtles      1-4      1-4      2     3/9     12     60       H      N
 
-Dragons             
-
-Black               1-4      1-4     5-2   Various 2-12    60       H*     C 
-
-Blue                1-4      1-4     5-2   Various 2+2-14   60      H*     C 
-
-Golden              1-4      1-4     5-2   Various 2-1-16  60      H*     L 
-
-Green               1-4       1-4    5-2   Various 2+1-13  60      H*     C 
-
-Red                 1-4       1-4    5-2   Various 2+3-15  60      H*     C
-
-White               1-4       1-4    5-2   Various 2-1-11   60     H*     C
 
 Dryads             1-6      1-6      5     12       2       20      D     L, N 
 
@@ -2145,9 +2476,6 @@ Snakes, large  2-16  n/a 8 6/6 ½  n/a  n/a N
 
 Spectres    1-8  1-8 3 -/15 6  25  E C
 
-Spiders, giant  1-8  1-8 5 3/12 4+4  70  C C
-
-Spiders, large  1-10  2-20 8 6/15 ½  60  C N
 
 Squid, giant  1-6  2-12 7/3 -/12 6  20  A3 N
 
@@ -2169,7 +2497,6 @@ Unicorns     1-4  n/a 3 24 4  n/a  n/a L
 
 Vampires     1-6  1-6 2 12/18 8  20  F C
 
-Weasels, giant  1-8  1-8 6 15 2  15  n/a N
 
 Wight apes  1-6  1-6 6 12/12 5+2  10  C N
 
@@ -2667,25 +2994,31 @@ Eine Spielphase (10 min.)
 Lauschen
 -------------------------------
 
-erfolgreich bei 1 auf 1W6, Halbmenschen bei 1-2 auf 1W6
+erfolgreich bei 1 auf 1W6 (16,7%, DC 18), 
+Halbmenschen bei 1-2 auf 1W6 (33,3%, DC 14)
+
 
 Türen
 -----------------------------
 
-Geheimtüren finden 1-2 auf 1W6, Elfen bei 1-4 auf 1W6.
+Geheimtüren finden 1-2 auf 1W6 (33,3%, DC 14), 
+Elfen bei 1-4 auf 1W6 (66,7%, DC 8).
 
 Zwerge finden große Fallen, Schiebewände, abfallende Gänge und neue
-Einbauten bei 1-2 auf 1W6
+Einbauten bei 1-2 auf 1W6 (33,3%, DC 14)
 
-Türen aufbrechen bei 1 auf 1W6, ggf. Stärkebonus einrechnen.
+Türen aufbrechen bei 1 auf 1W6 (16,7%, DC 18),
+ggf. Stärkebonus einrechnen.
 
 Verstecken
 -------------------------------
 
-Halbling: im Verlies 5+ auf 1W6, im Freien 5+ auf 2W6
+Halbling: im Verlies 5+ auf 1W6 (33,3%, DC 14), 
+im Freien 5+ auf 2W6 (83,3%, DC 5)
 
-Dieb, Stufe 1: 15+ auf 3W6, Stufe 2: 14+ auf 3W6, 
-Stufe 3: 13+ auf 3W6
+Dieb, Stufe 1: 15+ auf 3W6 (9,3%, DC 19), 
+Stufe 2: 14+ auf 3W6 (16,2%, DC 18)
+Stufe 3: 13+ auf 3W6 (25,9%, DC 16)
 
 Eine Begegnung
 -------------------------------
@@ -2826,6 +3159,7 @@ bei 1-2 auf W6
 ---------------------------------
 
 bei 1-2 auf 1W6
+DC 14 um Überraschung zu gewinnen
 
 Reaktionen
 -----------------------------
@@ -3158,4 +3492,28 @@ Kettenhemd+Schild, Bänderpanzer           4 [15]       -5 [+5]
 Plattenpanzer                             3 [16]       -6 [+6]
 Plattenpanzer+Schild, Drachenschuppen     2 [17]       -7 [+7]
 
+## Große Kampfeinheiten / Massengefechte
+
+Große Gruppen von Kämpfern, Herden oder Schwärmen können abgehandelt
+werden, in dem sie zu einer entsprechend hoch skalierten Spielfigur
+zusammen gefasst werden.
+
+Im Verhältnis von 1:10 hätten beispielsweise 10 Kämpfer die jeweils
+einen Trefferwürfel haben, und mit einer einfachen Waffe bewaffnet
+sind, zusammen 10W6 Trefferwürfel und verursachen 10W6 Schaden bei
+ihren Gegnern. Unverändert bleibt die Rüstungsklasse, und die Gruppe
+erhält auch nur einen Trefferwurf.
+
+Bei Massengefechten sind Moralwürfe noch entscheidender als sonst: ein
+erster Moralwurf sollte erfolgen, wenn eine Einheit den ersten
+Schaden überhaupt erlitten hat. Ein zweiter Moralwurf sollte erfolgen,
+wenn die Einheit 1/4 an Trefferpunkten verloren hat, und danach bei
+jedem weiteren Verlust.
+
+Um zu ermitteln wie viele Kämpfer einer Einheit nach jeder Runde, oder
+auch am Ende der Schlacht noch am Leben sind, werden erlittene
+Schadenspunkte zu maximalen Trefferpunkten ins Verhältnis gesetzt und
+ein Prozentwert ermittelt.  Dieser Prozentwert entspricht sowohl dem
+Anteil überlebender Combatanten, als auch der Chance jedes einzelnen
+Combatanten, den Kampf zu überleben.
 
